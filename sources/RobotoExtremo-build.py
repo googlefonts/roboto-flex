@@ -203,6 +203,7 @@ doc.addSource(path="1-drawings/RobotoExtremo-Regular.ufo", name="RobotoExtremo-R
 # doc.addSource(path="1-drawings/RobotoExtremo-YTASmax.ufo", name="RobotoExtremo-YTASmax.ufo", location=dict(YTAS=1), styleName="YTASmax", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
 # doc.addSource(path="1-drawings/RobotoExtremo-YTDEmin.ufo", name="RobotoExtremo-YTDEmin.ufo", location=dict(YTDE=-1), styleName="YTDEmin", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
 # doc.addSource(path="1-drawings/RobotoExtremo-YTDEmax.ufo", name="RobotoExtremo-YTDEmax.ufo", location=dict(YTDE=1), styleName="YTDEmax", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
+
 # axes
 doc.addAxis(tag="XYOPQ", name="XYOPQ", minimum=-1, maximum=1, default=0, warpMap=None)
 doc.addAxis(tag="XTRA", name="XTRA", minimum=-1, maximum=1, default=0, warpMap=None)
@@ -210,6 +211,7 @@ doc.addAxis(tag="YTLC", name="YTLC", minimum=-1, maximum=1, default=0, warpMap=N
 doc.addAxis(tag="YTUC", name="YTUC", minimum=-1, maximum=1, default=0, warpMap=None)
 doc.addAxis(tag="YTAS", name="YTAS", minimum=-1, maximum=1, default=0, warpMap=None)
 doc.addAxis(tag="YTDE", name="YTDE", minimum=-1, maximum=1, default=0, warpMap=None)
+
 # instances
 instances = [
 # 	dict(fileName="instances/RobotoExtremo-XOPQmin.ufo", location=dict(XYOPQ=(-1, 0)), styleName="XOPQmin", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
@@ -287,8 +289,9 @@ sources = [
 # 	dict(path="master_ufo/RobotoExtremo-UDLNmax.ufo", name="RobotoExtremo-UDLNmax.ufo", location=dict(UDLN=0), styleName="UDLNmax", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-YTRAmin.ufo", name="RobotoExtremo-YTRAmin.ufo", location=dict(YTRA=-1), styleName="YTRAmin", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-YTRAmax.ufo", name="RobotoExtremo-YTRAmax.ufo", location=dict(YTRA=1), styleName="YTRAmax", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-GRADmin.ufo", name="RobotoExtremo-GRADmin.ufo", location=dict(GRAD=-1), styleName="GRADmin", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-GRADmax.ufo", name="RobotoExtremo-GRADmax.ufo", location=dict(GRAD=1), styleName="GRADmax", familyName=familyName, copyInfo=False),
+
+# 	dict(path="master_ufo/RobotoExtremo-GRADmin.ufo", name="RobotoExtremo-GRADmin.ufo", location=dict(GRAD=-1), styleName="GRADmin", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoExtremo-GRADmax.ufo", name="RobotoExtremo-GRADmax.ufo", location=dict(GRAD=1), styleName="GRADmax", familyName=familyName, copyInfo=False),
 		
 	dict(path="master_ufo/RobotoExtremo-wghtmin.ufo", name="RobotoExtremo-wghtmin.ufo", location=dict(wght=100), styleName="wghtmin", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-wghtmax.ufo", name="RobotoExtremo-wghtmax.ufo", location=dict(wght=900), styleName="wghtmax", familyName=familyName, copyInfo=False),
