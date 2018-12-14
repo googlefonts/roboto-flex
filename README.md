@@ -2,8 +2,7 @@
 
 This project upgrades Roboto and Roboto Delta to become a more diverse Variable Font.
 
-**[Download latest development TTF](https://github.com/TypeNetwork/Roboto-Extremo/blob/master/fonts/RobotoExtremo-VF.ttf)
-**
+**[Download latest development TTF](https://github.com/TypeNetwork/Roboto-Extremo/blob/master/fonts/RobotoExtremo-VF.ttf)**
 
 ## Background
 
