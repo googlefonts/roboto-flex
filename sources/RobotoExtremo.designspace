@@ -97,5 +97,19 @@
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmax.ufo" name="RobotoExtremo-opszmax-wghtmin-wdthmax.ufo" stylename="wghtmin-opszmax">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="125" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+        </source>
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" stylename="wghtmin-opszmax">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="75" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+        </source>
     </sources>
 </designspace>
