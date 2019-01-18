@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar" format="2">
   <advance width="514"/>
   <unicode hex="007C"/>
@@ -9,4 +10,10 @@
       <point x="210" y="1456" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6412,0.6294,1</string>
+    </dict>
+  </lib>
 </glyph>

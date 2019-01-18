@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblleft" format="2">
   <advance width="685"/>
   <unicode hex="201C"/>
@@ -27,4 +28,10 @@
       <point x="433" y="1262" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6412,0.6294,1</string>
+    </dict>
+  </lib>
 </glyph>

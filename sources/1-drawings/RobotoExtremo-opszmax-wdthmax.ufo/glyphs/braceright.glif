@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="braceright" format="2">
   <advance width="618"/>
   <unicode hex="007D"/>
@@ -36,4 +37,10 @@
       <point x="45" y="-232" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6412,0.6294,1</string>
+    </dict>
+  </lib>
 </glyph>
