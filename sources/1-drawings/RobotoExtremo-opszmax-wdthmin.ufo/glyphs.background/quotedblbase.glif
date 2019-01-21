@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="quotesinglbase" format="2">
+<glyph name="quotedblbase" format="2">
   <advance width="242"/>
-  <unicode hex="201A"/>
   <outline>
     <contour>
       <point x="14" y="-145" type="qcurve"/>
@@ -16,10 +15,4 @@
       <point x="44" y="-101"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.2453,0.8091,1,1</string>
-    </dict>
-  </lib>
 </glyph>
