@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblleft" format="2">
-  <advance width="685"/>
+  <advance width="826"/>
   <unicode hex="201C"/>
   <outline>
     <contour>
-      <point x="120" y="1173" type="line"/>
-      <point x="233" y="1173" type="line"/>
-      <point x="233" y="1262" type="line" smooth="yes"/>
-      <point x="233" y="1322"/>
-      <point x="263" y="1413"/>
-      <point x="292" y="1455" type="qcurve"/>
-      <point x="218" y="1495" type="line"/>
-      <point x="171" y="1450"/>
-      <point x="120" y="1337"/>
-      <point x="120" y="1262" type="qcurve" smooth="yes"/>
+      <point x="718" y="1429" type="qcurve"/>
+      <point x="649" y="1486" type="line"/>
+      <point x="584" y="1451"/>
+      <point x="504" y="1334"/>
+      <point x="504" y="1228" type="qcurve" smooth="yes"/>
+      <point x="504" y="1133" type="line"/>
+      <point x="619" y="1133" type="line"/>
+      <point x="619" y="1228" type="line" smooth="yes"/>
+      <point x="619" y="1300"/>
+      <point x="655" y="1387"/>
     </contour>
     <contour>
-      <point x="433" y="1173" type="line"/>
-      <point x="545" y="1173" type="line"/>
-      <point x="545" y="1262" type="line" smooth="yes"/>
-      <point x="545" y="1322"/>
-      <point x="576" y="1413"/>
-      <point x="606" y="1455" type="qcurve"/>
-      <point x="532" y="1495" type="line"/>
-      <point x="484" y="1450"/>
-      <point x="433" y="1337"/>
-      <point x="433" y="1262" type="qcurve" smooth="yes"/>
+      <point x="418" y="1429" type="qcurve"/>
+      <point x="349" y="1486" type="line"/>
+      <point x="284" y="1451"/>
+      <point x="204" y="1334"/>
+      <point x="204" y="1228" type="qcurve" smooth="yes"/>
+      <point x="204" y="1133" type="line"/>
+      <point x="319" y="1133" type="line"/>
+      <point x="319" y="1228" type="line" smooth="yes"/>
+      <point x="319" y="1300"/>
+      <point x="355" y="1387"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.6412,0.6294,1</string>
+      <string>0.2453,0.8091,1,1</string>
     </dict>
   </lib>
 </glyph>
