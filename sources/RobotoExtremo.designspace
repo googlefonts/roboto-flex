@@ -83,13 +83,6 @@
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
-        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wght780.ufo" name="RobotoExtremo-opszmax-wght780.ufo" stylename="wght780-opszmax">
-            <location>
-                <dimension name="wght" xvalue="780" />
-                <dimension name="wdth" xvalue="100" />
-                <dimension name="opsz" xvalue="144" />
-            </location>
-        </source>
         <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmin.ufo" name="RobotoExtremo-opszmax-wghtmin.ufo" stylename="wghtmin-opszmax">
             <location>
                 <dimension name="wght" xvalue="100" />
@@ -107,6 +100,20 @@
         <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" stylename="wghtmin-opszmax">
             <location>
                 <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="75" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+        </source>
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmax.ufo" name="RobotoExtremo-opszmax-wghtmax-wdthmax.ufo" stylename="opszmax-wghtmax-wdthmax">
+            <location>
+                <dimension name="wght" xvalue="900" />
+                <dimension name="wdth" xvalue="125" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+        </source>
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmax-wdthmin.ufo" stylename="opszmax-wghtmax-wdthmin">
+            <location>
+                <dimension name="wght" xvalue="900" />
                 <dimension name="wdth" xvalue="75" />
                 <dimension name="opsz" xvalue="144" />
             </location>

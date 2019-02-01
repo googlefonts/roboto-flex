@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="percent" format="2">
   <advance width="1807"/>
   <unicode hex="0025"/>
   <outline>
-    <contour>
-      <point x="334" y="-18" type="line"/>
-      <point x="342" y="-24" type="line"/>
-      <point x="1455" y="1473" type="line"/>
-      <point x="1447" y="1480" type="line"/>
-    </contour>
     <contour>
       <point x="101" y="1018" type="line" smooth="yes"/>
       <point x="101.0" y="848.0"/>
@@ -40,6 +34,12 @@
       <point x="394" y="673" type="qcurve" smooth="yes"/>
       <point x="269" y="673"/>
       <point x="111.0" y="855.0"/>
+    </contour>
+    <contour>
+      <point x="334" y="-18" type="line"/>
+      <point x="342" y="-24" type="line"/>
+      <point x="1455" y="1473" type="line"/>
+      <point x="1447" y="1480" type="line"/>
     </contour>
     <contour>
       <point x="1118" y="332" type="line" smooth="yes"/>
