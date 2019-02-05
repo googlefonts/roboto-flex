@@ -190,7 +190,7 @@ familyName = "RobotoExtremo"
 tmpDesignSpace = "tmp.designspace"
 doc = DesignSpaceDocumentWriter(tmpDesignSpace)
 # sources
-doc.addSource(path="1-drawings/RobotoExtremo-Regular.ufo", name="RobotoExtremo-Regular.ufo", location=dict(XYOPQ=0, XTRA=0, YTLC=0, YTUC=0, YTAS=0, YTDE=0), styleName="Regular", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
+doc.addSource(path="1-drawings/RobotoExtremo-Regular.ufo", name="RobotoExtremo-Regular.ufo", location=dict(wght=0, wdth=0, opsz=0), styleName="Regular", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
 # doc.addSource(path="1-drawings/RobotoExtremo-XOPQmin-YOPQmin.ufo", name="RobotoExtremo-XOPQmin-YOPQmin.ufo", location=dict(XYOPQ=-1), styleName="XOPQmin-YOPQmin", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
 # doc.addSource(path="1-drawings/RobotoExtremo-XOPQmax-YOPQmax.ufo", name="RobotoExtremo-XOPQmax-YOPQmax.ufo", location=dict(XYOPQ=1), styleName="XOPQmax-YOPQmax", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
 # doc.addSource(path="1-drawings/RobotoExtremo-XTRAmin.ufo", name="RobotoExtremo-XTRAmin.ufo", location=dict(XTRA=-1), styleName="XTRAmin", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
@@ -205,16 +205,13 @@ doc.addSource(path="1-drawings/RobotoExtremo-Regular.ufo", name="RobotoExtremo-R
 # doc.addSource(path="1-drawings/RobotoExtremo-YTDEmax.ufo", name="RobotoExtremo-YTDEmax.ufo", location=dict(YTDE=1), styleName="YTDEmax", familyName=familyName, copyLib=False, copyGroups=False, copyInfo=False, copyFeatures=False, muteKerning=False, muteInfo=False, mutedGlyphNames=None)
 
 # axes
-doc.addAxis(tag="XYOPQ", name="XYOPQ", minimum=-1, maximum=1, default=0, warpMap=None)
-doc.addAxis(tag="XTRA", name="XTRA", minimum=-1, maximum=1, default=0, warpMap=None)
-doc.addAxis(tag="YTLC", name="YTLC", minimum=-1, maximum=1, default=0, warpMap=None)
-doc.addAxis(tag="YTUC", name="YTUC", minimum=-1, maximum=1, default=0, warpMap=None)
-doc.addAxis(tag="YTAS", name="YTAS", minimum=-1, maximum=1, default=0, warpMap=None)
-doc.addAxis(tag="YTDE", name="YTDE", minimum=-1, maximum=1, default=0, warpMap=None)
+doc.addAxis(tag="wght", name="wght", minimum=-1, maximum=1, default=0, warpMap=None)
+doc.addAxis(tag="wdth", name="wdth", minimum=-1, maximum=1, default=0, warpMap=None)
+doc.addAxis(tag="opsz", name="opsz", minimum=-1, maximum=1, default=0, warpMap=None)
 
 # instances
 instances = [
-# 	dict(fileName="instances/RobotoExtremo-XOPQmin.ufo", location=dict(XYOPQ=(-1, 0)), styleName="XOPQmin", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
+ 	dict(fileName="instances/RobotoExtremo-opszmax-wghtmin-wdthmax.ufo", location=dict(wght=-1, wdth=1, opsz=1), styleName="opszmax-wghtmin-wdthmax", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 # 	dict(fileName="instances/RobotoExtremo-XOPQmax.ufo", location=dict(XYOPQ=(1, 0)), styleName="XOPQmax", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 # 	dict(fileName="instances/RobotoExtremo-YOPQmin.ufo", location=dict(XYOPQ=(0, -1)), styleName="YOPQmin", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 # 	dict(fileName="instances/RobotoExtremo-YOPQmax.ufo", location=dict(XYOPQ=(0, 1)), styleName="YOPQmax", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
@@ -245,6 +242,7 @@ doc.process(makeGlyphs=True, makeKerning=True, makeInfo=True)
 os.remove(tmpDesignSpace) # clean up
 
 # update the instances with the source fonts
+#print str(instances) + ' instances! '
 for instance in instances:
 	fileName = os.path.basename(instance["fileName"])
 	source_path = os.path.join(src_dir, fileName)
@@ -311,18 +309,20 @@ sources = [
 	
 	
 	dict(path="master_ufo/RobotoExtremo-opszmax-wdthmax.ufo", name="RobotoExtremo-opszmax-wdthmax.ufo", location=dict(wdth=125, opsz=144), styleName="opszmax-wdthmax", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opszmax-wdthmin.ufo", name="RobotoExtremo-opszmax-wdthmin.ufo", location=dict(wdth=75, opsz=144), styleName="opszmax-wdthmin", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wdthmin.ufo", name="RobotoExtremo-opszmax-wdthmin.ufo", location=dict(wdth=80, opsz=144), styleName="opszmax-wdthmin", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wdthminNEW.ufo", name="RobotoExtremo-opszmax-wdthminNEW.ufo", location=dict(wdth=75, opsz=144), styleName="opszmax-wdthminNEW", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax.ufo", name="RobotoExtremo-opszmax-wghtmax.ufo", location=dict(wght=900, opsz=144), styleName="wghtmax-opszmax", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opszmax-wght780.ufo", name="RobotoExtremo-opszmax-wght780.ufo", location=dict(wght=780, opsz=144), styleName="wght780-opszmax", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin.ufo", name="RobotoExtremo-opszmax-wghtmin.ufo", location=dict(wght=100, opsz=144), styleName="wghtmin-opszmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax.ufo", name="RobotoExtremo-opszmax-wghtmax.ufo", location=dict(wght=900, opsz=144), styleName="opszmax-wghtmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wght780.ufo", name="RobotoExtremo-opszmax-wght780.ufo", location=dict(wght=780, opsz=144), styleName="opszmax-wght780", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin.ufo", name="RobotoExtremo-opszmax-wghtmin.ufo", location=dict(wght=100, opsz=144), styleName="opszmax-wghtmin", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmax.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthmax.ufo", location=dict(wght=100, wdth=125, opsz=144), styleName="wghtmin-opszmax", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmin.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthmin.ufo", location=dict(wght=100, wdth=75, opsz=144), styleName="wghtmin-opszmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmax.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthmax.ufo", location=dict(wght=100, wdth=125, opsz=144), styleName="opszmax-wghtmin-wdthmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmin.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthmin.ufo", location=dict(wght=100, wdth=80, opsz=144), styleName="opszmax-wghtmin-wdthmin", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthminNEW.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthminNEW.ufo", location=dict(wght=100, wdth=75, opsz=144), styleName="opszmax-wghtmin-wdthminNEW", familyName=familyName, copyInfo=False),
 		
  	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmax.ufo", name="RobotoExtremo-opszmax-wghtmax-wdthmax.ufo", location=dict(wght=900, opsz=144, wdth=125), styleName="opszmax-wghtmax-wdthmax", familyName=familyName, copyInfo=False),
-# 	
- 	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmin.ufo", name="RobotoExtremo-opszmax-wghtmax-wdthmin.ufo", location=dict(wght=900, opsz=144, wdth=75), styleName="opszmax-wghtmax-wdthmin", familyName=familyName, copyInfo=False),
+ 	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmin.ufo", name="RobotoExtremo-opszmax-wghtmax-wdthmin.ufo", location=dict(wght=900, opsz=144, wdth=80), styleName="opszmax-wghtmax-wdthmin", familyName=familyName, copyInfo=False),
+ 	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthminNEW.ufo", name="RobotoExtremo-opszmax-wghtmax-wdthminNEW.ufo", location=dict(wght=900, opsz=144, wdth=75), styleName="opszmax-wghtmax-wdthminNEW", familyName=familyName, copyInfo=False),
 		
 	
 	
