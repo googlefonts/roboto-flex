@@ -69,14 +69,14 @@
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
-        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wdthmin.ufo" name="RobotoExtremo-opszmax-wdthmin.ufo" stylename="opszmax-wdthmin">
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wdth075.ufo" name="RobotoExtremo-opszmax-wdth075.ufo" stylename="opszmax-wdthmin075">
             <location>
                 <dimension name="wght" xvalue="400" />
                 <dimension name="wdth" xvalue="80" />
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
-        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wdthminNEW.ufo" name="RobotoExtremo-opszmax-wdthminNEW.ufo" stylename="opszmax-wdthminNEW">
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wdthmin.ufo" name="RobotoExtremo-opszmax-wdthmin.ufo" stylename="opszmax-wdthmin">
             <location>
                 <dimension name="wght" xvalue="400" />
                 <dimension name="wdth" xvalue="75" />
@@ -111,14 +111,14 @@
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
-        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" stylename="opszmax-wghtmin-wdthmin">
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmin-wdth075.ufo" name="RobotoExtremo-opszmax-wghtmin-wdth075.ufo" stylename="opszmax-wghtmin-wdth075">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="80" />
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
-        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthminNEW.ufo" name="RobotoExtremo-opszmax-wghtmin-wdthminNEW.ufo" stylename="opszmax-wghtmin-wdthminNEW">
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" stylename="opszmax-wghtmin-wdthmin">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="75" />
@@ -132,14 +132,14 @@
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
-        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmax-wdthmin.ufo" stylename="opszmax-wghtmax-wdthmin">
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmax-wdth075.ufo" name="RobotoExtremo-opszmax-wghtmax-wdth075.ufo" stylename="opszmax-wghtmax-wdth075">
             <location>
                 <dimension name="wght" xvalue="900" />
                 <dimension name="wdth" xvalue="80" />
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
-        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthminNEW.ufo" name="RobotoExtremo-opszmax-wghtmax-wdthminNEW.ufo" stylename="opszmax-wghtmax-wdthminNEW">
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmax-wdthmin.ufo" stylename="opszmax-wghtmax-wdthmin">
             <location>
                 <dimension name="wght" xvalue="900" />
                 <dimension name="wdth" xvalue="75" />
@@ -147,4 +147,87 @@
             </location>
         </source>
     </sources>
+    <instances>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wghtmin-wdthmax">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="125" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wghtmin-wdth075">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="80" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wghtmin-wdthmin">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="75" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wghtmax-wdthmax">
+            <location>
+                <dimension name="wght" xvalue="900" />
+                <dimension name="wdth" xvalue="125" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wghtmax-wdth075">
+            <location>
+                <dimension name="wght" xvalue="900" />
+                <dimension name="wdth" xvalue="80" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wghtmax-wdthmin">
+            <location>
+                <dimension name="wght" xvalue="900" />
+                <dimension name="wdth" xvalue="75" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wdthmax">
+            <location>
+                <dimension name="wght" xvalue="400" />
+                <dimension name="wdth" xvalue="125" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wdth075">
+            <location>
+                <dimension name="wght" xvalue="400" />
+                <dimension name="wdth" xvalue="80" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoExtremo" stylename="opszmax-wdthmin">
+            <location>
+                <dimension name="wght" xvalue="400" />
+                <dimension name="wdth" xvalue="75" />
+                <dimension name="opsz" xvalue="144" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
 </designspace>
