@@ -5,12 +5,10 @@
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
-        <key>allowPseudoUnicode</key>
-        <false/>
         <key>ascending</key>
-        <true/>
+        <string>Latin-1</string>
         <key>type</key>
-        <string>unicode</string>
+        <string>characterSet</string>
       </dict>
     </array>
     <key>com.typemytype.robofont.binarySource</key>
@@ -130,7 +128,6 @@
       <string>bar</string>
       <string>braceright</string>
       <string>asciitilde</string>
-      <string>nbspace</string>
       <string>exclamdown</string>
       <string>cent</string>
       <string>sterling</string>
@@ -141,9 +138,7 @@
       <string>dieresis</string>
       <string>copyright</string>
       <string>ordfeminine</string>
-      <string>guillemetleft</string>
       <string>logicalnot</string>
-      <string>hyphensoft</string>
       <string>registered</string>
       <string>macron</string>
       <string>degree</string>
@@ -151,13 +146,11 @@
       <string>twosuperior</string>
       <string>threesuperior</string>
       <string>acute</string>
-      <string>mu.math</string>
       <string>paragraph</string>
       <string>periodcentered</string>
       <string>cedilla</string>
       <string>onesuperior</string>
       <string>ordmasculine</string>
-      <string>guillemetright</string>
       <string>onequarter</string>
       <string>onehalf</string>
       <string>threequarters</string>
@@ -166,24 +159,30 @@
       <string>Eth</string>
       <string>multiply</string>
       <string>Oslash</string>
+      <string>OE</string>
       <string>Thorn</string>
       <string>germandbls</string>
       <string>ae</string>
       <string>eth</string>
       <string>divide</string>
       <string>oslash</string>
+      <string>oe</string>
       <string>thorn</string>
       <string>dotlessi</string>
-      <string>OE</string>
-      <string>oe</string>
       <string>circumflex</string>
       <string>ring</string>
       <string>tilde</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>minus</string>
+      <string>nbspace</string>
+      <string>guillemetleft</string>
+      <string>hyphensoft</string>
+      <string>mu.math</string>
+      <string>guillemetright</string>
       <string>Germandbls</string>
       <string>endash</string>
       <string>emdash</string>
-      <string>quoteleft</string>
-      <string>quoteright</string>
       <string>quotesinglbase</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
@@ -205,7 +204,6 @@
       <string>indianrupee</string>
       <string>numero</string>
       <string>trademark</string>
-      <string>minus</string>
       <string>divisionslash</string>
       <string>fi</string>
       <string>fl</string>
