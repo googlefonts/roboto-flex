@@ -220,7 +220,7 @@ instances = [
 	dict(fileName="instances/RobotoExtremo-opszmax-wghtmax-wdthmin.ufo", location=dict(wght=900, wdth=75, opsz=144), styleName="opszmax-wghtmax-wdthmin", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 	
 	dict(fileName="instances/RobotoExtremo-opszmax-wdthmax.ufo", location=dict(wght=400, wdth=125, opsz=144), styleName="opszmax-wdthmax", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-	dict(fileName="instances/RobotoExtremo-opszmax-wdth075.ufo", location=dict(wght=400, wdth=80, opsz=144), styleName="opszmax-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
+#	dict(fileName="instances/RobotoExtremo-opszmax-wdth075.ufo", location=dict(wght=400, wdth=80, opsz=144), styleName="opszmax-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 	dict(fileName="instances/RobotoExtremo-opszmax-wdthmin.ufo", location=dict(wght=400, wdth=75, opsz=144), styleName="opszmax-wdthmin", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 ]
 for instance in instances:
@@ -304,7 +304,7 @@ sources = [
 	
 	
 	dict(path="master_ufo/RobotoExtremo-opszmax-wdthmax.ufo", name="RobotoExtremo-opszmax-wdthmax.ufo", location=dict(wdth=125, opsz=144), styleName="opszmax-wdthmax", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opszmax-wdth075.ufo", name="RobotoExtremo-opszmax-wdth075.ufo", location=dict(wdth=80, opsz=144), styleName="opszmax-wdthmin075", familyName=familyName, copyInfo=False),
+#	dict(path="master_ufo/RobotoExtremo-opszmax-wdth075.ufo", name="RobotoExtremo-opszmax-wdth075.ufo", location=dict(wdth=80, opsz=144), styleName="opszmax-wdthmin075", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opszmax-wdthmin.ufo", name="RobotoExtremo-opszmax-wdthmin.ufo", location=dict(wdth=75, opsz=144), styleName="opszmax-wdthmin", familyName=familyName, copyInfo=False),
 	
 	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax.ufo", name="RobotoExtremo-opszmax-wghtmax.ufo", location=dict(wght=900, opsz=144), styleName="opszmax-wghtmax", familyName=familyName, copyInfo=False),
@@ -399,3 +399,6 @@ print "Saving Variable Font..."
 varfont.save(outfile)
 
 print "DONE!"
+
+# SUBSET COMMAND
+# pyftsubset RobotoExtremo-VF.ttf --text-file=ascii-subset.txt --output-file=RobotoExtremo-subset-VF.ttf
