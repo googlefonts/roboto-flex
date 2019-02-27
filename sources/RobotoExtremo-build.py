@@ -109,7 +109,7 @@ def saveMasters(fonts, master_dir="master_ufo"):
 		path = os.path.join(master_dir, os.path.basename(font.path))
 		font.save(path)
 
-with open("RobotoExtremo.enc") as enc:
+with open("RobotoExtremo-ascii.enc") as enc:
 	glyphOrder = enc.read().splitlines()
 
 # dictionary of glyph construction used to build the composite accents
@@ -376,7 +376,7 @@ for fileName in sources:
 	
 buildGlyphSet(dflt, fonts)
 allfonts = [dflt]+fonts
-buildComposites(composites, accentFonts)
+#buildComposites(composites, accentFonts)
 setGlyphOrder(glyphOrder, allfonts)
 clearAnchors(allfonts)
 saveMasters(allfonts)
