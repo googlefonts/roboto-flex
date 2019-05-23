@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="1409"/>
+  <unicode hex="00D8"/>
+  <anchor x="715" y="1674" name="top"/>
+  <anchor x="1409" y="1600" name="top_dd"/>
+  <anchor x="1409" y="1674" name="top0315"/>
+  <anchor x="715" y="1674" name="parent_top"/>
+  <outline>
+    <contour>
+      <point x="1309" y="1516" type="line"/>
+      <point x="1169" y="1516" type="line"/>
+      <point x="164" y="-93" type="line"/>
+      <point x="307" y="-93" type="line"/>
+    </contour>
+    <contour>
+      <point x="1290" y="774" type="line"/>
+      <point x="1290.0" y="1099.3731343283582"/>
+      <point x="968.1791044776119" y="1476.0"/>
+      <point x="704" y="1476" type="qcurve" smooth="yes"/>
+      <point x="446.53731343283584" y="1476.0"/>
+      <point x="119.0" y="1099.3731343283582"/>
+      <point x="119" y="774" type="qcurve"/>
+      <point x="119" y="682" type="line"/>
+      <point x="119.0" y="355.8805970149254"/>
+      <point x="448.53731343283584" y="-20.0"/>
+      <point x="706" y="-20" type="qcurve" smooth="yes"/>
+      <point x="970.1791044776119" y="-20.0"/>
+      <point x="1290.0" y="355.8805970149254"/>
+      <point x="1290" y="682" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="1099" y="682" type="line"/>
+      <point x="1099.0" y="421.55223880597015"/>
+      <point x="893.3134328358209" y="143.0"/>
+      <point x="706" y="143" type="qcurve" smooth="yes"/>
+      <point x="527.6417910447761" y="143.0"/>
+      <point x="310.0" y="421.55223880597015"/>
+      <point x="310" y="682" type="qcurve" smooth="yes"/>
+      <point x="310" y="776" type="line" smooth="yes"/>
+      <point x="310.0" y="1034.2089552238806"/>
+      <point x="525.6417910447761" y="1312.0"/>
+      <point x="704" y="1312" type="qcurve" smooth="yes"/>
+      <point x="889.820895522388" y="1312.0"/>
+      <point x="1099.0" y="1034.2089552238806"/>
+      <point x="1099" y="776" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>
