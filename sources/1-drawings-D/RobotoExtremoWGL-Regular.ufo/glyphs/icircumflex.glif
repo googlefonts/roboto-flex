@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="icircumflex" format="2">
-  <advance width="507"/>
+  <advance width="500"/>
   <unicode hex="00EE"/>
   <anchor x="252" y="1288" name="parent_top"/>
   <anchor x="249" y="10" name="bottom"/>
@@ -8,6 +8,6 @@
   <anchor x="252" y="1635" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="circumflex" xOffset="-219" yOffset="-2"/>
+    <component base="circumflexcomb" xOffset="-263"/>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave" format="2">
-  <advance width="507"/>
+  <advance width="500"/>
   <unicode hex="00EC"/>
   <anchor x="252" y="1288" name="parent_top"/>
   <anchor x="249" y="10" name="bottom"/>
@@ -8,6 +8,7 @@
   <anchor x="252" y="1639" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="grave" xOffset="-117" yOffset="-2"/>
+    <component base="gravecomb"/>
+    <component base="gravecomb" xOffset="-206"/>
   </outline>
 </glyph>
