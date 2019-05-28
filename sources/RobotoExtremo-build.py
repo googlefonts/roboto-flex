@@ -2,7 +2,7 @@
 
 from glyphNameFormatter.data import name2unicode_AGD
 from mutatorMath.ufo.document import DesignSpaceDocumentWriter, DesignSpaceDocumentReader
-from designSpaceDocument import DesignSpaceDocument, SourceDescriptor, InstanceDescriptor, AxisDescriptor
+from designSpaceDocument import DesignSpaceDocument, SourceDescriptor, InstanceDescriptor, AxisDescriptor, RuleDescriptor
 from fontmake.font_project import FontProject
 from fontTools.varLib import build
 from fontTools.varLib.mutator import instantiateVariableFont
@@ -107,6 +107,8 @@ def saveMasters(fonts, master_dir="master_ufo"):
 	# save in master_ufo directory
 	for font in fonts:
 		path = os.path.join(master_dir, os.path.basename(font.path))
+
+		#added this check because the "master_ufo" folder is getting removed at the beginning of this script
 		if not os.path.exists(path):
 			os.makedirs(path)
 		font.save(path)
@@ -183,6 +185,8 @@ if os.path.exists("master_ufo"):
 if os.path.exists("master_ttf_interpolatable"):
 	shutil.rmtree("master_ttf_interpolatable", ignore_errors=True)
 
+
+
 src_dir = "1-drawings"
 master_dir = "master_ufo"
 instance_dir = "instances"
@@ -210,6 +214,11 @@ doc.addSource(path="1-drawings/RobotoExtremo-Regular.ufo", name="RobotoExtremo-R
 doc.addAxis(tag="wght", name="wght", minimum=100, maximum=900, default=400, warpMap=None)
 doc.addAxis(tag="wdth", name="wdth", minimum=75, maximum=125, default=100, warpMap=None)
 doc.addAxis(tag="opsz", name="opsz", minimum=8, maximum=144, default=12, warpMap=None)
+
+
+
+
+
 
 # instances
 instances = [
@@ -348,6 +357,16 @@ axes = [
 ]
 
 doc = buildDesignSpace(sources, instances, axes)
+
+#add rule for dollar. Needs to be after doc = buildDesignSpace() because this doc is a DesignSpaceDocument(), rather than the doc above which is a DesignSpaceDocumentReader() object
+r1 = RuleDescriptor()
+r1.name = "dollar-stroke"
+r1.conditions.append(dict(name="wght", minimum=600, maximum=900))
+r1.conditions.append(dict(name="wdth", minimum=75, maximum=85))
+r1.subs.append(("dollar", "dollar.rvrn"))
+doc.addRule(r1)
+
+
 doc.write(designSpace)
 
 default = "RobotoExtremo-Regular.ufo"
@@ -396,6 +415,16 @@ project.run_from_ufos(
 
 outfile = "../fonts/RobotoExtremo-VF.ttf"
 finder = lambda s: s.replace("master_ufo", "master_ttf_interpolatable").replace(".ufo", ".ttf")
+
+
+#not sure why this isn't happening automatically
+if not os.path.exists("master_ttf_interpolatable"):
+	source_folder = "master_ttf"
+	dest_folder = "master_ttf_interpolatable"
+	# create a backup directory
+	shutil.copytree(source_folder, dest_folder)
+
+
 varfont, _, _ = build(designSpace, finder)
 print "Saving Variable Font..."
 varfont.save(outfile)
