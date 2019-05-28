@@ -107,6 +107,8 @@ def saveMasters(fonts, master_dir="master_ufo"):
 	# save in master_ufo directory
 	for font in fonts:
 		path = os.path.join(master_dir, os.path.basename(font.path))
+		if not os.path.exists(path):
+			os.makedirs(path)
 		font.save(path)
 
 with open("RobotoExtremo-ascii.enc") as enc:
