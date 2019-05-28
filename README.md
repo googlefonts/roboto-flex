@@ -5,7 +5,7 @@ This project upgrades Roboto and Roboto Delta to become a more diverse Variable 
 This upgrade will include adding glyphs to the Google Latin Plus set, matching Amstelvar.
 Axes are to include: Optical Size, Weight, Width, Grade, XOPQ, YOPQ, XTRA, and YTRA.
 
-**[Download latest development TTF](https://github.com/TypeNetwork/Roboto-Extremo/blob/master/fonts/RobotoExtremo-VF.ttf)**
+**[Download latest development TTF](https://github.com/TypeNetwork/Roboto-Extremo/raw/master/fonts/RobotoExtremoD-VF.ttf)**
 
 ## Background
 
