@@ -11,6 +11,16 @@
             <labelname xml:lang="en">opsz</labelname>
         </axis>
     </axes>
+    <rules>
+        <rule name="dollar-stroke-wght">
+            <condition maximum="900" minimum="600" name="wght" />
+            <sub name="dollar" with="dollar.rvrn" />
+        </rule>
+        <rule name="dollar-stroke-wdth">
+            <condition maximum="85" minimum="75" name="wdth" />
+            <sub name="dollar" with="dollar.rvrn" />
+        </rule>
+    </rules>
     <sources>
         <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-Regular.ufo" name="RobotoExtremo-Regular.ufo" stylename="Regular">
             <info copy="1" />
@@ -115,13 +125,6 @@
             <location>
                 <dimension name="wght" xvalue="900" />
                 <dimension name="wdth" xvalue="125" />
-                <dimension name="opsz" xvalue="144" />
-            </location>
-        </source>
-        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmax-wghtmax-wdth075.ufo" name="RobotoExtremo-opszmax-wghtmax-wdth075.ufo" stylename="opszmax-wghtmax-wdth075">
-            <location>
-                <dimension name="wght" xvalue="900" />
-                <dimension name="wdth" xvalue="76" />
                 <dimension name="opsz" xvalue="144" />
             </location>
         </source>
