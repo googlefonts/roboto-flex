@@ -419,15 +419,8 @@ project.run_from_ufos(
 	use_production_names=False)
 
 outfile = "../fonts/RobotoExtremo-VF.ttf"
-finder = lambda s: s.replace("master_ufo", "master_ttf_interpolatable").replace(".ufo", ".ttf")
+finder = lambda s: s.replace("master_ufo", "master_ttf").replace(".ufo", ".ttf")
 
-
-#not sure why this isn't happening automatically
-if not os.path.exists("master_ttf_interpolatable"):
-	source_folder = "master_ttf"
-	dest_folder = "master_ttf_interpolatable"
-	# create a backup directory
-	shutil.copytree(source_folder, dest_folder)
 
 
 varfont, _, _ = build(designSpace, finder)
