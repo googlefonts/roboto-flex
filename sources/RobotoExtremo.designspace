@@ -12,8 +12,11 @@
         </axis>
     </axes>
     <rules>
-        <rule name="dollar-stroke">
+        <rule name="dollar-stroke-wght">
             <condition maximum="900" minimum="600" name="wght" />
+            <sub name="dollar" with="dollar.rvrn" />
+        </rule>
+        <rule name="dollar-stroke-wdth">
             <condition maximum="85" minimum="75" name="wdth" />
             <sub name="dollar" with="dollar.rvrn" />
         </rule>
