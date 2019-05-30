@@ -360,11 +360,16 @@ doc = buildDesignSpace(sources, instances, axes)
 
 #add rule for dollar. Needs to be after doc = buildDesignSpace() because this doc is a DesignSpaceDocument(), rather than the doc above which is a DesignSpaceDocumentReader() object
 r1 = RuleDescriptor()
-r1.name = "dollar-stroke"
+r1.name = "dollar-stroke-wght"
 r1.conditions.append(dict(name="wght", minimum=600, maximum=900))
-r1.conditions.append(dict(name="wdth", minimum=75, maximum=85))
 r1.subs.append(("dollar", "dollar.rvrn"))
 doc.addRule(r1)
+
+r2 = RuleDescriptor()
+r2.name = "dollar-stroke-wdth"
+r2.conditions.append(dict(name="wdth", minimum=75, maximum=85))
+r2.subs.append(("dollar", "dollar.rvrn"))
+doc.addRule(r2)
 
 
 doc.write(designSpace)
