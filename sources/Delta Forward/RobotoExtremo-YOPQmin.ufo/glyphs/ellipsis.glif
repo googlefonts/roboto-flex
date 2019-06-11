@@ -1,49 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ellipsis" format="2">
-  <advance width="1740"/>
+  <advance width="1756"/>
   <unicode hex="2026"/>
   <outline>
-    <contour>
-      <point x="160" y="53" type="qcurve" smooth="yes"/>
-      <point x="160" y="22"/>
-      <point x="227" y="-22"/>
-      <point x="290" y="-22" type="qcurve" smooth="yes"/>
-      <point x="353" y="-22"/>
-      <point x="420" y="22"/>
-      <point x="420" y="53" type="qcurve" smooth="yes"/>
-      <point x="420" y="84"/>
-      <point x="353" y="128"/>
-      <point x="290" y="128" type="qcurve" smooth="yes"/>
-      <point x="227" y="128"/>
-      <point x="160" y="84"/>
-    </contour>
-    <contour>
-      <point x="740" y="53" type="qcurve" smooth="yes"/>
-      <point x="740" y="22"/>
-      <point x="807" y="-22"/>
-      <point x="870" y="-22" type="qcurve" smooth="yes"/>
-      <point x="933" y="-22"/>
-      <point x="1000" y="22"/>
-      <point x="1000" y="53" type="qcurve" smooth="yes"/>
-      <point x="1000" y="84"/>
-      <point x="933" y="128"/>
-      <point x="870" y="128" type="qcurve" smooth="yes"/>
-      <point x="807" y="128"/>
-      <point x="740" y="84"/>
-    </contour>
-    <contour>
-      <point x="1320" y="53" type="qcurve" smooth="yes"/>
-      <point x="1320" y="22"/>
-      <point x="1387" y="-22"/>
-      <point x="1450" y="-22" type="qcurve" smooth="yes"/>
-      <point x="1513" y="-22"/>
-      <point x="1580" y="22"/>
-      <point x="1580" y="53" type="qcurve" smooth="yes"/>
-      <point x="1580" y="84"/>
-      <point x="1513" y="128"/>
-      <point x="1450" y="128" type="qcurve" smooth="yes"/>
-      <point x="1387" y="128"/>
-      <point x="1320" y="84"/>
-    </contour>
+    <component base="period"/>
+    <component base="period" xOffset="586"/>
+    <component base="period" xOffset="1172"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+    </dict>
+  </lib>
 </glyph>
