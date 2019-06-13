@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="f_f_i" format="2">
-  <advance width="1700"/>
-  <unicode hex="FB03"/>
+<glyph name="f_f" format="2">
+  <advance width="1200"/>
+  <unicode hex="FB00"/>
   <outline>
     <contour>
       <point x="196" y="0" type="line"/>
@@ -58,26 +58,6 @@
       <point x="912" y="1052" type="line"/>
       <point x="866" y="1052" type="line"/>
       <point x="625" y="1052" type="line"/>
-    </contour>
-    <contour>
-      <point x="1357" y="0" type="line"/>
-      <point x="1543" y="0" type="line"/>
-      <point x="1543" y="1052" type="line"/>
-      <point x="1357" y="1052" type="line"/>
-    </contour>
-    <contour>
-      <point x="1340" y="1370" type="qcurve" smooth="yes"/>
-      <point x="1340" y="1325"/>
-      <point x="1397" y="1264"/>
-      <point x="1450" y="1264" type="qcurve" smooth="yes"/>
-      <point x="1503" y="1264"/>
-      <point x="1560" y="1325"/>
-      <point x="1560" y="1370" type="qcurve" smooth="yes"/>
-      <point x="1560" y="1415"/>
-      <point x="1503" y="1476"/>
-      <point x="1450" y="1476" type="qcurve" smooth="yes"/>
-      <point x="1397" y="1476"/>
-      <point x="1340" y="1415"/>
     </contour>
   </outline>
 </glyph>
