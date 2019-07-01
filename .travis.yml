@@ -1,0 +1,43 @@
+sudo: true
+language: python
+
+env:
+  - SHELL_PATH=build-roboto.sh
+
+before_script: 
+  - pip install fontmake
+
+  - pip install --upgrade defcon
+
+  # - git clone https://github.com/LettError/glyphNameFormatter.git
+  # - cd glyphNameFormatter
+  # - sudo -H python setup.py develop
+  # - cd ..
+
+  - pip install MutatorMath
+
+  # - git clone https://github.com/typesupply/defcon.git
+  # - cd defcon
+  # - sudo -H python setup.py develop
+  # - cd ..
+  
+  - sudo apt-get install -y shellcheck
+
+script: 
+  - "shellcheck $SHELL_PATH"
+  - "sh $SHELL_PATH"
+
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master
+  target_branch: gh-pages #gh-pages is the default value
+
+
+
+notifications:
+  email: false
