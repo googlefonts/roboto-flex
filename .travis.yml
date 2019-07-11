@@ -40,14 +40,14 @@ deploy:
 
 
 # also deploy from master to master, aka auto build fonts in order to make sure master matches gh-pages
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
-  on:
-    branch: master
-  target_branch: master #gh-pages is the default value
+# deploy:
+#   provider: pages
+#   skip_cleanup: true
+#   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+#   keep_history: true
+#   on:
+#     branch: master
+#   target_branch: master #gh-pages is the default value
 
 notifications:
   email: false
