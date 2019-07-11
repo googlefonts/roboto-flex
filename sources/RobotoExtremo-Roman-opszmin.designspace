@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="11" maximum="12" minimum="8" name="opsz" tag="opsz">
+            <labelname xml:lang="en">opsz</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-Regular.ufo" name="RobotoExtremo-Regular.ufo" stylename="Default">
+            <info copy="1" />
+            <location>
+                <dimension name="opsz" xvalue="11" />
+            </location>
+        </source>
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-opszmin.ufo" name="RobotoExtremo-opszmin.ufo" stylename="opszmin">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+            </location>
+        </source>
+        <source familyname="RobotoExtremo" filename="master_ufo/RobotoExtremo-Regular.ufo" name="RobotoExtremo-Regular.ufo" stylename="Default">
+            <location>
+                <dimension name="opsz" xvalue="12" />
+            </location>
+        </source>
+    </sources>
+</designspace>
