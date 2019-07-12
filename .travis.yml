@@ -30,14 +30,13 @@ script:
   - "shellcheck $SHELL_PATH"
   - "sh $SHELL_PATH"
   - python make-webfonts.py
-
+  - php videoproof/index.php > videoproof/index.php
 
 # deploy from master to gh-pages 
 deploy:
   provider: pages
   skip_cleanup: true
-  committer_from_gh: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  github_token: $GITHUB_TOKEN_CLEWIS  # Set in the settings page of your repository, as a secure variable
   keep_history: true
   on:
     branch: master
