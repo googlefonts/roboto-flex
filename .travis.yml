@@ -36,7 +36,8 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN_CLEWIS  # Set in the settings page of your repository, as a secure variable
+  committer_from_gh: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
   on:
     branch: master
