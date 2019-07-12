@@ -23,9 +23,13 @@ before_script:
   
   - sudo apt-get install -y shellcheck
 
+  # proof
+  - pip install brotli zopfli fontTools
+
 script: 
   - "shellcheck $SHELL_PATH"
   - "sh $SHELL_PATH"
+  - python make-webfonts.py
 
 
 # deploy from master to gh-pages 
