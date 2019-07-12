@@ -31,7 +31,7 @@ script:
   - "sh $SHELL_PATH"
   - python make-webfonts.py
   - php videoproof/index.php > videoproof/index.html
-  - rsync -rv --exclude=".git*" videoproof vproof
+  - rsync -rvl --exclude=".git*" videoproof/ vproof/
 
 # deploy from master to gh-pages 
 deploy:
