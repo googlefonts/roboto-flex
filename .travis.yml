@@ -21,7 +21,7 @@ before_script:
   # - sudo -H python setup.py develop
   # - cd ..
   
-  - sudo apt-get install -y shellchec
+  - sudo apt-get install -y shellcheck
 
   # proof
   - pip install brotli zopfli fontTools
