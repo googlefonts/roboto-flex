@@ -30,7 +30,7 @@ script:
   - "shellcheck $SHELL_PATH"
   - "sh $SHELL_PATH"
   - python make-webfonts.py
-  - php videoproof/index.php > videoproof/index.php
+  - php videoproof/index.php > videoproof/index.html
   - cp -R videoproof vproof
 
 # deploy from master to gh-pages 
