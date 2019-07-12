@@ -21,11 +21,15 @@ before_script:
   # - sudo -H python setup.py develop
   # - cd ..
   
-  - sudo apt-get install -y shellcheck
+  - sudo apt-get install -y shellchec
+
+  # proof
+  - pip install brotli zopfli fontTools
 
 script: 
   - "shellcheck $SHELL_PATH"
   - "sh $SHELL_PATH"
+  - python make-webfonts.py
 
 
 # deploy from master to gh-pages 
