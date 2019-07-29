@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar" format="2">
   <advance width="1298"/>
   <unicode hex="0024"/>
@@ -48,26 +48,20 @@
       <point x="103" y="406" type="line"/>
     </contour>
     <contour>
-      <point x="641" y="-150" type="line"/>
+      <point x="642" y="-150" type="line"/>
       <point x="651" y="-150" type="line"/>
-      <point x="651" y="40" type="line"/>
-      <point x="651" y="50" type="line"/>
+      <point x="651" y="-21" type="line"/>
+      <point x="651" y="-17" type="line"/>
       <point x="651" y="728" type="line"/>
-      <point x="641" y="728" type="line"/>
+      <point x="642" y="728" type="line"/>
     </contour>
     <contour>
       <point x="642" y="728" type="line"/>
       <point x="651" y="728" type="line"/>
       <point x="651" y="1606" type="line"/>
       <point x="642" y="1606" type="line"/>
-      <point x="642" y="1406" type="line"/>
-      <point x="642" y="1396" type="line"/>
+      <point x="642" y="1477" type="line"/>
+      <point x="642" y="1473" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.2453,0.8091,1,1</string>
-    </dict>
-  </lib>
 </glyph>
