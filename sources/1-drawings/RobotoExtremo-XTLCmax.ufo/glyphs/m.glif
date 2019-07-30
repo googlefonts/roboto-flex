@@ -1,46 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m" format="2">
-  <advance width="1764"/>
+  <advance width="2378"/>
   <unicode hex="006D"/>
+  <guideline x="329" y="857" angle="0" identifier="KVIM2TGdkS"/>
   <outline>
     <contour>
       <point x="148" y="0" type="line"/>
       <point x="334" y="0" type="line"/>
-      <point x="334" y="744" type="line"/>
-      <point x="372" y="820"/>
-      <point x="501" y="916"/>
-      <point x="587" y="916" type="qcurve" smooth="yes"/>
-      <point x="686" y="916"/>
-      <point x="794" y="807"/>
-      <point x="794" y="681" type="qcurve" smooth="yes"/>
-      <point x="794" y="0" type="line"/>
-      <point x="980" y="0" type="line"/>
-      <point x="980" y="744" type="line"/>
-      <point x="1018" y="820"/>
-      <point x="1147" y="916"/>
-      <point x="1233" y="916" type="qcurve" smooth="yes"/>
-      <point x="1332" y="916"/>
-      <point x="1440" y="807"/>
-      <point x="1440" y="681" type="qcurve" smooth="yes"/>
-      <point x="1440" y="0" type="line"/>
-      <point x="1626" y="0" type="line"/>
-      <point x="1626" y="679" type="line" smooth="yes"/>
-      <point x="1626" y="891"/>
-      <point x="1442" y="1072"/>
-      <point x="1278" y="1072" type="qcurve" smooth="yes"/>
-      <point x="1174" y="1072"/>
-      <point x="1014" y="988"/>
-      <point x="948" y="894" type="qcurve"/>
-      <point x="942" y="894" type="line"/>
-      <point x="902" y="988"/>
-      <point x="748" y="1072"/>
-      <point x="642" y="1072" type="qcurve" smooth="yes"/>
-      <point x="545" y="1072"/>
-      <point x="386" y="988"/>
-      <point x="330" y="917" type="qcurve"/>
-      <point x="324" y="917" type="line"/>
-      <point x="316" y="1052" type="line"/>
+      <point x="334" y="684" type="line"/>
+      <point x="402" y="784"/>
+      <point x="608" y="916"/>
+      <point x="749" y="916" type="qcurve" smooth="yes"/>
+      <point x="917" y="916"/>
+      <point x="1098" y="761"/>
+      <point x="1101" y="581" type="qcurve" smooth="yes"/>
+      <point x="1101" y="0" type="line"/>
+      <point x="1287" y="0" type="line"/>
+      <point x="1287" y="684" type="line"/>
+      <point x="1355" y="784"/>
+      <point x="1561" y="916"/>
+      <point x="1702" y="916" type="qcurve" smooth="yes"/>
+      <point x="1870" y="916"/>
+      <point x="2051" y="761"/>
+      <point x="2054" y="581" type="qcurve" smooth="yes"/>
+      <point x="2054" y="0" type="line"/>
+      <point x="2240" y="0" type="line"/>
+      <point x="2240" y="579" type="line" smooth="yes"/>
+      <point x="2240" y="845.0"/>
+      <point x="1977.1379310344828" y="1072.0"/>
+      <point x="1756" y="1072" type="qcurve" smooth="yes"/>
+      <point x="1594.2222222222222" y="1072.0"/>
+      <point x="1336.3860968363813" y="971.1487581358491"/>
+      <point x="1236" y="856" type="qcurve"/>
+      <point x="1234" y="856" type="line"/>
+      <point x="1180" y="970"/>
+      <point x="967" y="1072"/>
+      <point x="823" y="1072" type="qcurve" smooth="yes"/>
+      <point x="669" y="1072"/>
+      <point x="427" y="969"/>
+      <point x="329" y="857" type="qcurve"/>
+      <point x="328" y="857" type="line"/>
+      <point x="317" y="1052" type="line"/>
       <point x="148" y="1052" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.KVIM2TGdkS</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
 </glyph>
