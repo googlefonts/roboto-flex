@@ -26,7 +26,7 @@ before_script:
 
   # proof
   - pip install brotli zopfli fontTools
-  - sudo apt install php-yaml
+  - pecl install yaml
 
 script: 
   - "shellcheck $SHELL_PATH"
