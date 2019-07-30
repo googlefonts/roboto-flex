@@ -26,8 +26,8 @@ before_script:
 
   # proof
   - pip install brotli zopfli fontTools
-  - sudo apt install php-yaml
-  - echo "extension = yaml.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
+  - yes '' | pecl install -a yaml
+#  - echo "extension = yaml.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
 
 script: 
   - "shellcheck $SHELL_PATH"
