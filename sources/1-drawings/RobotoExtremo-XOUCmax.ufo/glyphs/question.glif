@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="1316"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="395" y="97" type="qcurve" smooth="yes"/>
+      <point x="395" y="48"/>
+      <point x="504" y="-22"/>
+      <point x="606" y="-22" type="qcurve" smooth="yes"/>
+      <point x="708" y="-22"/>
+      <point x="817" y="48"/>
+      <point x="817" y="97" type="qcurve" smooth="yes"/>
+      <point x="817" y="146"/>
+      <point x="708" y="216"/>
+      <point x="606" y="216" type="qcurve" smooth="yes"/>
+      <point x="504" y="216"/>
+      <point x="395" y="146"/>
+    </contour>
+    <contour>
+      <point x="60" y="1095" type="line"/>
+      <point x="420" y="1095" type="line"/>
+      <point x="420" y="1115" type="line" smooth="yes"/>
+      <point x="420" y="1210"/>
+      <point x="535" y="1314"/>
+      <point x="645" y="1314" type="qcurve" smooth="yes"/>
+      <point x="755" y="1314"/>
+      <point x="862" y="1200"/>
+      <point x="862" y="1100" type="qcurve" smooth="yes"/>
+      <point x="862" y="1000"/>
+      <point x="775" y="864"/>
+      <point x="655" y="783" type="qcurve" smooth="yes"/>
+      <point x="535" y="689"/>
+      <point x="423" y="545"/>
+      <point x="423" y="420" type="qcurve" smooth="yes"/>
+      <point x="423" y="410" type="line"/>
+      <point x="783" y="410" type="line"/>
+      <point x="783" y="420" type="line" smooth="yes"/>
+      <point x="783" y="490"/>
+      <point x="857" y="617"/>
+      <point x="975" y="694" type="qcurve" smooth="yes"/>
+      <point x="1093" y="758"/>
+      <point x="1222" y="966"/>
+      <point x="1222" y="1100" type="qcurve" smooth="yes"/>
+      <point x="1222" y="1270"/>
+      <point x="917" y="1476"/>
+      <point x="645" y="1476" type="qcurve" smooth="yes"/>
+      <point x="374" y="1476"/>
+      <point x="60" y="1280"/>
+      <point x="60" y="1115" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
