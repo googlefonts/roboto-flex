@@ -9,15 +9,15 @@
       <point x="467" y="-30"/>
       <point x="778" y="-30" type="qcurve" smooth="yes"/>
       <point x="1092" y="-30"/>
-      <point x="1458" y="200"/>
-      <point x="1458" y="380" type="qcurve" smooth="yes"/>
-      <point x="1458" y="560"/>
-      <point x="1194" y="758"/>
-      <point x="892" y="824" type="qcurve" smooth="yes"/>
-      <point x="590" y="890"/>
-      <point x="468" y="1000"/>
-      <point x="468" y="1090" type="qcurve" smooth="yes"/>
-      <point x="468" y="1200"/>
+      <point x="1457.0" y="196"/>
+      <point x="1457.0" y="402" type="qcurve" smooth="yes"/>
+      <point x="1457" y="616"/>
+      <point x="1201" y="838"/>
+      <point x="902" y="902" type="qcurve" smooth="yes"/>
+      <point x="614" y="964"/>
+      <point x="468" y="1043"/>
+      <point x="468.0" y="1128" type="qcurve" smooth="yes"/>
+      <point x="468.0" y="1220.0"/>
       <point x="614" y="1322"/>
       <point x="768" y="1322" type="qcurve" smooth="yes"/>
       <point x="922" y="1322"/>
@@ -30,15 +30,15 @@
       <point x="1071" y="1486"/>
       <point x="768" y="1486" type="qcurve" smooth="yes"/>
       <point x="463" y="1486"/>
-      <point x="118" y="1260"/>
-      <point x="118" y="1090" type="qcurve" smooth="yes"/>
-      <point x="118" y="920"/>
-      <point x="372" y="734"/>
-      <point x="674" y="666" type="qcurve" smooth="yes"/>
-      <point x="976" y="598"/>
-      <point x="1108" y="480"/>
-      <point x="1108" y="380" type="qcurve" smooth="yes"/>
-      <point x="1108" y="270"/>
+      <point x="118" y="1265.0"/>
+      <point x="118" y="1067" type="qcurve" smooth="yes"/>
+      <point x="118" y="869"/>
+      <point x="371" y="669"/>
+      <point x="673" y="601" type="qcurve" smooth="yes"/>
+      <point x="975" y="533"/>
+      <point x="1115" y="461"/>
+      <point x="1108.0" y="363" type="qcurve"/>
+      <point x="1106" y="270"/>
       <point x="938" y="134"/>
       <point x="778" y="134" type="qcurve" smooth="yes"/>
       <point x="618" y="134"/>
@@ -48,10 +48,4 @@
       <point x="90" y="410" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>
