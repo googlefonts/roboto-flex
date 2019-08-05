@@ -4,8 +4,8 @@ from __future__ import print_function
 
 # from glyphNameFormatter.data import name2unicode_AGD
 from mutatorMath.ufo.document import DesignSpaceDocumentWriter, DesignSpaceDocumentReader
-# from designSpaceDocument import DesignSpaceDocument, SourceDescriptor, InstanceDescriptor, AxisDescriptor, RuleDescriptor
-from fontTools.designspaceLib import DesignSpaceDocument, SourceDescriptor, InstanceDescriptor, AxisDescriptor, RuleDescriptor
+from designSpaceDocument import DesignSpaceDocument, SourceDescriptor, InstanceDescriptor, AxisDescriptor, RuleDescriptor
+#from fontTools.designspaceLib import DesignSpaceDocument, SourceDescriptor, InstanceDescriptor, AxisDescriptor, RuleDescriptor
 
 from fontmake.font_project import FontProject
 from fontTools.varLib import build
@@ -359,6 +359,14 @@ sources = [
 # 	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-wdth075.ufo", name="RobotoExtremo-opszmax-wghtmax-wdth075.ufo", location=dict(wght=900, opsz=144, wdth=76), styleName="opszmax-wghtmax-wdth075", familyName=familyName, copyInfo=False),
  	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmin.ufo", name="RobotoExtremo-opszmax-wghtmax-wdthmin.ufo", location=dict(wght=900, opsz=144, wdth=75), styleName="opszmax-wghtmax-wdthmin", familyName=familyName, copyInfo=False),
 
+
+	dict(path="master_ufo/RobotoExtremo-opszmin-wdthmax.ufo", name="RobotoExtremo-opszmin-wdthmax.ufo", location=dict(wdth=125, opsz=8), styleName="opszmin-wdthmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmin-wdthmin.ufo", name="RobotoExtremo-opszmin-wdthmin.ufo", location=dict(wdth=75, opsz=8), styleName="opszmin-wdthmin", familyName=familyName, copyInfo=False),
+	
+	dict(path="master_ufo/RobotoExtremo-opszmin-wghtmax.ufo", name="RobotoExtremo-opszmin-wghtmax.ufo", location=dict(wght=900, opsz=8), styleName="opszmin-wghtmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmin-wghtmin.ufo", name="RobotoExtremo-opszmin-wghtmin.ufo", location=dict(wght=100, opsz=8), styleName="opszmin-wghtmin", familyName=familyName, copyInfo=False),
+
+
 #	Capping instances
  	dict(path="master_ufo/RobotoExtremo-opszmax-wdth100-wghtmax-GRADmax.ufo", name="RobotoExtremo-opszmax-wdth100-wghtmax-GRADmax.ufo", location=dict(wght=900, opsz=144, wdth=100, GRAD=1), styleName="opszmax-wdth100-wghtmax-GRADmax", familyName=familyName, copyInfo=False),
  	dict(path="master_ufo/RobotoExtremo-opszmax-wdth100-wghtmin-GRADmin.ufo", name="RobotoExtremo-opszmax-wdth100-wghtmin-GRADmin.ufo", location=dict(wght=100, opsz=144, wdth=100, GRAD=-1), styleName="opszmax-wdth100-wghtmin-GRADmin", familyName=familyName, copyInfo=False),
@@ -419,21 +427,18 @@ axes = [
 doc = buildDesignSpace(sources, instances, axes)
 
 
-##temp comment out rule
-# #add rule for dollar. Needs to be after doc = buildDesignSpace() because this doc is a DesignSpaceDocument(), rather than the doc above which is a DesignSpaceDocumentReader() object
-# r1 = RuleDescriptor()
-# r1.name = "dollar-stroke-wght"
-
-# #changed conditions to conditionSets to match the fonttools version
-# r1.conditionSets.append(dict(name="wght", minimum=600, maximum=900))
-# r1.subs.append(("dollar", "dollar.rvrn"))
-# doc.addRule(r1)
-
-# r2 = RuleDescriptor()
-# r2.name = "dollar-stroke-wdth"
-# r2.conditionSets.append(dict(name="wdth", minimum=75, maximum=85))
-# r2.subs.append(("dollar", "dollar.rvrn"))
-# doc.addRule(r2)
+#add rule for dollar. Needs to be after doc = buildDesignSpace() because this doc is a DesignSpaceDocument(), rather than the doc above which is a DesignSpaceDocumentReader() object
+r1 = RuleDescriptor()
+r1.name = "dollar-stroke-wght"
+r1.conditions.append(dict(name="wght", minimum=600, maximum=900))
+r1.subs.append(("dollar", "dollar.rvrn"))
+doc.addRule(r1)
+	
+r2 = RuleDescriptor()
+r2.name = "dollar-stroke-wdth"
+r2.conditions.append(dict(name="wdth", minimum=75, maximum=85))
+r2.subs.append(("dollar", "dollar.rvrn"))
+doc.addRule(r2)
 
 
 doc.write(designSpace)
