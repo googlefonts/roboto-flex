@@ -16,7 +16,7 @@ before_script:
 
   - pip install MutatorMath
   
-  - pip install designSpaceDocument
+  - pip install git+https://github.com/LettError/designSpaceDocument.git#egg=DesignSpaceDocument
 
   # - git clone https://github.com/typesupply/defcon.git
   # - cd defcon
