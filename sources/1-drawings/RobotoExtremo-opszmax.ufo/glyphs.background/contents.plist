@@ -2,14 +2,34 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>acute</key>
+    <string>acute.glif</string>
+    <key>acutecomb.case</key>
+    <string>acutecomb.case.glif</string>
     <key>at</key>
     <string>at.glif</string>
+    <key>breve</key>
+    <string>breve.glif</string>
+    <key>brevecomb.case</key>
+    <string>brevecomb.case.glif</string>
+    <key>breveinvertedcomb.case</key>
+    <string>breveinvertedcomb.case.glif</string>
+    <key>caron</key>
+    <string>caron.glif</string>
+    <key>circumflex</key>
+    <string>circumflex.glif</string>
+    <key>circumflexcomb.case</key>
+    <string>circumflexcomb.case.glif</string>
+    <key>dieresis</key>
+    <string>dieresis.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
     <key>f_f_i</key>
     <string>f_f_i.glif</string>
     <key>f_f_l</key>
     <string>f_f_l.glif</string>
+    <key>grave</key>
+    <string>grave.glif</string>
     <key>greaterequal</key>
     <string>greaterequal.glif</string>
     <key>guilsinglright</key>
@@ -20,6 +40,8 @@
     <string>lessequal.glif</string>
     <key>lira</key>
     <string>lira.glif</string>
+    <key>macron</key>
+    <string>macron.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
     <key>periodcentered.loclCAT</key>
@@ -30,6 +52,10 @@
     <string>quotedblbase.glif</string>
     <key>quotesinglbase</key>
     <string>quotesinglbase.glif</string>
+    <key>ringcomb.case</key>
+    <string>ringcomb.case.glif</string>
+    <key>tilde</key>
+    <string>tilde.glif</string>
     <key>w</key>
     <string>w.glif</string>
   </dict>
