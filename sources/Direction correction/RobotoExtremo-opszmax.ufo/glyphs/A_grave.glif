@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Agrave" format="2">
-  <advance width="1280"/>
+  <advance width="1010"/>
   <unicode hex="00C0"/>
   <anchor x="646" y="1601" name="parent_top"/>
   <anchor x="686" y="0" name="bottom"/>
@@ -10,6 +10,6 @@
   <anchor x="642" y="1952" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="gravecomb.case" xOffset="152"/>
+    <component base="gravecomb.case" xOffset="5"/>
   </outline>
 </glyph>

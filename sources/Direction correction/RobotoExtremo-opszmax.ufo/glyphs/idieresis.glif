@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idieresis" format="2">
-  <advance width="500"/>
+  <advance width="355"/>
   <unicode hex="00EF"/>
   <anchor x="252" y="1288" name="parent_top"/>
   <anchor x="249" y="10" name="bottom"/>
@@ -8,6 +8,6 @@
   <anchor x="252" y="1575" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dieresiscomb" xOffset="-262"/>
+    <component base="dieresiscomb" xOffset="-334" yOffset="40"/>
   </outline>
 </glyph>

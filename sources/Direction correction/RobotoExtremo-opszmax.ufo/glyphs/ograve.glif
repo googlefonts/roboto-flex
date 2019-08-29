@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve" format="2">
-  <advance width="1162"/>
+  <advance width="928"/>
   <unicode hex="00F2"/>
   <anchor x="575" y="1290" name="parent_top"/>
   <anchor x="584" y="-1" name="bottom"/>
@@ -10,6 +10,6 @@
   <anchor x="575" y="1641" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="gravecomb" xOffset="92" yOffset="-10"/>
+    <component base="gravecomb" xOffset="-54" yOffset="26"/>
   </outline>
 </glyph>

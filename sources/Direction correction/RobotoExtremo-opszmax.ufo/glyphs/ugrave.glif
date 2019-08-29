@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ugrave" format="2">
-  <advance width="1138"/>
+  <advance width="908"/>
   <unicode hex="00F9"/>
   <anchor x="567" y="1290" name="parent_top"/>
   <anchor x="1129" y="1600" name="top_dd"/>
@@ -10,6 +10,6 @@
   <anchor x="567" y="1641" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="gravecomb" xOffset="51" yOffset="-1"/>
+    <component base="gravecomb" xOffset="-48" yOffset="-1"/>
   </outline>
 </glyph>
