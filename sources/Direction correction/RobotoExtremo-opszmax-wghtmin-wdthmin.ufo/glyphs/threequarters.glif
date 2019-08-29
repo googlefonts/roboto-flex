@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threequarters" format="2">
-  <advance width="362"/>
+  <advance width="405"/>
   <unicode hex="00BE"/>
+  <guideline x="0.0" y="1975.0" angle="0.0" identifier="Jnt0R9CyOf"/>
   <outline>
-    <component base="three.sup" xOffset="49" yOffset="667"/>
-    <component base="threesuperior" xOffset="-8"/>
-    <component base="fraction" xOffset="143" yOffset="-5"/>
-    <component base="foursuperior" xOffset="146" yOffset="-651"/>
+    <component base="threesuperior"/>
+    <component base="fraction" xOffset="142"/>
+    <component base="foursuperior" xOffset="184" yOffset="-649"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
 </glyph>

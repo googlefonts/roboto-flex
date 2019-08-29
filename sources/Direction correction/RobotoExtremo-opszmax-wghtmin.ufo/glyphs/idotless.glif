@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-  <advance width="500"/>
+  <advance width="256"/>
   <anchor x="252" y="1288" name="top"/>
   <anchor x="249" y="10" name="bottom"/>
   <anchor x="277" y="654" name="rhotichook"/>
@@ -8,10 +8,10 @@
   <anchor x="252" y="1288" name="parent_top"/>
   <outline>
     <contour>
-      <point x="157" y="0" type="line"/>
-      <point x="157" y="1052" type="line"/>
-      <point x="343" y="1052" type="line"/>
-      <point x="343" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="914" type="line"/>
+      <point x="133" y="914" type="line"/>
+      <point x="133" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

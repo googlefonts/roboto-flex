@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflex" format="2">
-  <advance width="1280"/>
+  <advance width="170"/>
   <unicode hex="00C2"/>
   <anchor x="644" y="1599" name="parent_top"/>
   <anchor x="686" y="0" name="bottom"/>
@@ -10,6 +10,6 @@
   <anchor x="639" y="1934" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="138"/>
+    <component base="circumflexcomb.case" xOffset="-42"/>
   </outline>
 </glyph>

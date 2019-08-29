@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="1076"/>
+  <advance width="298"/>
   <unicode hex="0141"/>
   <anchor x="262" y="1596" name="top"/>
   <anchor x="618" y="10" name="bottom"/>
@@ -8,6 +8,6 @@
   <anchor x="262" y="1596" name="parent_top"/>
   <outline>
     <component base="L"/>
-    <component base="diagonalbarL"/>
+    <component base="diagonalbarL" xOffset="-50" yOffset="1"/>
   </outline>
 </glyph>

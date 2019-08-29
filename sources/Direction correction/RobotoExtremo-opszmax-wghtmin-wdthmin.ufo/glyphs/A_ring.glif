@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aring" format="2">
-  <advance width="1280"/>
+  <advance width="170"/>
   <unicode hex="00C5"/>
   <anchor x="672" y="1601" name="parent_top"/>
   <anchor x="686" y="0" name="bottom"/>
@@ -10,6 +10,6 @@
   <anchor x="672" y="2015" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb.case" xOffset="131" yOffset="-100"/>
+    <component base="ringcomb.case" xOffset="-49" yOffset="-50"/>
   </outline>
 </glyph>

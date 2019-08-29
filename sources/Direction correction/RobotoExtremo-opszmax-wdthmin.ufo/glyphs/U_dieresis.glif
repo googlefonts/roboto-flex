@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udieresis" format="2">
-  <advance width="1364"/>
+  <advance width="375"/>
   <unicode hex="00DC"/>
   <anchor x="667" y="1601" name="parent_top"/>
   <anchor x="666" y="0" name="bottom"/>
@@ -10,6 +10,6 @@
   <anchor x="667" y="1888" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb.case" xOffset="190" yOffset="-75"/>
+    <component base="dieresiscomb.case" xOffset="-60" yOffset="5"/>
   </outline>
 </glyph>
