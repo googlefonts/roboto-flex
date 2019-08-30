@@ -168,6 +168,10 @@
       </location>
     </source>
     <source filename="RobotoExtremo-Regular.ufo" familyname="RobotoExtremo" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
@@ -202,6 +206,16 @@
         <dimension name="Weight" xvalue="900"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="95"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoExtremo" stylename="opsz14wghtmax" filename="RobotoExtremo-opsz14wghtmax.ufo">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="14"/>
         <dimension name="Grade" xvalue="0"/>
       </location>
       <kerning/>
