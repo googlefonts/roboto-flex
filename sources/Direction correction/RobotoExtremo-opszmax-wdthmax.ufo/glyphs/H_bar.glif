@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbar" format="2">
-  <advance width="1458"/>
+  <advance width="1780"/>
   <unicode hex="0126"/>
   <anchor x="724" y="1612" name="top"/>
   <anchor x="724" y="10" name="bottom"/>
@@ -8,6 +8,6 @@
   <anchor x="724" y="1612" name="parent_top"/>
   <outline>
     <component base="H"/>
-    <component base="horizontalbarH"/>
+    <component base="horizontalbarH" xOffset="170"/>
   </outline>
 </glyph>
