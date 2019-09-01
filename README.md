@@ -44,8 +44,8 @@ Scripts and documentation is available under the [Apache 2.0](/scripts/LICENSE.t
 
 `RobotoExtremo-build.py` then takes them and builds the variable font, outputting the instance UFOs in `master_ufo` and `instances` 
 
-Those are build into TTFs using [fontmake](https://github.com/googlei18n/fontmake) which stores intermediate binaries in `master\_ttf\_interpolatable` and `master\_ttf`
+Those are build into TTFs using [fontmake](https://github.com/googlei18n/fontmake) which stores binaries in `master\_ttf\_interpolatable` and `master\_ttf`
 
-These build intermediates are checked in to keep a full historical record, as they are used for debugging purposes.
+These build TTFs are checked in to keep a full historical record, as they are used for debugging purposes.
 
-The actual TTF you should use is in `/fonts`
+The variable TTF produced is in `/fonts`
