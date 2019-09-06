@@ -402,7 +402,6 @@
           <string>iinvertedbreve</string>
           <string>ihookabove</string>
           <string>idotbelow</string>
-          <string>jcircumflex</string>
           <string>kcommaaccent</string>
           <string>lacute</string>
           <string>lcommaaccent</string>
@@ -639,6 +638,32 @@
         <string>glyphList</string>
       </dict>
     </array>
+    <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
+    <false/>
+    <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
+    <array>
+      <real>0.0</real>
+      <real>1.0</real>
+      <real>1.0</real>
+      <real>1.0</real>
+    </array>
+    <key>com.typemytype.robofont.background.layerShowCoordinates</key>
+    <false/>
+    <key>com.typemytype.robofont.background.layerShowFill</key>
+    <false/>
+    <key>com.typemytype.robofont.background.layerShowPoints</key>
+    <false/>
+    <key>com.typemytype.robofont.background.layerShowStroke</key>
+    <true/>
+    <key>com.typemytype.robofont.background.layerStrokeColor</key>
+    <array>
+      <real>1.0</real>
+      <real>0.75</real>
+      <real>0.0</real>
+      <real>0.7</real>
+    </array>
+    <key>com.typemytype.robofont.binarySource</key>
+    <string>/Users/alexandresaumierdemers/Downloads/RobotoDeltaNew-Regular.ttf</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -651,24 +676,40 @@
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
-    <key>com.typemytype.robofont.guideline.magnetic.4D3TsuD1Vb</key>
-    <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.magnetic.DtxGAVKCqj</key>
-    <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.magnetic.pVGhCJYxlC</key>
-    <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.showMeasurements.4D3TsuD1Vb</key>
-    <false/>
-    <key>com.typemytype.robofont.guideline.showMeasurements.DtxGAVKCqj</key>
-    <false/>
-    <key>com.typemytype.robofont.guideline.showMeasurements.pVGhCJYxlC</key>
-    <false/>
+    <key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+    <array>
+      <real>0.8759533110119048</real>
+      <real>0.8520636920919201</real>
+      <real>0.6924212208413115</real>
+      <real>0.3</real>
+    </array>
+    <key>com.typemytype.robofont.guideline.magnetic.jkkycGhOUk</key>
+    <integer>5</integer>
+    <key>com.typemytype.robofont.guideline.magnetic.w7IreBwLcz</key>
+    <integer>5</integer>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>qcurve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-    <integer>1</integer>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.temp.layerShowCoordinates</key>
+    <false/>
+    <key>com.typemytype.robofont.temp.layerShowFill</key>
+    <false/>
+    <key>com.typemytype.robofont.temp.layerShowPoints</key>
+    <true/>
+    <key>com.typemytype.robofont.temp.layerShowStroke</key>
+    <true/>
+    <key>com.typemytype.robofont.temp.layerStrokeColor</key>
+    <array>
+      <real>0.0</real>
+      <real>1.0</real>
+      <real>0.25</real>
+      <real>0.7</real>
+    </array>
+    <key>com.typemytype.robofont.templateCharacterSet</key>
+    <string>RobotoDelta</string>
     <key>com.typesupply.defcon.sortDescriptor</key>
     <array>
       <dict>
@@ -918,6 +959,37 @@
         <key>type</key>
         <string>glyphList</string>
       </dict>
+    </array>
+    <key>designspace.location</key>
+    <array>
+      <array>
+        <string>wght</string>
+        <real>900.0</real>
+      </array>
+      <array>
+        <string>wdth</string>
+        <real>100.0</real>
+      </array>
+      <array>
+        <string>opsz</string>
+        <real>30.0</real>
+      </array>
+      <array>
+        <string>GRAD</string>
+        <real>1.0</real>
+      </array>
+      <array>
+        <string>XTRA</string>
+        <real>468.0</real>
+      </array>
+      <array>
+        <string>XOPQ</string>
+        <real>103.0</real>
+      </array>
+      <array>
+        <string>YOPQ</string>
+        <real>79.0</real>
+      </array>
     </array>
     <key>public.glyphOrder</key>
     <array>
@@ -1316,7 +1388,6 @@
       <string>iinvertedbreve</string>
       <string>ihookabove</string>
       <string>idotbelow</string>
-      <string>jcircumflex</string>
       <string>kcommaaccent</string>
       <string>lacute</string>
       <string>lcommaaccent</string>
@@ -1549,5 +1620,16 @@
       <string>nine.prop</string>
       <string>.notdef</string>
     </array>
+    <key>tnCurvePalet</key>
+    <dict>
+      <key>sliderBottomMax</key>
+      <integer>80</integer>
+      <key>sliderBottomMin</key>
+      <integer>30</integer>
+      <key>sliderTopMax</key>
+      <integer>80</integer>
+      <key>sliderTopMin</key>
+      <integer>30</integer>
+    </dict>
   </dict>
 </plist>

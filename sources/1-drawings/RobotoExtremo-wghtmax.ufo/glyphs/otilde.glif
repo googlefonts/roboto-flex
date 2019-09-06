@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="otilde" format="2">
-  <advance width="1162"/>
+  <advance width="1179"/>
   <unicode hex="00F5"/>
-  <anchor x="575" y="1290" name="parent_top"/>
-  <anchor x="584" y="-1" name="bottom"/>
-  <anchor x="1168" y="1600" name="top_dd"/>
-  <anchor x="1168" y="-407" name="bottom_dd"/>
-  <anchor x="1168" y="1290" name="top0315"/>
-  <anchor x="574" y="1602" name="top"/>
+  <anchor x="575.0" y="1290.0" name="parent_top"/>
+  <anchor x="584.0" y="-1.0" name="bottom"/>
+  <anchor x="1168.0" y="1600.0" name="top_dd"/>
+  <anchor x="1168.0" y="-407.0" name="bottom_dd"/>
+  <anchor x="1168.0" y="1290.0" name="top0315"/>
+  <anchor x="574.0" y="1602.0" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="79"/>
+    <component base="tildecomb" xOffset="81.46153846153845" yOffset="-24.615384615384617"/>
   </outline>
 </glyph>

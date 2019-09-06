@@ -39,6 +39,9 @@
   </rules>
   <sources>
     <source filename="1-drawings/RobotoExtremo-Regular.ufo" name="RobotoExtremo-Regular.ufo" familyname="RobotoExtremo" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
       <info copy="1"/>
       <location>
         <dimension name="wght" xvalue="400"/>
@@ -325,7 +328,7 @@
         <dimension name="YOPQ" xvalue="79"/>
       </location>
     </source>
-    <source filename="1-drawings/RobotoExtremo-opsz14wght900.ufo" name="RobotoExtremo-opsz14wght900.ufo" familyname="RobotoExtremo" stylename="opsz14wght900">
+    <source filename="1-drawings/RobotoExtremo-wghtmax.ufo" name="RobotoExtremo-opsz14wght900.ufo" familyname="RobotoExtremo" stylename="opsz14wght900">
       <location>
         <dimension name="wght" xvalue="900"/>
         <dimension name="wdth" xvalue="100"/>
