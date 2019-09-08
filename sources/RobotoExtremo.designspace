@@ -405,6 +405,50 @@
         <dimension name="YOPQ" xvalue="79"/>
       </location>
     </source>
+    <source filename="1-drawings/RobotoExtremo-opsz24wght700.ufo" familyname="RobotoExtremo" stylename="-opsz24wght700">
+      <location>
+        <dimension name="wght" xvalue="700"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="24"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+      </location>
+    </source>
+    <source filename="1-drawings/RobotoExtremo-opsz18wght700.ufo" familyname="RobotoExtremo" stylename="opsz18-wght700">
+      <location>
+        <dimension name="wght" xvalue="700"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="18"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+      </location>
+    </source>
+    <source filename="1-drawings/RobotoExtremo-opsz36wght700.ufo" familyname="RobotoExtremo" stylename="opsz36wght700">
+      <location>
+        <dimension name="wght" xvalue="700"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="36"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+      </location>
+    </source>
+    <source filename="1-drawings/RobotoExtremo-opsz24wght100.ufo" familyname="RobotoExtremo" stylename="opsz24wght100">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="24"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+      </location>
+    </source>
   </sources>
   <lib>
     <dict>
@@ -438,11 +482,11 @@
         <key>YOPQ</key>
         <real>79.0</real>
         <key>opsz</key>
-        <real>14.0</real>
+        <real>24.0</real>
         <key>wdth</key>
-        <real>100.0</real>
+        <real>96.0</real>
         <key>wght</key>
-        <real>400.0</real>
+        <real>700.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>SKATE</string>
