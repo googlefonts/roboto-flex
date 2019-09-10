@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edieresis" format="2">
+  <advance width="1175"/>
+  <unicode hex="00CB"/>
+  <anchor x="619.0" y="1612.0" name="parent_top"/>
+  <anchor x="619.0" y="10.0" name="bottom"/>
+  <anchor x="1164.0" y="1600.0" name="top_dd"/>
+  <anchor x="1164.0" y="-407.0" name="bottom_dd"/>
+  <anchor x="1164.0" y="1612.0" name="top0315"/>
+  <anchor x="619.0" y="1899.0" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="dieresiscomb.case" xOffset="141" yOffset="-104"/>
+  </outline>
+</glyph>
