@@ -4,7 +4,7 @@
         <axis default="400" maximum="900" minimum="100" name="wght" tag="wght">
             <labelname xml:lang="en">wght</labelname>
         </axis>
-        <axis default="100" maximum="125" minimum="75" name="wdth" tag="wdth">
+        <axis default="100" maximum="151" minimum="25" name="wdth" tag="wdth">
             <labelname xml:lang="en">wdth</labelname>
         </axis>
         <axis default="14" maximum="144" minimum="8" name="opsz" tag="opsz">
@@ -181,7 +181,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-wdthmin.ufo" name="RobotoExtremo-wdthmin.ufo" stylename="wdthmin">
             <location>
                 <dimension name="wght" xvalue="400" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="14" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -192,7 +192,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-wdthmax.ufo" name="RobotoExtremo-wdthmax.ufo" stylename="wdthmax">
             <location>
                 <dimension name="wght" xvalue="400" />
-                <dimension name="wdth" xvalue="125" />
+                <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="14" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -203,7 +203,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wdthmax.ufo" name="RobotoExtremo-opszmax-wdthmax.ufo" stylename="opszmax-wdthmax">
             <location>
                 <dimension name="wght" xvalue="400" />
-                <dimension name="wdth" xvalue="125" />
+                <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="144" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -214,7 +214,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wdthmin.ufo" name="RobotoExtremo-opszmax-wdthmin.ufo" stylename="opszmax-wdthmin">
             <location>
                 <dimension name="wght" xvalue="400" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="144" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -247,7 +247,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wghtmin-wdthmax.ufo" name="RobotoExtremo-opszmax-wghtmin-wdthmax.ufo" stylename="opszmax-wghtmin-wdthmax">
             <location>
                 <dimension name="wght" xvalue="100" />
-                <dimension name="wdth" xvalue="125" />
+                <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="144" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -258,7 +258,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmin-wdthmin.ufo" stylename="opszmax-wghtmin-wdthmin">
             <location>
                 <dimension name="wght" xvalue="100" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="144" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -269,7 +269,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wghtmax-wdthmax.ufo" name="RobotoExtremo-opszmax-wghtmax-wdthmax.ufo" stylename="opszmax-wghtmax-wdthmax">
             <location>
                 <dimension name="wght" xvalue="900" />
-                <dimension name="wdth" xvalue="125" />
+                <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="144" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -280,7 +280,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wghtmax-wdthmin.ufo" name="RobotoExtremo-opszmax-wghtmax-wdthmin.ufo" stylename="opszmax-wghtmax-wdthmin">
             <location>
                 <dimension name="wght" xvalue="900" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="144" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -291,7 +291,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmin-wdthmax.ufo" name="RobotoExtremo-opszmin-wdthmax.ufo" stylename="opszmin-wdthmax">
             <location>
                 <dimension name="wght" xvalue="400" />
-                <dimension name="wdth" xvalue="125" />
+                <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="8" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -302,7 +302,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmin-wdthmin.ufo" name="RobotoExtremo-opszmin-wdthmin.ufo" stylename="opszmin-wdthmin">
             <location>
                 <dimension name="wght" xvalue="400" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="8" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -335,7 +335,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz18wghtminwdthmin.ufo" name="RobotoExtremo-opsz18wghtminwdthmin.ufo" stylename="opsz18wghtminwdthmin">
             <location>
                 <dimension name="wght" xvalue="100" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="18" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -346,7 +346,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz24wghtminwdthmin.ufo" name="RobotoExtremo-opsz24wghtminwdthmin.ufo" stylename="opsz24wghtminwdthmin">
             <location>
                 <dimension name="wght" xvalue="100" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="24" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -357,7 +357,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz36wght100wdthmin.ufo" name="RobotoExtremo-opsz36wght100wdthmin.ufo" stylename="opsz36wght100wdthmin">
             <location>
                 <dimension name="wght" xvalue="100" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="36" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -368,7 +368,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz36wght600wdthmin.ufo" name="RobotoExtremo-opsz36wght600wdthmin.ufo" stylename="opsz36wght600wdthmin">
             <location>
                 <dimension name="wght" xvalue="600" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="36" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -379,7 +379,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz18wght700wdthmin.ufo" name="RobotoExtremo-opsz18wght700wdthmin.ufo" stylename="opsz18wght700wdthmin">
             <location>
                 <dimension name="wght" xvalue="700" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="18" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -390,7 +390,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz24wght700wdthmin.ufo" name="RobotoExtremo-opsz24wght700wdthmin.ufo" stylename="opsz24wght700wdthmin">
             <location>
                 <dimension name="wght" xvalue="700" />
-                <dimension name="wdth" xvalue="75" />
+                <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="24" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -489,7 +489,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz24wghtminwdthmax.ufo" name="RobotoExtremo-opsz24wghtminwdthmax.ufo" stylename="opsz24wghtminwdthmax">
             <location>
                 <dimension name="wght" xvalue="100" />
-                <dimension name="wdth" xvalue="125" />
+                <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="24" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -500,7 +500,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz36wght700wdthmax.ufo" name="RobotoExtremo-opsz36wght700wdthmax.ufo" stylename="opsz36wght700wdthmax">
             <location>
                 <dimension name="wght" xvalue="700" />
-                <dimension name="wdth" xvalue="125" />
+                <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="36" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
@@ -511,7 +511,7 @@
         <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opsz144wght500wdthmax.ufo" name="RobotoExtremo-opsz144wght500wdthmax.ufo" stylename="opsz144wght500wdthmax">
             <location>
                 <dimension name="wght" xvalue="500" />
-                <dimension name="wdth" xvalue="125" />
+                <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="144" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
