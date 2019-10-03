@@ -398,7 +398,16 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-opsz36wght700wdthmax.ufo", name="RobotoExtremo-opsz36wght700wdthmax.ufo", location=dict(wght=700, opsz=36, wdth=151), styleName="opsz36wght700wdthmax", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144wght500wdthmax.ufo", name="RobotoExtremo-opsz144wght500wdthmax.ufo", location=dict(wght=500, opsz=144, wdth=151), styleName="opsz144wght500wdthmax", familyName=familyName, copyInfo=False),
 	
+# #	NEW Caping
 	
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmin-GRADmin.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthmin-GRADmin.ufo", location=dict(wght=100, opsz=144, wdth=25, GRAD=-1), styleName="opszmax-wghtmin-wdthmin-GRADmin", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmin-GRADmax.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthmin-GRADmax.ufo", location=dict(wght=100, opsz=144, wdth=25, GRAD=1), styleName="opszmax-wghtmin-wdthmin-GRADmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmax-GRADmin.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthmax-GRADmin.ufo", location=dict(wght=100, opsz=144, wdth=151, GRAD=-1), styleName="opszmax-wghtmin-wdthmax-GRADmin", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-wdthmax-GRADmax.ufo", name="RobotoExtremo-opszmax-wghtmin-wdthmax-GRADmax.ufo", location=dict(wght=100, opsz=144, wdth=151, GRAD=1), styleName="opszmax-wghtmin-wdthmax-GRADmax", familyName=familyName, copyInfo=False),
+	
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-GRADmax.ufo", name="RobotoExtremo-opszmax-wghtmin-GRADmax.ufo", location=dict(wght=100, opsz=144, GRAD=1), styleName="opszmax-wghtmin-GRADmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-GRADmin.ufo", name="RobotoExtremo-opszmax-wghtmin-GRADmin.ufo", location=dict(wght=100, opsz=144, GRAD=-1), styleName="opszmax-wghtmin-GRADmin", familyName=familyName, copyInfo=False),
+		
 	
 # #	Caping & trimming instances
 # #	github issue 36
