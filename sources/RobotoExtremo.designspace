@@ -607,5 +607,38 @@
                 <dimension name="YOPQ" xvalue="79" />
             </location>
         </source>
+        <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wghtmax-GRADmax.ufo" name="RobotoExtremo-opszmax-wghtmax-GRADmax.ufo" stylename="opszmax-wghtmax-GRADmax">
+            <location>
+                <dimension name="wght" xvalue="900" />
+                <dimension name="wdth" xvalue="100" />
+                <dimension name="opsz" xvalue="144" />
+                <dimension name="GRAD" xvalue="1" />
+                <dimension name="XTRA" xvalue="468" />
+                <dimension name="XOPQ" xvalue="96" />
+                <dimension name="YOPQ" xvalue="79" />
+            </location>
+        </source>
+        <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wghtmax-GRADmin.ufo" name="RobotoExtremo-opszmax-wghtmax-GRADmin.ufo" stylename="opszmax-wghtmax-GRADmin">
+            <location>
+                <dimension name="wght" xvalue="900" />
+                <dimension name="wdth" xvalue="100" />
+                <dimension name="opsz" xvalue="144" />
+                <dimension name="GRAD" xvalue="-1" />
+                <dimension name="XTRA" xvalue="468" />
+                <dimension name="XOPQ" xvalue="96" />
+                <dimension name="YOPQ" xvalue="79" />
+            </location>
+        </source>
+        <source familyname="RobotoExtremo" filename="1-drawings/RobotoExtremo-opszmax-wghtmax-wdthmin-GRADmax.ufo" name="RobotoExtremo-opszmax-wghtmax-wdthmin-GRADmax.ufo" stylename="opszmax-wghtmax-wdthmin-GRADmax">
+            <location>
+                <dimension name="wght" xvalue="900" />
+                <dimension name="wdth" xvalue="25" />
+                <dimension name="opsz" xvalue="144" />
+                <dimension name="GRAD" xvalue="1" />
+                <dimension name="XTRA" xvalue="468" />
+                <dimension name="XOPQ" xvalue="96" />
+                <dimension name="YOPQ" xvalue="79" />
+            </location>
+        </source>
     </sources>
 </designspace>
