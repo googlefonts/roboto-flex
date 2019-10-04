@@ -411,6 +411,14 @@ sources = [
 	
 	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-GRADmax.ufo", name="RobotoExtremo-opszmax-wghtmin-GRADmax.ufo", location=dict(wght=100, opsz=144, GRAD=1), styleName="opszmax-wghtmin-GRADmax", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmin-GRADmin.ufo", name="RobotoExtremo-opszmax-wghtmin-GRADmin.ufo", location=dict(wght=100, opsz=144, GRAD=-1), styleName="opszmax-wghtmin-GRADmin", familyName=familyName, copyInfo=False),
+	
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-GRADmax.ufo", name="RobotoExtremo-opszmax-wghtmax-GRADmax.ufo", location=dict(wght=900, opsz=144, GRAD=1), styleName="opszmax-wghtmax-GRADmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-GRADmin.ufo", name="RobotoExtremo-opszmax-wghtmax-GRADmin.ufo", location=dict(wght=900, opsz=144, GRAD=-1), styleName="opszmax-wghtmax-GRADmin", familyName=familyName, copyInfo=False),
+	
+	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmin-GRADmax.ufo", name="RobotoExtremo-opszmax-wghtmax-wdthmin-GRADmax.ufo", location=dict(wght=900, opsz=144, wdth=25, GRAD=1), styleName="opszmax-wghtmax-wdthmin-GRADmax", familyName=familyName, copyInfo=False),
+	
+	
+	dict(path="master_ufo/RobotoExtremo-opszmin-wghtmin-wdthmin-GRADmin.ufo", name="RobotoExtremo-opszmin-wghtmin-wdthmin-GRADmin.ufo", location=dict(wght=100, opsz=8, wdth=25, GRAD=-1), styleName="opszmin-wghtmin-wdthmin-GRADmin", familyName=familyName, copyInfo=False),
 		
 	
 # #	Caping & trimming instances
