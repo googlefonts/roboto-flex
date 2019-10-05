@@ -417,8 +417,9 @@ sources = [
 	
 	dict(path="master_ufo/RobotoExtremo-opszmax-wghtmax-wdthmin-GRADmax.ufo", name="RobotoExtremo-opszmax-wghtmax-wdthmin-GRADmax.ufo", location=dict(wght=900, opsz=144, wdth=25, GRAD=1), styleName="opszmax-wghtmax-wdthmin-GRADmax", familyName=familyName, copyInfo=False),
 	
+	dict(path="master_ufo/RobotoExtremo-opszmin-wghtmin-GRADmin.ufo", name="RobotoExtremo-opszmin-wghtmin-GRADmin.ufo", location=dict(wght=100, opsz=8, GRAD=-1), styleName="opszmin-wghtmin-GRADmin", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-opszmin-wghtmin-wdthmin-GRADmin.ufo", name="RobotoExtremo-opszmin-wghtmin-wdthmin-GRADmin.ufo", location=dict(wght=100, opsz=8, wdth=25, GRAD=-1), styleName="opszmin-wghtmin-wdthmin-GRADmin", familyName=familyName, copyInfo=False),
+	
 		
 	
 # #	Caping & trimming instances
