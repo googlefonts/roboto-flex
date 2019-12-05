@@ -376,6 +376,8 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-opsz8-wght900.ufo", name="RobotoExtremo-opsz8-wght900.ufo", location=dict(wght=900, opsz=8), styleName="opsz8-wght900", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz8-wght100.ufo", name="RobotoExtremo-opsz8-wght100.ufo", location=dict(wght=100, opsz=8), styleName="opsz8-wght100", familyName=familyName, copyInfo=False),
 	
+	dict(path="master_ufo/RobotoExtremo-wght900-wdth25.ufo", name="RobotoExtremo-wght900-wdth25.ufo", location=dict(wdth=25, wght=900), styleName="wght900-wdth25", familyName=familyName, copyInfo=False),
+	
 	
 ##	Trivars
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth151.ufo", name="RobotoExtremo-opsz144-wght100-wdth151.ufo", location=dict(wght=100, wdth=151, opsz=144), styleName="opsz144-wght100-wdth151", familyName=familyName, copyInfo=False),
@@ -388,7 +390,6 @@ sources = [
 
 	
 	dict(path="master_ufo/RobotoExtremo-opsz8-wght900-wdth25.ufo", name="RobotoExtremo-opsz8-wght900-wdth25.ufo", location=dict(wdth=25, wght=900, opsz=8), styleName="opsz8-wght900-wdth25", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-wght900-wdth25.ufo", name="RobotoExtremo-wght900-wdth25.ufo", location=dict(wdth=25, wght=900), styleName="wght900-wdth25", familyName=familyName, copyInfo=False),
 
 
 ## Leveling intermediates
