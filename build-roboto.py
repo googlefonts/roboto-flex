@@ -562,7 +562,7 @@ doc.addRule(r1)
 	
 r2 = RuleDescriptor()
 r2.name = "dollar-stroke-wdth"
-r2.conditions.append(dict(name="wdth", minimum=75, maximum=85))
+r2.conditions.append(dict(name="wdth", minimum=25, maximum=85))
 r2.subs.append(("dollar", "dollar.rvrn"))
 doc.addRule(r2)
 
