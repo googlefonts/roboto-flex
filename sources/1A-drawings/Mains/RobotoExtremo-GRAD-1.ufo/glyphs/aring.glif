@@ -2,14 +2,14 @@
 <glyph name="aring" format="2">
   <advance width="1106"/>
   <unicode hex="00E5"/>
-  <anchor x="582" y="1290" name="parent_top"/>
-  <anchor x="502" y="0" name="bottom"/>
-  <anchor x="1114" y="1600" name="top_dd"/>
-  <anchor x="1114" y="-407" name="bottom_dd"/>
-  <anchor x="1114" y="1290" name="top0315"/>
-  <anchor x="582" y="1704" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ring" xOffset="55" yOffset="11"/>
+    <component base="ringcomb" xOffset="31.5" yOffset="45"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8432,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

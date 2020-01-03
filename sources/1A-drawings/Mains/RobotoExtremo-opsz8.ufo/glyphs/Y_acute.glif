@@ -2,14 +2,14 @@
 <glyph name="Yacute" format="2">
   <advance width="1294"/>
   <unicode hex="00DD"/>
-  <anchor x="618" y="1600" name="parent_top"/>
-  <anchor x="615" y="1" name="bottom"/>
-  <anchor x="1230" y="1600" name="top_dd"/>
-  <anchor x="1230" y="-407" name="bottom_dd"/>
-  <anchor x="1230" y="1600" name="top0315"/>
-  <anchor x="618" y="1951" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="acute" xOffset="209" yOffset="310"/>
+    <component base="acutecomb.case" xOffset="138.50000000011642" yOffset="90"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>
