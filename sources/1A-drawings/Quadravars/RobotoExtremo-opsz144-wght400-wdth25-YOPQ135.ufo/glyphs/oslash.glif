@@ -2,12 +2,14 @@
 <glyph name="oslash" format="2">
   <advance width="350"/>
   <unicode hex="00F8"/>
-  <anchor x="537.0" y="1289.0" name="top"/>
-  <anchor x="1161.0" y="1600.0" name="top_dd"/>
-  <anchor x="1161.0" y="1289.0" name="top0315"/>
-  <anchor x="537.0" y="1289.0" name="parent_top"/>
   <outline>
     <component base="o"/>
-    <component base="diagonalbaro" xOffset="51.125" yOffset="7.196428571428571"/>
+    <component base="diagonalbaro" xOffset="58.5" yOffset="4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

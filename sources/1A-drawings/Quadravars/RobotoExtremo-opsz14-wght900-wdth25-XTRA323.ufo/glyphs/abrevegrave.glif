@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevegrave" format="2">
-  <advance width="1130"/>
+  <advance width="1060"/>
   <unicode hex="1EB1"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="84.09031998119734" yOffset="33.949870731625424"/>
-    <component base="gravecomb" xOffset="-13" yOffset="310"/>
+    <component base="brevecomb" xOffset="10.175862068950664" yOffset="22"/>
+    <component base="gravecomb" xOffset="-12.962599469523411" yOffset="441.6307692307694"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

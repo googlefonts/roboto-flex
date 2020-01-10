@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflexhookabove" format="2">
-  <advance width="350"/>
+  <advance width="344"/>
   <unicode hex="1EA8"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="-71" yOffset="1"/>
-    <component base="hookabovecombstack.case" xOffset="45" yOffset="197"/>
+    <component base="circumflexcomb.case" xOffset="-78.05555555556202" yOffset="118"/>
+    <component base="hookabovecomb.case" xOffset="309.444444444438" yOffset="230"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

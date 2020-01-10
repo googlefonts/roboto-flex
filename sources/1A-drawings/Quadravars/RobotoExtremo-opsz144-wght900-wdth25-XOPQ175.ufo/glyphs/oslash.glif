@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash" format="2">
-  <advance width="1005"/>
+  <advance width="1187"/>
   <unicode hex="00F8"/>
-  <anchor x="537.0" y="1289.0" name="top"/>
-  <anchor x="1161.0" y="1600.0" name="top_dd"/>
-  <anchor x="1161.0" y="1289.0" name="top0315"/>
-  <anchor x="537.0" y="1289.0" name="parent_top"/>
   <outline>
     <component base="o"/>
-    <component base="diagonalbaro" xOffset="312.0126582278481" yOffset="6.291139240506325"/>
+    <component base="diagonalbaro" xOffset="343.13924050627975" yOffset="-48"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

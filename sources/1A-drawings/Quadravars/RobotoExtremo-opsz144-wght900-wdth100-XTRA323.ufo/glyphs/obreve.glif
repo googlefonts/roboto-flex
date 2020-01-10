@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="obreve" format="2">
-  <advance width="1302"/>
+  <advance width="1286"/>
   <unicode hex="014F"/>
   <outline>
     <component base="o"/>
-    <component base="brevecomb" xOffset="117.00000000000001" yOffset="-200"/>
+    <component base="brevecomb" xOffset="129.99310344824335" yOffset="22"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

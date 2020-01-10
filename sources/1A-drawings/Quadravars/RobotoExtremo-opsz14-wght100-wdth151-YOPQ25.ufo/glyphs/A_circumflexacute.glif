@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflexacute" format="2">
-  <advance width="1280"/>
+  <advance width="1312"/>
   <unicode hex="1EA4"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcombstack.case" xOffset="132" yOffset="-19"/>
-    <component base="acutecombstack.case" xOffset="497" yOffset="187"/>
+    <component base="circumflexcombstack.case" xOffset="150.57777777779847" yOffset="17"/>
+    <component base="acutecombstack.case" xOffset="623.5777777777985" yOffset="237"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

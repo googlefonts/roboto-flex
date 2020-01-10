@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflextilde" format="2">
-  <advance width="350"/>
+  <advance width="528"/>
   <unicode hex="1ED7"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb" xOffset="74" yOffset="-19"/>
-    <component base="tildecomb" xOffset="78" yOffset="382"/>
+    <component base="circumflexcomb" xOffset="18.113924050630885" yOffset="258"/>
+    <component base="tildecomb" xOffset="9.613924050630885" yOffset="521"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

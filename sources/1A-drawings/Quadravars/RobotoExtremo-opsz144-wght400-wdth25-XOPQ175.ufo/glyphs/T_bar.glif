@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tbar" format="2">
-  <advance width="314"/>
+  <advance width="402"/>
   <unicode hex="0166"/>
   <outline>
     <component base="T"/>
-    <component base="horizontalbar" xOffset="52" yOffset="50"/>
+    <component base="horizontalbar" xOffset="95" yOffset="30.24000000001979"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ellipsis" format="2">
-  <advance width="1314"/>
+  <advance width="1929"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="-67"/>
-    <component base="period" xOffset="346.536231884058"/>
-    <component base="period" xOffset="753.1739130434783"/>
+    <component base="period"/>
+    <component base="period" xOffset="643"/>
+    <component base="period" xOffset="1286"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +17,8 @@
       <integer>1</integer>
       <key>com.typemytype.robofont.Image.Sharpness</key>
       <real>0.4</real>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
     </dict>
   </lib>
 </glyph>

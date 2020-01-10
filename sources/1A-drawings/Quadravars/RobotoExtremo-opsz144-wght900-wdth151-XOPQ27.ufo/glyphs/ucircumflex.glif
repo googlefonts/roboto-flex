@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ucircumflex" format="2">
-  <advance width="1647"/>
+  <advance width="1517"/>
   <unicode hex="00FB"/>
-  <anchor x="567.0" y="1290.0" name="parent_top"/>
-  <anchor x="1129.0" y="1600.0" name="top_dd"/>
-  <anchor x="1129.0" y="-407.0" name="bottom_dd"/>
-  <anchor x="1129.0" y="1290.0" name="top0315"/>
-  <anchor x="563.0" y="0" name="bottom"/>
-  <anchor x="567.0" y="1637.0" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="circumflexcomb" xOffset="67"/>
+    <component base="circumflexcomb" xOffset="236.9565217390773" yOffset="17"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

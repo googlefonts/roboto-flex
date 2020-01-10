@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflexdotbelow" format="2">
-  <advance width="1104"/>
+  <advance width="943"/>
   <unicode hex="1EC6"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb.case" xOffset="88" yOffset="-51"/>
-    <component base="dotbelowcomb.case" xOffset="64" yOffset="-30"/>
+    <component base="circumflexcomb.case" xOffset="17.51999999996042" yOffset="-33"/>
+    <component base="dotbelowcomb.case" xOffset="10.519999999960419" yOffset="-83"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>
