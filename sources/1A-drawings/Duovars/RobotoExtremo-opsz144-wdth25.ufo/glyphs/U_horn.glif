@@ -2,9 +2,14 @@
 <glyph name="Uhorn" format="2">
   <advance width="375"/>
   <unicode hex="01AF"/>
-  <anchor x="682" y="1432" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="horncomb.case" xOffset="140" yOffset="-1"/>
+    <component base="horncomb.case" xOffset="207.0000000000291" yOffset="-50"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevetilde" format="2">
-  <advance width="1106"/>
+  <advance width="1052"/>
   <unicode hex="1EB5"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="48" yOffset="31"/>
-    <component base="tildecomb" xOffset="22" yOffset="420"/>
+    <component base="brevecomb" xOffset="4.559999999997672" yOffset="22"/>
+    <component base="tildecomb" xOffset="-15.940000000002328" yOffset="450"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

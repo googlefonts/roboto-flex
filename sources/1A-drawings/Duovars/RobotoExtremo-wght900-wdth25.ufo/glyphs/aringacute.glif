@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aringacute" format="2">
-  <advance width="1130"/>
+  <advance width="1129"/>
   <unicode hex="01FB"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="68.18461538461538" yOffset="-54.61538461538461"/>
-    <component base="acutecomb" xOffset="100.18461538461538" yOffset="411.2307692307692"/>
+    <component base="ringcomb" xOffset="45.5" yOffset="45"/>
+    <component base="acutecomb" xOffset="145.49999999999994" yOffset="548"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

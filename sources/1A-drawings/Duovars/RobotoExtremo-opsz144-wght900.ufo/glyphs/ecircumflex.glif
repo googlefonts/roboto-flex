@@ -2,14 +2,14 @@
 <glyph name="ecircumflex" format="2">
   <advance width="1267"/>
   <unicode hex="00EA"/>
-  <anchor x="565" y="1290" name="parent_top"/>
-  <anchor x="568" y="0" name="bottom"/>
-  <anchor x="1086" y="1600" name="top_dd"/>
-  <anchor x="1086" y="-407" name="bottom_dd"/>
-  <anchor x="1086" y="1290" name="top0315"/>
-  <anchor x="565" y="1637" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflex" xOffset="141" yOffset="-200"/>
+    <component base="circumflexcomb" xOffset="151.31999999994878" yOffset="17"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>
