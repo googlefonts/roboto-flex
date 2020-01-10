@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="1688"/>
+  <advance width="1965"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="d"/>
-    <component base="caroncomb.alt" xOffset="1136" yOffset="84"/>
+    <component base="d" xOffset="48"/>
+    <component base="caroncomb.alt" xOffset="1372" yOffset="18.799999999813735"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

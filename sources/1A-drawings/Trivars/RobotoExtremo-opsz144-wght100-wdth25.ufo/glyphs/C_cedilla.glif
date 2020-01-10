@@ -2,14 +2,14 @@
 <glyph name="Ccedilla" format="2">
   <advance width="207"/>
   <unicode hex="00C7"/>
-  <anchor x="680" y="1633" name="parent_top"/>
-  <anchor x="1333" y="1600" name="top_dd"/>
-  <anchor x="1333" y="-407" name="bottom_dd"/>
-  <anchor x="1333" y="1633" name="top0315"/>
-  <anchor x="680" y="1633" name="top"/>
-  <anchor x="680" y="-450" name="bottom"/>
   <outline>
     <component base="C"/>
-    <component base="cedilla" xOffset="22" yOffset="-25"/>
+    <component base="cedillacomb.case" xOffset="-14.5" yOffset="34"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

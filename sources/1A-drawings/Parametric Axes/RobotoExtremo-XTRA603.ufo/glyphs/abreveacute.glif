@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abreveacute" format="2">
-  <advance width="1106"/>
+  <advance width="1434"/>
   <unicode hex="1EAF"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="38" yOffset="-9"/>
-    <component base="acutecomb" xOffset="112" yOffset="304"/>
+    <component base="brevecomb" xOffset="197" yOffset="22"/>
+    <component base="acutecomb" xOffset="258" yOffset="386"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>
