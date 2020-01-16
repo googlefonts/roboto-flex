@@ -3,6 +3,12 @@
   <advance width="256"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="-262" yOffset="-4.640000000000001"/>
+    <component base="dotaccent" xOffset="-384" yOffset="-6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>
