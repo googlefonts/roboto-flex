@@ -286,7 +286,7 @@ for instance in instances:
 
 designSpace = "sources/RobotoExtremo.designspace"
 sources = [
-	dict(path="master_ufo/RobotoExtremo-Regular.ufo", name="RobotoExtremo-Regular.ufo", location=dict( wght=400, wdth=100, opsz=14, GRAD=0), styleName="Regular", familyName=familyName, copyInfo=True),
+	dict(path="master_ufo/RobotoExtremo-Regular.ufo", name="RobotoExtremo-Regular.ufo", location=dict( wght=400, wdth=100, opsz=14, GRAD=0, slnt=0), styleName="Regular", familyName=familyName, copyInfo=True),
 	
 ##	Main 
 	dict(path="master_ufo/RobotoExtremo-GRAD-1.ufo", name="RobotoExtremo-GRAD-1.ufo", location=dict(GRAD=-1), styleName="GRAD-1", familyName=familyName, copyInfo=False),
@@ -307,6 +307,9 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-wdth151.ufo", name="RobotoExtremo-wdth151.ufo", location=dict(wdth=151), styleName="wdth151", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-wdth25.ufo", name="RobotoExtremo-wdth25.ufo", location=dict(PWDT=560), styleName="wdth25", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-wdth151.ufo", name="RobotoExtremo-wdth151.ufo", location=dict(PWDT=867), styleName="wdth151", familyName=familyName, copyInfo=False),
+
+	dict(path="master_ufo/RobotoExtremo-Slant.ufo", name="RobotoExtremo-Slant.ufo", location=dict(slnt=-10), styleName="slnt-10", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-Regular.ufo", name="RobotoExtremo-Regular.ufo", location=dict(slnt=0.1), styleName="slnt0.1", familyName=familyName, copyInfo=False),
 
 ##	Parametric
 	dict(path="master_ufo/RobotoExtremo-XOPQ27.ufo", name="RobotoExtremo-XOPQ27.ufo", location=dict(XOPQ=27), styleName="XOPQ27", familyName=familyName, copyInfo=False),
@@ -521,6 +524,7 @@ axes = [
 # 	dict(minimum=560, maximum=867, default=712, name="PWDT", tag="PWDT", labelNames={"en": "PWDT"}, map=[]),
 # 	dict(minimum=-1, maximum=1, default=0, name="POPS", tag="POPS", labelNames={"en": "POPS"}, map=[]),
 	dict(minimum=-1, maximum=1, default=0, name="GRAD", tag="GRAD", labelNames={"en": "GRAD"}, map=[]),
+	dict(minimum=-10, maximum=0.1, default=0, name="slnt", tag="slnt", labelNames={"en": "slnt"}, map=[]),
 # 	dict(minimum=-1, maximum=1, default=0, name="YTRA", tag="YTRA", labelNames={"en": "YTRA"}, map=[]),
 	dict(minimum=323, maximum=603, default=468, name="XTRA", tag="XTRA", labelNames={"en": "XTRA"}, map=[]),
 	dict(minimum=27, maximum=175, default=96, name="XOPQ", tag="XOPQ", labelNames={"en": "XOPQ"}, map=[]),
