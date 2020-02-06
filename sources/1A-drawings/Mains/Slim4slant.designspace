@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="wght" minimum="100" maximum="1000" default="400"/>
+    <axis tag="opsz" name="opsz" minimum="14" maximum="144" default="14"/>
+    <axis tag="slnt" name="slnt" minimum="-10" maximum="1000" default="0"/>
+  </axes>
+  <sources>
+    <source filename="RobotoExtremo-Slant.ufo" familyname="RobotoExtremo" stylename="Slant">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-opsz144.ufo" familyname="RobotoExtremo" stylename="opsz144">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="144"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-wght100.ufo" familyname="RobotoExtremo" stylename="wght100">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-Regular.ufo" familyname="RobotoExtremo" stylename="Regular">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
