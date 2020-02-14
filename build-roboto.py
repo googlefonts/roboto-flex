@@ -309,6 +309,9 @@ sources = [
 # 	dict(path="master_ufo/RobotoExtremo-wdth151.ufo", name="RobotoExtremo-wdth151.ufo", location=dict(PWDT=867), styleName="wdth151", familyName=familyName, copyInfo=False),
 
 	dict(path="master_ufo/RobotoExtremo-Slant.ufo", name="RobotoExtremo-Slant.ufo", location=dict(slnt=-10, opsz=0), styleName="slnt-10", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz14-wght100-slnt-10.ufo", name="RobotoExtremo-opsz14-wght100-slnt-10.ufo", location=dict(slnt=-10, opsz=0, wght=100), styleName="opsz14-wght100-slnt-10", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-slnt-10.ufo", name="RobotoExtremo-opsz144-wght400-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wght=400), styleName="opsz144-wght400-slnt-10", familyName=familyName, copyInfo=False),
+	
 	dict(path="master_ufo/RobotoExtremo-Regular.ufo", name="RobotoExtremo-Regular.ufo", location=dict(slnt=0.1, opsz=0), styleName="slnt0.1", familyName=familyName, copyInfo=False),
 
 ##	Parametric
