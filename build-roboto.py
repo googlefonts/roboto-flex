@@ -312,7 +312,7 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-opsz14-wght100-slnt-10.ufo", name="RobotoExtremo-opsz14-wght100-slnt-10.ufo", location=dict(slnt=-10, opsz=0, wght=100), styleName="opsz14-wght100-slnt-10", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-slnt-10.ufo", name="RobotoExtremo-opsz144-wght400-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wght=400), styleName="opsz144-wght400-slnt-10", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-Regular.ufo", name="RobotoExtremo-Regular.ufo", location=dict(slnt=0.1, opsz=0), styleName="slnt0.1", familyName=familyName, copyInfo=False),
+	#dict(path="master_ufo/RobotoExtremo-Regular.ufo", name="RobotoExtremo-Regular.ufo", location=dict(slnt=0, opsz=0), styleName="slnt0", familyName=familyName, copyInfo=False),
 
 ##	Parametric
 	dict(path="master_ufo/RobotoExtremo-XOPQ27.ufo", name="RobotoExtremo-XOPQ27.ufo", location=dict(XOPQ=27, opsz=0), styleName="XOPQ27", familyName=familyName, copyInfo=False),
@@ -524,7 +524,7 @@ axes = [
 # 	dict(minimum=560, maximum=867, default=712, name="PWDT", tag="PWDT", labelNames={"en": "PWDT"}, map=[]),
 # 	dict(minimum=-1, maximum=1, default=0, name="POPS", tag="POPS", labelNames={"en": "POPS"}, map=[]),
 	dict(minimum=-1, maximum=1, default=0, name="GRAD", tag="GRAD", labelNames={"en": "GRAD"}, map=[]),
-	dict(minimum=-10, maximum=0.1, default=0, name="slnt", tag="slnt", labelNames={"en": "slnt"}, map=[]),
+	dict(minimum=-10, maximum=0, default=0, name="slnt", tag="slnt", labelNames={"en": "slnt"}, map=[]),
 # 	dict(minimum=-1, maximum=1, default=0, name="YTRA", tag="YTRA", labelNames={"en": "YTRA"}, map=[]),
 	dict(minimum=323, maximum=603, default=468, name="XTRA", tag="XTRA", labelNames={"en": "XTRA"}, map=[]),
 	dict(minimum=27, maximum=175, default=96, name="XOPQ", tag="XOPQ", labelNames={"en": "XOPQ"}, map=[]),
