@@ -249,9 +249,9 @@ instances = [
 #	dict(fileName="instances/RobotoExtremo-opsz144-wght100-wdth075.ufo", location=dict(wght=100, wdth=87, opsz=1), styleName="opsz144-wght100-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 #	dict(fileName="instances/RobotoExtremo-opsz144-wght100-wdth25.ufo", location=dict(wght=100, wdth=75, opsz=1), styleName="opsz144-wght100-wdth25", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 	
-#	dict(fileName="instances/RobotoExtremo-opsz144-wght900-wdth151.ufo", location=dict(wght=900, wdth=125, opsz=1), styleName="opsz144-wght900-wdth151", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-#	dict(fileName="instances/RobotoExtremo-opsz144-wght900-wdth075.ufo", location=dict(wght=900, wdth=76, opsz=1), styleName="opsz144-wght900-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-#	dict(fileName="instances/RobotoExtremo-opsz144-wght900-wdth25.ufo", location=dict(wght=900, wdth=75, opsz=1), styleName="opsz144-wght900-wdth25", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
+#	dict(fileName="instances/RobotoExtremo-opsz144-wght900-wdth151.ufo", location=dict(wght=1000, wdth=125, opsz=1), styleName="opsz144-wght900-wdth151", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
+#	dict(fileName="instances/RobotoExtremo-opsz144-wght900-wdth075.ufo", location=dict(wght=1000, wdth=76, opsz=1), styleName="opsz144-wght900-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
+#	dict(fileName="instances/RobotoExtremo-opsz144-wght900-wdth25.ufo", location=dict(wght=1000, wdth=75, opsz=1), styleName="opsz144-wght900-wdth25", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 	
 #	dict(fileName="instances/RobotoExtremo-opsz144-wdth151.ufo", location=dict(wght=400, wdth=125, opsz=1), styleName="opsz144-wdth151", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
 #	dict(fileName="instances/RobotoExtremo-opsz144-wdth075.ufo", location=dict(wght=400, wdth=80, opsz=1), styleName="opsz144-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
@@ -293,7 +293,7 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-GRAD1.ufo", name="RobotoExtremo-GRAD1.ufo", location=dict(GRAD=1, opsz=0), styleName="GRAD1", familyName=familyName, copyInfo=False),
 		
 	dict(path="master_ufo/RobotoExtremo-wght100.ufo", name="RobotoExtremo-wght100.ufo", location=dict(wght=100, opsz=0), styleName="wght100", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-wght900.ufo", name="RobotoExtremo-wght900.ufo", location=dict(wght=900, opsz=0), styleName="wght900", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-wght900.ufo", name="RobotoExtremo-wght900.ufo", location=dict(wght=1000, opsz=0), styleName="wght900", familyName=familyName, copyInfo=False),
 
 
 # 	dict(path="master_ufo/RobotoExtremo-wght100.ufo", name="RobotoExtremo-wght100.ufo", location=dict(PWGT=44), styleName="wght100", familyName=familyName, copyInfo=False),
@@ -372,37 +372,37 @@ sources = [
 #	dict(path="master_ufo/RobotoExtremo-opsz144-wdth075.ufo", name="RobotoExtremo-opsz144-wdth075.ufo", location=dict(wdth=80, opsz=1), styleName="opsz144-wdth25075", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wdth25.ufo", name="RobotoExtremo-opsz144-wdth25.ufo", location=dict(wdth=25, opsz=1), styleName="opsz144-wdth25", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900.ufo", name="RobotoExtremo-opsz144-wght900.ufo", location=dict(wght=900, opsz=1), styleName="opsz144-wght900", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900.ufo", name="RobotoExtremo-opsz144-wght900.ufo", location=dict(wght=1000, opsz=1), styleName="opsz144-wght900", familyName=familyName, copyInfo=False),
 #	dict(path="master_ufo/RobotoExtremo-opsz144-wght780.ufo", name="RobotoExtremo-opsz144-wght780.ufo", location=dict(wght=780, opsz=1), styleName="opsz144-wght780", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100.ufo", name="RobotoExtremo-opsz144-wght100.ufo", location=dict(wght=100, opsz=1), styleName="opsz144-wght100", familyName=familyName, copyInfo=False),
 	
 	dict(path="master_ufo/RobotoExtremo-opsz8-wdth151.ufo", name="RobotoExtremo-opsz8-wdth151.ufo", location=dict(wdth=151, opsz=-1), styleName="opsz8-wdth151", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz8-wdth25.ufo", name="RobotoExtremo-opsz8-wdth25.ufo", location=dict(wdth=25, opsz=-1), styleName="opsz8-wdth25", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-opsz8-wght900.ufo", name="RobotoExtremo-opsz8-wght900.ufo", location=dict(wght=900, opsz=-1), styleName="opsz8-wght900", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz8-wght900.ufo", name="RobotoExtremo-opsz8-wght900.ufo", location=dict(wght=1000, opsz=-1), styleName="opsz8-wght900", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz8-wght100.ufo", name="RobotoExtremo-opsz8-wght100.ufo", location=dict(wght=100, opsz=-1), styleName="opsz8-wght100", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-wght900-wdth25.ufo", name="RobotoExtremo-wght900-wdth25.ufo", location=dict(wdth=25, wght=900, opsz=0), styleName="wght900-wdth25", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-wght900-wdth25.ufo", name="RobotoExtremo-wght900-wdth25.ufo", location=dict(wdth=25, wght=1000, opsz=0), styleName="wght900-wdth25", familyName=familyName, copyInfo=False),
 	
 	
 ##	Trivars
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth151.ufo", name="RobotoExtremo-opsz144-wght100-wdth151.ufo", location=dict(wght=100, wdth=151, opsz=1), styleName="opsz144-wght100-wdth151", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth25.ufo", name="RobotoExtremo-opsz144-wght100-wdth25.ufo", location=dict(wght=100, wdth=25, opsz=1), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
 	
- 	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151.ufo", name="RobotoExtremo-opsz144-wght900-wdth151.ufo", location=dict(wght=900, opsz=1, wdth=151), styleName="opsz144-wght900-wdth151", familyName=familyName, copyInfo=False),
- 	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25.ufo", name="RobotoExtremo-opsz144-wght900-wdth25.ufo", location=dict(wght=900, opsz=1, wdth=25), styleName="opsz144-wght900-wdth25", familyName=familyName, copyInfo=False),
+ 	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151.ufo", name="RobotoExtremo-opsz144-wght900-wdth151.ufo", location=dict(wght=1000, opsz=1, wdth=151), styleName="opsz144-wght900-wdth151", familyName=familyName, copyInfo=False),
+ 	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25.ufo", name="RobotoExtremo-opsz144-wght900-wdth25.ufo", location=dict(wght=1000, opsz=1, wdth=25), styleName="opsz144-wght900-wdth25", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-opsz8-wght900-wdth25.ufo", name="RobotoExtremo-opsz8-wght900-wdth25.ufo", location=dict(wdth=25, wght=900, opsz=-1), styleName="opsz8-wght900-wdth25", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz8-wght900-wdth25.ufo", name="RobotoExtremo-opsz8-wght900-wdth25.ufo", location=dict(wdth=25, wght=1000, opsz=-1), styleName="opsz8-wght900-wdth25", familyName=familyName, copyInfo=False),
 
 
 ## Leveling intermediates
-# 	dict(path="master_ufo/RobotoExtremo-opsz14wght900.ufo", name="RobotoExtremo-opsz14wght900.ufo", location=dict(wght=900, opsz=0), styleName="opsz14wght900", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoExtremo-opsz18wght900.ufo", name="RobotoExtremo-opsz18wght900.ufo", location=dict(wght=900, opsz=18), styleName="opsz18wght900", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoExtremo-opsz14wght900.ufo", name="RobotoExtremo-opsz14wght900.ufo", location=dict(wght=1000, opsz=0), styleName="opsz14wght900", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoExtremo-opsz18wght900.ufo", name="RobotoExtremo-opsz18wght900.ufo", location=dict(wght=1000, opsz=18), styleName="opsz18wght900", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-opsz24wght100.ufo", name="RobotoExtremo-opsz24wght100.ufo", location=dict(wght=100, opsz=24), styleName="opsz24wght100", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoExtremo-opsz24wght900.ufo", name="RobotoExtremo-opsz24wght900.ufo", location=dict(wght=900, opsz=24), styleName="opsz24wght900", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoExtremo-opsz24wght900.ufo", name="RobotoExtremo-opsz24wght900.ufo", location=dict(wght=1000, opsz=24), styleName="opsz24wght900", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-opsz36wght100.ufo", name="RobotoExtremo-opsz36wght100.ufo", location=dict(wght=100, opsz=36), styleName="opsz36wght100", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-opsz36wght700.ufo", name="RobotoExtremo-opsz36wght700.ufo", location=dict(wght=700, opsz=36), styleName="opsz36wght900", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoExtremo-opsz36wght900.ufo", name="RobotoExtremo-opsz36wght900.ufo", location=dict(wght=900, opsz=36), styleName="opsz36wght900", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoExtremo-opsz36wght900.ufo", name="RobotoExtremo-opsz36wght900.ufo", location=dict(wght=1000, opsz=36), styleName="opsz36wght900", familyName=familyName, copyInfo=False),
 
 
 ## Figures
@@ -418,9 +418,9 @@ sources = [
 # 	dict(path="master_ufo/RobotoExtremo-opsz18-wght700.ufo", name="RobotoExtremo-opsz18-wght700.ufo", location=dict(wght=700, opsz=18), styleName="opsz18-wght700", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-opsz24-wght700.ufo", name="RobotoExtremo-opsz24-wght700.ufo", location=dict(wght=700, opsz=24), styleName="opsz24-wght700", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoExtremo-opsz36-wght700.ufo", name="RobotoExtremo-opsz36-wght700.ufo", location=dict(wght=700, opsz=36), styleName="opsz36-wght100", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoExtremo-opsz18-wght900.ufo", name="RobotoExtremo-opsz18-wght900.ufo", location=dict(wght=900, opsz=18), styleName="opsz18-wght900", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoExtremo-opsz24-wght900.ufo", name="RobotoExtremo-opsz24-wght900.ufo", location=dict(wght=900, opsz=24), styleName="opsz24-wght900", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoExtremo-opsz36-wght900.ufo", name="RobotoExtremo-opsz36-wght900.ufo", location=dict(wght=900, opsz=36), styleName="opsz36-wght900", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoExtremo-opsz18-wght900.ufo", name="RobotoExtremo-opsz18-wght900.ufo", location=dict(wght=1000, opsz=18), styleName="opsz18-wght900", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoExtremo-opsz24-wght900.ufo", name="RobotoExtremo-opsz24-wght900.ufo", location=dict(wght=1000, opsz=24), styleName="opsz24-wght900", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoExtremo-opsz36-wght900.ufo", name="RobotoExtremo-opsz36-wght900.ufo", location=dict(wght=1000, opsz=36), styleName="opsz36-wght900", familyName=familyName, copyInfo=False),
 # 	
 # 	
 # 	dict(path="master_ufo/RobotoExtremo-opsz24-wght100-wdth151.ufo", name="RobotoExtremo-opsz24-wght100-wdth151.ufo", location=dict(wght=100, opsz=24, wdth=151), styleName="opsz24-wght100-wdth151", familyName=familyName, copyInfo=False),
@@ -437,10 +437,10 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-GRAD1.ufo", name="RobotoExtremo-opsz144-wght100-GRAD1.ufo", location=dict(wght=100, opsz=1, GRAD=1), styleName="opsz144-wght100-GRAD1", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-GRAD-1.ufo", name="RobotoExtremo-opsz144-wght100-GRAD-1.ufo", location=dict(wght=100, opsz=1, GRAD=-1), styleName="opsz144-wght100-GRAD-1", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-GRAD1.ufo", name="RobotoExtremo-opsz144-wght900-GRAD1.ufo", location=dict(wght=900, opsz=1, GRAD=1), styleName="opsz144-wght900-GRAD1", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-GRAD-1.ufo", name="RobotoExtremo-opsz144-wght900-GRAD-1.ufo", location=dict(wght=900, opsz=1, GRAD=-1), styleName="opsz144-wght900-GRAD-1", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-GRAD1.ufo", name="RobotoExtremo-opsz144-wght900-GRAD1.ufo", location=dict(wght=1000, opsz=1, GRAD=1), styleName="opsz144-wght900-GRAD1", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-GRAD-1.ufo", name="RobotoExtremo-opsz144-wght900-GRAD-1.ufo", location=dict(wght=1000, opsz=1, GRAD=-1), styleName="opsz144-wght900-GRAD-1", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-GRAD1.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-GRAD1.ufo", location=dict(wght=900, opsz=1, wdth=25, GRAD=1), styleName="opsz144-wght900-wdth25-GRAD1", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-GRAD1.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-GRAD1.ufo", location=dict(wght=1000, opsz=1, wdth=25, GRAD=1), styleName="opsz144-wght900-wdth25-GRAD1", familyName=familyName, copyInfo=False),
 	
 	dict(path="master_ufo/RobotoExtremo-opsz8-wght100-GRAD-1.ufo", name="RobotoExtremo-opsz8-wght100-GRAD-1.ufo", location=dict(wght=100, opsz=0, GRAD=-1), styleName="opsz8-wght100-GRAD-1", familyName=familyName, copyInfo=False),
 	
@@ -457,16 +457,16 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100.ufo", name="RobotoExtremo-opsz144-wght100.ufo", location=dict(wght=100, opsz=1, wdth=100, XOPQ=27), styleName="opsz144-wght100", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-wdth25-XOPQ27.ufo", name="RobotoExtremo-opsz144-wght400-wdth25-XOPQ27.ufo", location=dict(wght=400, opsz=1, wdth=25, XOPQ=27), styleName="opsz144-wght400-wdth100-XOPQ27", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth25.ufo", name="RobotoExtremo-opsz144-wght100-wdth25.ufo", location=dict(wght=100, opsz=1, wdth=25, XOPQ=27), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-XOPQ27.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-XOPQ27.ufo", location=dict(wght=900, opsz=1, wdth=25, XOPQ=27), styleName="opsz144-wght900-wdth25-XOPQ27", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-XOPQ27.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-XOPQ27.ufo", location=dict(wght=1000, opsz=1, wdth=25, XOPQ=27), styleName="opsz144-wght900-wdth25-XOPQ27", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-wdth151-XOPQ27.ufo", name="RobotoExtremo-opsz144-wght400-wdth151-XOPQ27.ufo", location=dict(wght=400, opsz=1, wdth=151, XOPQ=27), styleName="opsz144-wght400-wdth151-XOPQ27", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth151.ufo", name="RobotoExtremo-opsz144-wght100-wdth151.ufo", location=dict(wght=100, opsz=1, wdth=151, XOPQ=27), styleName="opsz144-wght100-wdth151", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151-XOPQ27.ufo", name="RobotoExtremo-opsz144-wght900-wdth151-XOPQ27.ufo", location=dict(wght=900, opsz=1, wdth=151, XOPQ=27), styleName="opsz144-wght900-wdth151-XOPQ27", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151-XOPQ27.ufo", name="RobotoExtremo-opsz144-wght900-wdth151-XOPQ27.ufo", location=dict(wght=1000, opsz=1, wdth=151, XOPQ=27), styleName="opsz144-wght900-wdth151-XOPQ27", familyName=familyName, copyInfo=False),
  	
 # 	#XOPQ175
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-wdth25-XOPQ175.ufo", name="RobotoExtremo-opsz144-wght400-wdth25-XOPQ175.ufo", location=dict(wght=400, opsz=1, wdth=25, XOPQ=175), styleName="opsz144-wght400-wdth25-XOPQ175", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth25.ufo", name="RobotoExtremo-opsz144-wght100-wdth25.ufo", location=dict(wght=100, opsz=1, wdth=25, XOPQ=175), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-XOPQ175.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-XOPQ175.ufo", location=dict(wght=900, opsz=1, wdth=25, XOPQ=175), styleName="opsz144-wght900-wdth25-XOPQ175", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151-XOPQ175.ufo", name="RobotoExtremo-opsz144-wght900-wdth151-XOPQ175.ufo", location=dict(wght=900, opsz=1, wdth=151, XOPQ=175), styleName="opsz144-wght900-wdth151-XOPQ175", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-XOPQ175.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-XOPQ175.ufo", location=dict(wght=1000, opsz=1, wdth=25, XOPQ=175), styleName="opsz144-wght900-wdth25-XOPQ175", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151-XOPQ175.ufo", name="RobotoExtremo-opsz144-wght900-wdth151-XOPQ175.ufo", location=dict(wght=1000, opsz=1, wdth=151, XOPQ=175), styleName="opsz144-wght900-wdth151-XOPQ175", familyName=familyName, copyInfo=False),
  	
 # 	#YOPQ25
 	dict(path="master_ufo/RobotoExtremo-opsz8-wght100-wdth100-YOPQ25.ufo", name="RobotoExtremo-opsz8-wght100-wdth100-YOPQ25.ufo", location=dict(wght=100, opsz=-1, wdth=100, YOPQ=25), styleName="opsz8-wght100-wdth100-YOPQ25", familyName=familyName, copyInfo=False),
@@ -481,24 +481,24 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth25.ufo", name="RobotoExtremo-opsz144-wght100-wdth25.ufo", location=dict(wght=100, opsz=1, wdth=25, YOPQ=25), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-wdth151-YOPQ25.ufo", name="RobotoExtremo-opsz144-wght400-wdth151-YOPQ25.ufo", location=dict(wght=400, opsz=1, wdth=151, YOPQ=25), styleName="opsz144-wght400-wdth151-YOPQ25", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth151.ufo", name="RobotoExtremo-opsz144-wght100-wdth151.ufo", location=dict(wght=100, opsz=1, wdth=151, YOPQ=25), styleName="opsz144-wght100-wdth151", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151-YOPQ25.ufo", name="RobotoExtremo-opsz144-wght900-wdth151-YOPQ25.ufo", location=dict(wght=900, opsz=1, wdth=151, YOPQ=25), styleName="opsz144-wght900-wdth151-YOPQ25", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151-YOPQ25.ufo", name="RobotoExtremo-opsz144-wght900-wdth151-YOPQ25.ufo", location=dict(wght=1000, opsz=1, wdth=151, YOPQ=25), styleName="opsz144-wght900-wdth151-YOPQ25", familyName=familyName, copyInfo=False),
  	
 # 	#YOPQ135
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth100-YOPQ135.ufo", name="RobotoExtremo-opsz144-wght900-wdth100-YOPQ135.ufo", location=dict(wght=900, opsz=1, wdth=100, YOPQ=135), styleName="opsz144-wght900-wdth100-YOPQ135", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth100-YOPQ135.ufo", name="RobotoExtremo-opsz144-wght900-wdth100-YOPQ135.ufo", location=dict(wght=1000, opsz=1, wdth=100, YOPQ=135), styleName="opsz144-wght900-wdth100-YOPQ135", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-wdth25-YOPQ135.ufo", name="RobotoExtremo-opsz144-wght400-wdth25-YOPQ135.ufo", location=dict(wght=400, opsz=1, wdth=25, YOPQ=135), styleName="opsz144-wght400-wdth25-YOPQ135", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth25.ufo", name="RobotoExtremo-opsz144-wght100-wdth25.ufo", location=dict(wght=100, opsz=1, wdth=25, YOPQ=135), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-YOPQ135.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-YOPQ135.ufo", location=dict(wght=900, opsz=1, wdth=25, YOPQ=135), styleName="opsz144-wght900-wdth25-YOPQ135", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151-YOPQ135.ufo", name="RobotoExtremo-opsz144-wght900-wdth151-YOPQ135.ufo", location=dict(wght=900, opsz=1, wdth=151, YOPQ=135), styleName="opsz144-wght900-wdth151-YOPQ135", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-YOPQ135.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-YOPQ135.ufo", location=dict(wght=1000, opsz=1, wdth=25, YOPQ=135), styleName="opsz144-wght900-wdth25-YOPQ135", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth151-YOPQ135.ufo", name="RobotoExtremo-opsz144-wght900-wdth151-YOPQ135.ufo", location=dict(wght=1000, opsz=1, wdth=151, YOPQ=135), styleName="opsz144-wght900-wdth151-YOPQ135", familyName=familyName, copyInfo=False),
 
 #  	#XTRA323
-	dict(path="master_ufo/RobotoExtremo-opsz8-wght900-wdth25-XTRA323.ufo", name="RobotoExtremo-opsz8-wght900-wdth25-XTRA323.ufo", location=dict(wght=900, opsz=-1, wdth=25, XTRA=323), styleName="opsz8-wght900-wdth25-XTRA323", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz14-wght900-wdth100-XTRA323.ufo", name="RobotoExtremo-opsz14-wght900-wdth100-XTRA323.ufo", location=dict(wght=900, opsz=0, wdth=100, XTRA=323), styleName="opsz14-wght900-wdth100-XTRA323", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz14-wght900-wdth25-XTRA323.ufo", name="RobotoExtremo-opsz14-wght900-wdth25-XTRA323.ufo", location=dict(wght=900, opsz=0, wdth=25, XTRA=323), styleName="opsz14-wght900-wdth25-XTRA323", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz8-wght900-wdth25-XTRA323.ufo", name="RobotoExtremo-opsz8-wght900-wdth25-XTRA323.ufo", location=dict(wght=1000, opsz=-1, wdth=25, XTRA=323), styleName="opsz8-wght900-wdth25-XTRA323", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz14-wght900-wdth100-XTRA323.ufo", name="RobotoExtremo-opsz14-wght900-wdth100-XTRA323.ufo", location=dict(wght=1000, opsz=0, wdth=100, XTRA=323), styleName="opsz14-wght900-wdth100-XTRA323", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz14-wght900-wdth25-XTRA323.ufo", name="RobotoExtremo-opsz14-wght900-wdth25-XTRA323.ufo", location=dict(wght=1000, opsz=0, wdth=25, XTRA=323), styleName="opsz14-wght900-wdth25-XTRA323", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100.ufo", name="RobotoExtremo-opsz144-wght100.ufo", location=dict(wght=100, opsz=1, wdth=100, XTRA=323), styleName="opsz144-wght100", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth100-XTRA323.ufo", name="RobotoExtremo-opsz144-wght900-wdth100-XTRA323.ufo", location=dict(wght=900, opsz=1, wdth=100, XTRA=323), styleName="opsz144-wght900-wdth100-XTRA323", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth100-XTRA323.ufo", name="RobotoExtremo-opsz144-wght900-wdth100-XTRA323.ufo", location=dict(wght=1000, opsz=1, wdth=100, XTRA=323), styleName="opsz144-wght900-wdth100-XTRA323", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wdth25.ufo", name="RobotoExtremo-opsz144-wdth25.ufo", location=dict(wght=400, opsz=1, wdth=25, XTRA=323), styleName="opsz144-wdth25", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth25.ufo", name="RobotoExtremo-opsz144-wght100-wdth25.ufo", location=dict(wght=100, opsz=1, wdth=25, XTRA=323), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25.ufo", name="RobotoExtremo-opsz144-wght900-wdth25.ufo", location=dict(wght=900, opsz=1, wdth=25, XTRA=323), styleName="opsz144-wght900-wdth25", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25.ufo", name="RobotoExtremo-opsz144-wght900-wdth25.ufo", location=dict(wght=1000, opsz=1, wdth=25, XTRA=323), styleName="opsz144-wght900-wdth25", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-wdth100-XTRA323.ufo", name="RobotoExtremo-opsz144-wght400-wdth100-XTRA323.ufo", location=dict(wght=400, opsz=1, wdth=100, XTRA=323), styleName="opsz144-wght400-wdth100-XTRA323", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth151.ufo", name="RobotoExtremo-opsz144-wght100-wdth151.ufo", location=dict(wght=100, opsz=1, wdth=151, XTRA=323), styleName="opsz144-wght900-wdth25", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-wdth151-XTRA323.ufo", name="RobotoExtremo-opsz144-wght400-wdth151-XTRA323.ufo", location=dict(wght=400, opsz=1, wdth=151, XTRA=323), styleName="opsz144-wght400-wdth151-XTRA323", familyName=familyName, copyInfo=False),
@@ -508,16 +508,15 @@ sources = [
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth100-XTRA603.ufo", name="RobotoExtremo-opsz144-wght100-wdth100-XTRA603.ufo", location=dict(wght=100, opsz=1, wdth=100, XTRA=603), styleName="opsz144-wght100-wdth100-XTRA603", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght400-wdth25-XTRA603.ufo", name="RobotoExtremo-opsz144-wght400-wdth25-XTRA603.ufo", location=dict(wght=400, opsz=1, wdth=25, XTRA=603), styleName="opsz144-wght400-wdth25-XTRA603", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth25.ufo", name="RobotoExtremo-opsz144-wght100-wdth25.ufo", location=dict(wght=100, opsz=1, wdth=25, XTRA=603), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-XTRA603.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-XTRA603.ufo", location=dict(wght=900, opsz=1, wdth=25, XTRA=603), styleName="opsz144-wght900-wdth25-XTRA603", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoExtremo-opsz144-wght900-wdth25-XTRA603.ufo", name="RobotoExtremo-opsz144-wght900-wdth25-XTRA603.ufo", location=dict(wght=1000, opsz=1, wdth=25, XTRA=603), styleName="opsz144-wght900-wdth25-XTRA603", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoExtremo-opsz144-wght100-wdth151-XTRA603.ufo", name="RobotoExtremo-opsz144-wght100-wdth151-XTRA603.ufo", location=dict(wght=100, opsz=1, wdth=151, XTRA=603), styleName="opsz144-wght100-wdth151-XTRA603", familyName=familyName, copyInfo=False),
 	
 ]
 #instances = []
 axes = [
-	
 
 
-	dict(minimum=100, maximum=900, default=400, name="wght", tag="wght", labelNames={"en": "wght"}, map=[]),
+	dict(minimum=100, maximum=1000, default=400, name="wght", tag="wght", labelNames={"en": "wght"}, map=[]),
 	dict(minimum=25, maximum=151, default=100, name="wdth", tag="wdth", labelNames={"en": "wdth"}, map=[]),
 	dict(minimum=8, maximum=144, default=14, name="opsz", tag="opsz", labelNames={"en": "opsz"}, map=[(8.0, -1), (14.0, 0), (78.0, 0.492), (137.0, 0.946), (144.0, 1.0)]),
 # 	dict(minimum=44, maximum=150, default=94, name="PWGT", tag="PWGT", labelNames={"en": "PWGT"}, map=[]),
