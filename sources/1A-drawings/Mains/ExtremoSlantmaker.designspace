@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="wght" minimum="100" maximum="900" default="400">
+      <labelname xml:lang="en">weight</labelname>
+    </axis>
+    <axis tag="wdth" name="wdth" minimum="25" maximum="151" default="100">
+      <labelname xml:lang="en">width</labelname>
+    </axis>
+    <axis tag="opsz" name="opsz" minimum="8" maximum="144" default="14">
+      <labelname xml:lang="en">size</labelname>
+    </axis>
+    <axis tag="slnt" name="slnt" minimum="0" maximum="-1" default="0"/>
+  </axes>
+  <sources>
+    <source filename="RobotoExtremo-wght100.ufo" familyname="RobotoExtremo" stylename="wght100">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-Slant.ufo" familyname="RobotoExtremo" stylename="Slant">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-opsz144.ufo" familyname="RobotoExtremo" stylename="opsz144">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="144"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-wght900.ufo" familyname="RobotoExtremo" stylename="wght900">
+      <location>
+        <dimension name="wght" xvalue="900"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-wdth25.ufo" familyname="RobotoExtremo" stylename="wdth25">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-wdth151.ufo" familyname="RobotoExtremo" stylename="wdth151">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-opsz8.ufo" familyname="RobotoExtremo" stylename="opsz8">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="8"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoExtremo-Regular.ufo" familyname="RobotoExtremo" stylename="Regular">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="14"/>
+        <dimension name="slnt" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
