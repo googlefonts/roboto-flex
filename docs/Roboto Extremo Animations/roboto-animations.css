@@ -22,8 +22,6 @@
 	font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD' var(--GRAD);
 }
 
-
-
 /* Animate weight */
 .weight-animation {
 	animation: weight-animation 5s linear infinite alternate;
@@ -34,39 +32,15 @@
 	to   { font-weight: 1000; }
 }
 
-
-
 /* Animate width */
 .width-animation {
 	animation: width-animation 5s linear infinite alternate;
 }
 
 @keyframes width-animation {
-	/*
-
-	Animating font-stretch doesn't work in Chrome:
-	https://bugs.chromium.org/p/chromium/issues/detail?id=924353
-
-	from { font-stretch: 25%;  }
-	to   { font-stretch: 151%; }
-
-	*/
-
-	/*
-
-	Animating values of CSS variables is not possible,
-	so we have to animate `font-feature-settings` directly.
-
-	from { --wdth: 25; }
-	to   { --wdth: 151; }
-
-	*/
-
 	from { 	font-variation-settings: 'wdth'  25, 'slnt' var(--slnt), 'GRAD' var(--GRAD); }
 	to   { 	font-variation-settings: 'wdth' 151, 'slnt' var(--slnt), 'GRAD' var(--GRAD); }
 }
-
-
 
 /* Animate slant */
 .slant-animation {
@@ -74,21 +48,9 @@
 }
 
 @keyframes slant-animation {
-	/*
-
-	Animating values of CSS variables is not possible,
-	so we have to animate `font-feature-settings` directly.
-
-	from { --wdth: 25; }
-	to   { --wdth: 151; }
-
-	*/
-
 	from { 	font-variation-settings: 'wdth' var(--wdth), 'slnt' -10, 'GRAD' var(--GRAD); }
 	to   { 	font-variation-settings: 'wdth' var(--wdth), 'slnt'   0, 'GRAD' var(--GRAD); }
 }
-
-
 
 /* Animate grade */
 .grade-animation {
@@ -96,22 +58,9 @@
 }
 
 @keyframes grade-animation {
-	/*
-
-	Animating values of CSS variables is not possible,
-	so we have to animate `font-feature-settings` directly.
-
-	from { --wdth: 25; }
-	to   { --wdth: 151; }
-
-	*/
-
 	from { 	font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD' -1; }
 	to   { 	font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD'  1; }
 }
-
-
-
 
 /* Optical size demo */
 .opsz-demo-labels,
