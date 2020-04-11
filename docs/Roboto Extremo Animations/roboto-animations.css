@@ -115,7 +115,16 @@
 	justify-content: center;
 	width: 80px;
 	font-size: calc(var(--step) * var(--size));
+}
+
+#opsz-toggle:checked ~ .opsz-demo-row span {
 	transform: scale(calc(var(--steps) / var(--step)));
+}
+
+.opsz-letter {
+	font-size: 16px;
+	text-align: center;
+	margin-right: 3em;
 }
 
 /* Margin-top on the first element is to better align it */
