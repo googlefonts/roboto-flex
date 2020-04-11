@@ -91,15 +91,25 @@
 
 
 /* Optical size demo */
-.opsz-demo {
+.opsz-demo-labels,
+.opsz-demo-row {
 	display: flex;
 	align-items: stretch;
+	overflow: hidden;
 }
 
-.opsz-demo span {
+.opsz-demo-labels span {
+	flex: none;
+	width: 80px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.opsz-demo-row span {
 	--size: 8px;
 	--steps: 18; /* 144 / 8 */
 
+	flex: none;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -108,21 +118,22 @@
 	transform: scale(calc(var(--steps) / var(--step)));
 }
 
-.opsz-demo span:nth-child(1)  { --step:  1; }
-.opsz-demo span:nth-child(2)  { --step:  2; }
-.opsz-demo span:nth-child(3)  { --step:  3; }
-.opsz-demo span:nth-child(4)  { --step:  4; }
-.opsz-demo span:nth-child(5)  { --step:  5; }
-.opsz-demo span:nth-child(6)  { --step:  6; }
-.opsz-demo span:nth-child(7)  { --step:  7; }
-.opsz-demo span:nth-child(8)  { --step:  8; }
-.opsz-demo span:nth-child(9)  { --step:  9; }
-.opsz-demo span:nth-child(10) { --step: 10; }
-.opsz-demo span:nth-child(11) { --step: 11; }
-.opsz-demo span:nth-child(12) { --step: 12; }
-.opsz-demo span:nth-child(13) { --step: 13; }
-.opsz-demo span:nth-child(14) { --step: 14; }
-.opsz-demo span:nth-child(15) { --step: 15; }
-.opsz-demo span:nth-child(16) { --step: 16; }
-.opsz-demo span:nth-child(17) { --step: 17; }
-.opsz-demo span:nth-child(18) { --step: 18; }
+/* Margin-top on the first element is to better align it */
+.opsz-demo-row span:nth-child(1)  { --step:  1; margin-top: 0.5px; }
+.opsz-demo-row span:nth-child(2)  { --step:  2; }
+.opsz-demo-row span:nth-child(3)  { --step:  3; }
+.opsz-demo-row span:nth-child(4)  { --step:  4; }
+.opsz-demo-row span:nth-child(5)  { --step:  5; }
+.opsz-demo-row span:nth-child(6)  { --step:  6; }
+.opsz-demo-row span:nth-child(7)  { --step:  7; }
+.opsz-demo-row span:nth-child(8)  { --step:  8; }
+.opsz-demo-row span:nth-child(9)  { --step:  9; }
+.opsz-demo-row span:nth-child(10) { --step: 10; }
+.opsz-demo-row span:nth-child(11) { --step: 11; }
+.opsz-demo-row span:nth-child(12) { --step: 12; }
+.opsz-demo-row span:nth-child(13) { --step: 13; }
+.opsz-demo-row span:nth-child(14) { --step: 14; }
+.opsz-demo-row span:nth-child(15) { --step: 15; }
+.opsz-demo-row span:nth-child(16) { --step: 16; }
+.opsz-demo-row span:nth-child(17) { --step: 17; }
+.opsz-demo-row span:nth-child(18) { --step: 18; }
