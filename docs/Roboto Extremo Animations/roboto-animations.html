@@ -31,11 +31,17 @@
 
 		<hr>
 
+		<p class="roboto-extremo grade-animation">
+			Roboto Extremo has a Grade range of -1 to 1.
+		</p>
+
+		<hr>
+
 		<div class="roboto-extremo opsz-demo">
 			<p>Roboto Extremo has an Optical Size range of 8 to 144.</p>
 			Try character
 			<input type="text" maxlength="1" size="1" value="a" class="opsz-letter">
-			<input type="checkbox" id="opsz-toggle">
+			<input type="checkbox" id="opsz-toggle" checked>
 			<label for="opsz-toggle">Scale up characters</label>
 			<div class="opsz-demo-row">
 				<span>a</span>
@@ -78,8 +84,6 @@
 				<span>144px</span>
 			</div>
 		</div>
-
-		<hr>
 
 		<script>
 			document.querySelector(".opsz-letter").oninput = e => {

@@ -90,6 +90,29 @@
 
 
 
+/* Animate grade */
+.grade-animation {
+	animation: grade-animation 5s linear infinite alternate;
+}
+
+@keyframes grade-animation {
+	/*
+
+	Animating values of CSS variables is not possible,
+	so we have to animate `font-feature-settings` directly.
+
+	from { --wdth: 25; }
+	to   { --wdth: 151; }
+
+	*/
+
+	from { 	font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD' -1; }
+	to   { 	font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD'  1; }
+}
+
+
+
+
 /* Optical size demo */
 .opsz-demo-labels,
 .opsz-demo-row {
@@ -101,8 +124,8 @@
 .opsz-demo-labels span {
 	flex: none;
 	width: 80px;
-	text-align: center;
 	font-size: 12px;
+	text-align: center;
 }
 
 .opsz-demo-row span {
@@ -110,10 +133,10 @@
 	--steps: 18; /* 144 / 8 */
 
 	flex: none;
+	width: 80px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 80px;
 	font-size: calc(var(--step) * var(--size));
 }
 
