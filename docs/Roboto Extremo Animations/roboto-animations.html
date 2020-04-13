@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Roboto Extremo demo</title>
+		<link rel="stylesheet" type="text/css" href="roboto-animations.css">
+	</head>
+	<body>
+		<h1 class="roboto-extremo">
+			Roboto Extremo Animations
+		</h1>
+
+		<hr>
+
+		<p class="roboto-extremo weight-animation">
+			Roboto Extremo has a Weight range of 100 to 1000.
+		</p>
+
+		<hr>
+
+		<p class="roboto-extremo width-animation">
+			Roboto Extremo has a Width range of 25 to 151.
+		</p>
+
+		<hr>
+
+		<p class="roboto-extremo slant-animation">
+			Roboto Extremo has a Slant range of -10 to 0.
+		</p>
+
+		<hr>
+
+		<p class="roboto-extremo grade-animation">
+			Roboto Extremo has a Grade range of -1 to 1.
+		</p>
+
+		<hr>
+
+		<div class="roboto-extremo opsz-demo">
+			<p>Roboto Extremo has an Optical Size range of 8 to 144.</p>
+			Try character
+			<input type="text" maxlength="1" size="1" value="a" class="opsz-letter">
+			<input type="checkbox" id="opsz-toggle" checked>
+			<label for="opsz-toggle">Scale up characters</label>
+			<div class="opsz-demo-row">
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+				<span>a</span>
+			</div>
+			<div class="opsz-demo-labels">
+				<span>8px</span>
+				<span>16px</span>
+				<span>24px</span>
+				<span>32px</span>
+				<span>40px</span>
+				<span>48px</span>
+				<span>56px</span>
+				<span>64px</span>
+				<span>72px</span>
+				<span>80px</span>
+				<span>88px</span>
+				<span>96px</span>
+				<span>104px</span>
+				<span>112px</span>
+				<span>120px</span>
+				<span>128px</span>
+				<span>136px</span>
+				<span>144px</span>
+			</div>
+		</div>
+
+		<script>
+			document.querySelector(".opsz-letter").oninput = e => {
+				if(!e.target.value) return;
+				for(const s of document.querySelectorAll(".opsz-demo-row span")) {
+					s.innerText = e.target.value;
+				}
+			}
+		</script>
+
+	</body>
+</html>
