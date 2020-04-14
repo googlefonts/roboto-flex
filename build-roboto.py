@@ -309,17 +309,26 @@ sources = [
 # 	dict(path="master_ufo/RobotoFlex-wdth25.ufo", name="RobotoFlex-wdth25.ufo", location=dict(PWDT=560), styleName="wdth25", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-wdth151.ufo", name="RobotoFlex-wdth151.ufo", location=dict(PWDT=867), styleName="wdth151", familyName=familyName, copyInfo=False),
 
+##	Slant
+	
+	dict(path="master_ufo/RobotoFlex-opsz8-wght400-wdth100-slnt-10.ufo", name="RobotoFlex-opsz8-wght400-wdth100-slnt-10.ufo", location=dict(slnt=-10, opsz=-1, wght=400), styleName="opsz8-wght400-wdth100-slnt-10", familyName=familyName, copyInfo=False),
+	
 	dict(path="master_ufo/RobotoFlex-Slant.ufo", name="RobotoFlex-Slant.ufo", location=dict(slnt=-10, opsz=0), styleName="slnt-10", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz14-wght100-slnt-10.ufo", name="RobotoFlex-opsz14-wght100-slnt-10.ufo", location=dict(slnt=-10, opsz=0, wght=100), styleName="opsz14-wght100-slnt-10", familyName=familyName, copyInfo=False),
-#	dict(path="master_ufo/RobotoFlex-opsz144-wght400-slnt-10.ufo", name="RobotoFlex-opsz144-wght400-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wght=400), styleName="opsz144-wght400-slnt-10", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoFlex-opsz8-wght400-wdth100-slnt-10.ufo", name="RobotoFlex-opsz8-wght400-wdth100-slnt-10.ufo", location=dict(slnt=-10, opsz=-1, wght=400), styleName="opsz8-wght400-wdth100-slnt-10", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz14-wght400-wdth25-slnt-10.ufo", name="RobotoFlex-opsz14-wght400-wdth25-slnt-10.ufo", location=dict(slnt=-10, opsz=0, wdth=25, wght=400), styleName="opsz14-wght400-wdth25-slnt-10", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz14-wght400-wdth151-slnt-10.ufo", name="RobotoFlex-opsz14-wght400-wdth151-slnt-10.ufo", location=dict(slnt=-10, opsz=0, wdth=151, wght=400), styleName="opsz14-wght400-wdth151-slnt-10", familyName=familyName, copyInfo=False),
+	
 	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth25-slnt-10.ufo", name="RobotoFlex-opsz144-wght100-wdth25-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wdth=25, wght=100), styleName="opsz144-wght100-wdth25-slnt-10", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth100-slnt-1.ufo", name="RobotoFlex-opsz144-wght100-wdth100-slnt-1.ufo", location=dict(slnt=-10, opsz=1, wdth=100, wght=100), styleName="opsz144-wght100-wdth100-slnt-1", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth151-slnt-10.ufo", name="RobotoFlex-opsz144-wght100-wdth151-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wdth=151, wght=100), styleName="opsz144-wght100-wdth151-slnt-10", familyName=familyName, copyInfo=False),
+	
+	dict(path="master_ufo/RobotoFlex-opsz144-wght400-wdth25-slnt-1.ufo", name="RobotoFlex-opsz144-wght400-wdth25-slnt-1.ufo", location=dict(slnt=-10, opsz=1, wdth=25, wght=400), styleName="opsz144-wght400-wdth25-slnt-10", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz144-wght400-wdth100-slnt-10.ufo", name="RobotoFlex-opsz144-wght400-wdth100-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wght=400), styleName="opsz144-wght400-wdth100-slnt-10", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth25-slnt-10.ufo", name="RobotoFlex-opsz144-wght900-wdth25-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wdth=25, wght=900), styleName="opsz144-wght900-wdth25-slnt-10", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth151-slnt-10.ufo", name="RobotoFlex-opsz144-wght900-wdth151-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wdth=151, wght=900), styleName="opsz144-wght900-wdth151-slnt-10", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz144-wght400-wdth151-slnt-1.ufo", name="RobotoFlex-opsz144-wght400-wdth151-slnt-1.ufo", location=dict(slnt=-10, opsz=1, wdth=151, wght=400), styleName="opsz144-wght400-wdth151-slnt-1", familyName=familyName, copyInfo=False),
+	
+	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth25-slnt-10.ufo", name="RobotoFlex-opsz144-wght900-wdth25-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wdth=25, wght=1000), styleName="opsz144-wght900-wdth25-slnt-10", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth100-slnt-1.ufo", name="RobotoFlex-opsz144-wght900-wdth100-slnt-1.ufo", location=dict(slnt=-10, opsz=1, wdth=100, wght=1000), styleName="opsz144-wght900-wdth100-slnt-1", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth151-slnt-10.ufo", name="RobotoFlex-opsz144-wght900-wdth151-slnt-10.ufo", location=dict(slnt=-10, opsz=1, wdth=151, wght=1000), styleName="opsz144-wght900-wdth151-slnt-10", familyName=familyName, copyInfo=False),
 
 	
 	#dict(path="master_ufo/RobotoFlex-Regular.ufo", name="RobotoFlex-Regular.ufo", location=dict(slnt=0, opsz=0), styleName="slnt0", familyName=familyName, copyInfo=False),
@@ -569,7 +578,7 @@ doc = buildDesignSpace(sources, instances, axes)
 #add rule for dollar. Needs to be after doc = buildDesignSpace() because this doc is a DesignSpaceDocument(), rather than the doc above which is a DesignSpaceDocumentReader() object
 r1 = RuleDescriptor()
 r1.name = "dollar-stroke-wght"
-r1.conditions.append(dict(name="wght", minimum=600, maximum=900))
+r1.conditions.append(dict(name="wght", minimum=600, maximum=1000))
 r1.subs.append(("dollar", "dollar.rvrn"))
 doc.addRule(r1)
 	
