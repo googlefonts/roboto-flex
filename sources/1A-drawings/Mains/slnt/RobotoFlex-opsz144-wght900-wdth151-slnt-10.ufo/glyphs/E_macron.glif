@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Emacron" format="2">
-  <advance width="1776"/>
+  <advance width="1741"/>
   <unicode hex="0112"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="391" yOffset="-119"/>
+    <component base="macroncomb.case" xOffset="361.5" yOffset="-19"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

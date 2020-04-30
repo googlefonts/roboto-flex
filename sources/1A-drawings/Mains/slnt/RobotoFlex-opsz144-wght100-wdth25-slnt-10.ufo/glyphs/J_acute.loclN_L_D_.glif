@@ -2,7 +2,13 @@
 <glyph name="Jacute.loclNLD" format="2">
   <advance width="167"/>
   <outline>
-    <component base="J" yxScale="0.17632698070846498"/>
-    <component base="acutecomb.case" yxScale="0.17632698070846498" xOffset="6.4554985015880595" yOffset="-26"/>
+    <component base="J"/>
+    <component base="acutecomb.case" xOffset="-59.0728966461902" yOffset="74"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

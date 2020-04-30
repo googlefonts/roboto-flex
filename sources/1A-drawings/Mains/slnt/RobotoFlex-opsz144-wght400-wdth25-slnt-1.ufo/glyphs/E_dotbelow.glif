@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edotbelow" format="2">
-  <advance width="297"/>
+  <advance width="303"/>
   <unicode hex="1EB8"/>
   <outline>
-    <component base="E" yxScale="0.1454697590844836"/>
-    <component base="dotbelowcomb.case" yxScale="0.1454697590844836" xOffset="-23.96308867295859" yOffset="12.724999999999994"/>
+    <component base="E"/>
+    <component base="dotbelowcomb.case" xOffset="-371.98304487661517" yOffset="-82.37500000000205"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

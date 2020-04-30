@@ -2,8 +2,14 @@
 <glyph name="ijacute" format="2">
   <advance width="203"/>
   <outline>
-    <component base="i" yxScale="0.17632698070846498"/>
-    <component base="jdotless" yxScale="0.17632698070846498" xOffset="106"/>
-    <component base="acutecomb" yxScale="0.17632698070846498" xOffset="4.58938415433228" yOffset="-8"/>
+    <component base="i"/>
+    <component base="jdotless" xOffset="106"/>
+    <component base="acutecomb" xOffset="-71.18863215303281" yOffset="242"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

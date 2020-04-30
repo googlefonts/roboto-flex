@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Jacute.loclNLD" format="2">
-  <advance width="311"/>
+  <advance width="307"/>
   <outline>
-    <component base="J" yxScale="0.1454697590844836"/>
-    <component base="acutecomb.case" yxScale="0.1454697590844836" xOffset="36.440786263797946" yOffset="-29.325000000000003"/>
+    <component base="J"/>
+    <component base="acutecomb.case" xOffset="50.178657216369174" yOffset="70.67499999999995"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

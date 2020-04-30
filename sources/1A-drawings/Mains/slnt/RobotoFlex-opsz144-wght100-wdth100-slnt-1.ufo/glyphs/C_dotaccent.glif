@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Cdotaccent" format="2">
-  <advance width="1012"/>
+  <advance width="985"/>
   <unicode hex="010A"/>
   <outline>
-    <component base="C" yxScale="0.08536464939060606"/>
-    <component base="dotaccentcomb.case" yxScale="0.08536464939060606" xOffset="219.3632067792393" yOffset="-7.7063492063492065"/>
+    <component base="C"/>
+    <component base="dotaccentcomb.case" xOffset="109.27422961691627" yOffset="40.70634920634916"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

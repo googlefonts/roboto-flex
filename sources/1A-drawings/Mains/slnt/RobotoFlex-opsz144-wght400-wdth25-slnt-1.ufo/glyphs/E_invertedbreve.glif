@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Einvertedbreve" format="2">
-  <advance width="297"/>
+  <advance width="303"/>
   <unicode hex="0206"/>
   <outline>
-    <component base="E" yxScale="0.1454697590844836"/>
-    <component base="breveinvertedcomb.case" yxScale="0.1454697590844836" xOffset="-23.199243977112104" yOffset="-33.400000000000006"/>
+    <component base="E"/>
+    <component base="breveinvertedcomb.case" xOffset="-142.49935236290912" yOffset="66.59999999999991"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

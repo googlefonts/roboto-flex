@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ydotbelow" format="2">
-  <advance width="299"/>
+  <advance width="295"/>
   <unicode hex="1EF5"/>
   <outline>
-    <component base="y" yxScale="0.1454697590844836"/>
-    <component base="dotbelowcomb" yxScale="0.1454697590844836" xOffset="77.22147803115143" yOffset="50.112000000002"/>
+    <component base="y"/>
+    <component base="dotbelowcomb" xOffset="256.5389485088526" yOffset="-50.90080511945962"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

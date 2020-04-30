@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lacute" format="2">
-  <advance width="1281"/>
+  <advance width="1278"/>
   <unicode hex="0139"/>
   <outline>
     <component base="L"/>
-    <component base="acutecomb.case" xOffset="77.7568750000286" yOffset="17.225"/>
+    <component base="acutecomb.case" xOffset="-84.15625000011642" yOffset="35.34999999999991"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

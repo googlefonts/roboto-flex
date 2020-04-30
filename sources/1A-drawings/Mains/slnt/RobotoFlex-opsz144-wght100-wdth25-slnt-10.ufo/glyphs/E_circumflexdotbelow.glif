@@ -3,8 +3,14 @@
   <advance width="193"/>
   <unicode hex="1EC6"/>
   <outline>
-    <component base="E" yxScale="0.17632698070846498"/>
-    <component base="circumflexcomb.case" yxScale="0.17632698070846498" xOffset="5.471019057874605" yOffset="-3"/>
-    <component base="dotbelowcomb.case" yxScale="0.17632698070846498" xOffset="-4.65222869449526" yOffset="36"/>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="-141.06154525734019" yOffset="97"/>
+    <component base="dotbelowcomb.case" xOffset="-418.97613808831375" yOffset="-64"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

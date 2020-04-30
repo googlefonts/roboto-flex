@@ -3,7 +3,13 @@
   <advance width="835"/>
   <unicode hex="015E"/>
   <outline>
-    <component base="S" yxScale="0.08536464939060606"/>
-    <component base="cedillacomb.case" yxScale="0.08536464939060606" xOffset="102.63321107892926" yOffset="-33.698412698412696"/>
+    <component base="S"/>
+    <component base="cedillacomb.case" xOffset="160.09173026520875" yOffset="10.3333333333334"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

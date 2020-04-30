@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odotbelow" format="2">
-  <advance width="1536"/>
+  <advance width="1492"/>
   <unicode hex="1ECC"/>
   <outline>
     <component base="O"/>
-    <component base="dotbelowcomb.case" xOffset="255.9199999999255" yOffset="-95"/>
+    <component base="dotbelowcomb.case" xOffset="234.4790371923009" yOffset="-95"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>
