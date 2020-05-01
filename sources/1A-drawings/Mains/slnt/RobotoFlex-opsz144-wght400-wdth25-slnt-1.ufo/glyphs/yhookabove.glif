@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yhookabove" format="2">
-  <advance width="299"/>
+  <advance width="295"/>
   <unicode hex="1EF7"/>
   <outline>
-    <component base="y" yxScale="0.1454697590844836"/>
-    <component base="hookabovecomb" yxScale="0.1454697590844836" xOffset="-23.36234072272365" yOffset="10"/>
+    <component base="y"/>
+    <component base="hookabovecomb" xOffset="-214.80539010515804" yOffset="254.75"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

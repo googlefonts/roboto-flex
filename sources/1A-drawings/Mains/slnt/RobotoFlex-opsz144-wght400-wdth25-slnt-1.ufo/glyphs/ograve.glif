@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve" format="2">
-  <advance width="348"/>
+  <advance width="344"/>
   <unicode hex="00F2"/>
   <outline>
-    <component base="o" yxScale="0.1454697590844836"/>
-    <component base="gravecomb" yxScale="0.1454697590844836" xOffset="2.661241927330323" yOffset="-12.55"/>
+    <component base="o"/>
+    <component base="gravecomb" xOffset="-262.58903240493237" yOffset="232.20000000000005"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

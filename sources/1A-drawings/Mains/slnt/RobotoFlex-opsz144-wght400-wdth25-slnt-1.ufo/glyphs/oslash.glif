@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash" format="2">
-  <advance width="348"/>
+  <advance width="344"/>
   <unicode hex="00F8"/>
   <outline>
-    <component base="o" yxScale="0.1454697590844836"/>
-    <component base="diagonalbaro" yxScale="0.1454697590844836" xOffset="47.256544336479294" yOffset="-23.25"/>
+    <component base="o"/>
+    <component base="diagonalbaro" xOffset="38.60078500521195" yOffset="-25.3125"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

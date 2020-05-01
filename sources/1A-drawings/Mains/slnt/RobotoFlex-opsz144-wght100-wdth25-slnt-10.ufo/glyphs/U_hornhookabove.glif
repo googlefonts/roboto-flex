@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uhornhookabove" format="2">
-  <advance width="359"/>
+  <advance width="460"/>
   <unicode hex="1EEC"/>
   <outline>
-    <component base="Uhorn" yxScale="0.17632698070846498"/>
-    <component base="hookabovecomb.case" yxScale="0.17632698070846498" xOffset="33.078980942142856" yOffset="3"/>
+    <component base="Uhorn"/>
+    <component base="hookabovecomb.case" xOffset="-128.47482300183037" yOffset="103"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

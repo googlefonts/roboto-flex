@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorntilde" format="2">
-  <advance width="1513"/>
+  <advance width="1477"/>
   <unicode hex="1EEF"/>
   <outline>
     <component base="uhorn"/>
-    <component base="tildecomb" xOffset="174.5" yOffset="14"/>
+    <component base="tildecomb" xOffset="113.08619718306" yOffset="184"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

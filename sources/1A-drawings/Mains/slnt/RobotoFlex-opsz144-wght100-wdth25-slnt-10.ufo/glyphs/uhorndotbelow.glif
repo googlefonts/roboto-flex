@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorndotbelow" format="2">
-  <advance width="308"/>
+  <advance width="345"/>
   <unicode hex="1EF1"/>
   <outline>
-    <component base="uhorn" yxScale="0.17632698070846498"/>
-    <component base="dotbelowcomb" yxScale="0.17632698070846498" xOffset="-19.578958887412938" yOffset="46"/>
+    <component base="uhorn"/>
+    <component base="dotbelowcomb" xOffset="94.3281814559773" yOffset="-22"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

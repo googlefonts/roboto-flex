@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresismacron" format="2">
-  <advance width="348"/>
+  <advance width="344"/>
   <unicode hex="022B"/>
   <outline>
-    <component base="o" yxScale="0.1454697590844836"/>
-    <component base="dieresiscomb" yxScale="0.1454697590844836" xOffset="-15.865016145351738" yOffset="-6.549999999999997"/>
-    <component base="macroncomb" yxScale="0.1454697590844836" xOffset="-18.80025397309995" yOffset="119.07499999999999"/>
+    <component base="o"/>
+    <component base="dieresiscomb" xOffset="-251.12196196627337" yOffset="238.20000000000005"/>
+    <component base="macroncomb" xOffset="-253.8758145638858" yOffset="408.8749999999884"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

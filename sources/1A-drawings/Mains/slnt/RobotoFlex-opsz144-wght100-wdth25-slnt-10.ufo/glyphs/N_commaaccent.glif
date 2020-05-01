@@ -3,7 +3,13 @@
   <advance width="259"/>
   <unicode hex="0145"/>
   <outline>
-    <component base="N" yxScale="0.17632698070846498"/>
-    <component base="commaaccentcomb.case" yxScale="0.17632698070846498" xOffset="-3.0726098519873624" yOffset="96"/>
+    <component base="N"/>
+    <component base="commaaccentcomb.case" xOffset="174.54666091509898" yOffset="-174"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

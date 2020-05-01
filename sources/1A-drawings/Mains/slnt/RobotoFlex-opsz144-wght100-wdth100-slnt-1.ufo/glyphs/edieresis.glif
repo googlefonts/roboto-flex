@@ -3,7 +3,13 @@
   <advance width="699"/>
   <unicode hex="00EB"/>
   <outline>
-    <component base="e" yxScale="0.08536464939060606"/>
-    <component base="dieresiscomb" yxScale="0.08536464939060606" xOffset="42.60241957800427" yOffset="4.11904761904762"/>
+    <component base="e"/>
+    <component base="dieresiscomb" xOffset="-109.6053677315067" yOffset="212.84920634920638"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

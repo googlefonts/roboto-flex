@@ -3,8 +3,14 @@
   <advance width="674"/>
   <unicode hex="01FB"/>
   <outline>
-    <component base="a" yxScale="0.08536464939060606"/>
-    <component base="ringcomb" yxScale="0.08536464939060606" xOffset="-18.059240675084936" yOffset="44.17460317460318"/>
-    <component base="acutecomb" yxScale="0.08536464939060606" xOffset="47.921898096049766" yOffset="375.76984126984127"/>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="-193.89229918878118" yOffset="252.90476190476193"/>
+    <component base="acutecomb" xOffset="-93.89229918878124" yOffset="618.3888888889037"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

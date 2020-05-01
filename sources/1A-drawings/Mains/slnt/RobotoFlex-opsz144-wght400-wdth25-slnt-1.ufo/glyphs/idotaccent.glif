@@ -2,7 +2,13 @@
 <glyph name="idotaccent" format="2">
   <advance width="177"/>
   <outline>
-    <component base="idotless" yxScale="0.1454697590844836"/>
-    <component base="dotaccent" yxScale="0.1454697590844836" xOffset="-106.32516734992933" yOffset="-5.75"/>
+    <component base="idotless"/>
+    <component base="dotaccent" xOffset="-189.8262744382955" yOffset="239"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

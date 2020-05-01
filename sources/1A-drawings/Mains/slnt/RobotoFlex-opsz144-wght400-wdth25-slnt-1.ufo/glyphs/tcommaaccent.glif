@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcommaaccent" format="2">
-  <advance width="205"/>
+  <advance width="201"/>
   <unicode hex="021B"/>
   <outline>
-    <component base="t" yxScale="0.1454697590844836"/>
-    <component base="commaaccentcomb" yxScale="0.1454697590844836" xOffset="-95.55990312788958" yOffset="84.625"/>
+    <component base="t"/>
+    <component base="commaaccentcomb" xOffset="39.493224496834955" yOffset="-155.625"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

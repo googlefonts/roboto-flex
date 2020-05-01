@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Otildemacron" format="2">
-  <advance width="1536"/>
+  <advance width="1492"/>
   <unicode hex="022C"/>
   <outline>
     <component base="O"/>
-    <component base="tildecombstack.case" xOffset="242.4199999999255" yOffset="3"/>
-    <component base="macroncombstack.case" xOffset="255.9199999999255" yOffset="364"/>
+    <component base="tildecombstack.case" xOffset="220.9790371923009" yOffset="-57"/>
+    <component base="macroncombstack.case" xOffset="234.4790371923009" yOffset="304"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

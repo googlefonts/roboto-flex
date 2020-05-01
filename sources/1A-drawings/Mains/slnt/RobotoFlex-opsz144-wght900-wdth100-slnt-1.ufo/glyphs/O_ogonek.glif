@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oogonek" format="2">
-  <advance width="1630"/>
+  <advance width="1586"/>
   <unicode hex="01EA"/>
   <outline>
     <component base="O"/>
-    <component base="ogonekcomb.case" xOffset="297.5485714286099" yOffset="4.642857142857143"/>
+    <component base="ogonekcomb.case" xOffset="544.6950720828318" yOffset="18.492063492063494"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

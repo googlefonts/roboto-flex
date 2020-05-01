@@ -3,7 +3,13 @@
   <advance width="322"/>
   <unicode hex="1EA2"/>
   <outline>
-    <component base="A" yxScale="0.1454697590844836"/>
-    <component base="hookabovecomb.case" yxScale="0.1454697590844836" xOffset="0.6576592772630576" yOffset="-4"/>
+    <component base="A"/>
+    <component base="hookabovecomb.case" xOffset="-112.26153091271408" yOffset="96"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

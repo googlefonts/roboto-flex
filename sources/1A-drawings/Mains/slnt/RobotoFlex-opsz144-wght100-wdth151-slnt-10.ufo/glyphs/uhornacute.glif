@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhornacute" format="2">
-  <advance width="1513"/>
+  <advance width="1477"/>
   <unicode hex="1EE9"/>
   <outline>
     <component base="uhorn"/>
-    <component base="acutecomb" xOffset="354.679999999993" yOffset="72"/>
+    <component base="acutecomb" xOffset="295.99036619713297" yOffset="242"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,7 +3,13 @@
   <advance width="106"/>
   <unicode hex="012F"/>
   <outline>
-    <component base="i" yxScale="0.17632698070846498"/>
-    <component base="ogonekcomb" yxScale="0.17632698070846498" xOffset="-41.580000000001746"/>
+    <component base="i"/>
+    <component base="ogonekcomb" xOffset="87.63768779413749" yOffset="-185"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

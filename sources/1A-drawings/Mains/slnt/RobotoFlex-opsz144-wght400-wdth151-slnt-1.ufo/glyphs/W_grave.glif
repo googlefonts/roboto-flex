@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Wgrave" format="2">
-  <advance width="2341"/>
+  <advance width="2332"/>
   <unicode hex="1E80"/>
   <outline>
     <component base="W"/>
-    <component base="gravecomb.case" xOffset="711.4625" yOffset="17.225"/>
+    <component base="gravecomb.case" xOffset="835.2031250001164" yOffset="35.34999999999991"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

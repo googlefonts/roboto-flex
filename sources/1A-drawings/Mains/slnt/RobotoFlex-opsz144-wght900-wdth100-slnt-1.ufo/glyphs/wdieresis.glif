@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wdieresis" format="2">
-  <advance width="1874"/>
+  <advance width="1866"/>
   <unicode hex="1E85"/>
   <outline>
     <component base="w"/>
-    <component base="dieresiscomb" xOffset="425.49603174603175" yOffset="38"/>
+    <component base="dieresiscomb" xOffset="441.6547619047342" yOffset="258"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

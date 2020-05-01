@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ymacron" format="2">
-  <advance width="299"/>
+  <advance width="295"/>
   <unicode hex="0233"/>
   <outline>
-    <component base="y" yxScale="0.1454697590844836"/>
-    <component base="macroncomb" yxScale="0.1454697590844836" xOffset="-45.33940325437094" yOffset="-25.549999999999997"/>
+    <component base="y"/>
+    <component base="macroncomb" xOffset="-358.8679397728529" yOffset="214.25"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>
