@@ -17,52 +17,81 @@
 }
 
 /* Apply the font and any font-variation-settings */
-.roboto-extremo {
+.roboto-flex {
 	font-family: "Roboto Flex", monospace;
 	font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD' var(--GRAD);
 }
 
+p.roboto-flex {
+	font-size: 1.5em;
+	margin: 0;
+}
+
+/* Demos */
+.demo {
+	margin: 2em 0;
+}
+
+/* CSS example code */
+.css {
+	display: block;
+	font-family: monospace;
+	white-space: pre-line;
+	color: #444;
+	margin-bottom: 1em;
+}
+
+/* Faux indent */
+.css i {
+	display: inline-block;
+	width: 2em;
+}
+
 /* Animate weight */
 .weight-animation {
-	animation: weight-animation 5s linear infinite alternate;
+	animation: weight-animation 5s ease-in-out infinite alternate;
 }
 
 @keyframes weight-animation {
-	from { font-weight: 100;  }
-	to   { font-weight: 1000; }
+	0%,10%   { font-weight: 100;  }
+	90%,100% { font-weight: 1000; }
 }
 
 /* Animate width */
 .width-animation {
-	animation: width-animation 5s linear infinite alternate;
+	animation: width-animation 5s ease-in-out infinite alternate;
 }
 
 @keyframes width-animation {
-	from { 	font-variation-settings: 'wdth'  25, 'slnt' var(--slnt), 'GRAD' var(--GRAD); }
-	to   { 	font-variation-settings: 'wdth' 151, 'slnt' var(--slnt), 'GRAD' var(--GRAD); }
+	0%,10%   { font-variation-settings: 'wdth'  25, 'slnt' var(--slnt), 'GRAD' var(--GRAD); }
+	90%,100% { font-variation-settings: 'wdth' 151, 'slnt' var(--slnt), 'GRAD' var(--GRAD); }
 }
 
 /* Animate slant */
 .slant-animation {
-	animation: slant-animation 5s linear infinite alternate;
+	animation: slant-animation 5s ease-in-out infinite alternate;
 }
 
 @keyframes slant-animation {
-	from { 	font-variation-settings: 'wdth' var(--wdth), 'slnt' -10, 'GRAD' var(--GRAD); }
-	to   { 	font-variation-settings: 'wdth' var(--wdth), 'slnt'   0, 'GRAD' var(--GRAD); }
+	0%,10%   { font-variation-settings: 'wdth' var(--wdth), 'slnt' -10, 'GRAD' var(--GRAD); }
+	90%,100% { font-variation-settings: 'wdth' var(--wdth), 'slnt'   0, 'GRAD' var(--GRAD); }
 }
 
 /* Animate grade */
 .grade-animation {
-	animation: grade-animation 5s linear infinite alternate;
+	animation: grade-animation 5s ease-in-out infinite alternate;
 }
 
 @keyframes grade-animation {
-	from { 	font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD' -1; }
-	to   { 	font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD'  1; }
+	0%,10%   { font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD' -1; }
+	90%,100% { font-variation-settings: 'wdth' var(--wdth), 'slnt' var(--slnt), 'GRAD'  1; }
 }
 
 /* Optical size demo */
+.opsz-text {
+	padding-bottom: 1em;
+}
+
 .opsz-demo-labels,
 .opsz-demo-row {
 	display: flex;

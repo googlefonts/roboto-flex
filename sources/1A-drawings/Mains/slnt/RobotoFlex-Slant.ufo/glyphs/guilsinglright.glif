@@ -2,17 +2,17 @@
 <glyph name="guilsinglright" format="2">
   <advance width="652"/>
   <unicode hex="203A"/>
-  <guideline x="0.0" y="901.0" angle="0.0" identifier="Amp5Ormvx4"/>
-  <guideline x="0.0" y="555.0" angle="0.0" identifier="JDX5vz3jKp"/>
+  <guideline x="30.870609618326938" y="901.0" angle="0.0" identifier="Amp5Ormvx4"/>
+  <guideline x="-30.138525706801943" y="555.0" angle="0.0" identifier="JDX5vz3jKp"/>
   <outline>
     <contour>
-      <point x="87" y="153" type="line"/>
-      <point x="345" y="551" type="line"/>
-      <point x="87" y="949" type="line"/>
-      <point x="249" y="949" type="line"/>
-      <point x="544" y="581" type="line"/>
-      <point x="544" y="522" type="line"/>
-      <point x="249" y="153" type="line"/>
+      <point x="-14.021971951604854" y="153.0" type="line"/>
+      <point x="314.1561663703642" y="551.0" type="line"/>
+      <point x="126.33430469233326" y="949.0" type="line"/>
+      <point x="288.33430469233326" y="949.0" type="line"/>
+      <point x="518.4459757916181" y="581.0" type="line"/>
+      <point x="508.04268392981874" y="522.0" type="line"/>
+      <point x="147.97802804839512" y="153.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,6 +21,8 @@
       <real>5.0</real>
       <key>com.typemytype.robofont.guideline.magnetic.JDX5vz3jKp</key>
       <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>
