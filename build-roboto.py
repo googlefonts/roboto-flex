@@ -537,7 +537,7 @@ axes = [
 
 	dict(minimum=100, maximum=1000, default=400, name="wght", tag="wght", labelNames={"en": "wght"}, map=[]),
 	dict(minimum=25, maximum=151, default=100, name="wdth", tag="wdth", labelNames={"en": "wdth"}, map=[]),
-	dict(minimum=8, maximum=144, default=14, name="opsz", tag="opsz", labelNames={"en": "opsz"}, map=[ (8.0, -1), (14.0, 0), (24.0, 0.077), (36.0, 0.492), (84.0, 0.946), (144.0, 1.0) ]),
+	dict(minimum=8, maximum=144, default=14, name="opsz", tag="opsz", labelNames={"en": "opsz"}, map=[ (8.0, -1), (14.0, 0), (36.0, 0.492), (84.0, 0.946), (144.0, 1.0) ]),
 # 	dict(minimum=44, maximum=150, default=94, name="PWGT", tag="PWGT", labelNames={"en": "PWGT"}, map=[]),
 # 	dict(minimum=560, maximum=867, default=712, name="PWDT", tag="PWDT", labelNames={"en": "PWDT"}, map=[]),
 # 	dict(minimum=-1, maximum=1, default=0, name="POPS", tag="POPS", labelNames={"en": "POPS"}, map=[]),
