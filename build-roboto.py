@@ -413,6 +413,12 @@ sources = [
 	
 	dict(path="master_ufo/RobotoFlex-opsz8-wght900-wdth25.ufo", name="RobotoFlex-opsz8-wght900-wdth25.ufo", location=dict(wdth=25, wght=1000, opsz=-1), styleName="opsz8-wght900-wdth25", familyName=familyName, copyInfo=False),
 
+##	Leveling
+	
+	dict(path="master_ufo/RobotoFlex-opsz144-wght100.ufo", name="RobotoFlex-opsz144-wght100.ufo", location=dict(wght=100, opsz=1, GRAD=-1), styleName="opsz144-wght100", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth151.ufo", name="RobotoFlex-opsz144-wght100-wdth151.ufo", location=dict(wght=100, wdth=151, opsz=1, GRAD=-1), styleName="opsz144-wght100-wdth151", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth25.ufo", name="RobotoFlex-opsz144-wght100-wdth25.ufo", location=dict(wght=100, wdth=25, opsz=1, GRAD=-1), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
+	
 
 ## Leveling intermediates
 # 	dict(path="master_ufo/RobotoFlex-opsz14wght900.ufo", name="RobotoFlex-opsz14wght900.ufo", location=dict(wght=1000, opsz=0), styleName="opsz14wght900", familyName=familyName, copyInfo=False),
