@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
@@ -1615,6 +1615,11 @@
       <key>quoteright</key>
       <integer>-110</integer>
     </dict>
+    <key>ellipsis</key>
+    <dict>
+      <key>j</key>
+      <integer>0</integer>
+    </dict>
     <key>emacron</key>
     <dict>
       <key>quoteright</key>
@@ -2023,6 +2028,11 @@
       <integer>30</integer>
       <key>Ytilde</key>
       <integer>30</integer>
+    </dict>
+    <key>period</key>
+    <dict>
+      <key>j</key>
+      <integer>0</integer>
     </dict>
     <key>public.kern1.A.smcp</key>
     <dict>
@@ -2792,6 +2802,8 @@
       <integer>-176</integer>
       <key>otildemacron</key>
       <integer>-176</integer>
+      <key>public.kern2.s_LC</key>
+      <integer>-110</integer>
       <key>s</key>
       <integer>-154</integer>
       <key>sacute</key>
@@ -2872,6 +2884,8 @@
       <integer>-19</integer>
       <key>minute</key>
       <integer>-19</integer>
+      <key>public.kern2.minute</key>
+      <integer>-187</integer>
       <key>quotedbl</key>
       <integer>-19</integer>
       <key>quotedblleft</key>
