@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornacute" format="2">
+  <advance width="140"/>
+  <unicode hex="1EDB"/>
+  <outline>
+    <component base="ohorn" xScale="0.5" yScale="0.5" yOffset="-2"/>
+    <component base="acutecomb" xScale="0.5" yScale="0.5" xOffset="-8" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
+</glyph>

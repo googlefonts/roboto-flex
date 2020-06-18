@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflexhookabove" format="2">
+  <advance width="127"/>
+  <unicode hex="1ED4"/>
+  <outline>
+    <component base="O" xScale="0.5" yScale="0.5" yOffset="-2"/>
+    <component base="circumflexcombstack.case" xScale="0.5" yScale="0.5" xOffset="5" yOffset="-3"/>
+    <component base="hookabovecombstack.case" xScale="0.5" yScale="0.5" xOffset="44" yOffset="81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
+</glyph>
