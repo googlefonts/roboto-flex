@@ -15,8 +15,10 @@
     <string>RobotoFlex-opsz144-wght100-wdth25</string>
     <key>com.typemytype.robofont.binarySource</key>
     <string>/Users/David 1/Roboto-Extremo SO/sources/1-drawings/RobotoExtremo-opszmax-wghtmin-wdthmin.ufo</string>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+    <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
-    <true/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
@@ -24,7 +26,11 @@
     <key>com.typemytype.robofont.compileSettings.decompose</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
-    <integer>0</integer>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>foreground</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/David 1/Roboto-Extremo SO/sources/2048&gt;1024 Tests/RobotoFlex1000-opsz144-wght100-wdth25.ttf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
