@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che" format="2">
+	<unicode hex="0427"/>
+	<advance width="1388"/>
+	<outline>
+		<contour>
+			<point x="1218" y="1456" type="line"/>
+			<point x="1218" y="0" type="line"/>
+			<point x="1026" y="0" type="line"/>
+			<point x="1026" y="1456" type="line"/>
+		</contour>
+		<contour>
+			<point x="1122" y="615" type="line"/>
+			<point x="1006" y="597"/>
+			<point x="797" y="576"/>
+			<point x="678" y="576" type="qcurve" smooth="yes"/>
+			<point x="367" y="576"/>
+			<point x="140" y="807"/>
+			<point x="140" y="1035" type="qcurve" smooth="yes"/>
+			<point x="140" y="1456" type="line"/>
+			<point x="332" y="1456" type="line"/>
+			<point x="332" y="1032" type="line" smooth="yes"/>
+			<point x="332" y="854"/>
+			<point x="495" y="734"/>
+			<point x="693" y="734" type="qcurve" smooth="yes"/>
+			<point x="808" y="734"/>
+			<point x="1036" y="755"/>
+			<point x="1122" y="773" type="qcurve"/>
+		</contour>
+	</outline>
+	<guideline x="1122" y="817" angle="90" identifier="RN1H0OCTp3"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8564,0.8564,0.8564,1</string>
+		</dict>
+	</lib>
+</glyph>

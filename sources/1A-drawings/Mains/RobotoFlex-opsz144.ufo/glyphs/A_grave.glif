@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave" format="2">
-  <advance width="1010"/>
-  <unicode hex="00C0"/>
-  <outline>
-    <component base="A"/>
-    <component base="gravecomb.case" xOffset="-17.600000000093132" yOffset="50"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="00C0"/>
+	<advance width="1010"/>
+	<outline>
+		<component base="A"/>
+		<component base="gravecomb.case" xOffset="-17.6000000001" yOffset="50"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>
