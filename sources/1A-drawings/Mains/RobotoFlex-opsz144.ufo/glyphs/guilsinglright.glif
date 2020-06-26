@@ -1,26 +1,26 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="2">
-  <advance width="605"/>
-  <unicode hex="203A"/>
-  <guideline x="0.0" y="901.0" angle="0.0" identifier="Amp5Ormvx4"/>
-  <guideline x="0.0" y="555.0" angle="0.0" identifier="JDX5vz3jKp"/>
-  <outline>
-    <contour>
-      <point x="129" y="153" type="line"/>
-      <point x="376" y="534" type="line"/>
-      <point x="129" y="915" type="line"/>
-      <point x="236" y="915" type="line"/>
-      <point x="497" y="553" type="line"/>
-      <point x="497" y="516" type="line"/>
-      <point x="236" y="153" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.Amp5Ormvx4</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.JDX5vz3jKp</key>
-      <real>5.0</real>
-    </dict>
-  </lib>
+	<unicode hex="203A"/>
+	<advance width="605"/>
+	<outline>
+		<contour>
+			<point x="129" y="153" type="line"/>
+			<point x="376" y="534" type="line"/>
+			<point x="129" y="915" type="line"/>
+			<point x="236" y="915" type="line"/>
+			<point x="497" y="553" type="line"/>
+			<point x="497" y="516" type="line"/>
+			<point x="236" y="153" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="0" y="901" angle="0" identifier="Amp5Ormvx4"/>
+	<guideline x="0" y="555" angle="0" identifier="JDX5vz3jKp"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.Amp5Ormvx4</key>
+			<integer>5</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.JDX5vz3jKp</key>
+			<integer>5</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="2">
-  <advance width="954"/>
-  <unicode hex="0154"/>
-  <outline>
-    <component base="R"/>
-    <component base="acutecomb.case" xOffset="-25.5" yOffset="55"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0154"/>
+	<advance width="954"/>
+	<outline>
+		<component base="R"/>
+		<component base="acutecomb.case" xOffset="-25.5" yOffset="55"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

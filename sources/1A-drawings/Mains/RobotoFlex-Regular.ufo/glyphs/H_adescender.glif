@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hadescender" format="2">
+	<unicode hex="04B2"/>
+	<advance width="1221"/>
+	<outline>
+		<contour>
+			<point x="981" y="158" type="line"/>
+			<point x="1273" y="158" type="line"/>
+			<point x="1273" y="-290" type="line"/>
+			<point x="1101" y="-290" type="line"/>
+			<point x="1101" y="0" type="line"/>
+			<point x="981" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="25" y="0" type="line"/>
+			<point x="549" y="806" type="line"/>
+			<point x="563" y="806" type="line"/>
+			<point x="960" y="1456" type="line"/>
+			<point x="1172" y="1456" type="line"/>
+			<point x="673" y="670" type="line"/>
+			<point x="659" y="670" type="line"/>
+			<point x="237" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="50" y="1456" type="line"/>
+			<point x="266" y="1456" type="line"/>
+			<point x="663" y="806" type="line"/>
+			<point x="673" y="806" type="line"/>
+			<point x="1197" y="0" type="line"/>
+			<point x="981" y="0" type="line"/>
+			<point x="559" y="670" type="line"/>
+			<point x="549" y="670" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>
