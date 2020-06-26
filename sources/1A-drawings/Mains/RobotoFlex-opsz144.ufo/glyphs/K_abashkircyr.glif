@@ -1,35 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kabashkircyr" format="2">
-	<unicode hex="04A0"/>
-	<advance width="1495"/>
-	<outline>
-		<contour>
-			<point x="24" y="1298" type="line"/>
-			<point x="24" y="1456" type="line"/>
-			<point x="591" y="1456" type="line"/>
-			<point x="591" y="0" type="line"/>
-			<point x="399" y="0" type="line"/>
-			<point x="399" y="1298" type="line"/>
-		</contour>
-		<contour>
-			<point x="1279" y="0" type="line"/>
-			<point x="651" y="740" type="line"/>
-			<point x="811" y="823" type="line"/>
-			<point x="1515" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="495" y="830" type="line"/>
-			<point x="709" y="830" type="line"/>
-			<point x="1254" y="1456" type="line"/>
-			<point x="1471" y="1456" type="line"/>
-			<point x="787" y="672" type="line"/>
-			<point x="495" y="672" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8564,0.8564,0.8564,1</string>
-		</dict>
-	</lib>
+  <advance width="1190"/>
+  <unicode hex="04A0"/>
+  <guideline x="480" y="796" angle="90" identifier="fDA2QPZdtf"/>
+  <guideline x="184" y="1459" angle="90" identifier="MkCF6p5X3j"/>
+  <outline>
+    <contour>
+      <point x="1116" y="0" type="line"/>
+      <point x="606" y="725" type="line"/>
+      <point x="688" y="791" type="line"/>
+      <point x="1246" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="802" type="line"/>
+      <point x="620" y="802" type="line"/>
+      <point x="1077" y="1456" type="line"/>
+      <point x="1202" y="1456" type="line"/>
+      <point x="669" y="704" type="line"/>
+      <point x="437" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="1357" type="line"/>
+      <point x="12" y="1456" type="line"/>
+      <point x="493" y="1456" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="383" y="0" type="line"/>
+      <point x="383" y="1357" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
 </glyph>
