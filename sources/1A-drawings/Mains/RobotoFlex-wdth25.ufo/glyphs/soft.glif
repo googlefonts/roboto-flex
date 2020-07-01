@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="soft" format="2">
-  <advance width="1048"/>
+  <advance width="962"/>
   <unicode hex="044C"/>
   <outline>
     <contour>
-      <point x="334" y="1052" type="line"/>
-      <point x="334" y="698" type="line"/>
-      <point x="576" y="698" type="line" smooth="yes"/>
-      <point x="774" y="698"/>
-      <point x="988" y="511"/>
-      <point x="988" y="351" type="qcurve" smooth="yes"/>
-      <point x="988" y="191"/>
-      <point x="774" y="0"/>
-      <point x="576" y="0" type="qcurve" smooth="yes"/>
+      <point x="326" y="1052" type="line"/>
+      <point x="326" y="682" type="line"/>
+      <point x="488" y="682" type="line" smooth="yes"/>
+      <point x="682.0" y="682.0"/>
+      <point x="892" y="499"/>
+      <point x="892" y="343" type="qcurve" smooth="yes"/>
+      <point x="892" y="187"/>
+      <point x="682.0" y="0.0"/>
+      <point x="488" y="0" type="qcurve" smooth="yes"/>
       <point x="148" y="0" type="line"/>
       <point x="148" y="1052" type="line"/>
     </contour>
     <contour>
-      <point x="576" y="545" type="qcurve" smooth="yes"/>
-      <point x="334" y="545" type="line"/>
-      <point x="334" y="153" type="line"/>
-      <point x="576" y="153" type="line" smooth="yes"/>
-      <point x="701" y="153"/>
-      <point x="802" y="265"/>
-      <point x="802" y="351" type="qcurve" smooth="yes"/>
-      <point x="802" y="436"/>
-      <point x="701" y="545"/>
+      <point x="488" y="537" type="qcurve" smooth="yes"/>
+      <point x="326" y="537" type="line"/>
+      <point x="326" y="145" type="line"/>
+      <point x="488" y="145" type="line" smooth="yes"/>
+      <point x="613.0" y="145.0"/>
+      <point x="714" y="257"/>
+      <point x="714" y="343" type="qcurve" smooth="yes"/>
+      <point x="714" y="428"/>
+      <point x="613.0" y="537.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8564,0.8564,0.8564,1</string>
+      <string>1,0.868,0.7015,1</string>
     </dict>
   </lib>
 </glyph>
