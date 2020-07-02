@@ -1,12 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecombstack.case" format="2">
-  <advance width="649"/>
+  <advance width="1024"/>
   <outline>
     <contour>
-      <point x="274.3320727277605" y="1576.4603174603174" type="line"/>
-      <point x="546.7018216251693" y="1745.3174603174602" type="line"/>
-      <point x="551.4457276769974" y="1739.7380952380952" type="line"/>
-      <point x="277.5601057637156" y="1571.9126984126983" type="line"/>
+      <point x="512.5827933257488" y="1620.0" type="line"/>
+      <point x="866.4677591890334" y="1815.0" type="line"/>
+      <point x="870.3590681067616" y="1808.0" type="line"/>
+      <point x="514.790871124126" y="1615.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

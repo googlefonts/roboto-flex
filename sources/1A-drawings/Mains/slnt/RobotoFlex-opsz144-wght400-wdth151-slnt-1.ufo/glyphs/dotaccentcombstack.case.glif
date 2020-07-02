@@ -3,18 +3,24 @@
   <advance width="1024"/>
   <outline>
     <contour>
-      <point x="453.39374999999995" y="1666.2625" type="qcurve" smooth="yes"/>
-      <point x="453.39374999999995" y="1688.4"/>
-      <point x="483.7875" y="1718.975"/>
-      <point x="512.81875" y="1718.975" type="qcurve" smooth="yes"/>
-      <point x="541.4875" y="1718.975"/>
-      <point x="571.24375" y="1688.4"/>
-      <point x="571.24375" y="1666.2625" type="qcurve" smooth="yes"/>
-      <point x="571.24375" y="1644.2125"/>
-      <point x="540.66875" y="1614.0"/>
-      <point x="512.0" y="1614.0" type="qcurve" smooth="yes"/>
-      <point x="482.96875" y="1614.0"/>
-      <point x="453.39374999999995" y="1644.2125"/>
+      <point x="576.0505592815566" y="1696.0" type="qcurve" smooth="yes"/>
+      <point x="582.7509845484783" y="1734.0"/>
+      <point x="651.2146796224846" y="1782.0"/>
+      <point x="698.2146796224846" y="1782.0" type="qcurve" smooth="yes"/>
+      <point x="745.2146796224846" y="1782.0"/>
+      <point x="797.7509845484783" y="1734.0"/>
+      <point x="791.0505592815566" y="1696.0" type="qcurve" smooth="yes"/>
+      <point x="784.7027879760519" y="1660.0"/>
+      <point x="715.5917468634625" y="1614.0"/>
+      <point x="668.5917468634625" y="1614.0" type="qcurve" smooth="yes"/>
+      <point x="621.5917468634625" y="1614.0"/>
+      <point x="569.7027879760519" y="1660.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

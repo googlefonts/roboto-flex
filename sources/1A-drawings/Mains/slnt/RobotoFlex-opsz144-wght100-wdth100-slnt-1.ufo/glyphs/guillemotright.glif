@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemotright" format="2">
-  <advance width="1092"/>
+  <advance width="677"/>
   <unicode hex="00BB"/>
-  <guideline x="-53.60251832797457" y="98.0" angle="0" identifier="MTEldNnfdj"/>
-  <guideline x="-24.151714288215484" y="443.0" angle="0" identifier="G9bQni2n1K"/>
+  <guideline x="-99.47832484819544" y="98.0" angle="0.0" identifier="MTEldNnfdj"/>
+  <guideline x="-44.83569293623043" y="443.0" angle="0.0" identifier="G9bQni2n1K"/>
   <outline>
     <contour>
-      <point x="38.09253738850876" y="153.0" type="line"/>
-      <point x="330.06766784596994" y="551.0" type="line"/>
-      <point x="106.04279830343118" y="949.0" type="line"/>
-      <point x="268.0427983034312" y="949.0" type="line"/>
-      <point x="531.6286073276882" y="581.0" type="line"/>
-      <point x="526.5920930136424" y="522.0" type="line"/>
-      <point x="200.09253738850873" y="153.0" type="line"/>
+      <point x="-40.76718063034595" y="153.0" type="line"/>
+      <point x="289.57729113330237" y="534.0" type="line"/>
+      <point x="79.9217628969507" y="915.0" type="line"/>
+      <point x="88.9217628969507" y="915.0" type="line"/>
+      <point x="298.5275977752496" y="540.0" type="line"/>
+      <point x="296.46860005103065" y="527.0" type="line"/>
+      <point x="-31.767180630345948" y="153.0" type="line"/>
     </contour>
     <contour>
-      <point x="478.09253738850873" y="153.0" type="line"/>
-      <point x="770.0676678459699" y="551.0" type="line"/>
-      <point x="546.0427983034311" y="949.0" type="line"/>
-      <point x="708.0427983034311" y="949.0" type="line"/>
-      <point x="971.6286073276882" y="581.0" type="line"/>
-      <point x="966.5920930136424" y="522.0" type="line"/>
-      <point x="640.0925373885087" y="153.0" type="line"/>
+      <point x="240.23281936965407" y="153.0" type="line"/>
+      <point x="570.5772911333024" y="534.0" type="line"/>
+      <point x="360.92176289695067" y="915.0" type="line"/>
+      <point x="370.92176289695067" y="915.0" type="line"/>
+      <point x="579.5275977752495" y="540.0" type="line"/>
+      <point x="577.4686000510306" y="527.0" type="line"/>
+      <point x="250.23281936965407" y="153.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,6 +30,8 @@
       <real>5.0</real>
       <key>com.typemytype.robofont.guideline.magnetic.MTEldNnfdj</key>
       <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>

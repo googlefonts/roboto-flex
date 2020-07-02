@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="franc" format="2">
-  <advance width="1064"/>
+  <advance width="259"/>
   <unicode hex="20A3"/>
   <outline>
     <contour>
-      <point x="83.15" y="0.0" type="line"/>
-      <point x="294.95396922700814" y="1456.0" type="line"/>
-      <point x="1146.5289692270082" y="1456.0" type="line"/>
-      <point x="1123.5447472916596" y="1287.675" type="line"/>
-      <point x="478.3197472916597" y="1287.675" type="line"/>
-      <point x="414.7494625717404" y="866.25" type="line"/>
-      <point x="966.7744625717404" y="866.25" type="line"/>
-      <point x="943.790240636392" y="697.75" type="line"/>
-      <point x="391.765240636392" y="697.75" type="line"/>
-      <point x="289.5" y="0.0" type="line"/>
+      <point x="-56.0" y="0.0" type="line"/>
+      <point x="148.6274553266819" y="1456.0" type="line"/>
+      <point x="359.6274553266819" y="1456.0" type="line"/>
+      <point x="345.8544535258476" y="1358.0" type="line"/>
+      <point x="232.8544535258476" y="1358.0" type="line"/>
+      <point x="154.8542902660203" y="803.0" type="line"/>
+      <point x="252.8542902660203" y="803.0" type="line"/>
+      <point x="238.37858429167397" y="700.0" type="line"/>
+      <point x="140.378584291674" y="700.0" type="line"/>
+      <point x="42.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="-42.54095131099286" y="296.0" type="line"/>
-      <point x="-19.556729375644437" y="464.85" type="line"/>
-      <point x="720.4432706243556" y="464.85" type="line"/>
-      <point x="697.4590486890072" y="296.0" type="line"/>
+      <point x="-50.399912928092135" y="296.0" type="line"/>
+      <point x="-36.90799279666257" y="392.0" type="line"/>
+      <point x="168.09200720333746" y="392.0" type="line"/>
+      <point x="154.60008707190786" y="296.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

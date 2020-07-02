@@ -1,20 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcombstack.case" format="2">
-  <advance width="385"/>
+  <advance width="500"/>
   <outline>
     <contour>
-      <point x="259.520912844753" y="1567.75" type="qcurve" smooth="yes"/>
-      <point x="260.8301406765134" y="1587.25"/>
-      <point x="289.3417173036961" y="1615.6"/>
-      <point x="313.8167173036961" y="1615.6" type="qcurve" smooth="yes"/>
-      <point x="337.9417173036961" y="1615.6"/>
-      <point x="362.5551406765134" y="1587.25"/>
-      <point x="361.24591284475304" y="1567.75" type="qcurve" smooth="yes"/>
-      <point x="359.93668501299265" y="1548.775"/>
-      <point x="331.25010838580994" y="1520.775"/>
-      <point x="307.1251083858099" y="1520.775" type="qcurve" smooth="yes"/>
-      <point x="282.6501083858099" y="1520.775"/>
-      <point x="258.2116850129927" y="1548.775"/>
+      <point x="292.66532463983776" y="1563.0" type="qcurve" smooth="yes"/>
+      <point x="297.7247946891239" y="1599.0"/>
+      <point x="342.0653464078148" y="1637.0"/>
+      <point x="378.0653464078148" y="1637.0" type="qcurve" smooth="yes"/>
+      <point x="412.0653464078148" y="1637.0"/>
+      <point x="447.3031721850167" y="1596.0"/>
+      <point x="442.66532463983776" y="1563.0" type="qcurve" smooth="yes"/>
+      <point x="437.60585459055164" y="1527.0"/>
+      <point x="393.26530287186085" y="1489.0"/>
+      <point x="357.26530287186085" y="1489.0" type="qcurve" smooth="yes"/>
+      <point x="323.26530287186085" y="1489.0"/>
+      <point x="288.0274770946589" y="1530.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

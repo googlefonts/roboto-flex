@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
-  <advance width="319"/>
+  <advance width="500"/>
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="132.13536390279396" y="1007.475" type="line"/>
-      <point x="249.83233391483031" y="1273.8" type="line"/>
-      <point x="325.6663943966614" y="1254.825" type="line"/>
-      <point x="199.96942438462494" y="987.8" type="line"/>
+      <point x="174.40029386768902" y="999.0" type="line"/>
+      <point x="332.4165624447147" y="1177.0" type="line"/>
+      <point x="404.56248985846406" y="1114.0" type="line"/>
+      <point x="230.21649714078382" y="955.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

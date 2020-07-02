@@ -3,10 +3,16 @@
   <advance width="1024"/>
   <outline>
     <contour>
-      <point x="190.0793650793651" y="1016.8492063492064" type="line"/>
-      <point x="364.26190476190476" y="1522.0" type="line"/>
-      <point x="863.7142857142857" y="1412.357142857143" type="line"/>
-      <point x="584.1190476190476" y="932.2380952380952" type="line"/>
+      <point x="267.79799976633956" y="997.0" type="line"/>
+      <point x="525.3696646382837" y="1522.0" type="line" smooth="yes"/>
+      <point x="978.2683888375186" y="1408.0" type="line"/>
+      <point x="625.2812254639947" y="909.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

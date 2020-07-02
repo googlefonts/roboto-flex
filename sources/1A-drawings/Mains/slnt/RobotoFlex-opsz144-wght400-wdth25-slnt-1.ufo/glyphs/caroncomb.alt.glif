@@ -1,12 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.alt" format="2">
-  <advance width="385"/>
+  <advance width="500"/>
   <outline>
     <contour>
-      <point x="162.2187490884957" y="1075.125" type="line"/>
-      <point x="279.8712534410236" y="1418.875" type="line"/>
-      <point x="360.97578368193916" y="1399.675" type="line"/>
-      <point x="227.0778095703268" y="1059.3" type="line"/>
+      <point x="281.27063503096537" y="1240.0" type="line"/>
+      <point x="377.8761086819202" y="1472.0" type="line"/>
+      <point x="479.519342806146" y="1441.0" type="line"/>
+      <point x="348.3192775022152" y="1219.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

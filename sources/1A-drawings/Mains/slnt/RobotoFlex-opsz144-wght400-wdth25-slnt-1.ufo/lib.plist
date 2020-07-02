@@ -5,29 +5,22 @@
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
+        <key>allowPseudoUnicode</key>
+        <false/>
         <key>ascending</key>
-        <string>Latin-1</string>
+        <true/>
         <key>type</key>
-        <string>characterSet</string>
+        <string>unicode</string>
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>RobotoExtremo-Regular</string>
-    <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
-    <false/>
-    <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
-    <array>
-      <real>0.0</real>
-      <real>1.0</real>
-      <real>1.0</real>
-      <real>1.0</real>
-    </array>
+    <string>RobotoFlex-opsz144-wght400-wdth25-slnt-1</string>
     <key>com.typemytype.robofont.background.layerShowCoordinates</key>
     <false/>
     <key>com.typemytype.robofont.background.layerShowFill</key>
     <false/>
     <key>com.typemytype.robofont.background.layerShowPoints</key>
-    <false/>
+    <true/>
     <key>com.typemytype.robofont.background.layerShowStroke</key>
     <true/>
     <key>com.typemytype.robofont.background.layerStrokeColor</key>
@@ -38,7 +31,7 @@
       <real>0.7</real>
     </array>
     <key>com.typemytype.robofont.binarySource</key>
-    <string>/Users/alexandresaumierdemers/Downloads/RobotoDeltaNew-Regular.ttf</string>
+    <string>/Users/david/Documents/Type_Network/Roboto-Delta/src/RobotoDelta-newOpszMax.ttf</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -53,43 +46,33 @@
     <false/>
     <key>com.typemytype.robofont.foreground.layerStrokeColor</key>
     <array>
-      <real>0.8759533110119048</real>
-      <real>0.8520636920919201</real>
-      <real>0.6924212208413115</real>
-      <real>0.3</real>
+      <real>0.5</real>
+      <real>0.0</real>
+      <real>0.5</real>
+      <real>0.7</real>
     </array>
-    <key>com.typemytype.robofont.guideline.magnetic.jkkycGhOUk</key>
-    <integer>5</integer>
-    <key>com.typemytype.robofont.guideline.magnetic.w7IreBwLcz</key>
-    <integer>5</integer>
+    <key>com.typemytype.robofont.guideline.magnetic.YuucvC4q0d</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.r2OfUiQVkJ</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.YuucvC4q0d</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.r2OfUiQVkJ</key>
+    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>qcurve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-    <integer>0</integer>
-    <key>com.typemytype.robofont.temp.layerShowCoordinates</key>
-    <false/>
-    <key>com.typemytype.robofont.temp.layerShowFill</key>
-    <false/>
-    <key>com.typemytype.robofont.temp.layerShowPoints</key>
-    <true/>
-    <key>com.typemytype.robofont.temp.layerShowStroke</key>
-    <true/>
-    <key>com.typemytype.robofont.temp.layerStrokeColor</key>
-    <array>
-      <real>0.0</real>
-      <real>1.0</real>
-      <real>0.25</real>
-      <real>0.7</real>
-    </array>
-    <key>com.typemytype.robofont.templateCharacterSet</key>
-    <string>RobotoDelta</string>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4789045776</string>
     <key>com.typesupply.defcon.sortDescriptor</key>
     <array>
       <dict>
         <key>ascending</key>
         <array>
+          <string>.notdef</string>
           <string>space</string>
           <string>nbspace</string>
           <string>comma</string>
@@ -335,325 +318,10 @@
         <string>glyphList</string>
       </dict>
     </array>
-    <key>com.typesupply.metricsMachine4.groupColors</key>
-    <dict>
-      <key>public.kern1.G_UC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.Ohorn_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.R_UC</key>
-      <array>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.S_UC</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.Uhorn_UC</key>
-      <array>
-        <real>0.5</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.carons</key>
-      <array>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.colon</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.copyright</key>
-      <array>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.emdash</key>
-      <array>
-        <real>0.5</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.f_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.guillemotleft</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.guillemotright</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.i_LC</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.j_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.k_LC</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.l_LC</key>
-      <array>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.ohorn_LC</key>
-      <array>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.parens</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.percent</key>
-      <array>
-        <real>1.0</real>
-        <real>0.5</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.s_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.t_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.5</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.u_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.uhorn_LC</key>
-      <array>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern1.w_LC</key>
-      <array>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.AE_UC</key>
-      <array>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.StraightRight_UC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.bhk_LC</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.colon</key>
-      <array>
-        <real>1.0</real>
-        <real>0.5</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.copyright</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.f_LC</key>
-      <array>
-        <real>0.5</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.guillemotleft</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.guillemotright</key>
-      <array>
-        <real>0.5</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.i_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.parens</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.percent</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.t_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.5</real>
-        <real>0.25</real>
-      </array>
-      <key>public.kern2.w_LC</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>0.25</real>
-      </array>
-    </dict>
-    <key>designspace.location</key>
-    <array>
-      <array>
-        <string>wght</string>
-        <real>1000.0</real>
-      </array>
-      <array>
-        <string>wdth</string>
-        <real>25.0</real>
-      </array>
-      <array>
-        <string>opsz</string>
-        <real>1.0</real>
-      </array>
-      <array>
-        <string>GRAD</string>
-        <real>0.0</real>
-      </array>
-      <array>
-        <string>slnt</string>
-        <real>-10.0</real>
-      </array>
-      <array>
-        <string>XTRA</string>
-        <real>468.0</real>
-      </array>
-      <array>
-        <string>XOPQ</string>
-        <real>96.0</real>
-      </array>
-      <array>
-        <string>YOPQ</string>
-        <real>79.0</real>
-      </array>
-      <array>
-        <string>YTLC</string>
-        <real>514.0</real>
-      </array>
-      <array>
-        <string>YTUC</string>
-        <real>712.0</real>
-      </array>
-      <array>
-        <string>YTAS</string>
-        <real>750.0</real>
-      </array>
-      <array>
-        <string>YTDE</string>
-        <real>-203.0</real>
-      </array>
-      <array>
-        <string>YTFI</string>
-        <real>738.0</real>
-      </array>
-    </array>
     <key>public.glyphOrder</key>
     <array>
+      <string>.null</string>
+      <string>CR</string>
       <string>space</string>
       <string>exclam</string>
       <string>quotedbl</string>
@@ -749,6 +417,7 @@
       <string>bar</string>
       <string>braceright</string>
       <string>asciitilde</string>
+      <string>nbspace</string>
       <string>exclamdown</string>
       <string>cent</string>
       <string>sterling</string>
@@ -761,6 +430,7 @@
       <string>ordfeminine</string>
       <string>guillemotleft</string>
       <string>logicalnot</string>
+      <string>softhyphen</string>
       <string>registered</string>
       <string>macron</string>
       <string>degree</string>
@@ -768,6 +438,7 @@
       <string>twosuperior</string>
       <string>threesuperior</string>
       <string>acute</string>
+      <string>micro</string>
       <string>paragraph</string>
       <string>periodcentered</string>
       <string>cedilla</string>
@@ -803,7 +474,6 @@
       <string>Odieresis</string>
       <string>multiply</string>
       <string>Oslash</string>
-      <string>OE</string>
       <string>Ugrave</string>
       <string>Uacute</string>
       <string>Ucircumflex</string>
@@ -836,7 +506,6 @@
       <string>odieresis</string>
       <string>divide</string>
       <string>oslash</string>
-      <string>oe</string>
       <string>ugrave</string>
       <string>uacute</string>
       <string>ucircumflex</string>
@@ -844,303 +513,206 @@
       <string>yacute</string>
       <string>thorn</string>
       <string>ydieresis</string>
+      <string>Amacron</string>
+      <string>amacron</string>
+      <string>Abreve</string>
+      <string>abreve</string>
+      <string>Aogonek</string>
+      <string>aogonek</string>
+      <string>Cacute</string>
+      <string>cacute</string>
+      <string>Ccircumflex</string>
+      <string>ccircumflex</string>
+      <string>Cdotaccent</string>
+      <string>cdotaccent</string>
+      <string>Ccaron</string>
+      <string>ccaron</string>
+      <string>Dcaron</string>
+      <string>dcaron</string>
+      <string>Dcroat</string>
+      <string>dcroat</string>
+      <string>Emacron</string>
+      <string>emacron</string>
+      <string>Ebreve</string>
+      <string>ebreve</string>
+      <string>Edotaccent</string>
+      <string>edotaccent</string>
+      <string>Eogonek</string>
+      <string>eogonek</string>
+      <string>Ecaron</string>
+      <string>ecaron</string>
+      <string>Gcircumflex</string>
+      <string>gcircumflex</string>
+      <string>Gbreve</string>
+      <string>gbreve</string>
+      <string>Gdotaccent</string>
+      <string>gdotaccent</string>
+      <string>Gcommaaccent</string>
+      <string>gcommaaccent</string>
+      <string>Hcircumflex</string>
+      <string>hcircumflex</string>
+      <string>Hbar</string>
+      <string>hbar</string>
+      <string>Itilde</string>
+      <string>itilde</string>
+      <string>Imacron</string>
+      <string>imacron</string>
+      <string>Ibreve</string>
+      <string>ibreve</string>
+      <string>Iogonek</string>
+      <string>iogonek</string>
+      <string>Idotaccent</string>
+      <string>IJ</string>
+      <string>ij</string>
+      <string>Jcircumflex</string>
+      <string>jcircumflex</string>
+      <string>Kcommaaccent</string>
+      <string>kcommaaccent</string>
+      <string>kgreenlandic</string>
+      <string>Lacute</string>
+      <string>lacute</string>
+      <string>Lcommaaccent</string>
+      <string>lcommaaccent</string>
+      <string>Lcaron</string>
+      <string>lcaron</string>
+      <string>Ldot</string>
+      <string>ldot</string>
+      <string>Lslash</string>
+      <string>lslash</string>
+      <string>Nacute</string>
+      <string>nacute</string>
+      <string>Ncommaaccent</string>
+      <string>ncommaaccent</string>
+      <string>Ncaron</string>
+      <string>ncaron</string>
+      <string>napostrophe</string>
+      <string>Eng</string>
+      <string>eng</string>
+      <string>Omacron</string>
+      <string>omacron</string>
+      <string>Obreve</string>
+      <string>obreve</string>
+      <string>Ohungarumlaut</string>
+      <string>ohungarumlaut</string>
+      <string>OE</string>
+      <string>oe</string>
+      <string>Racute</string>
+      <string>racute</string>
+      <string>Rcommaaccent</string>
+      <string>rcommaaccent</string>
+      <string>Rcaron</string>
+      <string>rcaron</string>
+      <string>Sacute</string>
+      <string>sacute</string>
+      <string>Scircumflex</string>
+      <string>scircumflex</string>
+      <string>Scedilla</string>
+      <string>scedilla</string>
+      <string>Scaron</string>
+      <string>scaron</string>
+      <string>Tcedilla</string>
+      <string>tcedilla</string>
+      <string>Tcaron</string>
+      <string>tcaron</string>
+      <string>Tbar</string>
+      <string>tbar</string>
+      <string>Utilde</string>
+      <string>utilde</string>
+      <string>Umacron</string>
+      <string>umacron</string>
+      <string>Ubreve</string>
+      <string>ubreve</string>
+      <string>Uring</string>
+      <string>uring</string>
+      <string>Uhungarumlaut</string>
+      <string>uhungarumlaut</string>
+      <string>Uogonek</string>
+      <string>uogonek</string>
+      <string>Wcircumflex</string>
+      <string>wcircumflex</string>
+      <string>Ycircumflex</string>
+      <string>ycircumflex</string>
+      <string>Ydieresis</string>
+      <string>Zacute</string>
+      <string>zacute</string>
+      <string>Zdotaccent</string>
+      <string>zdotaccent</string>
+      <string>Zcaron</string>
+      <string>zcaron</string>
+      <string>Schwa</string>
+      <string>florin</string>
+      <string>Ohorn</string>
+      <string>ohorn</string>
+      <string>Uhorn</string>
+      <string>uhorn</string>
+      <string>DZcaron</string>
+      <string>Dzcaron</string>
+      <string>dzcaron</string>
+      <string>LJ</string>
+      <string>Lj</string>
+      <string>lj</string>
+      <string>NJ</string>
+      <string>Nj</string>
+      <string>nj</string>
+      <string>Gcaron</string>
+      <string>gcaron</string>
+      <string>Oogonek</string>
+      <string>oogonek</string>
+      <string>Aringacute</string>
+      <string>aringacute</string>
+      <string>AEacute</string>
+      <string>aeacute</string>
+      <string>Oslashacute</string>
+      <string>oslashacute</string>
+      <string>Adblgrave</string>
+      <string>adblgrave</string>
+      <string>Ainvertedbreve</string>
+      <string>ainvertedbreve</string>
+      <string>Edblgrave</string>
+      <string>edblgrave</string>
+      <string>Einvertedbreve</string>
+      <string>einvertedbreve</string>
+      <string>Idblgrave</string>
+      <string>idblgrave</string>
+      <string>Iinvertedbreve</string>
+      <string>iinvertedbreve</string>
+      <string>Odblgrave</string>
+      <string>odblgrave</string>
+      <string>Oinvertedbreve</string>
+      <string>oinvertedbreve</string>
+      <string>Rdblgrave</string>
+      <string>rdblgrave</string>
+      <string>Rinvertedbreve</string>
+      <string>rinvertedbreve</string>
+      <string>Udblgrave</string>
+      <string>udblgrave</string>
+      <string>Uinvertedbreve</string>
+      <string>uinvertedbreve</string>
+      <string>Scommaaccent</string>
+      <string>scommaaccent</string>
+      <string>Tcommaaccent</string>
+      <string>tcommaaccent</string>
+      <string>Odieresismacron</string>
+      <string>odieresismacron</string>
+      <string>Otildemacron</string>
+      <string>otildemacron</string>
+      <string>Odotaccentmacron</string>
+      <string>odotaccentmacron</string>
+      <string>Ymacron</string>
+      <string>ymacron</string>
+      <string>schwa</string>
+      <string>primemod</string>
+      <string>doubleprimemod</string>
+      <string>apostrophemod</string>
       <string>circumflex</string>
       <string>caron</string>
+      <string>firsttonechinese</string>
       <string>breve</string>
       <string>dotaccent</string>
       <string>ring</string>
       <string>ogonek</string>
       <string>tilde</string>
       <string>hungarumlaut</string>
-      <string>quoteleft</string>
-      <string>quoteright</string>
-      <string>minus</string>
-      <string>nbspace</string>
-      <string>Amacron</string>
-      <string>Abreve</string>
-      <string>Aogonek</string>
-      <string>Aringacute</string>
-      <string>Adblgrave</string>
-      <string>Ainvertedbreve</string>
-      <string>Adotbelow</string>
-      <string>Ahookabove</string>
-      <string>Acircumflexacute</string>
-      <string>Acircumflexgrave</string>
-      <string>Acircumflexhookabove</string>
-      <string>Acircumflextilde</string>
-      <string>Acircumflexdotbelow</string>
-      <string>Abreveacute</string>
-      <string>Abrevegrave</string>
-      <string>Abrevehookabove</string>
-      <string>Abrevetilde</string>
-      <string>Abrevedotbelow</string>
-      <string>Cacute</string>
-      <string>Ccircumflex</string>
-      <string>Cdotaccent</string>
-      <string>Ccaron</string>
-      <string>Dcaron</string>
-      <string>Emacron</string>
-      <string>Ebreve</string>
-      <string>Edotaccent</string>
-      <string>Eogonek</string>
-      <string>Ecaron</string>
-      <string>Edblgrave</string>
-      <string>Einvertedbreve</string>
-      <string>Edotbelow</string>
-      <string>Ehookabove</string>
-      <string>Etilde</string>
-      <string>Ecircumflexacute</string>
-      <string>Ecircumflexgrave</string>
-      <string>Ecircumflexhookabove</string>
-      <string>Ecircumflextilde</string>
-      <string>Ecircumflexdotbelow</string>
-      <string>Gcircumflex</string>
-      <string>Gbreve</string>
-      <string>Gdotaccent</string>
-      <string>Gcommaaccent</string>
-      <string>Gcaron</string>
-      <string>Hcircumflex</string>
-      <string>Itilde</string>
-      <string>Imacron</string>
-      <string>Ibreve</string>
-      <string>Iogonek</string>
-      <string>Idotaccent</string>
-      <string>Idblgrave</string>
-      <string>Iinvertedbreve</string>
-      <string>Ihookabove</string>
-      <string>Idotbelow</string>
-      <string>Jcircumflex</string>
-      <string>Kcommaaccent</string>
-      <string>Lacute</string>
-      <string>Lcommaaccent</string>
-      <string>Lcaron</string>
-      <string>Nacute</string>
-      <string>Ncommaaccent</string>
-      <string>Ncaron</string>
-      <string>Omacron</string>
-      <string>Obreve</string>
-      <string>Ohungarumlaut</string>
-      <string>Ohorn</string>
-      <string>Oogonek</string>
-      <string>Odblgrave</string>
-      <string>Oinvertedbreve</string>
-      <string>Odieresismacron</string>
-      <string>Otildemacron</string>
-      <string>Odotaccentmacron</string>
-      <string>Odotbelow</string>
-      <string>Ohookabove</string>
-      <string>Ocircumflexacute</string>
-      <string>Ocircumflexgrave</string>
-      <string>Ocircumflexhookabove</string>
-      <string>Ocircumflextilde</string>
-      <string>Ocircumflexdotbelow</string>
-      <string>Ohornacute</string>
-      <string>Ohorngrave</string>
-      <string>Ohornhookabove</string>
-      <string>Ohorntilde</string>
-      <string>Ohorndotbelow</string>
-      <string>Racute</string>
-      <string>Rcommaaccent</string>
-      <string>Rcaron</string>
-      <string>Rdblgrave</string>
-      <string>Rinvertedbreve</string>
-      <string>Sacute</string>
-      <string>Scircumflex</string>
-      <string>Scedilla</string>
-      <string>Scaron</string>
-      <string>Scommaaccent</string>
-      <string>Tcedilla</string>
-      <string>Tcaron</string>
-      <string>Tcommaaccent</string>
-      <string>Utilde</string>
-      <string>Umacron</string>
-      <string>Ubreve</string>
-      <string>Uring</string>
-      <string>Uhungarumlaut</string>
-      <string>Uogonek</string>
-      <string>Uhorn</string>
-      <string>Udblgrave</string>
-      <string>Uinvertedbreve</string>
-      <string>Udotbelow</string>
-      <string>Uhookabove</string>
-      <string>Uhornacute</string>
-      <string>Uhorngrave</string>
-      <string>Uhornhookabove</string>
-      <string>Uhorntilde</string>
-      <string>Uhorndotbelow</string>
-      <string>Wcircumflex</string>
-      <string>Wgrave</string>
-      <string>Wacute</string>
-      <string>Wdieresis</string>
-      <string>Ycircumflex</string>
-      <string>Ydieresis</string>
-      <string>Ymacron</string>
-      <string>Ygrave</string>
-      <string>Ydotbelow</string>
-      <string>Yhookabove</string>
-      <string>Ytilde</string>
-      <string>Zacute</string>
-      <string>Zdotaccent</string>
-      <string>Zcaron</string>
-      <string>AEacute</string>
-      <string>Oslashacute</string>
-      <string>Dcroat</string>
-      <string>Hbar</string>
-      <string>IJ</string>
-      <string>Ldot</string>
-      <string>Lslash</string>
-      <string>Tbar</string>
-      <string>Schwa</string>
-      <string>DZcaron</string>
-      <string>LJ</string>
-      <string>NJ</string>
-      <string>Germandbls</string>
-      <string>micro</string>
-      <string>amacron</string>
-      <string>abreve</string>
-      <string>aogonek</string>
-      <string>aringacute</string>
-      <string>adblgrave</string>
-      <string>ainvertedbreve</string>
-      <string>adotbelow</string>
-      <string>ahookabove</string>
-      <string>acircumflexacute</string>
-      <string>acircumflexgrave</string>
-      <string>acircumflexhookabove</string>
-      <string>acircumflextilde</string>
-      <string>acircumflexdotbelow</string>
-      <string>abreveacute</string>
-      <string>abrevegrave</string>
-      <string>abrevehookabove</string>
-      <string>abrevetilde</string>
-      <string>abrevedotbelow</string>
-      <string>cacute</string>
-      <string>ccircumflex</string>
-      <string>cdotaccent</string>
-      <string>ccaron</string>
-      <string>dcaron</string>
-      <string>emacron</string>
-      <string>ebreve</string>
-      <string>edotaccent</string>
-      <string>eogonek</string>
-      <string>ecaron</string>
-      <string>edblgrave</string>
-      <string>einvertedbreve</string>
-      <string>edotbelow</string>
-      <string>ehookabove</string>
-      <string>etilde</string>
-      <string>ecircumflexacute</string>
-      <string>ecircumflexgrave</string>
-      <string>ecircumflexhookabove</string>
-      <string>ecircumflextilde</string>
-      <string>ecircumflexdotbelow</string>
-      <string>gcircumflex</string>
-      <string>gbreve</string>
-      <string>gdotaccent</string>
-      <string>gcommaaccent</string>
-      <string>gcaron</string>
-      <string>hcircumflex</string>
-      <string>itilde</string>
-      <string>imacron</string>
-      <string>ibreve</string>
-      <string>iogonek</string>
-      <string>idblgrave</string>
-      <string>iinvertedbreve</string>
-      <string>ihookabove</string>
-      <string>idotbelow</string>
-      <string>jcircumflex</string>
-      <string>kcommaaccent</string>
-      <string>lacute</string>
-      <string>lcommaaccent</string>
-      <string>lcaron</string>
-      <string>nacute</string>
-      <string>ncommaaccent</string>
-      <string>ncaron</string>
-      <string>omacron</string>
-      <string>obreve</string>
-      <string>ohungarumlaut</string>
-      <string>ohorn</string>
-      <string>oogonek</string>
-      <string>odblgrave</string>
-      <string>oinvertedbreve</string>
-      <string>odieresismacron</string>
-      <string>otildemacron</string>
-      <string>odotaccentmacron</string>
-      <string>odotbelow</string>
-      <string>ohookabove</string>
-      <string>ocircumflexacute</string>
-      <string>ocircumflexgrave</string>
-      <string>ocircumflexhookabove</string>
-      <string>ocircumflextilde</string>
-      <string>ocircumflexdotbelow</string>
-      <string>ohornacute</string>
-      <string>ohorngrave</string>
-      <string>ohornhookabove</string>
-      <string>ohorntilde</string>
-      <string>ohorndotbelow</string>
-      <string>racute</string>
-      <string>rcommaaccent</string>
-      <string>rcaron</string>
-      <string>rdblgrave</string>
-      <string>rinvertedbreve</string>
-      <string>sacute</string>
-      <string>scircumflex</string>
-      <string>scedilla</string>
-      <string>scaron</string>
-      <string>scommaaccent</string>
-      <string>tcedilla</string>
-      <string>tcaron</string>
-      <string>tcommaaccent</string>
-      <string>utilde</string>
-      <string>umacron</string>
-      <string>ubreve</string>
-      <string>uring</string>
-      <string>uhungarumlaut</string>
-      <string>uogonek</string>
-      <string>uhorn</string>
-      <string>udblgrave</string>
-      <string>uinvertedbreve</string>
-      <string>udotbelow</string>
-      <string>uhookabove</string>
-      <string>uhornacute</string>
-      <string>uhorngrave</string>
-      <string>uhornhookabove</string>
-      <string>uhorntilde</string>
-      <string>uhorndotbelow</string>
-      <string>wcircumflex</string>
-      <string>wgrave</string>
-      <string>wacute</string>
-      <string>wdieresis</string>
-      <string>ycircumflex</string>
-      <string>ymacron</string>
-      <string>ygrave</string>
-      <string>ydotbelow</string>
-      <string>yhookabove</string>
-      <string>ytilde</string>
-      <string>zacute</string>
-      <string>zdotaccent</string>
-      <string>zcaron</string>
-      <string>aeacute</string>
-      <string>oslashacute</string>
-      <string>dcroat</string>
-      <string>hbar</string>
-      <string>ij</string>
-      <string>kgreenlandic</string>
-      <string>ldot</string>
-      <string>lslash</string>
-      <string>napostrophe</string>
-      <string>tbar</string>
-      <string>dzcaron</string>
-      <string>lj</string>
-      <string>nj</string>
-      <string>schwa</string>
-      <string>Dzcaron</string>
-      <string>Lj</string>
-      <string>Nj</string>
-      <string>primemod</string>
-      <string>doubleprimemod</string>
-      <string>apostrophemod</string>
-      <string>firsttonechinese</string>
       <string>gravecomb</string>
       <string>acutecomb</string>
       <string>circumflexcomb</string>
@@ -1163,35 +735,125 @@
       <string>ogonekcomb</string>
       <string>brevebelowcomb</string>
       <string>macronbelowcomb</string>
-      <string>foursuperior</string>
+      <string>Wgrave</string>
+      <string>wgrave</string>
+      <string>Wacute</string>
+      <string>wacute</string>
+      <string>Wdieresis</string>
+      <string>wdieresis</string>
+      <string>Germandbls</string>
+      <string>Adotbelow</string>
+      <string>adotbelow</string>
+      <string>Ahookabove</string>
+      <string>ahookabove</string>
+      <string>Acircumflexacute</string>
+      <string>acircumflexacute</string>
+      <string>Acircumflexgrave</string>
+      <string>acircumflexgrave</string>
+      <string>Acircumflexhookabove</string>
+      <string>acircumflexhookabove</string>
+      <string>Acircumflextilde</string>
+      <string>acircumflextilde</string>
+      <string>Acircumflexdotbelow</string>
+      <string>acircumflexdotbelow</string>
+      <string>Abreveacute</string>
+      <string>abreveacute</string>
+      <string>Abrevegrave</string>
+      <string>abrevegrave</string>
+      <string>Abrevehookabove</string>
+      <string>abrevehookabove</string>
+      <string>Abrevetilde</string>
+      <string>abrevetilde</string>
+      <string>Abrevedotbelow</string>
+      <string>abrevedotbelow</string>
+      <string>Edotbelow</string>
+      <string>edotbelow</string>
+      <string>Ehookabove</string>
+      <string>ehookabove</string>
+      <string>Etilde</string>
+      <string>etilde</string>
+      <string>Ecircumflexacute</string>
+      <string>ecircumflexacute</string>
+      <string>Ecircumflexgrave</string>
+      <string>ecircumflexgrave</string>
+      <string>Ecircumflexhookabove</string>
+      <string>ecircumflexhookabove</string>
+      <string>Ecircumflextilde</string>
+      <string>ecircumflextilde</string>
+      <string>Ecircumflexdotbelow</string>
+      <string>ecircumflexdotbelow</string>
+      <string>Ihookabove</string>
+      <string>ihookabove</string>
+      <string>Idotbelow</string>
+      <string>idotbelow</string>
+      <string>Odotbelow</string>
+      <string>odotbelow</string>
+      <string>Ohookabove</string>
+      <string>ohookabove</string>
+      <string>Ocircumflexacute</string>
+      <string>ocircumflexacute</string>
+      <string>Ocircumflexgrave</string>
+      <string>ocircumflexgrave</string>
+      <string>Ocircumflexhookabove</string>
+      <string>ocircumflexhookabove</string>
+      <string>Ocircumflextilde</string>
+      <string>ocircumflextilde</string>
+      <string>Ocircumflexdotbelow</string>
+      <string>ocircumflexdotbelow</string>
+      <string>Ohornacute</string>
+      <string>ohornacute</string>
+      <string>Ohorngrave</string>
+      <string>ohorngrave</string>
+      <string>Ohornhookabove</string>
+      <string>ohornhookabove</string>
+      <string>Ohorntilde</string>
+      <string>ohorntilde</string>
+      <string>Ohorndotbelow</string>
+      <string>ohorndotbelow</string>
+      <string>Udotbelow</string>
+      <string>udotbelow</string>
+      <string>Uhookabove</string>
+      <string>uhookabove</string>
+      <string>Uhornacute</string>
+      <string>uhornacute</string>
+      <string>Uhorngrave</string>
+      <string>uhorngrave</string>
+      <string>Uhornhookabove</string>
+      <string>uhornhookabove</string>
+      <string>Uhorntilde</string>
+      <string>uhorntilde</string>
+      <string>Uhorndotbelow</string>
+      <string>uhorndotbelow</string>
+      <string>Ygrave</string>
+      <string>ygrave</string>
+      <string>Ydotbelow</string>
+      <string>ydotbelow</string>
+      <string>Yhookabove</string>
+      <string>yhookabove</string>
+      <string>Ytilde</string>
+      <string>ytilde</string>
       <string>hyphentwo</string>
       <string>endash</string>
       <string>emdash</string>
       <string>horizontalbar</string>
-      <string>leftanglebracket</string>
-      <string>rightanglebracket</string>
-      <string>perthousand</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>quotesinglbase</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
-      <string>quotesinglbase</string>
       <string>quotedblbase</string>
-      <string>guilsinglleft</string>
-      <string>guilsinglright</string>
       <string>dagger</string>
       <string>daggerdbl</string>
-      <string>ellipsis</string>
-      <string>fraction</string>
-      <string>numero</string>
       <string>bullet</string>
+      <string>ellipsis</string>
+      <string>perthousand</string>
       <string>minute</string>
       <string>second</string>
-      <string>lessequal</string>
-      <string>greaterequal</string>
-      <string>approxequal</string>
-      <string>notequal</string>
+      <string>guilsinglleft</string>
+      <string>guilsinglright</string>
+      <string>fraction</string>
       <string>commercialMinusSign</string>
-      <string>divisionslash</string>
-      <string>bulletoperator</string>
+      <string>foursuperior</string>
       <string>coloncurrency</string>
       <string>franc</string>
       <string>lira</string>
@@ -1200,7 +862,6 @@
       <string>won</string>
       <string>dong</string>
       <string>Euro</string>
-      <string>florin</string>
       <string>uni20AD</string>
       <string>uni20B1</string>
       <string>uni20B2</string>
@@ -1209,17 +870,27 @@
       <string>liraTurkish</string>
       <string>manat</string>
       <string>ruble</string>
+      <string>numero</string>
       <string>trademark</string>
-      <string>CR</string>
-      <string>softhyphen</string>
-      <string>.null</string>
-      <string>Eng</string>
+      <string>minus</string>
+      <string>divisionslash</string>
+      <string>bulletoperator</string>
+      <string>approxequal</string>
+      <string>notequal</string>
+      <string>lessequal</string>
+      <string>greaterequal</string>
+      <string>leftanglebracket</string>
+      <string>rightanglebracket</string>
+      <string>f_f</string>
+      <string>fi</string>
+      <string>fl</string>
+      <string>f_f_i</string>
+      <string>f_f_l</string>
       <string>IJacute</string>
       <string>diagonalbarL</string>
       <string>diagonalbarO</string>
       <string>diagonalbarl</string>
       <string>diagonalbaro</string>
-      <string>eng</string>
       <string>engtail</string>
       <string>horizontalbarH</string>
       <string>horizontalbarlc</string>
@@ -1228,15 +899,8 @@
       <string>ijacute</string>
       <string>jdotless</string>
       <string>zerosuperior</string>
-      <string>f_f</string>
-      <string>f_f_i</string>
       <string>f_f_ij</string>
-      <string>f_f_l</string>
       <string>f_ij</string>
-      <string>fi</string>
-      <string>fl</string>
-      <string>Jacute.loclNLD</string>
-      <string>jacute.loclNLD</string>
       <string>gravecomb.case</string>
       <string>acutecomb.case</string>
       <string>circumflexcomb.case</string>
@@ -1283,18 +947,15 @@
       <string>eight.prop</string>
       <string>nine.prop</string>
       <string>.notdef</string>
+      <string>Jacute.loclNLD</string>
+      <string>jacute.loclNLD</string>
+      <string>100</string>
+      <string>70</string>
     </array>
-    <key>tnCurvePalet</key>
-    <dict>
-      <key>sliderBottomMax</key>
-      <integer>80</integer>
-      <key>sliderBottomMin</key>
-      <integer>30</integer>
-      <key>sliderTopMax</key>
-      <integer>80</integer>
-      <key>sliderTopMin</key>
-      <integer>30</integer>
-    </dict>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
     <key>tnCurvePalette</key>
     <dict>
       <key>sliderBottomMax</key>

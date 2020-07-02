@@ -1,14 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="diagonalbarl" format="2">
-  <advance width="393"/>
+  <advance width="629"/>
   <outline>
     <contour>
-      <point x="20.215720158697152" y="556.8809523809524" type="line"/>
-      <point x="15.408322043376913" y="562.9761904761905" type="line"/>
-      <point x="172.71897839065622" y="682.9285714285714" type="line"/>
-      <point x="345.8385429035965" y="817.952380952381" type="line"/>
-      <point x="348.95933870426245" y="811.4047619047619" type="line"/>
-      <point x="175.95688487245886" y="677.3809523809524" type="line"/>
+      <point x="76.86297538823104" y="580.0" type="line"/>
+      <point x="72.28843535115186" y="589.0" type="line"/>
+      <point x="313.89702132567396" y="757.0" type="line"/>
+      <point x="558.6142983824678" y="932.0" type="line"/>
+      <point x="562.3472228598715" y="924.0" type="line"/>
+      <point x="318.7883302434022" y="750.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

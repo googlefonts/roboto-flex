@@ -1,16 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caron" format="2">
-  <advance width="649"/>
+  <advance width="1024"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="334.40532508673664" y="973.8412698412699" type="line"/>
-      <point x="201.6127487122082" y="1227.4761904761904" type="line"/>
-      <point x="210.7079868074463" y="1227.4761904761904" type="line"/>
-      <point x="340.4333859989533" y="981.3888888888889" type="line"/>
-      <point x="511.23973283919236" y="1227.4761904761904" type="line"/>
-      <point x="520.3349709344304" y="1227.4761904761904" type="line"/>
-      <point x="345.43707111848266" y="973.8412698412699" type="line"/>
+      <point x="543.4745226744757" y="969.0" type="line"/>
+      <point x="371.713474883074" y="1242.0" type="line"/>
+      <point x="380.713474883074" y="1242.0" type="line"/>
+      <point x="550.4248293164228" y="975.0" type="line"/>
+      <point x="801.713474883074" y="1242.0" type="line"/>
+      <point x="810.713474883074" y="1242.0" type="line"/>
+      <point x="555.4745226744757" y="969.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

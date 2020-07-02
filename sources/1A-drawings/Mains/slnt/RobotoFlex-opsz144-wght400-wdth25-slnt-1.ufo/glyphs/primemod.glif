@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="primemod" format="2">
-  <advance width="611"/>
+  <advance width="301"/>
   <unicode hex="02B9"/>
   <outline>
     <contour>
-      <point x="337.5955781448944" y="1502.0" type="line"/>
-      <point x="535.8705781448944" y="1502.0" type="line"/>
-      <point x="340.7855312527233" y="983.3" type="line"/>
-      <point x="211.28788004814567" y="988.3" type="line"/>
+      <point x="230.2815170289441" y="1482.0" type="line"/>
+      <point x="349.2815170289441" y="1482.0" type="line"/>
+      <point x="181.27596719006988" y="991.0" type="line"/>
+      <point x="109.97867136358187" y="996.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

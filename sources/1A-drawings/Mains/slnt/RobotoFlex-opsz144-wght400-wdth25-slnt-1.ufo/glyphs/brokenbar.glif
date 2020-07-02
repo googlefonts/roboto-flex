@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brokenbar" format="2">
-  <advance width="605"/>
+  <advance width="222"/>
   <unicode hex="00A6"/>
-  <guideline x="25.46825293511972" y="901.0" angle="0" identifier="jmguX8NWKI"/>
-  <guideline x="-24.8642837081116" y="555.0" angle="0" identifier="Z0RZpP7MTi"/>
+  <guideline x="24.62729206685468" y="901.0" angle="0.0" identifier="jmguX8NWKI"/>
+  <guideline x="-23.999836740172753" y="555.0" angle="0.0" identifier="Z0RZpP7MTi"/>
   <outline>
     <contour>
-      <point x="233.48458022085484" y="-416.0" type="line"/>
-      <point x="38.88458022085484" y="-416.0" type="line"/>
-      <point x="151.62364351132965" y="359.0" type="line"/>
-      <point x="346.22364351132967" y="359.0" type="line"/>
+      <point x="-2.4649872361948297" y="-416.0" type="line"/>
+      <point x="-96.46498723619483" y="-416.0" type="line"/>
+      <point x="12.454159658158517" y="359.0" type="line"/>
+      <point x="106.45415965815852" y="359.0" type="line"/>
     </contour>
     <contour>
-      <point x="517.4415499537668" y="1536.0" type="line"/>
-      <point x="404.702486663292" y="761.0" type="line"/>
-      <point x="210.102486663292" y="761.0" type="line"/>
-      <point x="322.84154995376684" y="1536.0" type="line"/>
+      <point x="271.87072210287323" y="1536.0" type="line"/>
+      <point x="162.9515752085199" y="761.0" type="line"/>
+      <point x="68.95157520851987" y="761.0" type="line"/>
+      <point x="177.87072210287323" y="1536.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,6 +24,8 @@
       <real>5.0</real>
       <key>com.typemytype.robofont.guideline.magnetic.jmguX8NWKI</key>
       <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>

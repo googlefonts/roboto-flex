@@ -3,24 +3,30 @@
   <advance width="512"/>
   <outline>
     <contour>
-      <point x="-68.35" y="-121.275" type="line"/>
-      <point x="35.3" y="84.90625" type="line"/>
-      <point x="38.5625" y="84.0" type="line"/>
-      <point x="285.4125" y="584.0" type="line"/>
-      <point x="283.70625" y="514.0" type="line"/>
-      <point x="58.13125000000001" y="55.81875" type="line"/>
-      <point x="61.75625000000001" y="55.09375" type="line"/>
-      <point x="-29.4375" y="-123.0" type="line"/>
+      <point x="-177.80658372359886" y="-118.0" type="line"/>
+      <point x="-57.30689871694662" y="89.0" type="line"/>
+      <point x="-60.18853362048894" y="84.0" type="line"/>
+      <point x="228.9749567337435" y="584.0" type="line"/>
+      <point x="286.632068084151" y="514.0" type="line"/>
+      <point x="22.697983938965564" y="55.0" type="line"/>
+      <point x="20.992676016131725" y="51.0" type="line"/>
+      <point x="-83.6882186271412" y="-123.0" type="line"/>
     </contour>
     <contour>
-      <point x="555.55" y="1142.3625" type="line"/>
-      <point x="595.55" y="1141.0" type="line"/>
-      <point x="502.8125" y="952.09375" type="line"/>
-      <point x="499.00625" y="953.0" type="line"/>
-      <point x="283.70625" y="514.0" type="line"/>
-      <point x="285.4125" y="584.0" type="line"/>
-      <point x="480.4375" y="981.0" type="line"/>
-      <point x="476.8125" y="982.0875" type="line"/>
+      <point x="551.7180659304839" y="1144.0" type="line"/>
+      <point x="652.1890849883586" y="1141.0" type="line"/>
+      <point x="540.1579777116248" y="948.0" type="line"/>
+      <point x="540.0396126151671" y="953.0" type="line"/>
+      <point x="286.632068084151" y="514.0" type="line"/>
+      <point x="228.9749567337435" y="584.0" type="line"/>
+      <point x="457.9767680750042" y="981.0" type="line"/>
+      <point x="460.03472995925495" y="987.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

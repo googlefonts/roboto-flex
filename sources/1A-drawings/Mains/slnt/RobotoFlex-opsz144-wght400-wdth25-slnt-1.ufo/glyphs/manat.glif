@@ -1,33 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="manat" format="2">
-  <advance width="1150"/>
+  <advance width="532"/>
   <unicode hex="20BC"/>
   <outline>
     <contour>
-      <point x="1117.300299321387" y="916.0" type="qcurve" smooth="yes"/>
-      <point x="984.05" y="0.0" type="line"/>
-      <point x="789.8" y="0.0" type="line"/>
-      <point x="923.050299321387" y="916.0" type="line" smooth="yes"/>
-      <point x="945.4301583657491" y="1081.8"/>
-      <point x="791.0281383737735" y="1240.45"/>
-      <point x="651.6781383737734" y="1240.45" type="qcurve" smooth="yes"/>
-      <point x="512.8531383737735" y="1240.45"/>
-      <point x="307.6301583657492" y="1081.8"/>
-      <point x="282.550299321387" y="916.0" type="qcurve" smooth="yes"/>
-      <point x="149.3" y="0.0" type="line"/>
-      <point x="-44.95" y="0.0" type="line"/>
-      <point x="88.30029932138697" y="916.0" type="line" smooth="yes"/>
-      <point x="128.19273909250785" y="1167.575"/>
-      <point x="463.38517886362877" y="1416.0"/>
-      <point x="675.5351788636287" y="1416.0" type="qcurve" smooth="yes"/>
-      <point x="889.3851788636288" y="1416.0"/>
-      <point x="1154.192739092508" y="1167.575"/>
+      <point x="520.7354045873906" y="916.0" type="qcurve" smooth="yes"/>
+      <point x="392.0" y="0.0" type="line"/>
+      <point x="296.0" y="0.0" type="line"/>
+      <point x="424.7354045873906" y="916.0" type="line" smooth="yes"/>
+      <point x="457.05979656894056" y="1146.0"/>
+      <point x="425.2328201377519" y="1318.0"/>
+      <point x="349.2328201377519" y="1318.0" type="qcurve" smooth="yes"/>
+      <point x="273.2328201377519" y="1318.0"/>
+      <point x="193.05979656894056" y="1146.0"/>
+      <point x="160.73540458739058" y="916.0" type="qcurve" smooth="yes"/>
+      <point x="32.0" y="0.0" type="line"/>
+      <point x="-64.0" y="0.0" type="line"/>
+      <point x="64.73540458739055" y="916.0" type="line" smooth="yes"/>
+      <point x="104.93008331227449" y="1202.0"/>
+      <point x="232.00582193858622" y="1416.0"/>
+      <point x="363.0058219385862" y="1416.0" type="qcurve" smooth="yes"/>
+      <point x="494.0058219385862" y="1416.0"/>
+      <point x="560.9300833122745" y="1202.0"/>
     </contour>
     <contour>
-      <point x="553.925" y="0.0" type="line"/>
-      <point x="385.175" y="0.0" type="line"/>
-      <point x="615.3081588716531" y="1582.0" type="line"/>
-      <point x="784.0581588716531" y="1582.0" type="line"/>
+      <point x="212.0" y="0.0" type="line"/>
+      <point x="116.0" y="0.0" type="line"/>
+      <point x="338.3356004991832" y="1582.0" type="line"/>
+      <point x="434.3356004991832" y="1582.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

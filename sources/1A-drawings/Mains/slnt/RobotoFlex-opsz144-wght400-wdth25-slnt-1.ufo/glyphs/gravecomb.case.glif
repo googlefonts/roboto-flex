@@ -1,12 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
-  <advance width="385"/>
+  <advance width="500"/>
   <outline>
     <contour>
-      <point x="337.83685236292195" y="1529.325" type="line"/>
-      <point x="235.1972457477756" y="1775.7" type="line"/>
-      <point x="313.38365502502904" y="1813.525" type="line"/>
-      <point x="409.9482616401755" y="1556.65" type="line"/>
+      <point x="407.0166495166226" y="1473.0" type="line"/>
+      <point x="246.18967308543392" y="1645.0" type="line"/>
+      <point x="338.8869906798989" y="1714.0" type="line"/>
+      <point x="473.02747709465893" y="1530.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

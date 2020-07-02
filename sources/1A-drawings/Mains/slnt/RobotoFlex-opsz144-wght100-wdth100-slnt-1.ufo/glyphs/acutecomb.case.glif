@@ -1,12 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb.case" format="2">
-  <advance width="649"/>
+  <advance width="1024"/>
   <outline>
     <contour>
-      <point x="293.4511203468081" y="1553.2460317460318" type="line"/>
-      <point x="559.988003429791" y="1827.968253968254" type="line"/>
-      <point x="566.2477824974922" y="1822.388888888889" type="line"/>
-      <point x="298.1950263986363" y="1548.1825396825398" type="line"/>
+      <point x="543.1387246304955" y="1573.0" type="line"/>
+      <point x="875.5546700117509" y="1885.0" type="line"/>
+      <point x="881.7627478101282" y="1880.0" type="line"/>
+      <point x="547.5051868691974" y="1569.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>
