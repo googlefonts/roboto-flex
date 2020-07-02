@@ -6,6 +6,16 @@
   <guideline x="855" y="765" angle="90" identifier="ziGbxbHnpn"/>
   <outline>
     <contour>
+      <point x="757" y="96" type="line"/>
+      <point x="892" y="96" type="line"/>
+      <point x="892" y="-258" type="line"/>
+      <point x="790" y="-258" type="line"/>
+      <point x="790" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="650" y="914" type="line"/>
+      <point x="757" y="914" type="line"/>
+    </contour>
+    <contour>
       <point x="207" y="675" type="line" smooth="yes"/>
       <point x="207" y="551"/>
       <point x="325" y="439"/>
@@ -22,16 +32,6 @@
       <point x="100" y="674" type="qcurve" smooth="yes"/>
       <point x="100" y="914" type="line"/>
       <point x="207" y="914" type="line"/>
-    </contour>
-    <contour>
-      <point x="757" y="96" type="line"/>
-      <point x="892" y="96" type="line"/>
-      <point x="892" y="-258" type="line"/>
-      <point x="790" y="-258" type="line"/>
-      <point x="790" y="0" type="line"/>
-      <point x="650" y="0" type="line"/>
-      <point x="650" y="914" type="line"/>
-      <point x="757" y="914" type="line"/>
     </contour>
   </outline>
   <lib>
