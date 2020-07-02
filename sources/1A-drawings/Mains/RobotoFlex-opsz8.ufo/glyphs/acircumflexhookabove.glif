@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflexhookabove" format="2">
-  <advance width="1186"/>
-  <unicode hex="1EA9"/>
-  <outline>
-    <component base="a"/>
-    <component base="circumflexcomb" xOffset="71.05999999999767" yOffset="77"/>
-    <component base="hookabovecomb" xOffset="394.5599999999977" yOffset="378"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="1EA9"/>
+	<advance width="1186"/>
+	<outline>
+		<component base="a"/>
+		<component base="circumflexcomb" xOffset="71.06" yOffset="77"/>
+		<component base="hookabovecomb" xOffset="394.56" yOffset="378"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>
