@@ -528,6 +528,10 @@ sources = [
 	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth151-GRAD-1.ufo", name="RobotoFlex-opsz144-wght100-wdth151-GRAD-1.ufo", location=dict(wght=100, wdth=151, opsz=1, GRAD=-1), styleName="opsz144-wght100-wdth151-GRAD-1", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth25-GRAD-1.ufo", name="RobotoFlex-opsz144-wght100-wdth25-GRAD-1.ufo", location=dict(wght=100, wdth=25, opsz=1, GRAD=-1), styleName="opsz144-wght100-wdth25-GRAD-1", familyName=familyName, copyInfo=False),
 	
+	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth100-GRAD-1.ufo", name="RobotoFlex-opsz144-wght900-wdth100-GRAD-1.ufo", location=dict(wght=1000, opsz=1, GRAD=-1), styleName="opsz144-wght900-wdth100-GRAD-1", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth151-GRAD-1.ufo", name="RobotoFlex-opsz144-wght900-wdth151-GRAD-1.ufo", location=dict(wght=1000, wdth=151, opsz=1, GRAD=-1), styleName="opsz144-wght900-wdth151-GRAD-1", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth25-GRAD-1.ufo", name="RobotoFlex-opsz144-wght900-wdth25-GRAD-1.ufo", location=dict(wght=1000, wdth=25, opsz=1, GRAD=-1), styleName="opsz144-wght900-wdth25-GRAD-1", familyName=familyName, copyInfo=False),
+	
 
 ## Leveling intermediates
 # 	dict(path="master_ufo/RobotoFlex-opsz14wght900.ufo", name="RobotoFlex-opsz14wght900.ufo", location=dict(wght=1000, opsz=0), styleName="opsz14wght900", familyName=familyName, copyInfo=False),
