@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hadescender" format="2">
+	<unicode hex="04B3"/>
+	<advance width="986"/>
+	<outline>
+		<contour>
+			<point x="20" y="0" type="line"/>
+			<point x="420" y="582" type="line"/>
+			<point x="431" y="582" type="line"/>
+			<point x="728" y="1052" type="line"/>
+			<point x="938" y="1052" type="line"/>
+			<point x="558" y="484" type="line"/>
+			<point x="547" y="484" type="line"/>
+			<point x="230" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="40" y="1052" type="line"/>
+			<point x="253" y="1052" type="line"/>
+			<point x="550" y="582" type="line"/>
+			<point x="558" y="582" type="line"/>
+			<point x="884" y="107" type="line"/>
+			<point x="884" y="0" type="line"/>
+			<point x="745" y="0" type="line"/>
+			<point x="428" y="484" type="line"/>
+			<point x="420" y="484" type="line"/>
+		</contour>
+		<contour>
+			<point x="745" y="145" type="line"/>
+			<point x="1015" y="145" type="line"/>
+			<point x="1015" y="-270" type="line"/>
+			<point x="847" y="-270" type="line"/>
+			<point x="847" y="0" type="line"/>
+			<point x="745" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8564,0.8564,0.8564,1</string>
+		</dict>
+	</lib>
+</glyph>
