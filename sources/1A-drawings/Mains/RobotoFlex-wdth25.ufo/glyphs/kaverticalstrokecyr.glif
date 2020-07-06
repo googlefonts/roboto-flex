@@ -7,10 +7,16 @@
   <guideline x="241" y="553" angle="90" identifier="ULSPGW7I90"/>
   <outline>
     <contour>
-      <point x="466" y="852" type="line"/>
       <point x="628" y="852" type="line"/>
       <point x="628" y="200" type="line"/>
       <point x="466" y="200" type="line"/>
+      <point x="466" y="852" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="1052" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="1052" type="line"/>
     </contour>
     <contour>
       <point x="962" y="0" type="line"/>
@@ -25,12 +31,6 @@
       <point x="1118" y="1052" type="line"/>
       <point x="771" y="465" type="line"/>
       <point x="547" y="465" type="line"/>
-    </contour>
-    <contour>
-      <point x="148" y="1052" type="line"/>
-      <point x="326" y="1052" type="line"/>
-      <point x="326" y="0" type="line"/>
-      <point x="148" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

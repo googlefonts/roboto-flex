@@ -4,16 +4,6 @@
   <guideline x="576" y="651" angle="90" identifier="coMG4maorM"/>
   <outline>
     <contour>
-      <point x="156" y="1536" type="line"/>
-      <point x="334" y="1536" type="line"/>
-      <point x="334" y="610" type="line"/>
-      <point x="584" y="610" type="line"/>
-      <point x="584" y="465" type="line"/>
-      <point x="334" y="465" type="line"/>
-      <point x="334" y="0" type="line"/>
-      <point x="156" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="493" y="510" type="qcurve" smooth="yes"/>
       <point x="493" y="542" type="line" smooth="yes"/>
       <point x="493" y="800"/>
@@ -44,6 +34,16 @@
       <point x="911" y="934" type="qcurve" smooth="yes"/>
       <point x="788" y="934"/>
       <point x="675" y="737"/>
+    </contour>
+    <contour>
+      <point x="156" y="1536" type="line"/>
+      <point x="334" y="1536" type="line"/>
+      <point x="334" y="610" type="line"/>
+      <point x="584" y="610" type="line"/>
+      <point x="584" y="465" type="line"/>
+      <point x="334" y="465" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="156" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -6,12 +6,6 @@
   <guideline x="180" y="545" angle="90" identifier="caWk4m2get"/>
   <outline>
     <contour>
-      <point x="722" y="511" type="line"/>
-      <point x="722" y="415" type="line"/>
-      <point x="287" y="415" type="line"/>
-      <point x="287" y="511" type="line"/>
-    </contour>
-    <contour>
       <point x="778" y="442" type="line" smooth="yes"/>
       <point x="778" y="227"/>
       <point x="566" y="-20"/>
@@ -44,6 +38,12 @@
       <point x="576" y="934"/>
       <point x="778" y="690"/>
       <point x="778" y="474" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="722" y="511" type="line"/>
+      <point x="722" y="415" type="line"/>
+      <point x="287" y="415" type="line"/>
+      <point x="287" y="511" type="line"/>
     </contour>
   </outline>
   <lib>

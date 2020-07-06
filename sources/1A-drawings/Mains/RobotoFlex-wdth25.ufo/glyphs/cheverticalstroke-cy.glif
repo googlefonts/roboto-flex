@@ -6,6 +6,12 @@
   <guideline x="764" y="563" angle="90" identifier="WciRnTgNVG"/>
   <outline>
     <contour>
+      <point x="709" y="0" type="line"/>
+      <point x="709" y="1052" type="line"/>
+      <point x="887" y="1052" type="line"/>
+      <point x="887" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="308" y="773" type="line" smooth="yes"/>
       <point x="308" y="640"/>
       <point x="403" y="542"/>
@@ -24,16 +30,10 @@
       <point x="308" y="1052" type="line"/>
     </contour>
     <contour>
-      <point x="709" y="0" type="line"/>
-      <point x="709" y="1052" type="line"/>
-      <point x="887" y="1052" type="line"/>
-      <point x="887" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="426" y="200" type="line"/>
-      <point x="426" y="852" type="line"/>
       <point x="591" y="852" type="line"/>
       <point x="591" y="200" type="line"/>
+      <point x="426" y="200" type="line"/>
+      <point x="426" y="852" type="line"/>
     </contour>
   </outline>
   <lib>
