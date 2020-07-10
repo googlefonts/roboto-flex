@@ -4,16 +4,22 @@
 	<advance width="1626"/>
 	<outline>
 		<contour>
+			<point x="508" y="0" type="line"/>
+			<point x="508" y="1368" type="line"/>
 			<point x="24" y="1368" type="line"/>
 			<point x="24" y="1456" type="line"/>
 			<point x="1128" y="1456" type="line"/>
 			<point x="1128" y="1368" type="line"/>
 			<point x="604" y="1368" type="line"/>
 			<point x="604" y="0" type="line"/>
-			<point x="508" y="0" type="line"/>
-			<point x="508" y="1368" type="line"/>
 		</contour>
 		<contour>
+			<point x="1107" y="0" type="line"/>
+			<point x="1107" y="88" type="line"/>
+			<point x="1115" y="88" type="line" smooth="yes"/>
+			<point x="1249" y="88"/>
+			<point x="1389" y="242.884244373"/>
+			<point x="1389" y="407" type="qcurve" smooth="yes"/>
 			<point x="1389" y="425" type="line" smooth="yes"/>
 			<point x="1389" y="606"/>
 			<point x="1179" y="762"/>
@@ -32,12 +38,6 @@
 			<point x="1486" y="201"/>
 			<point x="1292" y="0"/>
 			<point x="1115" y="0" type="qcurve" smooth="yes"/>
-			<point x="1107" y="0" type="line"/>
-			<point x="1107" y="88" type="line"/>
-			<point x="1115" y="88" type="line" smooth="yes"/>
-			<point x="1249" y="88"/>
-			<point x="1389" y="242.884244373"/>
-			<point x="1389" y="407" type="qcurve" smooth="yes"/>
 		</contour>
 	</outline>
 	<guideline x="568" y="625" angle="90" identifier="YDADns81zF"/>
