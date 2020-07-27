@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="De" format="2">
+	<unicode hex="0414"/>
+	<advance width="1642"/>
+	<outline>
+		<contour>
+			<point x="1430" y="-290" type="line"/>
+			<point x="1430" y="0" type="line"/>
+			<point x="192" y="0" type="line"/>
+			<point x="192" y="-290" type="line"/>
+			<point x="10" y="-290" type="line"/>
+			<point x="10" y="163" type="line"/>
+			<point x="1612" y="163" type="line"/>
+			<point x="1612" y="-290" type="line"/>
+		</contour>
+		<contour>
+			<point x="310" y="1456" type="line"/>
+			<point x="1422" y="1456" type="line"/>
+			<point x="1422" y="0" type="line"/>
+			<point x="1220" y="0" type="line"/>
+			<point x="1220" y="1293" type="line"/>
+			<point x="489" y="1293" type="line"/>
+			<point x="448" y="657" type="line" smooth="yes"/>
+			<point x="434" y="445"/>
+			<point x="384" y="205"/>
+			<point x="359" y="139" type="qcurve"/>
+			<point x="146" y="139" type="line"/>
+			<point x="186" y="209"/>
+			<point x="245" y="457"/>
+			<point x="258" y="657" type="qcurve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>

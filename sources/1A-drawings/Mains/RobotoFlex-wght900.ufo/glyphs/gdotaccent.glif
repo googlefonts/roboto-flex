@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent" format="2">
-  <advance width="1309"/>
-  <unicode hex="0121"/>
-  <outline>
-    <component base="g"/>
-    <component base="dotaccentcomb" xOffset="146.66523887054063" yOffset="-6"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0121"/>
+	<advance width="1309"/>
+	<outline>
+		<component base="g"/>
+		<component base="dotaccentcomb" xOffset="146.6652388705" yOffset="-6"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>
