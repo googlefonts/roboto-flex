@@ -403,7 +403,7 @@ sources = [
 	dict(path="master_ufo/RobotoFlex-GRAD1.ufo", name="RobotoFlex-GRAD1.ufo", location=dict(GRAD=1, opsz=0), styleName="GRAD1", familyName=familyName, copyInfo=False),
 		
 	dict(path="master_ufo/RobotoFlex-wght100.ufo", name="RobotoFlex-wght100.ufo", location=dict(wght=100, opsz=0), styleName="wght100", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/RobotoFlex-wght900.ufo", name="RobotoFlex-wght900.ufo", location=dict(wght=1000, opsz=0), styleName="wght900", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-wght1000.ufo", name="RobotoFlex-wght1000.ufo", location=dict(wght=1000, opsz=0), styleName="wght1000", familyName=familyName, copyInfo=False),
 
 
 # 	dict(path="master_ufo/RobotoFlex-wght100.ufo", name="RobotoFlex-wght100.ufo", location=dict(PWGT=44), styleName="wght100", familyName=familyName, copyInfo=False),
