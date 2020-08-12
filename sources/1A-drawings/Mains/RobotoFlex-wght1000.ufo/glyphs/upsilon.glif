@@ -1,28 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="upsilon" format="2">
-  <advance width="1118"/>
+  <advance width="1264"/>
   <unicode hex="03C5"/>
-  <anchor x="559.0" y="1052" name="GRK_top"/>
+  <anchor x="632.0" y="1058" name="GRK_top"/>
   <outline>
     <contour>
-      <point x="559.0" y="-20" type="qcurve" smooth="yes"/>
-      <point x="332.0" y="-20"/>
-      <point x="138.0" y="201"/>
-      <point x="138.0" y="403" type="qcurve" smooth="yes"/>
-      <point x="138.0" y="1052" type="line"/>
-      <point x="324.0" y="1052" type="line"/>
-      <point x="324.0" y="401" type="line" smooth="yes"/>
-      <point x="324.0" y="275"/>
-      <point x="435.0" y="136"/>
-      <point x="559.0" y="136" type="qcurve" smooth="yes"/>
-      <point x="683.0" y="136"/>
-      <point x="794.0" y="275"/>
-      <point x="794.0" y="401" type="qcurve" smooth="yes"/>
-      <point x="794.0" y="1052" type="line"/>
-      <point x="980.0" y="1052" type="line"/>
-      <point x="980.0" y="403" type="line" smooth="yes"/>
-      <point x="980.0" y="201"/>
-      <point x="786.0" y="-20"/>
+      <point x="632" y="-20" type="qcurve" smooth="yes"/>
+      <point x="346" y="-20"/>
+      <point x="102" y="202"/>
+      <point x="102" y="405" type="qcurve" smooth="yes"/>
+      <point x="102" y="1058" type="line"/>
+      <point x="509" y="1058" type="line"/>
+      <point x="509" y="463" type="line" smooth="yes"/>
+      <point x="509" y="376"/>
+      <point x="567" y="280"/>
+      <point x="632" y="280" type="qcurve" smooth="yes"/>
+      <point x="697" y="280"/>
+      <point x="755" y="376"/>
+      <point x="755" y="463" type="qcurve" smooth="yes"/>
+      <point x="755" y="1058" type="line"/>
+      <point x="1162" y="1058" type="line"/>
+      <point x="1162" y="405" type="line" smooth="yes"/>
+      <point x="1162" y="202"/>
+      <point x="918" y="-20"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
 </glyph>

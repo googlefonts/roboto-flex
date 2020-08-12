@@ -1,58 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="alpha" format="2">
-  <advance width="1236"/>
+  <advance width="1386"/>
   <unicode hex="03B1"/>
-  <anchor x="526" y="1052" name="GRK_top"/>
+  <anchor x="566.0" y="1053" name="GRK_top"/>
   <outline>
     <contour>
-      <point x="595" y="-20" type="qcurve" smooth="yes"/>
-      <point x="352" y="-20"/>
-      <point x="61.0" y="282"/>
-      <point x="61.0" y="513" type="qcurve" smooth="yes"/>
-      <point x="61.0" y="546" type="line" smooth="yes"/>
-      <point x="61.0" y="777"/>
-      <point x="352" y="1079"/>
-      <point x="595" y="1079" type="qcurve" smooth="yes"/>
-      <point x="728" y="1079"/>
-      <point x="738" y="985"/>
-      <point x="786" y="921" type="qcurve"/>
-      <point x="793" y="921" type="line"/>
+      <point x="536" y="-20" type="qcurve"/>
+      <point x="328" y="-20"/>
+      <point x="61" y="254"/>
+      <point x="61" y="513" type="qcurve" smooth="yes"/>
+      <point x="61" y="546" type="line" smooth="yes"/>
+      <point x="61" y="794"/>
+      <point x="331" y="1079"/>
+      <point x="525" y="1079" type="qcurve" smooth="yes"/>
+      <point x="624" y="1079"/>
+      <point x="757" y="1018"/>
+      <point x="795" y="956" type="qcurve"/>
+      <point x="798" y="956" type="line"/>
       <point x="803" y="1059" type="line"/>
       <point x="1197" y="1059" type="line"/>
-      <point x="1197" y="284" type="line"/>
-      <point x="1197" y="190"/>
-      <point x="1265" y="131"/>
-      <point x="1304" y="131" type="qcurve" smooth="yes"/>
-      <point x="1331" y="131"/>
-      <point x="1376" y="138"/>
-      <point x="1396" y="145" type="qcurve"/>
-      <point x="1396" y="-8" type="line"/>
-      <point x="1373" y="-17"/>
-      <point x="1304" y="-30"/>
-      <point x="1263" y="-30" type="qcurve" smooth="yes"/>
-      <point x="1138" y="-30"/>
-      <point x="819" y="54"/>
-      <point x="802" y="136" type="qcurve"/>
-      <point x="795" y="136" type="line"/>
-      <point x="727" y="54"/>
-      <point x="720" y="-20"/>
+      <point x="1197" y="377" type="line" smooth="yes"/>
+      <point x="1197" y="307"/>
+      <point x="1248" y="258"/>
+      <point x="1283" y="258" type="qcurve" smooth="yes"/>
+      <point x="1301" y="258"/>
+      <point x="1339" y="269"/>
+      <point x="1354" y="276" type="qcurve"/>
+      <point x="1354" y="2" type="line"/>
+      <point x="1340" y="-8"/>
+      <point x="1245" y="-29"/>
+      <point x="1178" y="-29" type="qcurve" smooth="yes"/>
+      <point x="1049" y="-29"/>
+      <point x="900" y="68"/>
+      <point x="878" y="152" type="qcurve"/>
+      <point x="873" y="152" type="line"/>
+      <point x="821" y="62"/>
+      <point x="655" y="-20"/>
     </contour>
     <contour>
-      <point x="643" y="133" type="qcurve" smooth="yes"/>
-      <point x="764" y="133"/>
-      <point x="752" y="244"/>
-      <point x="790" y="314" type="qcurve"/>
-      <point x="790" y="745" type="line"/>
-      <point x="744" y="826"/>
-      <point x="754" y="926"/>
-      <point x="643" y="926" type="qcurve" smooth="yes"/>
-      <point x="461" y="926"/>
-      <point x="291" y="707"/>
-      <point x="291" y="546" type="qcurve" smooth="yes"/>
-      <point x="291" y="513" type="line" smooth="yes"/>
-      <point x="291" y="352"/>
-      <point x="461" y="133"/>
+      <point x="631" y="277" type="qcurve" smooth="yes"/>
+      <point x="685" y="277"/>
+      <point x="772" y="332"/>
+      <point x="790" y="391" type="qcurve"/>
+      <point x="790" y="678" type="line"/>
+      <point x="773" y="723"/>
+      <point x="690" y="782"/>
+      <point x="632" y="782" type="qcurve" smooth="yes"/>
+      <point x="559" y="782"/>
+      <point x="478" y="686"/>
+      <point x="478" y="574" type="qcurve"/>
+      <point x="478" y="481" type="line"/>
+      <point x="478" y="374"/>
+      <point x="558" y="277"/>
     </contour>
-    <component base="q"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
 </glyph>
