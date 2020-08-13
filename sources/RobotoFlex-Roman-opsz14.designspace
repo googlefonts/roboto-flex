@@ -40,10 +40,96 @@
       </location>
     </source>
   </sources>
+  <instances>
+    <instance familyname="RobotoFlex-Roman-opsz14" stylename="Weight_820.00_Width_100.00" filename="instances/RobotoFlex-Roman-opsz14_Weight_820.00_Width_100.00.ufo">
+      <location>
+        <dimension name="Weight" xvalue="820"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoFlex-Roman-opsz14" stylename="Weight_700.00_Width_100.00" filename="instances/RobotoFlex-Roman-opsz14_Weight_700.00_Width_100.00.ufo">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoFlex-Roman-opsz14" stylename="Weight_560.00_Width_100.00" filename="instances/RobotoFlex-Roman-opsz14_Weight_560.00_Width_100.00.ufo">
+      <location>
+        <dimension name="Weight" xvalue="560"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoFlex-Roman-opsz14" stylename="Weight_185.00_Width_100.00" filename="instances/RobotoFlex-Roman-opsz14_Weight_185.00_Width_100.00.ufo">
+      <location>
+        <dimension name="Weight" xvalue="185"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoFlex-Roman-opsz14" stylename="Weight_-30.00_Width_100.00" filename="instances/RobotoFlex-Roman-opsz14_Weight_-30.00_Width_100.00.ufo">
+      <location>
+        <dimension name="Weight" xvalue="-30"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoFlex-Roman-opsz14" stylename="Weight_-15.00_Width_20.00" filename="instances/RobotoFlex-Roman-opsz14_Weight_-15.00_Width_20.00.ufo">
+      <location>
+        <dimension name="Weight" xvalue="-15"/>
+        <dimension name="Width" xvalue="20"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoFlex-Roman-opsz14" stylename="Weight_185.00_Width_20.00" filename="instances/RobotoFlex-Roman-opsz14_Weight_185.00_Width_20.00.ufo">
+      <location>
+        <dimension name="Weight" xvalue="185"/>
+        <dimension name="Width" xvalue="20"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoFlex-Roman-opsz14" stylename="Weight_700.00_Width_20.00" filename="instances/RobotoFlex-Roman-opsz14_Weight_700.00_Width_20.00.ufo">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Width" xvalue="20"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
   <lib>
     <dict>
       <key>com.letterror.mathModelPref</key>
-      <string>previewVarLib</string>
+      <string>previewMutatorMath</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>Width</string>
+        </array>
+        <key>vertical</key>
+        <array>
+          <string>Weight</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>Weight</key>
+        <real>700.0</real>
+        <key>Width</key>
+        <real>20.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
     </dict>
   </lib>
 </designspace>

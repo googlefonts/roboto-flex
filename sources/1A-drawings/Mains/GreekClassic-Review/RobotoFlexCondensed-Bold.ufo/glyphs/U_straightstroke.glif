@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightstroke" format="2">
+  <advance width="1049"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="172.73333333333335" y="532.0" type="line"/>
+      <point x="878.8666666666667" y="532.0" type="line"/>
+      <point x="878.8666666666667" y="281.5" type="line"/>
+      <point x="172.73333333333335" y="281.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.56666666666666" y="0.0" type="line"/>
+      <point x="376.56666666666666" y="534.1333333333333" type="line"/>
+      <point x="-9.5" y="1456.0" type="line"/>
+      <point x="317.93333333333334" y="1456.0" type="line"/>
+      <point x="498.7" y="941.8" type="line" smooth="yes"/>
+      <point x="509.0" y="913.3"/>
+      <point x="529.8666666666667" y="839.5333333333333"/>
+      <point x="538.3" y="808.8333333333334" type="qcurve"/>
+      <point x="547.4333333333334" y="808.8333333333334" type="line"/>
+      <point x="555.8666666666667" y="839.5333333333333"/>
+      <point x="576.7333333333333" y="912.3"/>
+      <point x="587.5333333333333" y="941.8" type="qcurve" smooth="yes"/>
+      <point x="772.7333333333333" y="1456.0" type="line"/>
+      <point x="1049.1" y="1456.0" type="line"/>
+      <point x="675.0333333333333" y="534.1333333333333" type="line"/>
+      <point x="675.0333333333333" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
+</glyph>

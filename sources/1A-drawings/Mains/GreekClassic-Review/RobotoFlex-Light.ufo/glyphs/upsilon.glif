@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="1098"/>
+  <unicode hex="03C5"/>
+  <anchor x="548.9666666666667" y="1052.0" name="GRK_top"/>
+  <outline>
+    <contour>
+      <point x="548.9666666666667" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="344.9" y="-20.0"/>
+      <point x="138.0" y="180.21666666666667"/>
+      <point x="138.0" y="403.0" type="qcurve" smooth="yes"/>
+      <point x="138.0" y="1052.0" type="line"/>
+      <point x="258.7833333333333" y="1052.0" type="line"/>
+      <point x="258.7833333333333" y="401.0" type="line" smooth="yes"/>
+      <point x="258.7833333333333" y="237.01666666666665"/>
+      <point x="394.15" y="86.55"/>
+      <point x="548.9666666666667" y="86.55" type="qcurve" smooth="yes"/>
+      <point x="703.7833333333333" y="86.55"/>
+      <point x="839.15" y="237.01666666666665"/>
+      <point x="839.15" y="401.0" type="qcurve" smooth="yes"/>
+      <point x="839.15" y="1052.0" type="line"/>
+      <point x="959.9333333333333" y="1052.0" type="line"/>
+      <point x="959.9333333333333" y="403.0" type="line" smooth="yes"/>
+      <point x="959.9333333333333" y="180.21666666666667"/>
+      <point x="753.0333333333333" y="-20.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
+</glyph>

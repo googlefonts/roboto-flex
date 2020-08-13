@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="1155"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="34.61666666666667" y="0.0" type="line"/>
+      <point x="34.61666666666667" y="30.91666666666667" type="line"/>
+      <point x="509.75" y="1466.0" type="line"/>
+      <point x="636.05" y="1466.0" type="line"/>
+      <point x="1119.1" y="30.91666666666667" type="line"/>
+      <point x="1119.1" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="80.85000000000002" y="49.983333333333334" type="line"/>
+      <point x="1057.6333333333334" y="49.983333333333334" type="line"/>
+      <point x="638.6333333333333" y="1280.0666666666666" type="line" smooth="yes"/>
+      <point x="620.85" y="1332.1166666666666"/>
+      <point x="588.75" y="1421.7833333333333"/>
+      <point x="574.5166666666667" y="1464.7833333333333" type="qcurve"/>
+      <point x="565.2666666666667" y="1464.7833333333333" type="line"/>
+      <point x="552.4166666666666" y="1421.7833333333333"/>
+      <point x="517.1833333333334" y="1330.7333333333333"/>
+      <point x="499.01666666666665" y="1280.0666666666666" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
+</glyph>

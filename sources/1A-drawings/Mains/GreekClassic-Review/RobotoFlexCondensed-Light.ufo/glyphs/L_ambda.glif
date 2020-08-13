@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lambda" format="2">
+  <advance width="1028"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="0.0" type="line"/>
+      <point x="433.85" y="1466.0" type="line"/>
+      <point x="593.4833333333333" y="1466.0" type="line"/>
+      <point x="1028.4" y="0.0" type="line"/>
+      <point x="908.9166666666666" y="0.0" type="line"/>
+      <point x="563.0166666666667" y="1197.4" type="line" smooth="yes"/>
+      <point x="549.85" y="1240.7833333333333"/>
+      <point x="526.1833333333334" y="1317.1166666666666"/>
+      <point x="515.95" y="1354.7833333333333" type="qcurve"/>
+      <point x="507.3666666666667" y="1354.7833333333333" type="line"/>
+      <point x="497.85" y="1317.1166666666666"/>
+      <point x="469.8333333333333" y="1240.0666666666666"/>
+      <point x="457.45" y="1197.4" type="qcurve" smooth="yes"/>
+      <point x="112.55" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
+</glyph>

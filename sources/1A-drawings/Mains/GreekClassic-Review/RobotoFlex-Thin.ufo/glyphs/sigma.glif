@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigma" format="2">
+  <advance width="1214"/>
+  <unicode hex="03C3"/>
+  <outline>
+    <contour>
+      <point x="575.2666666666667" y="-30.0" type="qcurve" smooth="yes"/>
+      <point x="352.1333333333333" y="-30.0"/>
+      <point x="85.0" y="274.3333333333333"/>
+      <point x="85.0" y="491.0" type="qcurve" smooth="yes"/>
+      <point x="85.0" y="522.0" type="line" smooth="yes"/>
+      <point x="85.0" y="754.0"/>
+      <point x="362.1333333333333" y="1052.0"/>
+      <point x="604.2666666666667" y="1052.0" type="qcurve" smooth="yes"/>
+      <point x="1164.1" y="1052.0" type="line"/>
+      <point x="1164.1" y="994.6333333333333" type="line"/>
+      <point x="746.9666666666667" y="994.6333333333333" type="line"/>
+      <point x="746.9666666666667" y="1024.8" type="line"/>
+      <point x="907.3666666666667" y="957.7333333333333"/>
+      <point x="1065.5333333333333" y="675.0"/>
+      <point x="1065.5333333333333" y="526.0" type="qcurve" smooth="yes"/>
+      <point x="1065.5333333333333" y="495.0" type="line" smooth="yes"/>
+      <point x="1065.5333333333333" y="278.3333333333333"/>
+      <point x="798.4" y="-30.0"/>
+    </contour>
+    <contour>
+      <point x="575.2666666666667" y="30.266666666666666" type="qcurve" smooth="yes"/>
+      <point x="791.7666666666667" y="30.266666666666666"/>
+      <point x="1010.2666666666667" y="309.76666666666665"/>
+      <point x="1010.2666666666667" y="490.7" type="qcurve" smooth="yes"/>
+      <point x="1010.2666666666667" y="528.8666666666667" type="line" smooth="yes"/>
+      <point x="1010.2666666666667" y="716.7"/>
+      <point x="791.2" y="991.7333333333333"/>
+      <point x="591.0" y="991.7333333333333" type="qcurve"/>
+      <point x="359.3" y="991.7333333333333"/>
+      <point x="138.83333333333334" y="712.8333333333334"/>
+      <point x="138.83333333333334" y="524.8666666666667" type="qcurve" smooth="yes"/>
+      <point x="138.83333333333334" y="486.7" type="line" smooth="yes"/>
+      <point x="138.83333333333334" y="305.76666666666665"/>
+      <point x="358.76666666666665" y="30.266666666666666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
+</glyph>

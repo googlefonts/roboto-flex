@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Psi" format="2">
+  <advance width="1623"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="750.75" y="0.0" type="line"/>
+      <point x="750.75" y="1456.0" type="line"/>
+      <point x="871.9666666666667" y="1456.0" type="line"/>
+      <point x="871.9666666666667" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="789.8333333333334" y="361.0" type="line"/>
+      <point x="766.1666666666666" y="361.0" type="line" smooth="yes"/>
+      <point x="448.6666666666667" y="361.0"/>
+      <point x="155.0" y="635.0"/>
+      <point x="155.0" y="928.0" type="qcurve" smooth="yes"/>
+      <point x="155.0" y="1456.0" type="line"/>
+      <point x="278.9166666666667" y="1456.0" type="line"/>
+      <point x="278.9166666666667" y="926.0" type="line" smooth="yes"/>
+      <point x="278.9166666666667" y="689.5"/>
+      <point x="487.56666666666666" y="470.26666666666665"/>
+      <point x="766.1666666666666" y="470.26666666666665" type="qcurve" smooth="yes"/>
+      <point x="789.8333333333334" y="470.26666666666665" type="line"/>
+    </contour>
+    <contour>
+      <point x="832.8833333333333" y="361.0" type="line"/>
+      <point x="832.8833333333333" y="470.26666666666665" type="line"/>
+      <point x="857.4" y="470.26666666666665" type="line" smooth="yes"/>
+      <point x="1135.7166666666667" y="470.26666666666665"/>
+      <point x="1343.8" y="689.5"/>
+      <point x="1343.8" y="926.0" type="qcurve" smooth="yes"/>
+      <point x="1343.8" y="1456.0" type="line"/>
+      <point x="1467.7166666666667" y="1456.0" type="line"/>
+      <point x="1467.7166666666667" y="928.0" type="line" smooth="yes"/>
+      <point x="1467.7166666666667" y="635.0"/>
+      <point x="1174.05" y="361.0"/>
+      <point x="856.55" y="361.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
+</glyph>
