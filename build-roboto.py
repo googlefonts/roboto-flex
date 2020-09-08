@@ -538,10 +538,14 @@ sources = [
 # 	dict(path="master_ufo/RobotoFlex-opsz18wght900.ufo", name="RobotoFlex-opsz18wght900.ufo", location=dict(wght=1000, opsz=18), styleName="opsz18wght900", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-opsz24wght100.ufo", name="RobotoFlex-opsz24wght100.ufo", location=dict(wght=100, opsz=24), styleName="opsz24wght100", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-opsz24wght900.ufo", name="RobotoFlex-opsz24wght900.ufo", location=dict(wght=1000, opsz=24), styleName="opsz24wght900", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-opsz36wght100.ufo", name="RobotoFlex-opsz36wght100.ufo", location=dict(wght=100, opsz=36), styleName="opsz36wght100", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-opsz36wght700.ufo", name="RobotoFlex-opsz36wght700.ufo", location=dict(wght=700, opsz=36), styleName="opsz36wght900", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-opsz36wght900.ufo", name="RobotoFlex-opsz36wght900.ufo", location=dict(wght=1000, opsz=36), styleName="opsz36wght900", familyName=familyName, copyInfo=False),
 
+# opsz36
+ 	dict(path="master_ufo/RobotoFlex-opsz36-wght100.ufo", name="RobotoFlex-opsz36-wght100.ufo", location=dict(wght=100, opsz=0.492), styleName="opsz36-wght100", familyName=familyName, copyInfo=False),
+ 	dict(path="master_ufo/RobotoFlex-opsz36-wght700.ufo", name="RobotoFlex-opsz36-wght700.ufo", location=dict(wght=700, opsz=0.492), styleName="opsz36-wght700", familyName=familyName, copyInfo=False),
+ 	dict(path="master_ufo/RobotoFlex-opsz36-wght900.ufo", name="RobotoFlex-opsz36-wght900.ufo", location=dict(wght=1000, opsz=0.492), styleName="opsz36-wght900", familyName=familyName, copyInfo=False),
+
+#opsz144
+ 	dict(path="master_ufo/RobotoFlex-opsz144-wght700.ufo", name="RobotoFlex-opsz144-wght700.ufo", location=dict(wght=700, opsz=1), styleName="opsz36wght900", familyName=familyName, copyInfo=False),
 
 ## Figures
 # 	dict(path="master_ufo/RobotoFlex-opsz18-wght100-wdth25.ufo", name="RobotoFlex-opsz18-wght100-wdth25.ufo", location=dict(wght=100, opsz=18, wdth=25), styleName="opsz18-wght100-wdth25", familyName=familyName, copyInfo=False),
