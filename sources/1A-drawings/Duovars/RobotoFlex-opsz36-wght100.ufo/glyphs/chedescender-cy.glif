@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="964"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <contour>
+      <point x="805.52" y="58.891999999999996" type="line"/>
+      <point x="928.6800000000001" y="58.891999999999996" type="line"/>
+      <point x="928.6800000000001" y="-264.096" type="line"/>
+      <point x="873.152" y="-264.096" type="line"/>
+      <point x="873.152" y="0.0" type="line"/>
+      <point x="750.388" y="0.0" type="line"/>
+      <point x="750.388" y="984.104" type="line"/>
+      <point x="805.52" y="984.104" type="line"/>
+    </contour>
+    <contour>
+      <point x="167.832" y="984.104" type="line"/>
+      <point x="167.832" y="724.784" type="line" smooth="yes"/>
+      <point x="167.832" y="561.228"/>
+      <point x="317.18" y="428.324"/>
+      <point x="452.372" y="428.324" type="qcurve" smooth="yes"/>
+      <point x="573.768" y="428.324"/>
+      <point x="707.928" y="453.308"/>
+      <point x="778.2" y="473.372" type="qcurve"/>
+      <point x="778.2" y="415.464" type="line"/>
+      <point x="709.452" y="396.924"/>
+      <point x="572.276" y="370.416"/>
+      <point x="467.148" y="370.416" type="qcurve" smooth="yes"/>
+      <point x="284.764" y="370.416"/>
+      <point x="112.7" y="548.068"/>
+      <point x="112.7" y="724.292" type="qcurve" smooth="yes"/>
+      <point x="112.7" y="984.104" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
+</glyph>
