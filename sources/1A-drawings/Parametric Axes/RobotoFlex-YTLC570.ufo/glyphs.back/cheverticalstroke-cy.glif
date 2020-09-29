@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="che" format="2">
-  <advance width="1095"/>
-  <unicode hex="0447"/>
-  <guideline x="855" y="515" angle="90" identifier="GGEFes61Q6"/>
+<glyph name="cheverticalstroke-cy" format="2">
+  <advance width="500"/>
   <outline>
     <contour>
       <point x="311" y="803" type="line" smooth="yes"/>
@@ -22,17 +20,5 @@
       <point x="125" y="1168" type="line"/>
       <point x="311" y="1168" type="line"/>
     </contour>
-    <contour>
-      <point x="947" y="1168" type="line"/>
-      <point x="947" y="0" type="line"/>
-      <point x="761" y="0" type="line"/>
-      <point x="761" y="1168" type="line"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
-    </dict>
-  </lib>
 </glyph>
