@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="soft" format="2">
+  <advance width="1146"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="263.0" y="1089.0" type="line"/>
+      <point x="263.0" y="703.0" type="line"/>
+      <point x="665.0" y="703.0" type="line" smooth="yes"/>
+      <point x="857.0" y="703.0"/>
+      <point x="1066.0" y="524.2988505747"/>
+      <point x="1066.0" y="354.0" type="qcurve" smooth="yes"/>
+      <point x="1066.0" y="193.7337110482"/>
+      <point x="857.0" y="0.0"/>
+      <point x="665.0" y="0.0" type="qcurve" smooth="yes"/>
+      <point x="148.0" y="0.0" type="line"/>
+      <point x="148.0" y="1089.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="665.0" y="599.0" type="qcurve" smooth="yes"/>
+      <point x="263.0" y="599.0" type="line"/>
+      <point x="263.0" y="104.0" type="line"/>
+      <point x="665.0" y="104.0" type="line" smooth="yes"/>
+      <point x="816.0" y="104.0"/>
+      <point x="943.0" y="240.8497409326"/>
+      <point x="943.0" y="354.0" type="qcurve" smooth="yes"/>
+      <point x="943.0" y="466.1808510638"/>
+      <point x="816.0" y="599.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
+</glyph>
