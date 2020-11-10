@@ -2,8 +2,7 @@
 
 This project upgrades Roboto and Roboto Delta to become a more diverse Variable Font.
 
-**[Dummy: Download latest development TTF](https://github.com/TypeNetwork/Roboto-Flex/blob/master/fonts/RobotoFlex[slnt,wdth,wght,opsz].ttf)
-**
+**[Download latest development TTF](https://github.com/TypeNetwork/Roboto-Flex/raw/master/fonts/RobotoFlex%5Bslnt%2Cwdth%2Cwght%2Copsz%5D.ttf)**
 
 ## Background
 
