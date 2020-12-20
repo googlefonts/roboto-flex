@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ruble" format="2">
-  <advance width="1024"/>
+  <advance width="1083"/>
   <unicode hex="20BD"/>
   <outline>
     <contour>
@@ -26,10 +26,16 @@
       <point x="772.0" y="611.0"/>
     </contour>
     <contour>
-      <point x="754.0" y="394.0" type="line"/>
-      <point x="754.0" y="294.0" type="line"/>
+      <point x="814.0" y="394.0" type="line"/>
+      <point x="814.0" y="294.0" type="line"/>
       <point x="30.0" y="294.0" type="line"/>
       <point x="30.0" y="394.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
 </glyph>

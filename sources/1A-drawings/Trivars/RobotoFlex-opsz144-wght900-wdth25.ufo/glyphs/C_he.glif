@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che" format="2">
+  <advance width="1020"/>
+  <unicode hex="0427"/>
+  <guideline x="1123" y="741" angle="90" identifier="nfCxFSb4p1"/>
+  <guideline x="1236" y="719" angle="90" identifier="QSeZTfUsVl"/>
+  <outline>
+    <contour>
+      <point x="500" y="999" type="line" smooth="yes"/>
+      <point x="500" y="979"/>
+      <point x="506.0" y="964.0"/>
+      <point x="516" y="964.0" type="qcurve" smooth="yes"/>
+      <point x="587.4460227272727" y="964.0"/>
+      <point x="706" y="985"/>
+      <point x="765" y="1001" type="qcurve"/>
+      <point x="765" y="551" type="line"/>
+      <point x="699" y="524"/>
+      <point x="544.3720930232558" y="492.0"/>
+      <point x="447" y="492" type="qcurve" smooth="yes"/>
+      <point x="194.64788732394365" y="492.0"/>
+      <point x="10" y="690.4098360655737"/>
+      <point x="10" y="891" type="qcurve" smooth="yes"/>
+      <point x="10" y="1456" type="line"/>
+      <point x="500" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1010" y="1456" type="line"/>
+      <point x="1010" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
+</glyph>

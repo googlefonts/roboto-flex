@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iebrevecyr" format="2">
-  <advance width="805"/>
+  <advance width="862"/>
   <unicode hex="04D6"/>
-  <guideline x="631.0" y="1168.0" angle="90.0" identifier="QuiI5bs4hd"/>
   <outline>
+    <component base="breve.cyr.case" xOffset="-8"/>
     <component base="Ie"/>
-    <component base="breve.cyr.case" xOffset="-45" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
+      <string>0.9991,0.8674,0.7109,1</string>
     </dict>
   </lib>
 </glyph>

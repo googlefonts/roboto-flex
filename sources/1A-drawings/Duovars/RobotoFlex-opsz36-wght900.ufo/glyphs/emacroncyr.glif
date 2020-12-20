@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emacroncyr" format="2">
-  <advance width="1090"/>
+  <advance width="1021"/>
   <unicode hex="F523"/>
   <outline>
     <component base="ecyr"/>
-    <component base="macron" xOffset="-1.1199999999999974"/>
+    <component base="macroncomb" xOffset="-11"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
+      <string>1,0.6157,0.6499,1</string>
     </dict>
   </lib>
 </glyph>

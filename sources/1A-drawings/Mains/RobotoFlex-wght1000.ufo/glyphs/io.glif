@@ -2,7 +2,8 @@
 <glyph name="io" format="2">
   <advance width="1210"/>
   <outline>
-    <component base="edieresis"/>
+    <component base="dieresiscomb" xOffset="109"/>
+    <component base="ie" yOffset="2"/>
   </outline>
   <lib>
     <dict>

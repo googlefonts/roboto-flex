@@ -6,11 +6,11 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <false/>
+        <integer>0</integer>
         <key>ascending</key>
-        <true/>
+        <string>Amstelvar</string>
         <key>type</key>
-        <string>unicode</string>
+        <string>characterSet</string>
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
@@ -660,7 +660,6 @@
     </array>
     <key>public.glyphOrder</key>
     <array>
-      <string>.null</string>
       <string>CR</string>
       <string>space</string>
       <string>exclam</string>
@@ -768,7 +767,6 @@
       <string>dieresis</string>
       <string>copyright</string>
       <string>ordfeminine</string>
-      <string>guillemotleft</string>
       <string>logicalnot</string>
       <string>softhyphen</string>
       <string>registered</string>
@@ -784,7 +782,6 @@
       <string>cedilla</string>
       <string>onesuperior</string>
       <string>ordmasculine</string>
-      <string>guillemotright</string>
       <string>onequarter</string>
       <string>onehalf</string>
       <string>threequarters</string>
@@ -1193,18 +1190,12 @@
       <string>fraction</string>
       <string>commercialMinusSign</string>
       <string>foursuperior</string>
-      <string>coloncurrency</string>
       <string>franc</string>
       <string>lira</string>
       <string>naira</string>
       <string>peseta</string>
       <string>won</string>
       <string>dong</string>
-      <string>Euro</string>
-      <string>uni20AD</string>
-      <string>uni20B1</string>
-      <string>uni20B2</string>
-      <string>uni20B5</string>
       <string>rupeeIndian</string>
       <string>liraTurkish</string>
       <string>manat</string>
@@ -1225,9 +1216,7 @@
       <string>fl</string>
       <string>f_f_i</string>
       <string>f_f_l</string>
-      <string>.notdef</string>
       <string>IJacute</string>
-      <string>diagonalbarL</string>
       <string>diagonalbarO</string>
       <string>diagonalbarl</string>
       <string>diagonalbaro</string>
@@ -1238,9 +1227,6 @@
       <string>idotless</string>
       <string>ijacute</string>
       <string>jdotless</string>
-      <string>zerosuperior</string>
-      <string>f_f_ij</string>
-      <string>f_ij</string>
       <string>gravecomb.case</string>
       <string>acutecomb.case</string>
       <string>circumflexcomb.case</string>
@@ -1276,16 +1262,6 @@
       <string>periodcentered.loclCAT</string>
       <string>periodcentered.loclCAT.case</string>
       <string>dollar.rvrn</string>
-      <string>zero.prop</string>
-      <string>one.prop</string>
-      <string>two.prop</string>
-      <string>three.prop</string>
-      <string>four.prop</string>
-      <string>five.prop</string>
-      <string>six.prop</string>
-      <string>seven.prop</string>
-      <string>eight.prop</string>
-      <string>nine.prop</string>
       <string>jcircumflex</string>
       <string>Jacute.loclNLD</string>
       <string>jacute.loclNLD</string>
@@ -1490,6 +1466,7 @@
       <string>hadescender</string>
       <string>tenge</string>
       <string>hryvnia</string>
+      <string>mu</string>
       <string>Alpha</string>
       <string>Alphatonos</string>
       <string>Beta</string>
@@ -1523,30 +1500,8 @@
       <string>Psi</string>
       <string>Omega</string>
       <string>Omegatonos</string>
-      <string>eta</string>
-      <string>etatonos</string>
-      <string>iota</string>
-      <string>iotadieresistonos</string>
-      <string>iotatonos</string>
-      <string>iotadieresis</string>
-      <string>kappa</string>
-      <string>nu</string>
-      <string>omicron</string>
-      <string>omicrontonos</string>
-      <string>phi</string>
-      <string>anoteleia</string>
-      <string>dieresistonos</string>
-      <string>tonos</string>
-      <string>tonos.case</string>
-      <string>lownumeralsign</string>
-      <string>numeralsign</string>
-      <string>gr:question</string>
-      <string>increment</string>
-      <string>ohm</string>
       <string>Kaisymbol</string>
-      <string>kaisymbol</string>
-      <string>dieresistonoscomb</string>
-      <string>tonoscomb</string>
+      <string>ohm</string>
       <string>alpha</string>
       <string>alphatonos</string>
       <string>beta</string>
@@ -1555,10 +1510,19 @@
       <string>epsilon</string>
       <string>epsilontonos</string>
       <string>zeta</string>
+      <string>eta</string>
+      <string>etatonos</string>
       <string>theta</string>
+      <string>iota</string>
+      <string>iotadieresistonos</string>
+      <string>iotatonos</string>
+      <string>iotadieresis</string>
+      <string>kappa</string>
       <string>lambda</string>
-      <string>mu</string>
+      <string>nu</string>
       <string>xi</string>
+      <string>omicron</string>
+      <string>omicrontonos</string>
       <string>pi</string>
       <string>rho</string>
       <string>finalsigma</string>
@@ -1568,10 +1532,46 @@
       <string>upsilondieresistonos</string>
       <string>upsilondieresis</string>
       <string>upsilontonos</string>
+      <string>phi</string>
       <string>chi</string>
       <string>psi</string>
       <string>omega</string>
       <string>omegatonos</string>
+      <string>numeralsign</string>
+      <string>kaisymbol</string>
+      <string>gr:question</string>
+      <string>anoteleia</string>
+      <string>increment</string>
+      <string>dieresistonos</string>
+      <string>lownumeralsign</string>
+      <string>tonos</string>
+      <string>dieresistonoscomb</string>
+      <string>tonoscomb</string>
+      <string>tonos.case</string>
+      <string>.null</string>
+      <string>guillemotleft</string>
+      <string>guillemotright</string>
+      <string>coloncurrency</string>
+      <string>Euro</string>
+      <string>uni20AD</string>
+      <string>uni20B1</string>
+      <string>uni20B2</string>
+      <string>uni20B5</string>
+      <string>.notdef</string>
+      <string>diagonalbarL</string>
+      <string>zerosuperior</string>
+      <string>f_f_ij</string>
+      <string>f_ij</string>
+      <string>zero.prop</string>
+      <string>one.prop</string>
+      <string>two.prop</string>
+      <string>three.prop</string>
+      <string>four.prop</string>
+      <string>five.prop</string>
+      <string>six.prop</string>
+      <string>seven.prop</string>
+      <string>eight.prop</string>
+      <string>nine.prop</string>
     </array>
     <key>tnCurvePalet</key>
     <dict>

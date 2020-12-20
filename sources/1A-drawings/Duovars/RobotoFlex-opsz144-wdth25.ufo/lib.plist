@@ -6,11 +6,11 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <false/>
+        <integer>0</integer>
         <key>ascending</key>
-        <true/>
+        <string>Amstelvar</string>
         <key>type</key>
-        <string>unicode</string>
+        <string>characterSet</string>
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
@@ -320,7 +320,6 @@
     </array>
     <key>public.glyphOrder</key>
     <array>
-      <string>.null</string>
       <string>CR</string>
       <string>space</string>
       <string>exclam</string>
@@ -428,7 +427,6 @@
       <string>dieresis</string>
       <string>copyright</string>
       <string>ordfeminine</string>
-      <string>guillemotleft</string>
       <string>logicalnot</string>
       <string>softhyphen</string>
       <string>registered</string>
@@ -444,7 +442,6 @@
       <string>cedilla</string>
       <string>onesuperior</string>
       <string>ordmasculine</string>
-      <string>guillemotright</string>
       <string>onequarter</string>
       <string>onehalf</string>
       <string>threequarters</string>
@@ -565,7 +562,6 @@
       <string>IJ</string>
       <string>ij</string>
       <string>Jcircumflex</string>
-      <string>jcircumflex</string>
       <string>Kcommaaccent</string>
       <string>kcommaaccent</string>
       <string>kgreenlandic</string>
@@ -854,18 +850,12 @@
       <string>fraction</string>
       <string>commercialMinusSign</string>
       <string>foursuperior</string>
-      <string>coloncurrency</string>
       <string>franc</string>
       <string>lira</string>
       <string>naira</string>
       <string>peseta</string>
       <string>won</string>
       <string>dong</string>
-      <string>Euro</string>
-      <string>uni20AD</string>
-      <string>uni20B1</string>
-      <string>uni20B2</string>
-      <string>uni20B5</string>
       <string>rupeeIndian</string>
       <string>liraTurkish</string>
       <string>manat</string>
@@ -887,7 +877,6 @@
       <string>f_f_i</string>
       <string>f_f_l</string>
       <string>IJacute</string>
-      <string>diagonalbarL</string>
       <string>diagonalbarO</string>
       <string>diagonalbarl</string>
       <string>diagonalbaro</string>
@@ -898,9 +887,6 @@
       <string>idotless</string>
       <string>ijacute</string>
       <string>jdotless</string>
-      <string>zerosuperior</string>
-      <string>f_f_ij</string>
-      <string>f_ij</string>
       <string>gravecomb.case</string>
       <string>acutecomb.case</string>
       <string>circumflexcomb.case</string>
@@ -936,6 +922,223 @@
       <string>periodcentered.loclCAT</string>
       <string>periodcentered.loclCAT.case</string>
       <string>dollar.rvrn</string>
+      <string>jcircumflex</string>
+      <string>Jacute.loclNLD</string>
+      <string>jacute.loclNLD</string>
+      <string>breve.cyr</string>
+      <string>breve.cyr.case</string>
+      <string>Dje</string>
+      <string>Ieukran</string>
+      <string>Dze</string>
+      <string>Iukran</string>
+      <string>Palochka</string>
+      <string>Yi</string>
+      <string>Je</string>
+      <string>Lje</string>
+      <string>Nje</string>
+      <string>Tshe</string>
+      <string>Dzhe</string>
+      <string>Acyr</string>
+      <string>Abrevecyr</string>
+      <string>Amacroncyr</string>
+      <string>Adieresiscyr</string>
+      <string>Be</string>
+      <string>Ve</string>
+      <string>Ghe</string>
+      <string>Gje</string>
+      <string>Ghestroke</string>
+      <string>Gheup</string>
+      <string>De</string>
+      <string>Ie</string>
+      <string>Io</string>
+      <string>Iebrevecyr</string>
+      <string>Iemacroncyr</string>
+      <string>Zhe</string>
+      <string>Zhebrevecyr</string>
+      <string>Zhedieresiscyr</string>
+      <string>Ze</string>
+      <string>Zedescendercyr</string>
+      <string>Icyr</string>
+      <string>Ishort</string>
+      <string>Igravecyr</string>
+      <string>Ka</string>
+      <string>Kje</string>
+      <string>Kaverticalstrokecyr</string>
+      <string>Kabashkircyr</string>
+      <string>El</string>
+      <string>Em</string>
+      <string>En</string>
+      <string>Endescender</string>
+      <string>Ocyr</string>
+      <string>Odieresiscyr</string>
+      <string>Omacroncyr</string>
+      <string>Obrevecyr</string>
+      <string>Obarcyr</string>
+      <string>Pe</string>
+      <string>Er</string>
+      <string>Es</string>
+      <string>Esdescendercyr</string>
+      <string>Te</string>
+      <string>Tedescender-cy</string>
+      <string>Ucyr</string>
+      <string>Ushort</string>
+      <string>Umacroncyr</string>
+      <string>Udieresiscyr</string>
+      <string>Uhungarumlautcyr</string>
+      <string>Ef</string>
+      <string>Ha</string>
+      <string>Hastroke-cy</string>
+      <string>Tse</string>
+      <string>Che</string>
+      <string>Chedescender-cy</string>
+      <string>Cheverticalstroke-cy</string>
+      <string>Sha</string>
+      <string>Shcha</string>
+      <string>Hard</string>
+      <string>Yeru</string>
+      <string>Soft</string>
+      <string>Ecyr</string>
+      <string>Emacroncyr</string>
+      <string>Ebrevecyr</string>
+      <string>Yu</string>
+      <string>Yumacron</string>
+      <string>Ya</string>
+      <string>Yamacron</string>
+      <string>Ustraight</string>
+      <string>Ustraightstroke</string>
+      <string>Shha</string>
+      <string>Schwacyr</string>
+      <string>Zhedescender</string>
+      <string>Kadescender</string>
+      <string>Hadescender</string>
+      <string>De.bgr</string>
+      <string>Zhe.bgr</string>
+      <string>Ka.bgr</string>
+      <string>El.bgr</string>
+      <string>acyr</string>
+      <string>abrevecyr</string>
+      <string>amacroncyr</string>
+      <string>adieresiscyr</string>
+      <string>be</string>
+      <string>ve</string>
+      <string>ghe</string>
+      <string>gje</string>
+      <string>gheup</string>
+      <string>ghestroke</string>
+      <string>de</string>
+      <string>ie</string>
+      <string>io</string>
+      <string>iebrevecyr</string>
+      <string>iemacroncyr</string>
+      <string>zhe</string>
+      <string>zhebrevecyr</string>
+      <string>zhedieresiscyr</string>
+      <string>ze</string>
+      <string>zedescendercyr</string>
+      <string>icyr</string>
+      <string>ishort</string>
+      <string>igravecyr</string>
+      <string>ka</string>
+      <string>kje</string>
+      <string>kaverticalstrokecyr</string>
+      <string>kabashkircyr</string>
+      <string>el</string>
+      <string>em</string>
+      <string>en</string>
+      <string>endescender</string>
+      <string>ocyr</string>
+      <string>odieresiscyr</string>
+      <string>omacroncyr</string>
+      <string>obrevecyr</string>
+      <string>obarcyr</string>
+      <string>pe</string>
+      <string>er</string>
+      <string>es</string>
+      <string>esdescendercyr</string>
+      <string>te</string>
+      <string>tedescender-cy</string>
+      <string>ucyr</string>
+      <string>ushort</string>
+      <string>umacroncyr</string>
+      <string>udieresiscyr</string>
+      <string>uhungarumlautcyr</string>
+      <string>ef</string>
+      <string>ha</string>
+      <string>hastroke-cy</string>
+      <string>tse</string>
+      <string>che</string>
+      <string>chedescender-cy</string>
+      <string>cheverticalstroke-cy</string>
+      <string>sha</string>
+      <string>shcha</string>
+      <string>hard</string>
+      <string>yeru</string>
+      <string>soft</string>
+      <string>ecyr</string>
+      <string>emacroncyr</string>
+      <string>ebrevecyr</string>
+      <string>yu</string>
+      <string>yumacron</string>
+      <string>ya</string>
+      <string>yamacron</string>
+      <string>dje</string>
+      <string>ieukran</string>
+      <string>dze</string>
+      <string>iukran</string>
+      <string>yi</string>
+      <string>je</string>
+      <string>lje</string>
+      <string>nje</string>
+      <string>tshe</string>
+      <string>dzhe</string>
+      <string>ve.bgr</string>
+      <string>ghe.bgr</string>
+      <string>de.bgr</string>
+      <string>zhe.bgr</string>
+      <string>ze.bgr</string>
+      <string>i.bgr</string>
+      <string>ishort.bgr</string>
+      <string>igrave.bgr</string>
+      <string>ka.bgr</string>
+      <string>el.bgr</string>
+      <string>en.bgr</string>
+      <string>pe.bgr</string>
+      <string>te.bgr</string>
+      <string>tse.bgr</string>
+      <string>che.bgr</string>
+      <string>sha.bgr</string>
+      <string>shcha.bgr</string>
+      <string>hard.bgr</string>
+      <string>soft.bgr</string>
+      <string>yu.bgr</string>
+      <string>be.locl</string>
+      <string>ghe.locl</string>
+      <string>de.locl</string>
+      <string>pe.locl</string>
+      <string>te.locl</string>
+      <string>ustraight</string>
+      <string>ustraightstroke</string>
+      <string>shha</string>
+      <string>palochka</string>
+      <string>schwacyr</string>
+      <string>zhedescender</string>
+      <string>kadescender</string>
+      <string>hadescender</string>
+      <string>tenge</string>
+      <string>hryvnia</string>
+      <string>.null</string>
+      <string>guillemotleft</string>
+      <string>guillemotright</string>
+      <string>coloncurrency</string>
+      <string>Euro</string>
+      <string>uni20AD</string>
+      <string>uni20B1</string>
+      <string>uni20B2</string>
+      <string>uni20B5</string>
+      <string>diagonalbarL</string>
+      <string>zerosuperior</string>
+      <string>f_f_ij</string>
+      <string>f_ij</string>
       <string>zero.prop</string>
       <string>one.prop</string>
       <string>two.prop</string>
@@ -947,8 +1150,6 @@
       <string>eight.prop</string>
       <string>nine.prop</string>
       <string>.notdef</string>
-      <string>Jacute.loclNLD</string>
-      <string>jacute.loclNLD</string>
     </array>
     <key>tnCurvePalette</key>
     <dict>

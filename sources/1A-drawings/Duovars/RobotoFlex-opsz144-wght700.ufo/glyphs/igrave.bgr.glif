@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave.bgr" format="2">
-  <advance width="981"/>
+  <advance width="1090"/>
   <outline>
-    <component base="ugrave" xOffset="-1"/>
+    <component base="u"/>
+    <component base="gravecomb" xOffset="57"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
+      <string>1,1,0,1</string>
     </dict>
   </lib>
 </glyph>
