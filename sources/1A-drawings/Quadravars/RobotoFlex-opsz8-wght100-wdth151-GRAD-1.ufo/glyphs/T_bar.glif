@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tbar" format="2">
-  <advance width="1374"/>
-  <unicode hex="0166"/>
-  <outline>
-    <component base="T"/>
-    <component base="horizontalbar" xOffset="214.70941176470836" yOffset="49.999999999951804"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0166"/>
+	<advance width="1374"/>
+	<outline>
+		<component base="T"/>
+		<component base="horizontalbar" xOffset="214.7094117647" yOffset="49"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

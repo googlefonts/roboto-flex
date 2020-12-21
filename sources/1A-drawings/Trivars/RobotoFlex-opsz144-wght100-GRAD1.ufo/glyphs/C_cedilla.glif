@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="2">
-  <advance width="1099"/>
-  <unicode hex="00C7"/>
-  <outline>
-    <component base="C"/>
-    <component base="cedillacomb.case" xOffset="41.70171419257531" yOffset="18"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="00C7"/>
+	<advance width="1099"/>
+	<outline>
+		<component base="C"/>
+		<component base="cedillacomb.case" xOffset="41.7017141926" yOffset="18"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

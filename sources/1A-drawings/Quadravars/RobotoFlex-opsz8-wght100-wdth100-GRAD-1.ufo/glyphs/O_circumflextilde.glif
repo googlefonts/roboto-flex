@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflextilde" format="2">
-  <advance width="1499"/>
-  <unicode hex="1ED6"/>
-  <outline>
-    <component base="O"/>
-    <component base="circumflexcombstack.case" xOffset="242.70588235289324" yOffset="75"/>
-    <component base="tildecombstack.case" xOffset="215.70588235289324" yOffset="363.70588235292234"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="1ED6"/>
+	<advance width="1499"/>
+	<outline>
+		<component base="O"/>
+		<component base="circumflexcombstack.case" xOffset="242.7058823529" yOffset="75"/>
+		<component base="tildecombstack.case" xOffset="215.7058823529" yOffset="363.7058823529"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

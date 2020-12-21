@@ -1,35 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="2">
-  <advance width="1050"/>
-  <unicode hex="00BB"/>
-  <guideline x="0" y="98.0" angle="0" identifier="MTEldNnfdj"/>
-  <guideline x="0" y="443.0" angle="0" identifier="G9bQni2n1K"/>
-  <outline>
-    <contour>
-      <point x="404.0" y="58.0" type="line"/>
-      <point x="655.0" y="490.0" type="line"/>
-      <point x="404.0" y="921.0" type="line"/>
-      <point x="779.0" y="921.0" type="line"/>
-      <point x="1040.0" y="520.0" type="line"/>
-      <point x="1040.0" y="456.0" type="line"/>
-      <point x="779.0" y="58.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="0.0" y="58.0" type="line"/>
-      <point x="251.0" y="490.0" type="line"/>
-      <point x="0.0" y="921.0" type="line"/>
-      <point x="347.0" y="921.0" type="line"/>
-      <point x="609.0" y="520.0" type="line"/>
-      <point x="609.0" y="456.0" type="line"/>
-      <point x="347.0" y="58.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.G9bQni2n1K</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.MTEldNnfdj</key>
-      <real>5.0</real>
-    </dict>
-  </lib>
+	<unicode hex="00BB"/>
+	<advance width="1050"/>
+	<outline>
+		<contour>
+			<point x="404" y="58" type="line"/>
+			<point x="655" y="490" type="line"/>
+			<point x="404" y="921" type="line"/>
+			<point x="779" y="921" type="line"/>
+			<point x="1040" y="520" type="line"/>
+			<point x="1040" y="456" type="line"/>
+			<point x="779" y="58" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="58" type="line"/>
+			<point x="251" y="490" type="line"/>
+			<point x="0" y="921" type="line"/>
+			<point x="347" y="921" type="line"/>
+			<point x="609" y="520" type="line"/>
+			<point x="609" y="456" type="line"/>
+			<point x="347" y="58" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="0" y="98" angle="0" identifier="MTEldNnfdj"/>
+	<guideline x="0" y="443" angle="0" identifier="G9bQni2n1K"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.G9bQni2n1K</key>
+			<integer>5</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.MTEldNnfdj</key>
+			<integer>5</integer>
+		</dict>
+	</lib>
 </glyph>

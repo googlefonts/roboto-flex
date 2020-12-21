@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="2">
-  <advance width="1060"/>
-  <unicode hex="011B"/>
-  <outline>
-    <component base="e"/>
-    <component base="caroncomb" xOffset="63.55999999999767" yOffset="37"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="011B"/>
+	<advance width="1060"/>
+	<outline>
+		<component base="e"/>
+		<component base="caroncomb" xOffset="63.56" yOffset="37"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

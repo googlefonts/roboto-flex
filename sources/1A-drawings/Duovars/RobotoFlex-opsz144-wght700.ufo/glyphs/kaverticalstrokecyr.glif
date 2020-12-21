@@ -1,40 +1,40 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaverticalstrokecyr" format="2">
-  <advance width="1214"/>
-  <unicode hex="049D"/>
-  <guideline x="547.0" y="651.0" angle="90.0" identifier="ATaXbxe4rK"/>
-  <outline>
-    <contour>
-      <point x="626" y="740" type="line"/>
-      <point x="626" y="180" type="line"/>
-      <point x="456" y="180" type="line"/>
-      <point x="456" y="740" type="line"/>
-    </contour>
-    <contour>
-      <point x="412" y="914" type="line"/>
-      <point x="412" y="0" type="line"/>
-      <point x="68" y="0" type="line"/>
-      <point x="68" y="914" type="line"/>
-    </contour>
-    <contour>
-      <point x="829" y="0" type="line"/>
-      <point x="629" y="418" type="line"/>
-      <point x="913" y="598" type="line"/>
-      <point x="1230" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="541" y="582" type="line"/>
-      <point x="672" y="582" type="line"/>
-      <point x="806" y="914" type="line"/>
-      <point x="1180" y="914" type="line"/>
-      <point x="911" y="338" type="line"/>
-      <point x="541" y="338" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,1,0,1</string>
-    </dict>
-  </lib>
+	<unicode hex="049D"/>
+	<advance width="1214"/>
+	<outline>
+		<contour>
+			<point x="626" y="740" type="line"/>
+			<point x="626" y="180" type="line"/>
+			<point x="456" y="180" type="line"/>
+			<point x="456" y="740" type="line"/>
+		</contour>
+		<contour>
+			<point x="412" y="914" type="line"/>
+			<point x="412" y="0" type="line"/>
+			<point x="68" y="0" type="line"/>
+			<point x="68" y="914" type="line"/>
+		</contour>
+		<contour>
+			<point x="829" y="0" type="line"/>
+			<point x="629" y="418" type="line"/>
+			<point x="913" y="598" type="line"/>
+			<point x="1230" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="541" y="582" type="line"/>
+			<point x="672" y="582" type="line"/>
+			<point x="806" y="914" type="line"/>
+			<point x="1180" y="914" type="line"/>
+			<point x="911" y="338" type="line"/>
+			<point x="541" y="338" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="547" y="651" angle="90" identifier="ATaXbxe4rK"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
 </glyph>

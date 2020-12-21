@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="2">
-  <advance width="891"/>
-  <anchor x="573.0" y="1456.0" name="_GRK_topleft"/>
-  <outline>
-    <component base="tonos" xOffset="-20" yOffset="75"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,0.8,0.9989,1</string>
-    </dict>
-  </lib>
+	<advance width="891"/>
+	<outline>
+		<component base="tonos" xOffset="-20" yOffset="75"/>
+	</outline>
+	<anchor name="_GRK_topleft" x="573" y="1456"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,0.8,0.9989,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflexgrave" format="2">
-  <advance width="985"/>
-  <unicode hex="1EC0"/>
-  <outline>
-    <component base="E"/>
-    <component base="circumflexcombstack.case" xOffset="46.16485803918681" yOffset="17.951999999999998"/>
-    <component base="gravecombstack.case" xOffset="-378.8951419608132" yOffset="189.496"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="1EC0"/>
+	<advance width="985"/>
+	<outline>
+		<component base="E"/>
+		<component base="circumflexcombstack.case" xOffset="46.1648580392" yOffset="17.952"/>
+		<component base="gravecombstack.case" xOffset="-378.8951419608" yOffset="189.496"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

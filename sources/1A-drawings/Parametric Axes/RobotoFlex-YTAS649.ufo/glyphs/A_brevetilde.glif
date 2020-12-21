@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevetilde" format="2">
-  <advance width="1280"/>
-  <unicode hex="1EB4"/>
-  <outline>
-    <component base="A"/>
-    <component base="brevecombstack.case" xOffset="127.5" yOffset="-10"/>
-    <component base="tildecombstack.case" xOffset="114.5" yOffset="343"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="1EB4"/>
+	<advance width="1280"/>
+	<outline>
+		<component base="A"/>
+		<component base="brevecombstack.case" xOffset="127.5" yOffset="-10"/>
+		<component base="tildecombstack.case" xOffset="114.5" yOffset="343"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="2">
-  <advance width="1549"/>
-  <unicode hex="010E"/>
-  <outline>
-    <component base="D"/>
-    <component base="caroncomb.case" xOffset="187.91799999994691" yOffset="27"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="010E"/>
+	<advance width="1549"/>
+	<outline>
+		<component base="D"/>
+		<component base="caroncomb.case" xOffset="187.9179999999" yOffset="27"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

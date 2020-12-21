@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron" format="2">
-  <advance width="529"/>
-  <unicode hex="012B"/>
-  <outline>
-    <component base="idotless"/>
-    <component base="macroncomb" xOffset="-247.45800000000003" yOffset="-24.052000000000003"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="012B"/>
+	<advance width="529"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="macroncomb" xOffset="-247.458" yOffset="-24.052"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

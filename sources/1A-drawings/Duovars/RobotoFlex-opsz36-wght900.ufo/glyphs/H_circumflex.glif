@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hcircumflex" format="2">
-  <advance width="1466"/>
-  <unicode hex="0124"/>
-  <outline>
-    <component base="H"/>
-    <component base="circumflexcomb.case" xOffset="226.34476184613038" yOffset="-55.632000000000005"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0124"/>
+	<advance width="1466"/>
+	<outline>
+		<component base="H"/>
+		<component base="circumflexcomb.case" xOffset="226.3447618461" yOffset="-55.632"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

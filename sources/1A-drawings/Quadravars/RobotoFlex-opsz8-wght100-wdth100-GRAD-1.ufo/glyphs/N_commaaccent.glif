@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncommaaccent" format="2">
-  <advance width="1475"/>
-  <unicode hex="0145"/>
-  <outline>
-    <component base="N"/>
-    <component base="commaaccentcomb.case" xOffset="254.88921568626537" yOffset="57.58823529411768"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0145"/>
+	<advance width="1475"/>
+	<outline>
+		<component base="N"/>
+		<component base="commaaccentcomb.case" xOffset="254.8892156863" yOffset="57.5882352941"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

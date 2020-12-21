@@ -1,38 +1,38 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Che" format="2">
-  <advance width="1271"/>
-  <unicode hex="0427"/>
-  <guideline x="1122.0" y="817.0" angle="90.0" identifier="nfCxFSb4p1"/>
-  <outline>
-    <contour>
-      <point x="440.0" y="1043.0" type="line" smooth="yes"/>
-      <point x="440.0" y="908.0"/>
-      <point x="547.0" y="810.0"/>
-      <point x="672" y="810.0" type="qcurve" smooth="yes"/>
-      <point x="775" y="810"/>
-      <point x="910" y="829"/>
-      <point x="1008.0" y="849.0" type="qcurve"/>
-      <point x="1008.0" y="561.0" type="line"/>
-      <point x="908" y="538"/>
-      <point x="696" y="517"/>
-      <point x="569" y="517.0" type="qcurve" smooth="yes"/>
-      <point x="343.0" y="517.0"/>
-      <point x="85" y="727.0"/>
-      <point x="85.0" y="959.0" type="qcurve" smooth="yes"/>
-      <point x="85.0" y="1456.0" type="line"/>
-      <point x="440.0" y="1456.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1186.0" y="1456.0" type="line"/>
-      <point x="1186.0" y="0.0" type="line"/>
-      <point x="831.0" y="0.0" type="line"/>
-      <point x="831.0" y="1456.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.6157,0.6499,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0427"/>
+	<advance width="1271"/>
+	<outline>
+		<contour>
+			<point x="440" y="1043" type="line" smooth="yes"/>
+			<point x="440" y="908"/>
+			<point x="547" y="810"/>
+			<point x="672" y="810" type="qcurve" smooth="yes"/>
+			<point x="775" y="810"/>
+			<point x="910" y="829"/>
+			<point x="1008" y="849" type="qcurve"/>
+			<point x="1008" y="561" type="line"/>
+			<point x="908" y="538"/>
+			<point x="696" y="517"/>
+			<point x="569" y="517" type="qcurve" smooth="yes"/>
+			<point x="343" y="517"/>
+			<point x="85" y="727"/>
+			<point x="85" y="959" type="qcurve" smooth="yes"/>
+			<point x="85" y="1456" type="line"/>
+			<point x="440" y="1456" type="line"/>
+		</contour>
+		<contour>
+			<point x="1186" y="1456" type="line"/>
+			<point x="1186" y="0" type="line"/>
+			<point x="831" y="0" type="line"/>
+			<point x="831" y="1456" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="1122" y="817" angle="90" identifier="nfCxFSb4p1"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.6157,0.6499,1</string>
+		</dict>
+	</lib>
 </glyph>

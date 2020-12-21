@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevehookabove" format="2">
-  <advance width="1170"/>
-  <unicode hex="1EB3"/>
-  <outline>
-    <component base="a"/>
-    <component base="brevecomb" xOffset="76.19156862748787" yOffset="96.03921568627447"/>
-    <component base="hookabovecomb" xOffset="38.77980392158497" yOffset="496.88235294118385"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="1EB3"/>
+	<advance width="1170"/>
+	<outline>
+		<component base="a"/>
+		<component base="brevecomb" xOffset="76.1915686275" yOffset="96.0392156863"/>
+		<component base="hookabovecomb" xOffset="38.7798039216" yOffset="496.8823529412"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>
