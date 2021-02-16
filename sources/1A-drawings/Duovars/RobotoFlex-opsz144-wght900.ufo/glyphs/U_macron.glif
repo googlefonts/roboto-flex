@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Umacron" format="2">
-	<unicode hex="016A"/>
-	<advance width="1361"/>
-	<outline>
-		<component base="U"/>
-		<component base="macroncomb.case" xOffset="161" yOffset="-119"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1361"/>
+  <unicode hex="016A"/>
+  <outline>
+    <component base="U"/>
+    <component base="macroncomb.case" xOffset="161" yOffset="-119"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7211,0.9166,0.0451,1</string>
+    </dict>
+  </lib>
 </glyph>
