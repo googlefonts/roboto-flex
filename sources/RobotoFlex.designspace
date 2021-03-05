@@ -211,11 +211,11 @@
                 <dimension name="YTFI" xvalue="738" />
             </location>
         </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz8-wght400-wdth100-slnt-1.ufo" name="RobotoFlex-opsz8-wght400-wdth100-slnt-1.ufo" stylename="opsz8-wght400-wdth100-slnt-1">
+        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-Slant.ufo" name="RobotoFlex-Slant.ufo" stylename="slnt-1">
             <location>
                 <dimension name="wght" xvalue="400" />
                 <dimension name="wdth" xvalue="100" />
-                <dimension name="opsz" xvalue="-1" />
+                <dimension name="opsz" xvalue="0" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="slnt" xvalue="-10" />
                 <dimension name="XTRA" xvalue="468" />
@@ -228,11 +228,11 @@
                 <dimension name="YTFI" xvalue="738" />
             </location>
         </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-Slant.ufo" name="RobotoFlex-Slant.ufo" stylename="slnt-1">
+        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz8-wght400-wdth100-slnt-1.ufo" name="RobotoFlex-opsz8-wght400-wdth100-slnt-1.ufo" stylename="opsz8-wght400-wdth100-slnt-1">
             <location>
                 <dimension name="wght" xvalue="400" />
                 <dimension name="wdth" xvalue="100" />
-                <dimension name="opsz" xvalue="0" />
+                <dimension name="opsz" xvalue="-1" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="slnt" xvalue="-10" />
                 <dimension name="XTRA" xvalue="468" />
@@ -1146,58 +1146,9 @@
                 <dimension name="YTFI" xvalue="738" />
             </location>
         </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz36-wght100.ufo" name="RobotoFlex-opsz36-wght100.ufo" stylename="opsz36-wght100">
-            <location>
-                <dimension name="wght" xvalue="100" />
-                <dimension name="wdth" xvalue="100" />
-                <dimension name="opsz" xvalue="0.492000" />
-                <dimension name="GRAD" xvalue="0" />
-                <dimension name="slnt" xvalue="0" />
-                <dimension name="XTRA" xvalue="468" />
-                <dimension name="XOPQ" xvalue="96" />
-                <dimension name="YOPQ" xvalue="79" />
-                <dimension name="YTLC" xvalue="514" />
-                <dimension name="YTUC" xvalue="712" />
-                <dimension name="YTAS" xvalue="750" />
-                <dimension name="YTDE" xvalue="-203" />
-                <dimension name="YTFI" xvalue="738" />
-            </location>
-        </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz36-wght700.ufo" name="RobotoFlex-opsz36-wght700.ufo" stylename="opsz36-wght700">
-            <location>
-                <dimension name="wght" xvalue="700" />
-                <dimension name="wdth" xvalue="100" />
-                <dimension name="opsz" xvalue="0.492000" />
-                <dimension name="GRAD" xvalue="0" />
-                <dimension name="slnt" xvalue="0" />
-                <dimension name="XTRA" xvalue="468" />
-                <dimension name="XOPQ" xvalue="96" />
-                <dimension name="YOPQ" xvalue="79" />
-                <dimension name="YTLC" xvalue="514" />
-                <dimension name="YTUC" xvalue="712" />
-                <dimension name="YTAS" xvalue="750" />
-                <dimension name="YTDE" xvalue="-203" />
-                <dimension name="YTFI" xvalue="738" />
-            </location>
-        </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz36-wght900.ufo" name="RobotoFlex-opsz36-wght900.ufo" stylename="opsz36-wght900">
-            <location>
-                <dimension name="wght" xvalue="1000" />
-                <dimension name="wdth" xvalue="100" />
-                <dimension name="opsz" xvalue="0.492000" />
-                <dimension name="GRAD" xvalue="0" />
-                <dimension name="slnt" xvalue="0" />
-                <dimension name="XTRA" xvalue="468" />
-                <dimension name="XOPQ" xvalue="96" />
-                <dimension name="YOPQ" xvalue="79" />
-                <dimension name="YTLC" xvalue="514" />
-                <dimension name="YTUC" xvalue="712" />
-                <dimension name="YTAS" xvalue="750" />
-                <dimension name="YTDE" xvalue="-203" />
-                <dimension name="YTFI" xvalue="738" />
-            </location>
-        </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz144-wght700.ufo" name="RobotoFlex-opsz144-wght700.ufo" stylename="opsz36wght900">
+    </sources>
+    <instances>
+        <instance familyname="RobotoFlex" stylename="opsz144-wght700">
             <location>
                 <dimension name="wght" xvalue="700" />
                 <dimension name="wdth" xvalue="100" />
@@ -1213,6 +1164,8 @@
                 <dimension name="YTDE" xvalue="-203" />
                 <dimension name="YTFI" xvalue="738" />
             </location>
-        </source>
-    </sources>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
 </designspace>
