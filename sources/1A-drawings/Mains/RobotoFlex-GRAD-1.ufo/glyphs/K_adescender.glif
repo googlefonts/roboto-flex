@@ -1,43 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kadescender" format="2">
 	<unicode hex="049A"/>
-	<advance width="1243"/>
+	<advance width="1304"/>
 	<outline>
 		<contour>
-			<point x="218" y="795" type="line"/>
-			<point x="490" y="795" type="line"/>
-			<point x="1075" y="1456" type="line"/>
-			<point x="1188" y="1456" type="line"/>
-			<point x="522" y="707" type="line"/>
-			<point x="218" y="707" type="line"/>
+			<point x="255" y="799" type="line"/>
+			<point x="491" y="799" type="line"/>
+			<point x="1051" y="1456" type="line"/>
+			<point x="1201" y="1456" type="line"/>
+			<point x="554" y="703" type="line"/>
+			<point x="255" y="703" type="line"/>
 		</contour>
 		<contour>
-			<point x="1130" y="0" type="line"/>
-			<point x="448" y="760" type="line"/>
-			<point x="559" y="771" type="line"/>
-			<point x="1253" y="0" type="line"/>
+			<point x="1091" y="0" type="line"/>
+			<point x="460" y="740" type="line"/>
+			<point x="576" y="789" type="line"/>
+			<point x="1251" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="170" y="0" type="line"/>
-			<point x="170" y="1456" type="line"/>
-			<point x="267" y="1456" type="line"/>
-			<point x="267" y="0" type="line"/>
+			<point x="190" y="0" type="line"/>
+			<point x="190" y="1456" type="line"/>
+			<point x="321" y="1456" type="line"/>
+			<point x="321" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="1130" y="0" type="line"/>
-			<point x="1130" y="88" type="line"/>
-			<point x="1323" y="88" type="line"/>
-			<point x="1323" y="-290" type="line"/>
-			<point x="1241" y="-290" type="line"/>
-			<point x="1241" y="0" type="line"/>
+			<point x="1098" y="0" type="line"/>
+			<point x="1098" y="96" type="line"/>
+			<point x="1354" y="96" type="line"/>
+			<point x="1354" y="-290" type="line"/>
+			<point x="1230" y="-290" type="line"/>
+			<point x="1230" y="0" type="line"/>
 		</contour>
 	</outline>
-	<guideline x="480" y="796" angle="90" identifier="LxfLwWU0sJ"/>
+	<guideline x="458" y="878" angle="90" identifier="LxfLwWU0sJ"/>
 	<guideline x="218" y="838" angle="90" identifier="uXZo4z4k4u"/>
+	<guideline x="458" y="878" angle="90" identifier="tVNHskIZLM"/>
+	<guideline x="218" y="838" angle="90" identifier="o8Y8hFfSQw"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
+			<string>0.9991,0.8674,0.7109,1</string>
 		</dict>
 	</lib>
 </glyph>

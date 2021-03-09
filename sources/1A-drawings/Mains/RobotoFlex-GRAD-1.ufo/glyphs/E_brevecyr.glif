@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ebrevecyr" format="2">
 	<unicode hex="F524"/>
-	<advance width="1257"/>
+	<advance width="1359"/>
 	<outline>
-		<component base="breve.cyr.case" xOffset="59"/>
+		<component base="breve.cyr.case" xOffset="133"/>
 		<component base="Ecyr"/>
 	</outline>
 	<guideline x="664" y="762" angle="90" identifier="aP1AxYnpWU"/>
+	<guideline x="664" y="762" angle="90" identifier="Ql04jJ1xcP"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
+			<string>0.9991,0.8674,0.7109,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hard" format="2">
 	<unicode hex="042A"/>
-	<advance width="1329"/>
+	<advance width="1358"/>
 	<outline>
 		<contour>
-			<point x="24" y="1298" type="line"/>
+			<point x="24" y="1235" type="line"/>
 			<point x="24" y="1456" type="line"/>
-			<point x="491" y="1456" type="line"/>
-			<point x="491" y="886" type="line"/>
-			<point x="781" y="886" type="line" smooth="yes"/>
-			<point x="1021" y="886"/>
-			<point x="1279" y="645"/>
-			<point x="1279" y="445" type="qcurve" smooth="yes"/>
-			<point x="1279" y="245"/>
-			<point x="1021" y="0"/>
-			<point x="781" y="0" type="qcurve" smooth="yes"/>
-			<point x="299" y="0" type="line"/>
-			<point x="299" y="1298" type="line"/>
+			<point x="568" y="1456" type="line"/>
+			<point x="568" y="935" type="line"/>
+			<point x="841" y="935" type="line" smooth="yes"/>
+			<point x="1076" y="936"/>
+			<point x="1329" y="684"/>
+			<point x="1329" y="465" type="qcurve" smooth="yes"/>
+			<point x="1329" y="246"/>
+			<point x="1076" y="0"/>
+			<point x="841" y="0" type="qcurve" smooth="yes"/>
+			<point x="314" y="0" type="line"/>
+			<point x="314" y="1235" type="line"/>
 		</contour>
 		<contour>
-			<point x="491" y="728" type="line"/>
-			<point x="491" y="158" type="line"/>
-			<point x="781" y="158" type="line" smooth="yes"/>
-			<point x="951" y="158"/>
-			<point x="1087" y="325"/>
-			<point x="1087" y="445" type="qcurve" smooth="yes"/>
-			<point x="1087" y="565"/>
-			<point x="951" y="728"/>
-			<point x="781" y="728" type="qcurve" smooth="yes"/>
+			<point x="568" y="714" type="line"/>
+			<point x="568" y="221" type="line"/>
+			<point x="841" y="221" type="line" smooth="yes"/>
+			<point x="960.4893617021" y="221"/>
+			<point x="1075" y="355"/>
+			<point x="1075" y="465" type="qcurve" smooth="yes"/>
+			<point x="1075" y="575"/>
+			<point x="960.4893617021" y="714"/>
+			<point x="841" y="714" type="qcurve" smooth="yes"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
+			<string>0.9991,0.8674,0.7109,1</string>
 		</dict>
 	</lib>
 </glyph>
