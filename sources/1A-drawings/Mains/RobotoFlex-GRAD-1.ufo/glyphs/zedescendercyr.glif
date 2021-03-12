@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zedescendercyr" format="2">
 	<unicode hex="0499"/>
-	<advance width="975"/>
+	<advance width="1024"/>
 	<outline>
 		<component base="ze"/>
-		<component base="cedillacomb"/>
+		<component base="cedillacomb" xOffset="15"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
+			<string>0.9991,0.8674,0.7109,1</string>
 		</dict>
 	</lib>
 </glyph>

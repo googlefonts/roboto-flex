@@ -1,42 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kadescender" format="2">
 	<unicode hex="049B"/>
-	<advance width="1028"/>
+	<advance width="1090"/>
 	<outline>
 		<contour>
-			<point x="830" y="0" type="line"/>
-			<point x="411" y="477" type="line"/>
-			<point x="525" y="603" type="line"/>
-			<point x="958" y="113" type="line"/>
-			<point x="958" y="0" type="line"/>
+			<point x="794" y="0" type="line"/>
+			<point x="418" y="470" type="line"/>
+			<point x="597" y="602" type="line"/>
+			<point x="1030" y="76" type="line"/>
+			<point x="1030" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="241" y="610" type="line"/>
-			<point x="420" y="610" type="line"/>
-			<point x="805" y="1052" type="line"/>
-			<point x="1023" y="1052" type="line"/>
-			<point x="508" y="465" type="line"/>
-			<point x="241" y="465" type="line"/>
+			<point x="251" y="640" type="line"/>
+			<point x="454" y="640" type="line"/>
+			<point x="774" y="1052" type="line"/>
+			<point x="1051" y="1052" type="line"/>
+			<point x="542" y="425" type="line"/>
+			<point x="251" y="425" type="line"/>
 		</contour>
 		<contour>
-			<point x="334" y="1052" type="line"/>
-			<point x="334" y="0" type="line"/>
-			<point x="148" y="0" type="line"/>
-			<point x="148" y="1052" type="line"/>
+			<point x="374" y="1052" type="line"/>
+			<point x="374" y="0" type="line"/>
+			<point x="128" y="0" type="line"/>
+			<point x="128" y="1052" type="line"/>
 		</contour>
 		<contour>
-			<point x="830" y="145" type="line"/>
-			<point x="1067" y="145" type="line"/>
-			<point x="1067" y="-270" type="line"/>
-			<point x="899" y="-270" type="line"/>
-			<point x="899" y="0" type="line"/>
-			<point x="830" y="0" type="line"/>
+			<point x="812" y="215" type="line"/>
+			<point x="1090" y="215" type="line"/>
+			<point x="1090" y="-270" type="line"/>
+			<point x="854" y="-270" type="line"/>
+			<point x="854" y="0" type="line"/>
+			<point x="812" y="0" type="line"/>
 		</contour>
 	</outline>
+	<guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
+			<string>0.9991,0.8674,0.7109,1</string>
 		</dict>
 	</lib>
 </glyph>
