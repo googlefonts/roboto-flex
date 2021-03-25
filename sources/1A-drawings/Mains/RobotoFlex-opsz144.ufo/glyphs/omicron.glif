@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omicron" format="2">
-	<unicode hex="03BF"/>
-	<advance width="928"/>
-	<outline>
-		<component base="o" xOffset="-30"/>
-	</outline>
-	<anchor name="GRK_top" x="434" y="914"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.4,0.8,0.9989,1</string>
-		</dict>
-	</lib>
+  <advance width="928"/>
+  <unicode hex="03BF"/>
+  <anchor x="434" y="914" name="GRK_top"/>
+  <outline>
+    <component base="o" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9862,0.0071,0.0274,1</string>
+    </dict>
+  </lib>
 </glyph>

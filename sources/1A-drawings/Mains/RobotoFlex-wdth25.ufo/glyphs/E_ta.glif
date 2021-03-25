@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eta" format="2">
-	<unicode hex="0397"/>
-	<advance width="1302"/>
-	<outline>
-		<component base="H"/>
-	</outline>
-	<anchor name="GRK_topleft" x="30" y="1456"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.4,0.8,0.9989,1</string>
-		</dict>
-	</lib>
+  <advance width="1302"/>
+  <unicode hex="0397"/>
+  <anchor x="30" y="1456" name="GRK_topleft"/>
+  <outline>
+    <component base="H"/>
+  </outline>
 </glyph>

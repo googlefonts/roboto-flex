@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tonoscomb" format="2">
-	<advance width="875"/>
-	<outline>
-		<component base="tonos" xOffset="1"/>
-	</outline>
-	<anchor name="_GRK_top" x="398" y="1052"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.4,0.8,0.9989,1</string>
-		</dict>
-	</lib>
+  <advance width="875"/>
+  <anchor x="398" y="1052" name="_GRK_top"/>
+  <outline>
+    <component base="tonos" xOffset="1"/>
+  </outline>
 </glyph>
