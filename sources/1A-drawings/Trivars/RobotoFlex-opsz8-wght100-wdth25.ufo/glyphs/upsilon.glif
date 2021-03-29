@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="1047"/>
+  <unicode hex="03C5"/>
+  <anchor x="524.0" y="1089.0" name="GRK_top"/>
+  <outline>
+    <contour>
+      <point x="524.0" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="352.0" y="-20.0"/>
+      <point x="138" y="175.0"/>
+      <point x="138.0" y="421.0" type="qcurve" smooth="yes"/>
+      <point x="138.0" y="1089.0" type="line"/>
+      <point x="237.0" y="1089.0" type="line"/>
+      <point x="237.0" y="429.0" type="line" smooth="yes"/>
+      <point x="237.0" y="229.0"/>
+      <point x="381.0" y="75.0"/>
+      <point x="524.0" y="75.0" type="qcurve" smooth="yes"/>
+      <point x="668.0" y="75.0"/>
+      <point x="809.0" y="228.0"/>
+      <point x="809.0" y="429.0" type="qcurve" smooth="yes"/>
+      <point x="809.0" y="1089.0" type="line"/>
+      <point x="909.0" y="1089.0" type="line"/>
+      <point x="909.0" y="421.0" type="line" smooth="yes"/>
+      <point x="909.0" y="173.0"/>
+      <point x="696.0" y="-20.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
+</glyph>

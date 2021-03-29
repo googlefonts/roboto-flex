@@ -118,65 +118,8 @@ def saveMasters(fonts, master_dir="master_ufo"):
 			os.makedirs(path)
 		font.save(path)
 
-with open("sources/RobotoFlex-ascii.enc") as enc:
+with open("sources/RobotoFlex.enc") as enc:
 	glyphOrder = enc.read().splitlines()
-
-# dictionary of glyph construction used to build the composite accents
-composites = {
-	"Agrave": "A+grave@top",
-	"Aacute": "A+acute@top",
-	"Acircumflex": "A+circumflex@top",
-	"Atilde": "A+tilde@top",
-	"Adieresis": "A+dieresis@top",
-	"Aring": "A+ring@top",
-	"Ccedilla": "C+cedilla@bottom",
-	"Egrave": "E+grave@top",
-	"Eacute": "E+acute@top",
-	"Ecircumflex": "E+circumflex@top",
-	"Edieresis": "E+dieresis@top",
-	"Igrave": "I+grave@top",
-	"Iacute": "I+acute@top",
-	"Icircumflex": "I+circumflex@top",
-	"Idieresis": "I+dieresis@top",
-	"Ntilde": "N+tilde@top",
-	"Ograve": "O+grave@top",
-	"Oacute": "O+acute@top",
-	"Ocircumflex": "O+circumflex@top",
-	"Otilde": "O+tilde@top",
-	"Odieresis": "O+dieresis@top",
-	"Ugrave": "U+grave@top",
-	"Uacute": "U+acute@top",
-	"Ucircumflex": "U+circumflex@top",
-	"Udieresis": "U+dieresis@top",
-	"Yacute": "Y+acute@top",
-	"agrave": "a+grave@top",
-	"aacute": "a+acute@top",
-	"acircumflex": "a+circumflex@top",
-	"atilde": "a+tilde@top",
-	"adieresis": "a+dieresis@top",
-	"aring": "a+ring@top",
-	"ccedilla": "c+cedilla@bottom",
-	"egrave": "e+grave@top",
-	"eacute": "e+acute@top",
-	"ecircumflex": "e+circumflex@top",
-	"edieresis": "e+dieresis@top",
-	"igrave": "dotlessi+grave@top",
-	"iacute": "dotlessi+acute@top",
-	"icircumflex": "dotlessi+circumflex@top",
-	"idieresis": "dotlessi+dieresis@top",
-	"ntilde": "n+tilde@top",
-	"ograve": "o+grave@top",
-	"oacute": "o+acute@top",
-	"ocircumflex": "o+circumflex@top",
-	"otilde": "o+tilde@top",
-	"odieresis": "o+dieresis@top",
-	"ugrave": "u+grave@top",
-	"uacute": "u+acute@top",
-	"ucircumflex": "u+circumflex@top",
-	"udieresis": "u+dieresis@top",
-	"yacute": "y+acute@top",
-	"ydieresis": "y+dieresis@top",
-}
 
 print ("Cleaning up...")
 
@@ -405,10 +348,6 @@ sources = [
 	dict(path="master_ufo/RobotoFlex-wght100.ufo", name="RobotoFlex-wght100.ufo", location=dict(wght=100, opsz=0), styleName="wght100", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-wght1000.ufo", name="RobotoFlex-wght1000.ufo", location=dict(wght=1000, opsz=0), styleName="wght1000", familyName=familyName, copyInfo=False),
 
-
-# 	dict(path="master_ufo/RobotoFlex-wght100.ufo", name="RobotoFlex-wght100.ufo", location=dict(PWGT=44), styleName="wght100", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-wght900.ufo", name="RobotoFlex-wght900.ufo", location=dict(PWGT=150), styleName="wght900", familyName=familyName, copyInfo=False),
-	
 	dict(path="master_ufo/RobotoFlex-opsz8.ufo", name="RobotoFlex-opsz8.ufo", location=dict(opsz=-1), styleName="opsz8", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-opsz36.ufo", name="RobotoFlex-opsz36.ufo", location=dict(opsz=36), styleName="opsz36", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz144.ufo", name="RobotoFlex-opsz144.ufo", location=dict(opsz=1), styleName="opsz144", familyName=familyName, copyInfo=False),
@@ -420,9 +359,10 @@ sources = [
 
 ##	Slant
 	
+	dict(path="master_ufo/RobotoFlex-Slant.ufo", name="RobotoFlex-Slant.ufo", location=dict(slnt=-10, opsz=0), styleName="slnt-1", familyName=familyName, copyInfo=False),
+	
 	dict(path="master_ufo/RobotoFlex-opsz8-wght400-wdth100-slnt-1.ufo", name="RobotoFlex-opsz8-wght400-wdth100-slnt-1.ufo", location=dict(slnt=-10, opsz=-1, wght=400), styleName="opsz8-wght400-wdth100-slnt-1", familyName=familyName, copyInfo=False),
 	
-	dict(path="master_ufo/RobotoFlex-Slant.ufo", name="RobotoFlex-Slant.ufo", location=dict(slnt=-10, opsz=0), styleName="slnt-1", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz14-wght100-slnt-1.ufo", name="RobotoFlex-opsz14-wght100-slnt-1.ufo", location=dict(slnt=-10, opsz=0, wght=100), styleName="opsz14-wght100-slnt-1", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz14-wght400-wdth25-slnt-1.ufo", name="RobotoFlex-opsz14-wght400-wdth25-slnt-1.ufo", location=dict(slnt=-10, opsz=0, wdth=25, wght=400), styleName="opsz14-wght400-wdth25-slnt-1", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz14-wght400-wdth151-slnt-1.ufo", name="RobotoFlex-opsz14-wght400-wdth151-slnt-1.ufo", location=dict(slnt=-10, opsz=0, wdth=151, wght=400), styleName="opsz14-wght400-wdth151-slnt-1", familyName=familyName, copyInfo=False),
@@ -439,8 +379,6 @@ sources = [
 	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth100-slnt-1.ufo", name="RobotoFlex-opsz144-wght900-wdth100-slnt-1.ufo", location=dict(slnt=-10, opsz=1, wdth=100, wght=1000), styleName="opsz144-wght900-wdth100-slnt-1", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz144-wght900-wdth151-slnt-1.ufo", name="RobotoFlex-opsz144-wght900-wdth151-slnt-1.ufo", location=dict(slnt=-10, opsz=1, wdth=151, wght=1000), styleName="opsz144-wght900-wdth151-slnt-1", familyName=familyName, copyInfo=False),
 
-	
-	#dict(path="master_ufo/RobotoFlex-Regular.ufo", name="RobotoFlex-Regular.ufo", location=dict(slnt=0, opsz=0), styleName="slnt0", familyName=familyName, copyInfo=False),
 
 ##	Parametric
 	dict(path="master_ufo/RobotoFlex-XOPQ27.ufo", name="RobotoFlex-XOPQ27.ufo", location=dict(XOPQ=27, opsz=0), styleName="XOPQ27", familyName=familyName, copyInfo=False),
@@ -451,14 +389,7 @@ sources = [
 
 	dict(path="master_ufo/RobotoFlex-YOPQ25.ufo", name="RobotoFlex-YOPQ25.ufo", location=dict(YOPQ=25, opsz=0), styleName="YOPQ25", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-YOPQ135.ufo", name="RobotoFlex-YOPQ135.ufo", location=dict(YOPQ=135, opsz=0), styleName="YOPQ135", familyName=familyName, copyInfo=False),
-	
-# 	dict(path="master_ufo/RobotoFlex-YOLCmin.ufo", name="RobotoFlex-YOLCmin.ufo", location=dict(YOLC=25), styleName="YOLCmin", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-YOLCmax.ufo", name="RobotoFlex-YOLCmax.ufo", location=dict(YOLC=130), styleName="YOLCmax", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-YOUCmin.ufo", name="RobotoFlex-YOUCmin.ufo", location=dict(YOUC=25), styleName="YOUCmin", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-YOUCmax.ufo", name="RobotoFlex-YOUCmax.ufo", location=dict(YOUC=135), styleName="YOUCmax", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-YOFImin.ufo", name="RobotoFlex-YOFImin.ufo", location=dict(YOFI=25), styleName="YOFImin", familyName=familyName, copyInfo=False),
-# 	dict(path="master_ufo/RobotoFlex-YOFImax.ufo", name="RobotoFlex-YOFImax.ufo", location=dict(YOFI=150), styleName="YOFImax", familyName=familyName, copyInfo=False),
- 	
+
 	dict(path="master_ufo/RobotoFlex-YTLC416.ufo", name="RobotoFlex-YTLC416.ufo", location=dict(YTLC=416, opsz=0), styleName="YTLC416", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-YTLC570.ufo", name="RobotoFlex-YTLC570.ufo", location=dict(YTLC=570, opsz=0), styleName="YTLC570", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-YTUC528.ufo", name="RobotoFlex-YTUC528.ufo", location=dict(YTUC=528, opsz=0), styleName="YTUC528", familyName=familyName, copyInfo=False),
@@ -471,6 +402,12 @@ sources = [
 	dict(path="master_ufo/RobotoFlex-YTFI560.ufo", name="RobotoFlex-YTFI560.ufo", location=dict(YTFI=560, opsz=0), styleName="YTFI560", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-YTFI788.ufo", name="RobotoFlex-YTFI788.ufo", location=dict(YTFI=788, opsz=0), styleName="YTFI788", familyName=familyName, copyInfo=False),
 # 	
+# 	dict(path="master_ufo/RobotoFlex-YOLCmin.ufo", name="RobotoFlex-YOLCmin.ufo", location=dict(YOLC=25), styleName="YOLCmin", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoFlex-YOLCmax.ufo", name="RobotoFlex-YOLCmax.ufo", location=dict(YOLC=130), styleName="YOLCmax", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoFlex-YOUCmin.ufo", name="RobotoFlex-YOUCmin.ufo", location=dict(YOUC=25), styleName="YOUCmin", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoFlex-YOUCmax.ufo", name="RobotoFlex-YOUCmax.ufo", location=dict(YOUC=135), styleName="YOUCmax", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoFlex-YOFImin.ufo", name="RobotoFlex-YOFImin.ufo", location=dict(YOFI=25), styleName="YOFImin", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoFlex-YOFImax.ufo", name="RobotoFlex-YOFImax.ufo", location=dict(YOFI=150), styleName="YOFImax", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-XOLCmin.ufo", name="RobotoFlex-XOLCmin.ufo", location=dict(XOLC=27), styleName="XOLCmin", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-XOLCmax.ufo", name="RobotoFlex-XOLCmax.ufo", location=dict(XOLC=170), styleName="XOLCmax", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-XOUCmin.ufo", name="RobotoFlex-XOUCmin.ufo", location=dict(XOUC=27), styleName="XOUCmin", familyName=familyName, copyInfo=False),
@@ -514,6 +451,10 @@ sources = [
 	
 	
 ##	Trivars
+	
+	dict(path="master_ufo/RobotoFlex-opsz8-wght100-wdth25.ufo", name="RobotoFlex-opsz8-wght100-wdth25.ufo", location=dict(wght=100, wdth=25, opsz=-1), styleName="opsz8-wght100-wdth25", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/RobotoFlex-opsz8-wght100-wdth151.ufo", name="RobotoFlex-opsz8-wght100-wdth151.ufo", location=dict(wght=100, wdth=151, opsz=-1), styleName="opsz8-wght100-wdth151", familyName=familyName, copyInfo=False),
+	
 	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth151.ufo", name="RobotoFlex-opsz144-wght100-wdth151.ufo", location=dict(wght=100, wdth=151, opsz=1), styleName="opsz144-wght100-wdth151", familyName=familyName, copyInfo=False),
 	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth25.ufo", name="RobotoFlex-opsz144-wght100-wdth25.ufo", location=dict(wght=100, wdth=25, opsz=1), styleName="opsz144-wght100-wdth25", familyName=familyName, copyInfo=False),
 	
@@ -546,13 +487,15 @@ sources = [
 # 	dict(path="master_ufo/RobotoFlex-opsz24wght100.ufo", name="RobotoFlex-opsz24wght100.ufo", location=dict(wght=100, opsz=24), styleName="opsz24wght100", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-opsz24wght900.ufo", name="RobotoFlex-opsz24wght900.ufo", location=dict(wght=1000, opsz=24), styleName="opsz24wght900", familyName=familyName, copyInfo=False),
 
-# opsz36
- 	dict(path="master_ufo/RobotoFlex-opsz36-wght100.ufo", name="RobotoFlex-opsz36-wght100.ufo", location=dict(wght=100, opsz=0.492), styleName="opsz36-wght100", familyName=familyName, copyInfo=False),
- 	dict(path="master_ufo/RobotoFlex-opsz36-wght700.ufo", name="RobotoFlex-opsz36-wght700.ufo", location=dict(wght=700, opsz=0.492), styleName="opsz36-wght700", familyName=familyName, copyInfo=False),
- 	dict(path="master_ufo/RobotoFlex-opsz36-wght900.ufo", name="RobotoFlex-opsz36-wght900.ufo", location=dict(wght=1000, opsz=0.492), styleName="opsz36-wght900", familyName=familyName, copyInfo=False),
-
-#opsz144
- 	dict(path="master_ufo/RobotoFlex-opsz144-wght700.ufo", name="RobotoFlex-opsz144-wght700.ufo", location=dict(wght=700, opsz=1), styleName="opsz36wght900", familyName=familyName, copyInfo=False),
+# # auto-generate
+# # opsz36
+# 	dict(path="master_ufo/RobotoFlex-opsz36-wght100.ufo", name="RobotoFlex-opsz36-wght100.ufo", location=dict(wght=100, opsz=0.492), styleName="opsz36-wght100", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoFlex-opsz36-wght700.ufo", name="RobotoFlex-opsz36-wght700.ufo", location=dict(wght=700, opsz=0.492), styleName="opsz36-wght700", familyName=familyName, copyInfo=False),
+# 	dict(path="master_ufo/RobotoFlex-opsz36-wght900.ufo", name="RobotoFlex-opsz36-wght900.ufo", location=dict(wght=1000, opsz=0.492), styleName="opsz36-wght900", familyName=familyName, copyInfo=False),
+# # 
+# # # auto-generate
+# # #opsz144
+# 	dict(path="master_ufo/RobotoFlex-opsz144-wght700.ufo", name="RobotoFlex-opsz144-wght700.ufo", location=dict(wght=700, opsz=1), styleName="opsz36wght900", familyName=familyName, copyInfo=False),
 
 ## Figures
 # 	dict(path="master_ufo/RobotoFlex-opsz18-wght100-wdth25.ufo", name="RobotoFlex-opsz18-wght100-wdth25.ufo", location=dict(wght=100, opsz=18, wdth=25), styleName="opsz18-wght100-wdth25", familyName=familyName, copyInfo=False),
@@ -575,7 +518,8 @@ sources = [
 # 	dict(path="master_ufo/RobotoFlex-opsz24-wght100-wdth151.ufo", name="RobotoFlex-opsz24-wght100-wdth151.ufo", location=dict(wght=100, opsz=24, wdth=151), styleName="opsz24-wght100-wdth151", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-opsz36-wght700-wdth151.ufo", name="RobotoFlex-opsz36-wght700-wdth151.ufo", location=dict(wght=700, opsz=36, wdth=151), styleName="opsz36-wght700-wdth151", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/RobotoFlex-opsz144-wght500-wdth151.ufo", name="RobotoFlex-opsz144-wght500-wdth151.ufo", location=dict(wght=500, opsz=1, wdth=151), styleName="opsz144-wght500-wdth151", familyName=familyName, copyInfo=False),
-	
+
+# auto-generate	
 ##	NEW Caping
 	
 # 	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth25-GRAD-1.ufo", name="RobotoFlex-opsz144-wght100-wdth25-GRAD-1.ufo", location=dict(wght=100, opsz=1, wdth=25, GRAD=-1), styleName="opsz144-wght100-wdth25-GRAD-1", familyName=familyName, copyInfo=False),
@@ -593,7 +537,7 @@ sources = [
 # 	
 # 	dict(path="master_ufo/RobotoFlex-opsz8-wght100-GRAD-1.ufo", name="RobotoFlex-opsz8-wght100-GRAD-1.ufo", location=dict(wght=100, opsz=0, GRAD=-1), styleName="opsz8-wght100-GRAD-1", familyName=familyName, copyInfo=False),
 # 	
-# 
+# auto-generate
 # ##	Caping & trimming instances github issue 56
 # # 	XOPQ27
 # 	dict(path="master_ufo/RobotoFlex-opsz8-wght100-wdth100-XOPQ27.ufo", name="RobotoFlex-opsz8-wght100-wdth100-XOPQ27.ufo", location=dict(wght=100, opsz=-1, wdth=100, XOPQ=27), styleName="opsz8-wght100-wdth100-XOPQ27", familyName=familyName, copyInfo=False),
@@ -661,7 +605,9 @@ sources = [
 # 	dict(path="master_ufo/RobotoFlex-opsz144-wght100-wdth151-XTRA603.ufo", name="RobotoFlex-opsz144-wght100-wdth151-XTRA603.ufo", location=dict(wght=100, opsz=1, wdth=151, XTRA=603), styleName="opsz144-wght100-wdth151-XTRA603", familyName=familyName, copyInfo=False),
 	
 ]
-#instances = []
+instances = [
+	dict(path="master_ufo/RobotoFlex-opsz144-wght700.ufo", filename="RobotoFlex-opsz144-wght700.ufo", location=dict(wght=700, opsz=1), styleName="opsz144-wght700", familyName=familyName, copyInfo=False),
+]
 axes = [
 
 
@@ -672,7 +618,7 @@ axes = [
 # 	dict(minimum=560, maximum=867, default=712, name="PWDT", tag="PWDT", labelNames={"en": "PWDT"}, map=[]),
 # 	dict(minimum=-1, maximum=1, default=0, name="POPS", tag="POPS", labelNames={"en": "POPS"}, map=[]),
 	dict(minimum=-1, maximum=1, default=0, name="GRAD", tag="GRAD", labelNames={"en": "GRAD"}, map=[], hidden=0),
-	dict(minimum=-10, maximum=0, default=0, name="slnt", tag="slnt", labelNames={"en": "slnt"}, map=[], hidden=1),
+ 	dict(minimum=-10, maximum=0, default=0, name="slnt", tag="slnt", labelNames={"en": "slnt"}, map=[], hidden=1),
 # 	dict(minimum=-1, maximum=1, default=0, name="YTRA", tag="YTRA", labelNames={"en": "YTRA"}, map=[]),
 	dict(minimum=323, maximum=603, default=468, name="XTRA", tag="XTRA", labelNames={"en": "XTRA"}, map=[], hidden=1),
 	dict(minimum=27, maximum=175, default=96, name="XOPQ", tag="XOPQ", labelNames={"en": "XOPQ"}, map=[], hidden=1),
@@ -747,7 +693,7 @@ for fileName in sources:
 	    accentFonts.append(font)
 	fonts.append(font)
 	
-buildGlyphSet(dflt, fonts)
+#buildGlyphSet(dflt, fonts)
 allfonts = [dflt]+fonts
 #buildComposites(composites, accentFonts)
 setGlyphOrder(glyphOrder, allfonts)
