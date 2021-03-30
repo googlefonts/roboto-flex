@@ -1,59 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ef" format="2">
-	<unicode hex="0424"/>
-	<advance width="1723"/>
-	<outline>
-		<contour>
-			<point x="927" y="1476" type="line"/>
-			<point x="927" y="1280" type="line"/>
-			<point x="936" y="1280" type="line" smooth="yes"/>
-			<point x="1283" y="1280"/>
-			<point x="1623" y="988"/>
-			<point x="1623" y="741" type="qcurve" smooth="yes"/>
-			<point x="1623" y="493"/>
-			<point x="1282" y="200"/>
-			<point x="936" y="200" type="qcurve" smooth="yes"/>
-			<point x="927" y="200" type="line"/>
-			<point x="927" y="-20" type="line"/>
-			<point x="796" y="-20" type="line"/>
-			<point x="796" y="200" type="line"/>
-			<point x="787" y="200" type="line" smooth="yes"/>
-			<point x="441" y="200"/>
-			<point x="100" y="493"/>
-			<point x="100" y="741" type="qcurve" smooth="yes"/>
-			<point x="100" y="988"/>
-			<point x="440" y="1280"/>
-			<point x="787" y="1280" type="qcurve" smooth="yes"/>
-			<point x="796" y="1280" type="line"/>
-			<point x="796" y="1476" type="line"/>
-		</contour>
-		<contour>
-			<point x="936" y="1183" type="qcurve" smooth="yes"/>
-			<point x="927" y="1183" type="line"/>
-			<point x="927" y="297" type="line"/>
-			<point x="936" y="297" type="line" smooth="yes"/>
-			<point x="1245" y="297"/>
-			<point x="1492" y="541"/>
-			<point x="1492" y="741" type="qcurve" smooth="yes"/>
-			<point x="1492" y="940"/>
-			<point x="1245" y="1183"/>
-		</contour>
-		<contour>
-			<point x="787" y="1183" type="line" smooth="yes"/>
-			<point x="478" y="1183"/>
-			<point x="231" y="940"/>
-			<point x="231" y="741" type="qcurve" smooth="yes"/>
-			<point x="231" y="541"/>
-			<point x="478" y="297"/>
-			<point x="787" y="297" type="qcurve" smooth="yes"/>
-			<point x="796" y="297" type="line"/>
-			<point x="796" y="1183" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.9991,0.8674,0.7109,1</string>
-		</dict>
-	</lib>
+  <advance width="1723"/>
+  <unicode hex="0424"/>
+  <outline>
+    <contour>
+      <point x="927" y="1476" type="line"/>
+      <point x="927" y="1280" type="line"/>
+      <point x="936" y="1280" type="line" smooth="yes"/>
+      <point x="1283" y="1280"/>
+      <point x="1623" y="988"/>
+      <point x="1623" y="741" type="qcurve" smooth="yes"/>
+      <point x="1623" y="493"/>
+      <point x="1282" y="200"/>
+      <point x="936" y="200" type="qcurve" smooth="yes"/>
+      <point x="927" y="200" type="line"/>
+      <point x="927" y="-20" type="line"/>
+      <point x="796" y="-20" type="line"/>
+      <point x="796" y="200" type="line"/>
+      <point x="787" y="200" type="line" smooth="yes"/>
+      <point x="441" y="200"/>
+      <point x="100" y="493"/>
+      <point x="100" y="741" type="qcurve" smooth="yes"/>
+      <point x="100" y="988"/>
+      <point x="440" y="1280"/>
+      <point x="787" y="1280" type="qcurve" smooth="yes"/>
+      <point x="796" y="1280" type="line"/>
+      <point x="796" y="1476" type="line"/>
+    </contour>
+    <contour>
+      <point x="936" y="1183" type="qcurve" smooth="yes"/>
+      <point x="927" y="1183" type="line"/>
+      <point x="927" y="297" type="line"/>
+      <point x="936" y="297" type="line" smooth="yes"/>
+      <point x="1245" y="297"/>
+      <point x="1492" y="541"/>
+      <point x="1492" y="741" type="qcurve" smooth="yes"/>
+      <point x="1492" y="940"/>
+      <point x="1245" y="1183"/>
+    </contour>
+    <contour>
+      <point x="787" y="1183" type="line" smooth="yes"/>
+      <point x="478" y="1183"/>
+      <point x="231" y="940"/>
+      <point x="231" y="741" type="qcurve" smooth="yes"/>
+      <point x="231" y="541"/>
+      <point x="478" y="297"/>
+      <point x="787" y="297" type="qcurve" smooth="yes"/>
+      <point x="796" y="297" type="line"/>
+      <point x="796" y="1183" type="line"/>
+    </contour>
+  </outline>
 </glyph>

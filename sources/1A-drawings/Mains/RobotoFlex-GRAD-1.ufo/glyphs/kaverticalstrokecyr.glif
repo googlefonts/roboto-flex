@@ -1,46 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kaverticalstrokecyr" format="2">
-	<unicode hex="049D"/>
-	<advance width="1176"/>
-	<outline>
-		<contour>
-			<point x="541" y="852" type="line"/>
-			<point x="541" y="200" type="line"/>
-			<point x="421" y="200" type="line"/>
-			<point x="421" y="852" type="line"/>
-		</contour>
-		<contour>
-			<point x="286" y="1052" type="line"/>
-			<point x="286" y="0" type="line"/>
-			<point x="158" y="0" type="line"/>
-			<point x="158" y="1052" type="line"/>
-		</contour>
-		<contour>
-			<point x="1026" y="0" type="line"/>
-			<point x="635" y="511" type="line"/>
-			<point x="728" y="575" type="line"/>
-			<point x="1172" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="481" y="580" type="line"/>
-			<point x="651" y="580" type="line"/>
-			<point x="976" y="1052" type="line"/>
-			<point x="1114" y="1052" type="line"/>
-			<point x="710" y="490" type="line"/>
-			<point x="481" y="490" type="line"/>
-		</contour>
-	</outline>
-	<guideline x="547" y="651" angle="90" identifier="ATaXbxe4rK"/>
-	<guideline x="241" y="553" angle="90" identifier="rjdy9jC6m6"/>
-	<guideline x="195" y="516" angle="90" identifier="02NjVjLOSl"/>
-	<guideline x="241" y="553" angle="90" identifier="Pb3Dym4nsF"/>
-	<guideline x="195" y="516" angle="90" identifier="i6Q4lFgG3c"/>
-	<guideline x="241" y="553" angle="90" identifier="H2OJFjKAUT"/>
-	<guideline x="195" y="516" angle="90" identifier="ea2lBjaSHR"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.9991,0.8674,0.7109,1</string>
-		</dict>
-	</lib>
+  <advance width="1176"/>
+  <unicode hex="049D"/>
+  <guideline x="547" y="651" angle="90" identifier="ATaXbxe4rK"/>
+  <guideline x="241" y="553" angle="90" identifier="rjdy9jC6m6"/>
+  <guideline x="195" y="516" angle="90" identifier="02NjVjLOSl"/>
+  <guideline x="241" y="553" angle="90" identifier="Pb3Dym4nsF"/>
+  <guideline x="195" y="516" angle="90" identifier="i6Q4lFgG3c"/>
+  <guideline x="241" y="553" angle="90" identifier="H2OJFjKAUT"/>
+  <guideline x="195" y="516" angle="90" identifier="ea2lBjaSHR"/>
+  <outline>
+    <contour>
+      <point x="541" y="852" type="line"/>
+      <point x="541" y="200" type="line"/>
+      <point x="421" y="200" type="line"/>
+      <point x="421" y="852" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="1052" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="1052" type="line"/>
+    </contour>
+    <contour>
+      <point x="1026" y="0" type="line"/>
+      <point x="635" y="511" type="line"/>
+      <point x="728" y="575" type="line"/>
+      <point x="1172" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="580" type="line"/>
+      <point x="651" y="580" type="line"/>
+      <point x="976" y="1052" type="line"/>
+      <point x="1114" y="1052" type="line"/>
+      <point x="710" y="490" type="line"/>
+      <point x="481" y="490" type="line"/>
+    </contour>
+  </outline>
 </glyph>
