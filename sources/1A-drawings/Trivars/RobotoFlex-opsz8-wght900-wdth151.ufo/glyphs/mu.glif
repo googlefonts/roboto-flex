@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="112.0" y="-416.0" type="line"/>
-      <point x="112.0" y="1057.0" type="line"/>
-      <point x="530.0" y="1057.0" type="line"/>
+      <point x="112.0" y="1131.5714285714287" type="line"/>
+      <point x="530.0" y="1131.5714285714287" type="line"/>
       <point x="530.0" y="403.0" type="line"/>
       <point x="558.0" y="338.0"/>
       <point x="663.0" y="290.0"/>
@@ -14,8 +14,8 @@
       <point x="803.0" y="290.0"/>
       <point x="937.0" y="370.0"/>
       <point x="937.0" y="476.0" type="qcurve" smooth="yes"/>
-      <point x="937.0" y="1058.0" type="line"/>
-      <point x="1354.0" y="1058.0" type="line"/>
+      <point x="937.0" y="1133.2142857142858" type="line"/>
+      <point x="1354.0" y="1133.2142857142858" type="line"/>
       <point x="1354.0" y="394.0" type="line" smooth="yes"/>
       <point x="1354.0" y="313.0"/>
       <point x="1412.0" y="262.0"/>
@@ -26,12 +26,12 @@
       <point x="1535.0" y="2.0" type="line"/>
       <point x="1504.0" y="-13.0"/>
       <point x="1395.0" y="-29.0"/>
-      <point x="1345.0" y="-29.0" type="qcurve" smooth="yes"/>
-      <point x="1186.0" y="-29.0"/>
-      <point x="1046.0" y="87.0"/>
-      <point x="1029.0" y="182.0" type="qcurve"/>
-      <point x="1023.0" y="182.0" type="line"/>
-      <point x="1000.0" y="82.0"/>
+      <point x="1339.857142857143" y="-29.0" type="qcurve"/>
+      <point x="1183.4285714285713" y="-29.0"/>
+      <point x="1044.0714285714287" y="85.07142857142857"/>
+      <point x="1026.4285714285713" y="178.78571428571428" type="qcurve"/>
+      <point x="1020.4285714285713" y="178.78571428571428" type="line"/>
+      <point x="997.4285714285714" y="78.78571428571428"/>
       <point x="841.0" y="-20.0"/>
       <point x="727.0" y="-20.0" type="qcurve" smooth="yes"/>
       <point x="674.0" y="-20.0"/>
@@ -40,10 +40,4 @@
       <point x="530.0" y="-416.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,0.8,0.9989,1</string>
-    </dict>
-  </lib>
 </glyph>
