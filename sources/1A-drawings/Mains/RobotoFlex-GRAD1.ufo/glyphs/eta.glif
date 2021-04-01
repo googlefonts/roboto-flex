@@ -1,31 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eta" format="2">
-  <advance width="1138"/>
-  <unicode hex="03B7"/>
-  <anchor x="497" y="1052" name="GRK_top"/>
-  <outline>
-    <contour>
-      <point x="794" y="-415" type="line"/>
-      <point x="794" y="674" type="line" smooth="yes"/>
-      <point x="794" y="783"/>
-      <point x="701" y="851"/>
-      <point x="616" y="851" type="qcurve" smooth="yes"/>
-      <point x="551" y="851"/>
-      <point x="423" y="765"/>
-      <point x="394" y="697" type="qcurve"/>
-      <point x="394" y="0" type="line"/>
-      <point x="148" y="0" type="line"/>
-      <point x="148" y="1051" type="line"/>
-      <point x="378" y="1051" type="line"/>
-      <point x="385" y="934" type="line"/>
-      <point x="391" y="934" type="line"/>
-      <point x="426" y="988"/>
-      <point x="591" y="1072"/>
-      <point x="687" y="1072" type="qcurve" smooth="yes"/>
-      <point x="838" y="1072"/>
-      <point x="1040" y="899"/>
-      <point x="1040" y="662" type="qcurve" smooth="yes"/>
-      <point x="1040" y="-415" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="03B7"/>
+	<advance width="1138"/>
+	<outline>
+		<contour>
+			<point x="794" y="-415" type="line"/>
+			<point x="794" y="674" type="line" smooth="yes"/>
+			<point x="794" y="783"/>
+			<point x="701" y="851"/>
+			<point x="616" y="851" type="qcurve" smooth="yes"/>
+			<point x="551" y="851"/>
+			<point x="423" y="765"/>
+			<point x="394" y="697" type="qcurve"/>
+			<point x="394" y="0" type="line"/>
+			<point x="148" y="0" type="line"/>
+			<point x="148" y="1051" type="line"/>
+			<point x="378" y="1051" type="line"/>
+			<point x="385" y="934" type="line"/>
+			<point x="391" y="934" type="line"/>
+			<point x="426" y="988"/>
+			<point x="591" y="1072"/>
+			<point x="687" y="1072" type="qcurve" smooth="yes"/>
+			<point x="838" y="1072"/>
+			<point x="1040" y="899"/>
+			<point x="1040" y="662" type="qcurve" smooth="yes"/>
+			<point x="1040" y="-415" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="GRK_top" x="497" y="1052"/>
 </glyph>
