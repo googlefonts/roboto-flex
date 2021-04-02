@@ -5,30 +5,24 @@
   <anchor x="673.0" y="1089.0" name="GRK_top"/>
   <outline>
     <contour>
-      <point x="673.0" y="-20.0" type="qcurve" smooth="yes"/>
-      <point x="442.0" y="-20.0"/>
-      <point x="138.0" y="175.0"/>
-      <point x="138.0" y="459.0" type="qcurve" smooth="yes"/>
-      <point x="138.0" y="1089.0" type="line"/>
-      <point x="255.0" y="1089.0" type="line"/>
-      <point x="255.0" y="480.0" type="line" smooth="yes"/>
-      <point x="255.0" y="232.0"/>
-      <point x="479.0" y="85.0"/>
-      <point x="673.0" y="85.0" type="qcurve" smooth="yes"/>
-      <point x="865.0" y="85.0"/>
-      <point x="1089.0" y="229.0"/>
-      <point x="1090.0" y="480.0" type="qcurve" smooth="yes"/>
-      <point x="1090.0" y="1089.0" type="line"/>
-      <point x="1208.0" y="1089.0" type="line"/>
-      <point x="1208.0" y="459.0" type="line" smooth="yes"/>
-      <point x="1208.0" y="169.0"/>
-      <point x="898.0" y="-20.0"/>
+      <point x="673" y="-20" type="qcurve" smooth="yes"/>
+      <point x="426" y="-20"/>
+      <point x="138" y="184"/>
+      <point x="138" y="449" type="qcurve" smooth="yes"/>
+      <point x="138" y="1089" type="line"/>
+      <point x="255" y="1089" type="line"/>
+      <point x="255" y="459" type="line"/>
+      <point x="255" y="260"/>
+      <point x="445" y="84"/>
+      <point x="673" y="84" type="qcurve" smooth="yes"/>
+      <point x="901" y="84"/>
+      <point x="1091" y="260"/>
+      <point x="1091" y="459" type="qcurve"/>
+      <point x="1091" y="1089" type="line"/>
+      <point x="1208" y="1089" type="line"/>
+      <point x="1208" y="449" type="line" smooth="yes"/>
+      <point x="1208" y="184"/>
+      <point x="920" y="-20"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,0.8,0.9989,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -4,10 +4,10 @@
   <unicode hex="03C0"/>
   <outline>
     <contour>
-      <point x="0.0" y="980.0" type="line"/>
+      <point x="0.0" y="975.0" type="line"/>
       <point x="0.0" y="1089.0" type="line"/>
       <point x="1374.0" y="1089.0" type="line"/>
-      <point x="1374.0" y="980.0" type="line"/>
+      <point x="1374.0" y="975.0" type="line"/>
     </contour>
     <contour>
       <point x="164.0" y="0.0" type="line"/>
@@ -16,28 +16,22 @@
       <point x="281.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="1280.0" y="-30.0" type="qcurve" smooth="yes"/>
-      <point x="1167.0" y="-30.0"/>
-      <point x="1083.0" y="67.0"/>
-      <point x="1083.0" y="143.0" type="qcurve"/>
-      <point x="1083.0" y="1037.0" type="line"/>
+      <point x="1291.0" y="-30.0" type="qcurve" smooth="yes"/>
+      <point x="1188.0" y="-30"/>
+      <point x="1086.0" y="70"/>
+      <point x="1086.0" y="203.0" type="qcurve" smooth="yes"/>
+      <point x="1086.0" y="1037.0" type="line"/>
       <point x="1203.0" y="1037.0" type="line"/>
-      <point x="1203.0" y="184.0" type="line"/>
-      <point x="1203.0" y="115.0"/>
-      <point x="1266.0" y="77.0"/>
-      <point x="1304.0" y="77.0" type="qcurve"/>
-      <point x="1332.0" y="77.0"/>
-      <point x="1375.0" y="84.0"/>
-      <point x="1398.0" y="92.0" type="qcurve"/>
-      <point x="1398.0" y="-13.0" type="line"/>
-      <point x="1374.0" y="-21.0"/>
-      <point x="1304.0" y="-30.0"/>
+      <point x="1203.0" y="224.0" type="line" smooth="yes"/>
+      <point x="1203.0" y="134.0"/>
+      <point x="1260.0" y="74.0"/>
+      <point x="1310.0" y="74.0" type="qcurve" smooth="yes"/>
+      <point x="1335" y="74"/>
+      <point x="1382" y="83"/>
+      <point x="1399.0" y="89.0" type="qcurve"/>
+      <point x="1399.0" y="-13.0" type="line"/>
+      <point x="1375.0" y="-21.0"/>
+      <point x="1315" y="-30"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,0.8,0.9989,1</string>
-    </dict>
-  </lib>
 </glyph>
