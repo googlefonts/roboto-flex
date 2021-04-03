@@ -2,7 +2,7 @@
 <glyph name="iota" format="2">
   <advance width="502"/>
   <unicode hex="03B9"/>
-  <anchor x="172.0" y="1052.0" name="GRK_top"/>
+  <anchor x="192.0" y="1052.0" name="GRK_top"/>
   <outline>
     <contour>
       <point x="336.0" y="-30.0" type="qcurve" smooth="yes"/>
@@ -12,7 +12,7 @@
       <point x="138.0" y="1052.0" type="line"/>
       <point x="225.0" y="1052.0" type="line"/>
       <point x="225.0" y="256.0" type="line" smooth="yes"/>
-      <point x="225.0" y="140.0"/>
+      <point x="225" y="140"/>
       <point x="288.0" y="53.0"/>
       <point x="358.0" y="53.0" type="qcurve" smooth="yes"/>
       <point x="384.0" y="53.0"/>
@@ -23,10 +23,4 @@
       <point x="373.0" y="-30.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,0.8,0.9989,1</string>
-    </dict>
-  </lib>
 </glyph>

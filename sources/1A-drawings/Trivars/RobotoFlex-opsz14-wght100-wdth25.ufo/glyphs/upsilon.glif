@@ -2,7 +2,7 @@
 <glyph name="upsilon" format="2">
   <advance width="973"/>
   <unicode hex="03C5"/>
-  <anchor x="487.0" y="1052.0" name="GRK_top"/>
+  <anchor x="487" y="1052.0" name="GRK_top"/>
   <outline>
     <contour>
       <point x="487.0" y="-20.0" type="qcurve" smooth="yes"/>
@@ -11,13 +11,13 @@
       <point x="138.0" y="383.0" type="qcurve" smooth="yes"/>
       <point x="138.0" y="1052.0" type="line"/>
       <point x="225.0" y="1052.0" type="line"/>
-      <point x="225.0" y="378.0" type="line" smooth="yes"/>
-      <point x="225.0" y="197.0"/>
+      <point x="225.0" y="388.0" type="line" smooth="yes"/>
+      <point x="225.0" y="207.0"/>
       <point x="350.0" y="62.0"/>
       <point x="487.0" y="62.0" type="qcurve" smooth="yes"/>
       <point x="625.0" y="62.0"/>
-      <point x="751.0" y="197.0"/>
-      <point x="748.0" y="378.0" type="qcurve" smooth="yes"/>
+      <point x="748.0" y="207"/>
+      <point x="748.0" y="388.0" type="qcurve" smooth="yes"/>
       <point x="748.0" y="1052.0" type="line"/>
       <point x="835.0" y="1052.0" type="line"/>
       <point x="835.0" y="383.0" type="line" smooth="yes"/>
@@ -25,10 +25,4 @@
       <point x="648.0" y="-20.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,0.8,0.9989,1</string>
-    </dict>
-  </lib>
 </glyph>
