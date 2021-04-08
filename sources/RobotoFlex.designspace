@@ -15,7 +15,7 @@
             <map input="84" output="0.946000" />
             <map input="144" output="1" />
         </axis>
-        <axis default="0" maximum="1" minimum="-1" name="GRAD" tag="GRAD">
+        <axis default="0" maximum="150" minimum="-200" name="GRAD" tag="GRAD">
             <labelname xml:lang="en">GRAD</labelname>
         </axis>
         <axis default="0" maximum="0" minimum="-10" name="slnt" tag="slnt">
@@ -75,12 +75,12 @@
                 <dimension name="YTFI" xvalue="738" />
             </location>
         </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-GRAD-1.ufo" name="RobotoFlex-GRAD-1.ufo" stylename="GRAD-1">
+        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-GRAD-200.ufo" name="RobotoFlex-GRAD-200.ufo" stylename="GRAD-200">
             <location>
                 <dimension name="wght" xvalue="400" />
                 <dimension name="wdth" xvalue="100" />
                 <dimension name="opsz" xvalue="0" />
-                <dimension name="GRAD" xvalue="-1" />
+                <dimension name="GRAD" xvalue="-200" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -92,12 +92,12 @@
                 <dimension name="YTFI" xvalue="738" />
             </location>
         </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-GRAD1.ufo" name="RobotoFlex-GRAD1.ufo" stylename="GRAD1">
+        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-GRAD150.ufo" name="RobotoFlex-GRAD150.ufo" stylename="GRAD150">
             <location>
                 <dimension name="wght" xvalue="400" />
                 <dimension name="wdth" xvalue="100" />
                 <dimension name="opsz" xvalue="0" />
-                <dimension name="GRAD" xvalue="1" />
+                <dimension name="GRAD" xvalue="150" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -874,6 +874,74 @@
                 <dimension name="YTFI" xvalue="738" />
             </location>
         </source>
+        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz8-wght100-wdth25.ufo" name="RobotoFlex-opsz8-wght100-wdth25.ufo" stylename="opsz8-wght100-wdth25">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="25" />
+                <dimension name="opsz" xvalue="-1" />
+                <dimension name="GRAD" xvalue="0" />
+                <dimension name="slnt" xvalue="0" />
+                <dimension name="XTRA" xvalue="468" />
+                <dimension name="XOPQ" xvalue="96" />
+                <dimension name="YOPQ" xvalue="79" />
+                <dimension name="YTLC" xvalue="514" />
+                <dimension name="YTUC" xvalue="712" />
+                <dimension name="YTAS" xvalue="750" />
+                <dimension name="YTDE" xvalue="-203" />
+                <dimension name="YTFI" xvalue="738" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz8-wght100-wdth151.ufo" name="RobotoFlex-opsz8-wght100-wdth151.ufo" stylename="opsz8-wght100-wdth151">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="151" />
+                <dimension name="opsz" xvalue="-1" />
+                <dimension name="GRAD" xvalue="0" />
+                <dimension name="slnt" xvalue="0" />
+                <dimension name="XTRA" xvalue="468" />
+                <dimension name="XOPQ" xvalue="96" />
+                <dimension name="YOPQ" xvalue="79" />
+                <dimension name="YTLC" xvalue="514" />
+                <dimension name="YTUC" xvalue="712" />
+                <dimension name="YTAS" xvalue="750" />
+                <dimension name="YTDE" xvalue="-203" />
+                <dimension name="YTFI" xvalue="738" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz8-wght900-wdth25.ufo" name="RobotoFlex-opsz8-wght900-wdth25.ufo" stylename="opsz8-wght900-wdth25">
+            <location>
+                <dimension name="wght" xvalue="1000" />
+                <dimension name="wdth" xvalue="25" />
+                <dimension name="opsz" xvalue="-1" />
+                <dimension name="GRAD" xvalue="0" />
+                <dimension name="slnt" xvalue="0" />
+                <dimension name="XTRA" xvalue="468" />
+                <dimension name="XOPQ" xvalue="96" />
+                <dimension name="YOPQ" xvalue="79" />
+                <dimension name="YTLC" xvalue="514" />
+                <dimension name="YTUC" xvalue="712" />
+                <dimension name="YTAS" xvalue="750" />
+                <dimension name="YTDE" xvalue="-203" />
+                <dimension name="YTFI" xvalue="738" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz8-wght900-wdth151.ufo" name="RobotoFlex-opsz8-wght900-wdth151.ufo" stylename="opsz8-wght900-wdth151">
+            <location>
+                <dimension name="wght" xvalue="1000" />
+                <dimension name="wdth" xvalue="151" />
+                <dimension name="opsz" xvalue="-1" />
+                <dimension name="GRAD" xvalue="0" />
+                <dimension name="slnt" xvalue="0" />
+                <dimension name="XTRA" xvalue="468" />
+                <dimension name="XOPQ" xvalue="96" />
+                <dimension name="YOPQ" xvalue="79" />
+                <dimension name="YTLC" xvalue="514" />
+                <dimension name="YTUC" xvalue="712" />
+                <dimension name="YTAS" xvalue="750" />
+                <dimension name="YTDE" xvalue="-203" />
+                <dimension name="YTFI" xvalue="738" />
+            </location>
+        </source>
         <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz144-wght100-wdth151.ufo" name="RobotoFlex-opsz144-wght100-wdth151.ufo" stylename="opsz144-wght100-wdth151">
             <location>
                 <dimension name="wght" xvalue="100" />
@@ -942,29 +1010,12 @@
                 <dimension name="YTFI" xvalue="738" />
             </location>
         </source>
-        <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz8-wght900-wdth25.ufo" name="RobotoFlex-opsz8-wght900-wdth25.ufo" stylename="opsz8-wght900-wdth25">
-            <location>
-                <dimension name="wght" xvalue="1000" />
-                <dimension name="wdth" xvalue="25" />
-                <dimension name="opsz" xvalue="-1" />
-                <dimension name="GRAD" xvalue="0" />
-                <dimension name="slnt" xvalue="0" />
-                <dimension name="XTRA" xvalue="468" />
-                <dimension name="XOPQ" xvalue="96" />
-                <dimension name="YOPQ" xvalue="79" />
-                <dimension name="YTLC" xvalue="514" />
-                <dimension name="YTUC" xvalue="712" />
-                <dimension name="YTAS" xvalue="750" />
-                <dimension name="YTDE" xvalue="-203" />
-                <dimension name="YTFI" xvalue="738" />
-            </location>
-        </source>
         <source familyname="RobotoFlex" filename="../master_ufo/RobotoFlex-opsz144-wght100-wdth100-GRAD-1.ufo" name="RobotoFlex-opsz144-wght100-wdth100-GRAD-1.ufo" stylename="opsz144-wght100-wdth100-GRAD-1">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="100" />
                 <dimension name="opsz" xvalue="1" />
-                <dimension name="GRAD" xvalue="-1" />
+                <dimension name="GRAD" xvalue="-200" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -981,7 +1032,7 @@
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="1" />
-                <dimension name="GRAD" xvalue="-1" />
+                <dimension name="GRAD" xvalue="-200" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -998,7 +1049,7 @@
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="1" />
-                <dimension name="GRAD" xvalue="-1" />
+                <dimension name="GRAD" xvalue="-200" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -1015,7 +1066,7 @@
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="100" />
                 <dimension name="opsz" xvalue="1" />
-                <dimension name="GRAD" xvalue="1" />
+                <dimension name="GRAD" xvalue="150" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -1032,7 +1083,7 @@
                 <dimension name="wght" xvalue="1000" />
                 <dimension name="wdth" xvalue="100" />
                 <dimension name="opsz" xvalue="1" />
-                <dimension name="GRAD" xvalue="1" />
+                <dimension name="GRAD" xvalue="150" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -1049,7 +1100,7 @@
                 <dimension name="wght" xvalue="1000" />
                 <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="1" />
-                <dimension name="GRAD" xvalue="1" />
+                <dimension name="GRAD" xvalue="150" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -1066,7 +1117,7 @@
                 <dimension name="wght" xvalue="1000" />
                 <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="1" />
-                <dimension name="GRAD" xvalue="1" />
+                <dimension name="GRAD" xvalue="150" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -1083,7 +1134,7 @@
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="100" />
                 <dimension name="opsz" xvalue="-1" />
-                <dimension name="GRAD" xvalue="-1" />
+                <dimension name="GRAD" xvalue="-200" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -1100,7 +1151,7 @@
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="151" />
                 <dimension name="opsz" xvalue="-1" />
-                <dimension name="GRAD" xvalue="-1" />
+                <dimension name="GRAD" xvalue="-200" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -1117,7 +1168,7 @@
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="-1" />
-                <dimension name="GRAD" xvalue="-1" />
+                <dimension name="GRAD" xvalue="-200" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
@@ -1134,7 +1185,7 @@
                 <dimension name="wght" xvalue="100" />
                 <dimension name="wdth" xvalue="100" />
                 <dimension name="opsz" xvalue="-1" />
-                <dimension name="GRAD" xvalue="1" />
+                <dimension name="GRAD" xvalue="150" />
                 <dimension name="slnt" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
