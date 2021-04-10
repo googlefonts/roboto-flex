@@ -23,7 +23,7 @@ Variations allow those adjustments to be built-in and “just work.”
 After the public announcement of the technology, the Google Fonts team commissioned Font Bureau to develop a pilot project, [Amstelvar](https://github.com/TypeNetwork/Amstelvar), that demonstrates a novel approach that uses a system of inter-related axes. 
 This increases the fine typographic control available to typographers, and enables a new kind of “parametric” typography.
 
-Learn more about this new typography at [variablefonts.typenetwork.com](https://variablefonts.typenetwork.com)
+Learn more about this new technology at [variablefonts.typenetwork.com](https://variablefonts.typenetwork.com)
 
 ## License
 
