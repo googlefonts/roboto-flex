@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexdotbelow" format="2">
-	<unicode hex="1EAD"/>
-	<advance width="1303"/>
-	<outline>
-		<component base="a"/>
-		<component base="circumflexcomb" xOffset="139.05" yOffset="17"/>
-		<component base="dotbelowcomb" xOffset="140.55" yOffset="-26"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1325"/>
+  <unicode hex="1EAD"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexcomb" xOffset="164.2" yOffset="21"/>
+    <component base="dotbelowcomb" xOffset="159.7" yOffset="64.33333333333333"/>
+  </outline>
 </glyph>

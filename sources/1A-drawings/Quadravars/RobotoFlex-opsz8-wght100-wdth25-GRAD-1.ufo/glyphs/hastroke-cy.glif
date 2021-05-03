@@ -1,39 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hastroke-cy" format="2">
-	<unicode hex="04FF"/>
-	<advance width="978"/>
-	<outline>
-		<contour>
-			<point x="156" y="465" type="line"/>
-			<point x="156" y="610" type="line"/>
-			<point x="822" y="610" type="line"/>
-			<point x="822" y="465" type="line"/>
-		</contour>
-		<contour>
-			<point x="20" y="0" type="line"/>
-			<point x="420" y="582" type="line"/>
-			<point x="441" y="582" type="line"/>
-			<point x="728" y="1052" type="line"/>
-			<point x="938" y="1052" type="line"/>
-			<point x="558" y="484" type="line"/>
-			<point x="537" y="484" type="line"/>
-			<point x="230" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="40" y="1052" type="line"/>
-			<point x="253" y="1052" type="line"/>
-			<point x="540" y="582" type="line"/>
-			<point x="558" y="582" type="line"/>
-			<point x="958" y="0" type="line"/>
-			<point x="745" y="0" type="line"/>
-			<point x="438" y="484" type="line"/>
-			<point x="420" y="484" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
-		</dict>
-	</lib>
+  <advance width="965"/>
+  <unicode hex="04FF"/>
+  <outline>
+    <contour>
+      <point x="137.0" y="511.0" type="line"/>
+      <point x="137.0" y="592.25" type="line"/>
+      <point x="836.0" y="592.25" type="line"/>
+      <point x="836.0" y="511.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="25.75" y="0.0" type="line"/>
+      <point x="436.0" y="574.75" type="line"/>
+      <point x="455.5" y="574.75" type="line"/>
+      <point x="826.25" y="1089.0" type="line"/>
+      <point x="919.75" y="1089.0" type="line"/>
+      <point x="517.5" y="530.25" type="line"/>
+      <point x="498.0" y="530.25" type="line"/>
+      <point x="118.25" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="49.75" y="1089.0" type="line"/>
+      <point x="157.25" y="1089.0" type="line"/>
+      <point x="521.25" y="574.75" type="line"/>
+      <point x="536.0" y="574.75" type="line"/>
+      <point x="945.0" y="0.0" type="line"/>
+      <point x="838.5" y="0.0" type="line"/>
+      <point x="466.25" y="530.25" type="line"/>
+      <point x="453.5" y="530.25" type="line"/>
+    </contour>
+  </outline>
 </glyph>

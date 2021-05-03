@@ -1,37 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tau" format="2">
-	<unicode hex="03C4"/>
-	<advance width="890"/>
-	<outline>
-		<contour>
-			<point x="0" y="986" type="line"/>
-			<point x="0" y="1089" type="line"/>
-			<point x="840" y="1089" type="line"/>
-			<point x="840" y="986" type="line"/>
-		</contour>
-		<contour>
-			<point x="584" y="-30" type="qcurve" smooth="yes"/>
-			<point x="468" y="-30"/>
-			<point x="342" y="120"/>
-			<point x="342" y="276" type="qcurve" smooth="yes"/>
-			<point x="342" y="1040" type="line"/>
-			<point x="449" y="1040" type="line"/>
-			<point x="449" y="275" type="line" smooth="yes"/>
-			<point x="449" y="165"/>
-			<point x="528" y="70"/>
-			<point x="614" y="70" type="qcurve" smooth="yes"/>
-			<point x="647" y="70"/>
-			<point x="706" y="81"/>
-			<point x="735" y="91" type="qcurve"/>
-			<point x="735" y="-7" type="line"/>
-			<point x="711" y="-16"/>
-			<point x="631" y="-30"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.4,0.8,0.9989,1</string>
-		</dict>
-	</lib>
+  <advance width="890"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="-2.0" y="966.6" type="line"/>
+      <point x="-2.0" y="1089.0" type="line"/>
+      <point x="843.0" y="1089.0" type="line"/>
+      <point x="843.0" y="966.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="588.2" y="-30.0" type="qcurve" smooth="yes"/>
+      <point x="469.0" y="-30.0"/>
+      <point x="337.0" y="125.4"/>
+      <point x="337.0" y="287.2" type="qcurve" smooth="yes"/>
+      <point x="337.0" y="1035.4" type="line"/>
+      <point x="456.0" y="1035.4" type="line"/>
+      <point x="456.0" y="286.2" type="line" smooth="yes"/>
+      <point x="456.0" y="176.2"/>
+      <point x="536.6" y="81.2"/>
+      <point x="620.0" y="81.2" type="qcurve" smooth="yes"/>
+      <point x="651.8" y="81.2"/>
+      <point x="709.2" y="92.4"/>
+      <point x="736.8" y="102.2" type="qcurve"/>
+      <point x="736.8" y="-7.0" type="line"/>
+      <point x="713.6" y="-16.0"/>
+      <point x="633.8" y="-30.0"/>
+    </contour>
+  </outline>
 </glyph>

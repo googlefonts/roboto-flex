@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflexacute" format="2">
-	<unicode hex="1EBE"/>
-	<advance width="1294"/>
-	<outline>
-		<component base="E"/>
-		<component base="circumflexcombstack.case" xOffset="194.6209803921" yOffset="75"/>
-		<component base="acutecombstack.case" xOffset="566.3660784313" yOffset="175.6862745098"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1294"/>
+  <unicode hex="1EBE"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcombstack.case" xOffset="192.7209803921" yOffset="75"/>
+    <component base="acutecombstack.case" xOffset="562.0910784312001" yOffset="178.9362745098"/>
+  </outline>
 </glyph>

@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflextilde" format="2">
-	<unicode hex="1EC4"/>
-	<advance width="1226"/>
-	<outline>
-		<component base="E"/>
-		<component base="circumflexcombstack.case" xOffset="117.35" yOffset="17"/>
-		<component base="tildecombstack.case" xOffset="96.85" yOffset="335"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1226"/>
+  <unicode hex="1EC4"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcombstack.case" xOffset="117.56666666666666" yOffset="-79"/>
+    <component base="tildecombstack.case" xOffset="111.56666666666666" yOffset="328"/>
+  </outline>
 </glyph>

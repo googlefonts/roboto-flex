@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Esdescendercyr" format="2">
-	<unicode hex="04AA"/>
-	<advance width="1104"/>
-	<outline>
-		<component base="C"/>
-		<component base="cedillacomb.case" xOffset="98"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.9991,0.8674,0.7109,1</string>
-		</dict>
-	</lib>
+  <advance width="1104"/>
+  <unicode hex="04AA"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedillacomb.case" xOffset="98.03333333333333"/>
+  </outline>
 </glyph>

@@ -1,35 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kabashkircyr" format="2">
-	<unicode hex="04A1"/>
-	<advance width="1284"/>
-	<outline>
-		<contour>
-			<point x="899" y="0" type="line"/>
-			<point x="649" y="418" type="line"/>
-			<point x="919" y="598" type="line"/>
-			<point x="1300" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="440" y="582" type="line"/>
-			<point x="702" y="582" type="line"/>
-			<point x="876" y="914" type="line"/>
-			<point x="1250" y="914" type="line"/>
-			<point x="911" y="338" type="line"/>
-			<point x="440" y="338" type="line"/>
-		</contour>
-		<contour>
-			<point x="612" y="914" type="line"/>
-			<point x="612" y="0" type="line"/>
-			<point x="268" y="0" type="line"/>
-			<point x="268" y="660" type="line"/>
-			<point x="30" y="660" type="line"/>
-			<point x="30" y="914" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0,1</string>
-		</dict>
-	</lib>
+  <advance width="1429"/>
+  <unicode hex="04A1"/>
+  <outline>
+    <contour>
+      <point x="1034.5" y="0.0" type="line"/>
+      <point x="744.0" y="384.5" type="line"/>
+      <point x="1006.5" y="542.5" type="line"/>
+      <point x="1441.5" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="550.5" y="582.5" type="line"/>
+      <point x="773.0" y="582.5" type="line"/>
+      <point x="1004.5" y="914.0" type="line"/>
+      <point x="1393.5" y="914.0" type="line"/>
+      <point x="982.5" y="339.5" type="line"/>
+      <point x="550.5" y="339.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="722.5" y="914.0" type="line"/>
+      <point x="722.5" y="0.0" type="line"/>
+      <point x="379.0" y="0.0" type="line"/>
+      <point x="379.0" y="671.0" type="line"/>
+      <point x="25.0" y="671.0" type="line"/>
+      <point x="25.0" y="914.0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

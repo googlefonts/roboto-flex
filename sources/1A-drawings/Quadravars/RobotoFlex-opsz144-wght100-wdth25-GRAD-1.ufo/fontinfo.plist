@@ -3,23 +3,21 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <real>2182.6</real>
+    <integer>2146</integer>
     <key>capHeight</key>
     <integer>1456</integer>
     <key>copyright</key>
     <string>Copyright 2011, 2017 Google Inc. All Rights Reserved.</string>
     <key>descender</key>
-    <real>-563.34</real>
+    <integer>-555</integer>
     <key>familyName</key>
     <string>RobotoFlex</string>
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
     <integer>0</integer>
-    <key>note</key>
-    <string>The style was refashioned in October of 2017 in preparation for its use as the default for a Variable font. Its glyphs were redefined in structure to facilitate being the single contours per glyh for all the future varitions, while the face was tuned for best results at 12 point.</string>
     <key>openTypeHeadCreated</key>
-    <string>2008/09/12 12:29:34</string>
+    <string>2008/09/12 17:29:34</string>
     <key>openTypeHeadFlags</key>
     <array>
       <integer>0</integer>
@@ -34,15 +32,13 @@
     <key>openTypeHheaCaretOffset</key>
     <integer>0</integer>
     <key>openTypeHheaCaretSlopeRise</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>openTypeHheaCaretSlopeRun</key>
     <integer>0</integer>
     <key>openTypeHheaDescender</key>
     <integer>-500</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
-    <key>openTypeNameDescription</key>
-    <string></string>
     <key>openTypeNameDesigner</key>
     <string>Berlow after Robertson</string>
     <key>openTypeNameDesignerURL</key>
@@ -55,8 +51,191 @@
     <string>Google</string>
     <key>openTypeNameManufacturerURL</key>
     <string>Google.com</string>
-    <key>openTypeNameSampleText</key>
-    <string></string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>RobotoExtremo</string>
+    <key>openTypeNameRecords</key>
+    <array>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>0</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Copyright 2011, 2017 Google Inc. All Rights Reserved.</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>RobotoExtremo Regular</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Regular</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>3</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Google:Roboto Regular:2017</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>4</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>RobotoExtremo Regular</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>5</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Version 2.136</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>6</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>RobotoExtremo-Regular</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>7</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Roboto is a trademark of Google.</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>8</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Google</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>9</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Berlow after Robertson</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>11</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Google.com</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>12</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Google.com</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>13</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Licensed under the Apache License, Version 2.0</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>14</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>http://www.apache.org/licenses/LICENSE-2.0</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>16</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>RobotoExtremo</string>
+      </dict>
+    </array>
     <key>openTypeNameUniqueID</key>
     <string>Google:Roboto Regular:2017</string>
     <key>openTypeNameVersion</key>
@@ -71,11 +250,6 @@
       <integer>7</integer>
       <integer>8</integer>
       <integer>29</integer>
-    </array>
-    <key>openTypeOS2FamilyClass</key>
-    <array>
-      <integer>0</integer>
-      <integer>0</integer>
     </array>
     <key>openTypeOS2Panose</key>
     <array>
@@ -159,54 +333,28 @@
     <integer>2146</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>555</integer>
-    <key>postscriptBlueFuzz</key>
-    <integer>1</integer>
-    <key>postscriptBlueScale</key>
-    <real>0.039625</real>
-    <key>postscriptBlueShift</key>
-    <integer>7</integer>
     <key>postscriptBlueValues</key>
-    <array>
-      <integer>-30</integer>
-      <integer>0</integer>
-      <integer>1052</integer>
-      <integer>1082</integer>
-      <integer>1456</integer>
-      <integer>1486</integer>
-      <integer>1536</integer>
-      <integer>1566</integer>
-    </array>
-    <key>postscriptDefaultCharacter</key>
-    <string>space</string>
+    <array/>
     <key>postscriptFamilyBlues</key>
     <array/>
     <key>postscriptFamilyOtherBlues</key>
     <array/>
-    <key>postscriptForceBold</key>
-    <false/>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
-    <array>
-      <integer>-446</integer>
-      <integer>-416</integer>
-    </array>
+    <array/>
     <key>postscriptStemSnapH</key>
-    <array>
-      <integer>154</integer>
-    </array>
+    <array/>
     <key>postscriptStemSnapV</key>
-    <array>
-      <integer>196</integer>
-    </array>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-183</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>166</integer>
-    <key>postscriptWeightName</key>
-    <string>Thin</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
     <key>styleName</key>
-    <string>opsz144-wght100-wdth25-GRAD-1</string>
+    <string>opsz144-wght100-wdth25</string>
     <key>trademark</key>
     <string>Roboto is a trademark of Google.</string>
     <key>unitsPerEm</key>

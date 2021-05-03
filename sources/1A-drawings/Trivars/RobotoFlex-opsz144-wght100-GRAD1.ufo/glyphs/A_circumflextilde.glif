@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflextilde" format="2">
-	<unicode hex="1EAA"/>
-	<advance width="1010"/>
-	<outline>
-		<component base="A"/>
-		<component base="circumflexcombstack.case" xOffset="1.12" yOffset="17"/>
-		<component base="tildecombstack.case" xOffset="-19.38" yOffset="335"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1010"/>
+  <unicode hex="1EAA"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexcombstack.case" xOffset="-4.2666666666666675" yOffset="21"/>
+    <component base="tildecombstack.case" xOffset="-21.016666666666666" yOffset="337"/>
+  </outline>
 </glyph>

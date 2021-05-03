@@ -1,34 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="upsilon" format="2">
-	<unicode hex="03C5"/>
-	<advance width="1191"/>
-	<outline>
-		<contour>
-			<point x="595.5" y="-20" type="qcurve" smooth="yes"/>
-			<point x="339" y="-20"/>
-			<point x="120" y="201.5"/>
-			<point x="120" y="404" type="qcurve" smooth="yes"/>
-			<point x="120" y="1055" type="line"/>
-			<point x="416.5" y="1055" type="line"/>
-			<point x="416.5" y="432" type="line" smooth="yes"/>
-			<point x="416.5" y="325.5"/>
-			<point x="501" y="208"/>
-			<point x="595.5" y="208" type="qcurve" smooth="yes"/>
-			<point x="690" y="208"/>
-			<point x="774.5" y="325.5"/>
-			<point x="774.5" y="432" type="qcurve" smooth="yes"/>
-			<point x="774.5" y="1055" type="line"/>
-			<point x="1071" y="1055" type="line"/>
-			<point x="1071" y="404" type="line" smooth="yes"/>
-			<point x="1071" y="201.5"/>
-			<point x="852" y="-20"/>
-		</contour>
-	</outline>
-	<anchor name="GRK_top" x="595.5" y="1055"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.4,0.8,0.9989,1</string>
-		</dict>
-	</lib>
+  <advance width="1110"/>
+  <unicode hex="03C5"/>
+  <anchor x="485.5" y="917.0" name="GRK_top"/>
+  <outline>
+    <contour>
+      <point x="555.0" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="299.5" y="-20.0"/>
+      <point x="74.0" y="178.5"/>
+      <point x="74.0" y="373.5" type="qcurve" smooth="yes"/>
+      <point x="74.0" y="914.0" type="line"/>
+      <point x="417.0" y="914.0" type="line"/>
+      <point x="417.0" y="383.5" type="line" smooth="yes"/>
+      <point x="417.0" y="304.0"/>
+      <point x="481.0" y="223.0"/>
+      <point x="554.5" y="223.0" type="qcurve" smooth="yes"/>
+      <point x="630.0" y="223.0"/>
+      <point x="692.0" y="304.5"/>
+      <point x="692.0" y="383.5" type="qcurve" smooth="yes"/>
+      <point x="692.0" y="914.0" type="line"/>
+      <point x="1036.0" y="914.0" type="line"/>
+      <point x="1036.0" y="373.5" type="line" smooth="yes"/>
+      <point x="1036.0" y="179.0"/>
+      <point x="810.5" y="-20.0"/>
+    </contour>
+  </outline>
 </glyph>

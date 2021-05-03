@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rcommaaccent" format="2">
-	<unicode hex="0156"/>
-	<advance width="1096"/>
-	<outline>
-		<component base="R"/>
-		<component base="commaaccentcomb.case" xOffset="126.6480392157" yOffset="36.5882352941"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1096"/>
+  <unicode hex="0156"/>
+  <outline>
+    <component base="R"/>
+    <component base="commaaccentcomb.case" xOffset="126.87303921569998" yOffset="36.5882352941"/>
+  </outline>
 </glyph>

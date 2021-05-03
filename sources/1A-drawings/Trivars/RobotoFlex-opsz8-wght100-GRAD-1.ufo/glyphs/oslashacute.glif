@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslashacute" format="2">
-	<unicode hex="01FF"/>
-	<advance width="1101"/>
-	<outline>
-		<component base="oslash"/>
-		<component base="acutecomb" xOffset="63.4939999999" yOffset="16"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1237"/>
+  <unicode hex="01FF"/>
+  <outline>
+    <component base="oslash"/>
+    <component base="acutecomb" xOffset="153.232529411925" yOffset="84.8039215686"/>
+  </outline>
 </glyph>

@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edblgrave" format="2">
-	<unicode hex="0204"/>
-	<advance width="862"/>
-	<outline>
-		<component base="E"/>
-		<component base="dblgravecomb.case" xOffset="-19.792" yOffset="20"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="862"/>
+  <unicode hex="0204"/>
+  <outline>
+    <component base="E"/>
+    <component base="dblgravecomb.case" xOffset="-101.79625000010249" yOffset="30.975000000000005"/>
+  </outline>
 </glyph>

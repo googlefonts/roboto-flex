@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ugrave" format="2">
-	<unicode hex="00F9"/>
-	<advance width="1184"/>
-	<outline>
-		<component base="u"/>
-		<component base="gravecomb" xOffset="0.3550784314" yOffset="81.1039215686"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1184"/>
+  <unicode hex="00F9"/>
+  <outline>
+    <component base="u"/>
+    <component base="gravecomb" xOffset="4.680078431424999" yOffset="83.5539215686"/>
+  </outline>
 </glyph>

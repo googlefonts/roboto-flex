@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aringacute" format="2">
-	<unicode hex="01FA"/>
-	<advance width="1265"/>
-	<outline>
-		<component base="A"/>
-		<component base="ringcomb" xOffset="120.5" yOffset="617"/>
-		<component base="acutecombstack.case" xOffset="219" yOffset="531"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="1265"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb" xOffset="120.5" yOffset="617"/>
+    <component base="acutecombstack.case" xOffset="219.99999999999994" yOffset="531"/>
+  </outline>
 </glyph>

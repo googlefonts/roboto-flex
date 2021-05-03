@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresiscyr" format="2">
-	<unicode hex="04E7"/>
-	<advance width="1115"/>
-	<outline>
-		<component base="dieresiscomb" xOffset="45" yOffset="1"/>
-		<component base="o"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0,1</string>
-		</dict>
-	</lib>
+  <advance width="1125"/>
+  <unicode hex="04E7"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="44"/>
+    <component base="o"/>
+  </outline>
 </glyph>

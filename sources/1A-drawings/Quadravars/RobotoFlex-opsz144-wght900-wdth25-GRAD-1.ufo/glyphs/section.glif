@@ -1,85 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="section" format="2">
-	<unicode hex="00A7"/>
-	<advance width="1043"/>
-	<outline>
-		<contour>
-			<point x="583" y="85" type="qcurve"/>
-			<point x="583" y="469" type="line"/>
-			<point x="602" y="473"/>
-			<point x="613" y="481"/>
-			<point x="613" y="490" type="qcurve"/>
-			<point x="613" y="502"/>
-			<point x="566" y="526"/>
-			<point x="451" y="572" type="qcurve" smooth="yes"/>
-			<point x="270" y="643"/>
-			<point x="88" y="864"/>
-			<point x="88" y="1051" type="qcurve" smooth="yes"/>
-			<point x="88" y="1266"/>
-			<point x="343" y="1494"/>
-			<point x="545" y="1494" type="qcurve" smooth="yes"/>
-			<point x="766" y="1494"/>
-			<point x="1005" y="1264"/>
-			<point x="1005" y="1050" type="qcurve"/>
-			<point x="578" y="1050" type="line"/>
-			<point x="578" y="1090"/>
-			<point x="567" y="1132"/>
-			<point x="556" y="1132" type="qcurve" smooth="yes"/>
-			<point x="545" y="1132"/>
-			<point x="537" y="1110"/>
-			<point x="537" y="1092" type="qcurve" smooth="yes"/>
-			<point x="537" y="1077"/>
-			<point x="567" y="1047"/>
-			<point x="697" y="1002" type="qcurve" smooth="yes"/>
-			<point x="854" y="948"/>
-			<point x="1033" y="749"/>
-			<point x="1033" y="551" type="qcurve" smooth="yes"/>
-			<point x="1033" y="331"/>
-			<point x="782" y="98"/>
-		</contour>
-		<contour>
-			<point x="482" y="976" type="qcurve"/>
-			<point x="482" y="575" type="line"/>
-			<point x="455" y="575"/>
-			<point x="438" y="570"/>
-			<point x="438" y="563" type="qcurve" smooth="yes"/>
-			<point x="438" y="550"/>
-			<point x="492" y="523"/>
-			<point x="625" y="468" type="qcurve" smooth="yes"/>
-			<point x="782" y="404"/>
-			<point x="961" y="191"/>
-			<point x="961" y="-18" type="qcurve" smooth="yes"/>
-			<point x="961" y="-255"/>
-			<point x="700" y="-509"/>
-			<point x="494" y="-509" type="qcurve" smooth="yes"/>
-			<point x="261" y="-509"/>
-			<point x="10" y="-249"/>
-			<point x="10" y="-8" type="qcurve"/>
-			<point x="461" y="-8" type="line"/>
-			<point x="461" y="-72"/>
-			<point x="471" y="-141"/>
-			<point x="481" y="-141" type="qcurve" smooth="yes"/>
-			<point x="489" y="-141"/>
-			<point x="498" y="-111"/>
-			<point x="498" y="-82" type="qcurve" smooth="yes"/>
-			<point x="498" y="-41"/>
-			<point x="472" y="-5"/>
-			<point x="380" y="36" type="qcurve" smooth="yes"/>
-			<point x="197" y="117"/>
-			<point x="17" y="312"/>
-			<point x="17" y="510" type="qcurve" smooth="yes"/>
-			<point x="17" y="736"/>
-			<point x="272" y="976"/>
-		</contour>
-	</outline>
-	<guideline x="0" y="1658" angle="0" identifier="QzZ5gIiCyn"/>
-	<guideline x="0" y="578" angle="0" identifier="9Hxjf2sdFw"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.9Hxjf2sdFw</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.QzZ5gIiCyn</key>
-			<integer>5</integer>
-		</dict>
-	</lib>
+  <advance width="1043"/>
+  <unicode hex="00A7"/>
+  <guideline x="0" y="1658.0" angle="0" identifier="QzZ5gIiCyn"/>
+  <guideline x="0" y="578.0" angle="0" identifier="9Hxjf2sdFw"/>
+  <outline>
+    <contour>
+      <point x="588.0" y="92.5" type="qcurve"/>
+      <point x="588.0" y="469.0" type="line"/>
+      <point x="612.0" y="473.75"/>
+      <point x="621.25" y="478.5"/>
+      <point x="621.25" y="490.0" type="qcurve"/>
+      <point x="621.25" y="502.0"/>
+      <point x="581.25" y="531.0"/>
+      <point x="460.5" y="577.5" type="qcurve" smooth="yes"/>
+      <point x="266.25" y="652.75"/>
+      <point x="92.5" y="878.5"/>
+      <point x="92.5" y="1056.0" type="qcurve" smooth="yes"/>
+      <point x="92.5" y="1266.5"/>
+      <point x="349.25" y="1494.25"/>
+      <point x="545.0" y="1494.0" type="qcurve" smooth="yes"/>
+      <point x="761.75" y="1493.75"/>
+      <point x="1002.5" y="1264.0"/>
+      <point x="1002.5" y="1050.0" type="qcurve"/>
+      <point x="583.0" y="1050.0" type="line"/>
+      <point x="583.0" y="1100.0"/>
+      <point x="567.25" y="1142.0"/>
+      <point x="553.75" y="1142.0" type="qcurve" smooth="yes"/>
+      <point x="545.25" y="1142.0"/>
+      <point x="530.75" y="1117.5"/>
+      <point x="530.75" y="1097.5" type="qcurve" smooth="yes"/>
+      <point x="530.75" y="1077.0"/>
+      <point x="563.75" y="1043.25"/>
+      <point x="699.5" y="994.5" type="qcurve" smooth="yes"/>
+      <point x="860.25" y="937.25"/>
+      <point x="1028.0" y="742.25"/>
+      <point x="1028.0" y="551.0" type="qcurve" smooth="yes"/>
+      <point x="1028.0" y="337.75"/>
+      <point x="788.25" y="106.0"/>
+    </contour>
+    <contour>
+      <point x="482.0" y="973.5" type="qcurve"/>
+      <point x="482.0" y="585.0" type="line"/>
+      <point x="447.5" y="585.0"/>
+      <point x="428.0" y="575.0"/>
+      <point x="428.0" y="565.5" type="qcurve" smooth="yes"/>
+      <point x="428.0" y="547.5"/>
+      <point x="492.0" y="515.5"/>
+      <point x="625.0" y="460.5" type="qcurve" smooth="yes"/>
+      <point x="782.0" y="396.5"/>
+      <point x="956.0" y="185.75"/>
+      <point x="956.0" y="-18.0" type="qcurve" smooth="yes"/>
+      <point x="956.0" y="-257.5"/>
+      <point x="697.5" y="-509.0"/>
+      <point x="494.0" y="-509.0" type="qcurve" smooth="yes"/>
+      <point x="263.5" y="-509.0"/>
+      <point x="12.5" y="-251.5"/>
+      <point x="12.5" y="-8.0" type="qcurve"/>
+      <point x="456.0" y="-8.0" type="line"/>
+      <point x="456.0" y="-82.0"/>
+      <point x="466.0" y="-151.0"/>
+      <point x="481.0" y="-151.0" type="qcurve" smooth="yes"/>
+      <point x="493.25" y="-151.0"/>
+      <point x="504.5" y="-116.5"/>
+      <point x="504.5" y="-82.0" type="qcurve" smooth="yes"/>
+      <point x="504.5" y="-34.5"/>
+      <point x="465.5" y="4.25"/>
+      <point x="380.0" y="43.5" type="qcurve" smooth="yes"/>
+      <point x="197.0" y="125.0"/>
+      <point x="22.0" y="312.0"/>
+      <point x="22.0" y="510.0" type="qcurve" smooth="yes"/>
+      <point x="22.0" y="736.0"/>
+      <point x="271.5" y="971.25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.9Hxjf2sdFw</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.QzZ5gIiCyn</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
 </glyph>

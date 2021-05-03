@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorngrave" format="2">
-	<unicode hex="1EDD"/>
-	<advance width="977"/>
-	<outline>
-		<component base="ohorn"/>
-		<component base="gravecomb" xOffset="-65.63704" yOffset="72.76"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="977"/>
+  <unicode hex="1EDD"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="gravecomb" xOffset="-65.29919999999666" yOffset="72.06666666666666"/>
+  </outline>
 </glyph>
