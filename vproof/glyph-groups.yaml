@@ -1,0 +1,64 @@
+Latin:
+    Uppercase: ABCDEFGHIJKLMNOPQRSTUVWXYZ&
+    Lowercase: abcdefghijklmnopqrstuvwxyz
+    Mixed: ǅǈǋǉ
+    Symbols:
+        Punctuation: ',-.:;…∙·!¡?¿–—―‐'
+        Reference: '*§¶†‡•'
+        Quotation: "\"'“”‚„‹›«»′″"
+        Parenthetical: '()[]{}'
+        Math: '+÷×−±<>≤≥≈≠=^~¬∕­/'
+        Commercial: '®©™#@⁒ʹʺ/\¦|_№⟨⟩µ⁄'
+World:
+    Figures:
+        _default: 0123456789
+        _extended: ⁰¹²³⁴⁵⁶⁷⁸⁹⅛⅙⅕¼⅓⅜⅖½⅗⅔⅝¾⅘⅚⅞%‰
+    Monetary:
+        _default: $¢£¥
+        _extended: ₡₣₤₦₧₩₫€ƒ₭₱₲₵₹₺₼₽¤
+    Accents:
+        _default: '`¨¯°´ˆˇ˘˙˚˛˜˝‘’¸ʼ'
+        _extended: 'ˉ̧̨̛̣̤̦̮̱̀́̂̃̄̆̇̈̉̊̋̌̏̑'
+_extended:
+    # YAML evaluates Y/N/y/n as true and false, so we have to put quotes around those
+    A: ÀÁÂÃÄÅĀĂǺȀȂĄẠẢẤẦẨẪẬẮẰẲẴẶÆǼ
+    C: ÇĆĈĊČ
+    D: ĎÐĐǄǅ
+    E: ÈÉÊËĒĔĖĘĚȄȆẸẺẼẾỀỂỄỆÆǼŒƏ
+    G: ĜĞĠĢǦ
+    H: ĤĦ
+    I: ÌÍÎÏĨĪĬĮİȈȊỈỊĲǉǇǊ # /IJacute 
+    J: ĴĲ # /IJacute
+    K: Ķ
+    L: ĹĻĽĿŁǇǈ
+    "N": ÑŃŅŇŊǊǋ
+    O: ÒÓÔÕÖŌŎŐƠǪȌȎȪȬȰỌỎỐỒỔỖỘỚỜỞỠỢØǾŒ
+    P: Þ
+    R: ŔŖŘȐȒ
+    S: ŚŜŞŠȘẞ
+    T: ŢŤȚŦ
+    U: ÙÚÛÜŨŪŬŮŰŲƯȔȖỤỦỨỪỬỮỰ
+    W: ŴẀẂẄ
+    "Y": ÝŶŸȲỲỴỶỸ
+    Z: ŹŻŽǄ
+    a: àáâãäåāăąǻȁȃạảấầẩẫậắằẳẵặæǽª
+    c: çćĉċč
+    d: ďđǆð
+    e: èéêëēĕėęěȅȇẹẻẽếềểễệəæǽœ
+    f: ﬀﬁﬂﬃﬄ # /f_f_ij /f_ij 
+    g: ĝğġģǧ
+    h: ĥħ
+    i: ıĩīĭįȉȋỉịìíîïĳﬁﬃ, # /idotaccent /ijacute /f_ij /f_f_ij
+    j: ȷĵǉĳǌǈ #/f_ij  /f_f_ij
+    k: ķĸ
+    l: ĺļľŀłﬂﬄ
+    "n": ñńņňŉŋǌ
+    o: òóôõöōŏőơǫȍȏȫȭȱọỏốồổỗộớờởỡợøǿœº
+    p: þ
+    r: ŕŗřȑȓ
+    s: śŝşšșß
+    t: ţťțŧ
+    u: ùúûüũūŭůűųưȕȗụủứừửữự
+    w: ŵẁẃẅ
+    "y": ýÿŷȳỳỵỷỹ
+    z: źżžǅ
