@@ -36,7 +36,6 @@ script:
   - python videoproof/make-webfonts.py
   - php videoproof/index.php > videoproof/index.html
   - rsync -rvl --exclude=".git*" videoproof/ vproof/
-  - travis setup releases	
 
 # deploy from master to gh-pages 
 deploy:
