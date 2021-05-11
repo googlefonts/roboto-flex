@@ -2,7 +2,7 @@ sudo: true
 language: python
 
 env:
-  - SHELL_PATH=build-roboto.sh
+  - SHELL_PATH=sources/build-roboto.sh
 
 before_script: 
   - pip install fontmake
@@ -33,7 +33,7 @@ before_script:
 script: 
   - "shellcheck $SHELL_PATH"
   - "sh $SHELL_PATH"
-  - python make-webfonts.py
+  - python videoproof/make-webfonts.py
   - php videoproof/index.php > videoproof/index.html
   - rsync -rvl --exclude=".git*" videoproof/ vproof/
 
