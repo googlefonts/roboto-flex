@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scaron" format="2">
-	<unicode hex="0160"/>
-	<advance width="892"/>
-	<outline>
-		<component base="S"/>
-		<component base="caroncomb.case" xOffset="-37.84" yOffset="21"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.8337,1,0.1931,1</string>
-		</dict>
-	</lib>
+  <advance width="892"/>
+  <unicode hex="0160"/>
+  <outline>
+    <component base="S"/>
+    <component base="caroncomb.case" xOffset="-37.8979999999975" yOffset="21"/>
+  </outline>
 </glyph>
