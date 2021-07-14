@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="equal" format="2">
-  <advance width="1814"/>
+  <advance width="1316"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="451.3215686275" y="447.40137254900003" type="line"/>
-      <point x="451.3215686275" y="540.8235294118" type="line"/>
-      <point x="1361.1678431373" y="540.8235294118" type="line"/>
-      <point x="1361.1678431373" y="447.40137254900003" type="line"/>
+      <point x="173.0" y="444.25" type="line"/>
+      <point x="173.0" y="530.0" type="line"/>
+      <point x="1143.0" y="530.0" type="line"/>
+      <point x="1143.0" y="444.25" type="line"/>
     </contour>
     <contour>
-      <point x="451.3215686275" y="871.7745098039001" type="line"/>
-      <point x="451.3215686275" y="965.1966666667" type="line"/>
-      <point x="1361.1678431373" y="965.1966666667" type="line"/>
-      <point x="1361.1678431373" y="871.7745098039001" type="line"/>
+      <point x="173.0" y="865.5" type="line"/>
+      <point x="173.0" y="951.25" type="line"/>
+      <point x="1143.0" y="951.25" type="line"/>
+      <point x="1143.0" y="865.5" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2431,0.9922,0.5255,1</string>
+    </dict>
+  </lib>
 </glyph>
