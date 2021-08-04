@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJacute" format="2">
-  <advance width="530"/>
+  <advance width="528"/>
   <outline>
-    <component base="IJ"/>
-    <component base="acutecomb.case" xOffset="266.0399999999" yOffset="27"/>
+    <component base="I"/>
+    <component base="J" xOffset="194"/>
+    <component base="acutecomb.case" xOffset="190"/>
   </outline>
   <lib>
     <dict>

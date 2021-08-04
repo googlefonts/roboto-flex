@@ -1,28 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonekcomb.case" format="2">
-	<advance width="1024"/>
-	<outline>
-		<contour>
-			<point x="264" y="-306" type="qcurve" smooth="yes"/>
-			<point x="264" y="-217"/>
-			<point x="376" y="-41"/>
-			<point x="480" y="51" type="qcurve"/>
-			<point x="563" y="0" type="line"/>
-			<point x="471" y="-105"/>
-			<point x="414" y="-199"/>
-			<point x="414" y="-244" type="qcurve" smooth="yes"/>
-			<point x="414" y="-292"/>
-			<point x="467" y="-347"/>
-			<point x="512" y="-347" type="qcurve" smooth="yes"/>
-			<point x="553" y="-347"/>
-			<point x="669" y="-301"/>
-			<point x="724" y="-254" type="qcurve"/>
-			<point x="773" y="-357" type="line"/>
-			<point x="734" y="-418"/>
-			<point x="580" y="-497"/>
-			<point x="489" y="-497" type="qcurve" smooth="yes"/>
-			<point x="396" y="-497"/>
-			<point x="264" y="-384"/>
-		</contour>
-	</outline>
+  <advance width="1024"/>
+  <anchor x="512.0" y="0" name="_ogonek"/>
+  <anchor x="512.0" y="-497.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="264.0" y="-306.0" type="qcurve" smooth="yes"/>
+      <point x="264.0" y="-217.0"/>
+      <point x="376.0" y="-41.0"/>
+      <point x="480.0" y="51.0" type="qcurve"/>
+      <point x="563.0" y="0.0" type="line"/>
+      <point x="471.0" y="-105.0"/>
+      <point x="414.0" y="-199.0"/>
+      <point x="414.0" y="-244.0" type="qcurve" smooth="yes"/>
+      <point x="414.0" y="-292.0"/>
+      <point x="467.0" y="-347.0"/>
+      <point x="512.0" y="-347.0" type="qcurve" smooth="yes"/>
+      <point x="553.0" y="-347.0"/>
+      <point x="669.0" y="-301.0"/>
+      <point x="724.0" y="-254.0" type="qcurve"/>
+      <point x="773.0" y="-357.0" type="line"/>
+      <point x="734.0" y="-418.0"/>
+      <point x="580.0" y="-497.0"/>
+      <point x="489.0" y="-497.0" type="qcurve" smooth="yes"/>
+      <point x="396.0" y="-497.0"/>
+      <point x="264.0" y="-384.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
 </glyph>
