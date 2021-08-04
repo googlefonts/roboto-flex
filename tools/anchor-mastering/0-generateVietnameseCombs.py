@@ -1,8 +1,8 @@
 
 font = CurrentFont()
 
-vietnamese = { 'circumflexacutecomb', 'circumflexgravecomb', 'circumflexhookabovecomb', 'circumflextildecomb', 'breveacutecomb', 'brevegravecomb',' brevehookabovecomb', 'brevetildecomb', }
-vietnameseCase = { 'circumflexacutecomb.case', 'circumflexgravecomb.case', 'circumflexhookabovecomb.case', 'circumflextildecomb.case', 'breveacutecomb.case', 'brevegravecomb.case',' brevehookabovecomb.case', 'brevetildecomb.case', }
+vietnamese = { 'circumflexacutecomb', 'circumflexgravecomb', 'circumflexhookabovecomb', 'circumflextildecomb', 'breveacutecomb', 'brevegravecomb','brevehookabovecomb', 'brevetildecomb', }
+vietnameseCase = { 'circumflexacutecomb.case', 'circumflexgravecomb.case', 'circumflexhookabovecomb.case', 'circumflextildecomb.case', 'breveacutecomb.case', 'brevegravecomb.case','brevehookabovecomb.case', 'brevetildecomb.case', }
 
 for comb in vietnamese:
 
@@ -14,7 +14,9 @@ for comb in vietnamese:
 
     glyph.width = 1024
 
-    glyph.appendAnchor('top', (512,font.info.xHeight))
+    glyph.appendAnchor('_top', (512,font.info.xHeight))
+    
+    #glyph.appendAnchor('top', (512, abs( glyph.topMargin ) ))
 
     glyph.decompose()
     
