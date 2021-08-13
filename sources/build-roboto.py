@@ -723,7 +723,7 @@ project.run_from_ufos(
 	use_production_names=False)
 
 #temp changed rel path to work in same dir, was:  ../fonts/RobotoFlex-VF.ttf
-outfile = "RobotoFlex[slnt,wdth,wght,opsz].ttf"
+outfile = "RobotoFlex[RobotoFlex[GRAD,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,XOPQ,XTRA,opsz,slnt,wdth,wght]].ttf"
 
 #make folder if it doesn't exist
 destFolder = "fonts"
