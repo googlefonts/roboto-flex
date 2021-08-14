@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorngrave" format="2">
-  <advance width="1533"/>
+  <advance width="1499"/>
   <unicode hex="1EDD"/>
   <outline>
-    <component base="ohorn"/>
-    <component base="gravecomb" xOffset="208.2900530088125" yOffset="134.57142857142858"/>
+    <component base="o"/>
+    <component base="horncomb" xOffset="988"/>
+    <component base="gravecomb" xOffset="237.5"/>
   </outline>
   <lib>
     <dict>
