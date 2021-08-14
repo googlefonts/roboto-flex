@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexgrave" format="2">
-  <advance width="1003"/>
+  <advance width="1005"/>
   <unicode hex="1EA7"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="-1.5" yOffset="21"/>
-    <component base="gravecomb" xOffset="478" yOffset="236"/>
+    <component base="circumflexgravecomb" xOffset="-9.5"/>
   </outline>
   <lib>
     <dict>
