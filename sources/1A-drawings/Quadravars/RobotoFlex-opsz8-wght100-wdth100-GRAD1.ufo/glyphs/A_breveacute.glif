@@ -4,7 +4,12 @@
   <unicode hex="1EAE"/>
   <outline>
     <component base="A"/>
-    <component base="brevecombstack.case" xOffset="159.0196078432" yOffset="50"/>
-    <component base="acutecombstack.case" xOffset="183.2647058823" yOffset="388.6862745098"/>
+    <component base="breveacutecomb.case" xOffset="158"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

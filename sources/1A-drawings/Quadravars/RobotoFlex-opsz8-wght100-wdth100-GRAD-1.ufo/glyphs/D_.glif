@@ -2,14 +2,17 @@
 <glyph name="D" format="2">
   <advance width="1383"/>
   <unicode hex="0044"/>
+  <anchor x="622.0" y="0" name="bottom"/>
+  <anchor x="782.25" y="728.0" name="center"/>
+  <anchor x="622.0" y="1456.0" name="top"/>
   <outline>
     <contour>
       <point x="175.0" y="0.0" type="line"/>
       <point x="175.0" y="1456.0" type="line"/>
-      <point x="587.7515686275" y="1456.0" type="line" smooth="yes"/>
-      <point x="888.1106083536" y="1456.0"/>
-      <point x="1264.0325490196" y="1076.8598039216"/>
-      <point x="1264.0325490196" y="750.8558823529" type="qcurve" smooth="yes"/>
+      <point x="587.75" y="1456.0" type="line" smooth="yes"/>
+      <point x="888.25" y="1456.0"/>
+      <point x="1264.0" y="1076.75"/>
+      <point x="1264.0" y="750.75" type="qcurve" smooth="yes"/>
       <point x="1264.0325490196" y="705.1441176471" type="line" smooth="yes"/>
       <point x="1264.0325490196" y="379.2769482152"/>
       <point x="888.1106083536" y="0.0"/>

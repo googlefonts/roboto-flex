@@ -3,7 +3,14 @@
   <advance width="1237"/>
   <unicode hex="1EE1"/>
   <outline>
-    <component base="ohorn"/>
-    <component base="tildecomb" xOffset="80.88117647060001" yOffset="211.21078431369997"/>
+    <component base="o"/>
+    <component base="horncomb" xOffset="796"/>
+    <component base="tildecomb" xOffset="106.5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

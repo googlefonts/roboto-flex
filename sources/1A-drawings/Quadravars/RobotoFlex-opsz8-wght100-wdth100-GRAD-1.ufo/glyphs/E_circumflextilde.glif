@@ -4,7 +4,12 @@
   <unicode hex="1EC4"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcombstack.case" xOffset="126.4709803922" yOffset="75"/>
-    <component base="tildecombstack.case" xOffset="97.5959803922" yOffset="366.4558823529"/>
+    <component base="circumflextildecomb.case" xOffset="122"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>
