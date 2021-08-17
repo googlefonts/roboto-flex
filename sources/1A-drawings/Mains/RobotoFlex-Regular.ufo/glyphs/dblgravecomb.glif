@@ -5,7 +5,13 @@
   <anchor x="512.0" y="1052" name="_top"/>
   <anchor x="512.0" y="1599" name="top"/>
   <outline>
-    <component base="grave" xOffset="-214"/>
-    <component base="grave" xOffset="124"/>
+    <component base="grave" xOffset="-233"/>
+    <component base="grave" xOffset="105"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
 </glyph>
