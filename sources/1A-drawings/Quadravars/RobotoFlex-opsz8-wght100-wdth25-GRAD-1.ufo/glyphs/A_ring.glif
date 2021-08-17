@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aring" format="2">
-  <advance width="1147"/>
+  <advance width="1142"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb.case" xOffset="61.61960784319997" yOffset="64.25"/>
+    <component base="ringcomb.case" xOffset="59"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8337,1,0.1931,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -12,7 +12,7 @@
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>RobotoFlex-opsz144-wght900</string>
+    <string>3-RobotoFlex-Regular</string>
     <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
     <false/>
     <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
@@ -44,7 +44,7 @@
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-    <integer>1</integer>
+    <false/>
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
@@ -64,8 +64,10 @@
       <real>0.6924212208</real>
       <real>0.3</real>
     </array>
-    <key>com.typemytype.robofont.guideline.showMeasurements.8mQIrRIM3i</key>
-    <true/>
+    <key>com.typemytype.robofont.guideline.magnetic.23oiUVufgG</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.23oiUVufgG</key>
+    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
@@ -1572,7 +1574,27 @@
       <string>pe.locl</string>
       <string>te.locl</string>
       <string>.notdef</string>
+      <string>breveacutecomb</string>
+      <string>circumflexgravecomb</string>
+      <string>circumflexhookabovecomb</string>
+      <string>circumflextildecomb</string>
+      <string>brevehookabovecomb</string>
+      <string>circumflexacutecomb</string>
+      <string>brevetildecomb</string>
+      <string>brevegravecomb</string>
+      <string>circumflexacutecomb.case</string>
+      <string>brevehookabovecomb.case</string>
+      <string>circumflextildecomb.case</string>
+      <string>brevegravecomb.case</string>
+      <string>circumflexhookabovecomb.case</string>
+      <string>breveacutecomb.case</string>
+      <string>circumflexgravecomb.case</string>
+      <string>brevetildecomb.case</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
     <key>tnCurvePalet</key>
     <dict>
       <key>sliderBottomMax</key>
