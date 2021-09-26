@@ -774,6 +774,10 @@
     <string>breve.cyr.glif</string>
     <key>breve.cyr.case</key>
     <string>breve.cyr.case.glif</string>
+    <key>breveacutecomb</key>
+    <string>breveacutecomb.glif</string>
+    <key>breveacutecomb.case</key>
+    <string>breveacutecomb.case.glif</string>
     <key>brevebelowcomb</key>
     <string>brevebelowcomb.glif</string>
     <key>brevebelowcomb.case</key>
@@ -784,10 +788,22 @@
     <string>brevecomb.case.glif</string>
     <key>brevecombstack.case</key>
     <string>brevecombstack.case.glif</string>
+    <key>brevegravecomb</key>
+    <string>brevegravecomb.glif</string>
+    <key>brevegravecomb.case</key>
+    <string>brevegravecomb.case.glif</string>
+    <key>brevehookabovecomb</key>
+    <string>brevehookabovecomb.glif</string>
+    <key>brevehookabovecomb.case</key>
+    <string>brevehookabovecomb.case.glif</string>
     <key>breveinvertedcomb</key>
     <string>breveinvertedcomb.glif</string>
     <key>breveinvertedcomb.case</key>
     <string>breveinvertedcomb.case.glif</string>
+    <key>brevetildecomb</key>
+    <string>brevetildecomb.glif</string>
+    <key>brevetildecomb.case</key>
+    <string>brevetildecomb.case.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>bullet</key>
@@ -822,6 +838,8 @@
     <string>cedillacomb.case.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
+    <key>cent.rvrn</key>
+    <string>cent.rvrn.glif</string>
     <key>che</key>
     <string>che.glif</string>
     <key>che.bgr</key>
@@ -834,16 +852,34 @@
     <string>chi.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
+    <key>circumflexacutecomb</key>
+    <string>circumflexacutecomb.glif</string>
+    <key>circumflexacutecomb.case</key>
+    <string>circumflexacutecomb.case.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
     <key>circumflexcomb.case</key>
     <string>circumflexcomb.case.glif</string>
     <key>circumflexcombstack.case</key>
     <string>circumflexcombstack.case.glif</string>
+    <key>circumflexgravecomb</key>
+    <string>circumflexgravecomb.glif</string>
+    <key>circumflexgravecomb.case</key>
+    <string>circumflexgravecomb.case.glif</string>
+    <key>circumflexhookabovecomb</key>
+    <string>circumflexhookabovecomb.glif</string>
+    <key>circumflexhookabovecomb.case</key>
+    <string>circumflexhookabovecomb.case.glif</string>
+    <key>circumflextildecomb</key>
+    <string>circumflextildecomb.glif</string>
+    <key>circumflextildecomb.case</key>
+    <string>circumflextildecomb.case.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>coloncurrency</key>
     <string>coloncurrency.glif</string>
+    <key>coloncurrency.rvrn</key>
+    <string>coloncurrency.rvrn.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>commaaccentcomb</key>
@@ -884,10 +920,14 @@
     <string>diagonalbarL_.glif</string>
     <key>diagonalbarO</key>
     <string>diagonalbarO_.glif</string>
+    <key>diagonalbarO.rvrn</key>
+    <string>diagonalbarO_.rvrn.glif</string>
     <key>diagonalbarl</key>
     <string>diagonalbarl.glif</string>
     <key>diagonalbaro</key>
     <string>diagonalbaro.glif</string>
+    <key>diagonalbaro.rvrn</key>
+    <string>diagonalbaro.rvrn.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
     <key>dieresisbelowcomb</key>
@@ -1326,6 +1366,8 @@
     <string>nacute.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
+    <key>naira.rvrn</key>
+    <string>naira.rvrn.glif</string>
     <key>napostrophe</key>
     <string>napostrophe.glif</string>
     <key>nbspace</key>
@@ -1714,10 +1756,16 @@
     <string>uni20A_D_.glif</string>
     <key>uni20B1</key>
     <string>uni20B_1.glif</string>
+    <key>uni20B1.rvrn</key>
+    <string>uni20B_1.rvrn.glif</string>
     <key>uni20B2</key>
     <string>uni20B_2.glif</string>
+    <key>uni20B2.rvrn</key>
+    <string>uni20B_2.rvrn.glif</string>
     <key>uni20B5</key>
     <string>uni20B_5.glif</string>
+    <key>uni20B5.rvrn</key>
+    <string>uni20B_5.rvrn.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>upsilon</key>
@@ -1756,6 +1804,8 @@
     <string>wgrave.glif</string>
     <key>won</key>
     <string>won.glif</string>
+    <key>won.rvrn</key>
+    <string>won.rvrn.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>xi</key>
