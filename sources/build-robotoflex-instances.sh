@@ -1,5 +1,6 @@
-
 #!/bin/sh
+# See definition here
+# https://docs.google.com/spreadsheets/d/12xZk0J6vuHzCeX5JBC7R4ymCXsd0UFx6HYrv0K25yAU
 
 set -e
 
