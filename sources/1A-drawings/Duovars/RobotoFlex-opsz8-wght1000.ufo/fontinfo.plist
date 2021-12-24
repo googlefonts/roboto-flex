@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>1536</integer>
+    <real>1627.5</real>
     <key>capHeight</key>
     <integer>1456</integer>
     <key>copyright</key>
     <string>Copyright 2011, 2017 Google Inc. All Rights Reserved.</string>
     <key>descender</key>
-    <integer>-416</integer>
+    <real>-436.85</real>
     <key>familyName</key>
     <string>RobotoFlex</string>
     <key>guidelines</key>
@@ -31,6 +31,12 @@
     <integer>9</integer>
     <key>openTypeHheaAscender</key>
     <integer>1900</integer>
+    <key>openTypeHheaCaretOffset</key>
+    <integer>0</integer>
+    <key>openTypeHheaCaretSlopeRise</key>
+    <integer>0</integer>
+    <key>openTypeHheaCaretSlopeRun</key>
+    <integer>0</integer>
     <key>openTypeHheaDescender</key>
     <integer>-500</integer>
     <key>openTypeHheaLineGap</key>
@@ -204,7 +210,7 @@
     <key>trademark</key>
     <string>Roboto is a trademark of Google.</string>
     <key>unitsPerEm</key>
-    <integer>2048</integer>
+    <real>2048.0</real>
     <key>versionMajor</key>
     <integer>2</integer>
     <key>versionMinor</key>

@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iebrevecyr" format="2">
-  <advance width="1251"/>
+  <advance width="1242"/>
   <unicode hex="04D7"/>
   <outline>
-    <component base="breve.cyr" xOffset="127"/>
+    <component base="breve.cyr" xOffset="125.65"/>
     <component base="ie"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9991,0.8674,0.7109,1</string>
-    </dict>
-  </lib>
 </glyph>
