@@ -982,7 +982,7 @@
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-    <integer>1</integer>
+    <false/>
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
@@ -2483,6 +2483,10 @@
       <string>diagonalbarO.rvrn</string>
       <string>diagonalbaro.rvrn</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
     <key>tnCurvePalet</key>
     <dict>
       <key>sliderBottomMax</key>
