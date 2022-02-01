@@ -1,28 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonekcomb.case" format="2">
   <advance width="1024"/>
+  <anchor x="439.0" y="0" name="_ogonek"/>
+  <anchor x="439.0" y="-394.0" name="bottom"/>
   <outline>
     <contour>
-      <point x="120.50275632130385" y="-224.0" type="qcurve" smooth="yes"/>
-      <point x="131.7876830866456" y="-160.0"/>
-      <point x="291.2971334051222" y="-21.0"/>
-      <point x="428.58206017046405" y="43.0" type="qcurve"/>
-      <point x="438.5240982862132" y="37.0" type="line"/>
-      <point x="302.2391715208714" y="-27.0"/>
-      <point x="142.61135610593715" y="-161.0"/>
-      <point x="131.85541028272075" y="-222.0" type="qcurve" smooth="yes"/>
-      <point x="122.15742634375522" y="-277.0"/>
-      <point x="200.81453769416265" y="-347.0"/>
-      <point x="276.81453769416265" y="-347.0" type="qcurve" smooth="yes"/>
-      <point x="348.81453769416265" y="-347.0"/>
-      <point x="500.5149629610843" y="-309.0"/>
-      <point x="523.925578806752" y="-301.0" type="qcurve"/>
-      <point x="524.1623089996674" y="-311.0" type="line"/>
-      <point x="498.5753661732912" y="-320.0"/>
-      <point x="350.051267887078" y="-357.0"/>
-      <point x="274.051267887078" y="-357.0" type="qcurve" smooth="yes"/>
-      <point x="191.05126788707798" y="-357.0"/>
-      <point x="110.27579144021288" y="-282.0"/>
+      <point x="121" y="-261.0" type="qcurve" smooth="yes"/>
+      <point x="132" y="-197.0"/>
+      <point x="291" y="-58.0"/>
+      <point x="429" y="6.0" type="qcurve"/>
+      <point x="439" y="0.0" type="line"/>
+      <point x="302" y="-64.0"/>
+      <point x="143" y="-198.0"/>
+      <point x="132" y="-259.0" type="qcurve" smooth="yes"/>
+      <point x="122" y="-314.0"/>
+      <point x="201" y="-384.0"/>
+      <point x="277" y="-384.0" type="qcurve" smooth="yes"/>
+      <point x="349" y="-384.0"/>
+      <point x="501" y="-346.0"/>
+      <point x="524" y="-338.0" type="qcurve"/>
+      <point x="524" y="-348.0" type="line"/>
+      <point x="499" y="-357.0"/>
+      <point x="350" y="-394.0"/>
+      <point x="274" y="-394.0" type="qcurve" smooth="yes"/>
+      <point x="191" y="-394.0"/>
+      <point x="110" y="-319.0"/>
     </contour>
   </outline>
   <lib>

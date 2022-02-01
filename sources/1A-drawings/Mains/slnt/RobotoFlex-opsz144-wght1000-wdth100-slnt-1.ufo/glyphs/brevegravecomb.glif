@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegravecomb" format="2">
+  <advance width="1024"/>
+  <anchor x="512.0" y="914" name="_top"/>
+  <outline>
+    <contour>
+      <point x="833.1451410851488" y="1447.0" type="qcurve"/>
+      <point x="1053.7442905513055" y="1371.0" type="line"/>
+      <point x="984.4111672135373" y="1233.0"/>
+      <point x="720.326980708465" y="1000.0"/>
+      <point x="560.326980708465" y="1000.0" type="qcurve" smooth="yes"/>
+      <point x="416.32698070846504" y="1000.0"/>
+      <point x="224.06095458007644" y="1214.0"/>
+      <point x="198.09694451272242" y="1373.0" type="qcurve"/>
+      <point x="457.1451410851488" y="1447.0" type="line"/>
+      <point x="478.2683888375186" y="1408.0"/>
+      <point x="561.8071350914685" y="1343.0"/>
+      <point x="623.8071350914685" y="1343.0" type="qcurve" smooth="yes"/>
+      <point x="690.8071350914685" y="1343.0"/>
+      <point x="796.9157348761017" y="1406.0"/>
+    </contour>
+    <contour>
+      <point x="463.9614901205721" y="1497.0" type="line"/>
+      <point x="271.20247298270414" y="1867.0" type="line"/>
+      <point x="763.5404789763845" y="1971.0" type="line"/>
+      <point x="908.0048040370862" y="1605.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,6 +2,8 @@
 <glyph name="R" format="2">
   <advance width="1039"/>
   <unicode hex="0052"/>
+  <anchor x="605.0" y="0" name="bottom"/>
+  <anchor x="505.0" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="65.0" y="0.0" type="line"/>
@@ -13,19 +15,19 @@
       <point x="982" y="861"/>
       <point x="762" y="632"/>
       <point x="545.92" y="632.08" type="qcurve" smooth="yes"/>
-      <point x="253.88" y="632.08" type="line"/>
-      <point x="148.88" y="0.0" type="line"/>
+      <point x="263" y="632" type="line"/>
+      <point x="151" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="280.88" y="716.0" type="line"/>
+      <point x="278" y="716.0" type="line"/>
       <point x="573.92" y="716.0" type="line" smooth="yes"/>
-      <point x="735.0" y="716.0"/>
+      <point x="735" y="716"/>
       <point x="909.4399999999999" y="905.2"/>
       <point x="929.4399999999999" y="1045.0" type="qcurve" smooth="yes"/>
       <point x="950.4399999999999" y="1184.8"/>
-      <point x="842.7766486486487" y="1372.08"/>
+      <point x="843" y="1372"/>
       <point x="670.92" y="1372.08" type="qcurve" smooth="yes"/>
-      <point x="377.88" y="1372.08" type="line"/>
+      <point x="393" y="1372" type="line"/>
     </contour>
     <contour>
       <point x="811.0" y="0.0" type="line"/>

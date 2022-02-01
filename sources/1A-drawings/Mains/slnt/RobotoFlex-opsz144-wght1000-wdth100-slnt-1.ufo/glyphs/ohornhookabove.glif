@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohornhookabove" format="2">
-  <advance width="1508"/>
+  <advance width="1324"/>
   <unicode hex="1EDF"/>
   <outline>
-    <component base="ohorn"/>
-    <component base="hookabovecomb" xOffset="265.59207988064736" yOffset="43"/>
+    <component base="o"/>
+    <component base="horncomb" xOffset="993"/>
+    <component base="hookabovecomb" xOffset="150"/>
   </outline>
   <lib>
     <dict>

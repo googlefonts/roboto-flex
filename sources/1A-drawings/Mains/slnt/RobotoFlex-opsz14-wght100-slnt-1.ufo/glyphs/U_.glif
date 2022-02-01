@@ -2,26 +2,30 @@
 <glyph name="U" format="2">
   <advance width="1161"/>
   <unicode hex="0055"/>
+  <anchor x="582.0" y="0" name="bottom"/>
+  <anchor x="747" y="0" name="ogonek"/>
+  <anchor x="582.0" y="1456" name="top"/>
+  <anchor x="1124" y="1456" name="topright"/>
   <outline>
     <contour>
       <point x="133.0" y="478.0" type="qcurve" smooth="yes"/>
       <point x="307.0" y="1456.0" type="line"/>
-      <point x="390.88" y="1456.0" type="line"/>
-      <point x="216.88" y="478.0" type="line" smooth="yes"/>
-      <point x="186.88" y="264.51238095238097"/>
-      <point x="353.91408114558476" y="56.47999999999999"/>
-      <point x="504.0" y="56.47999999999999" type="qcurve" smooth="yes"/>
-      <point x="654.9075894988066" y="56.47999999999999"/>
-      <point x="879.12" y="264.51238095238097"/>
-      <point x="909.12" y="478.0" type="qcurve" smooth="yes"/>
-      <point x="1083.12" y="1456.0" type="line"/>
+      <point x="393" y="1456.0" type="line"/>
+      <point x="219" y="478.0" type="line" smooth="yes"/>
+      <point x="183" y="275"/>
+      <point x="329.0" y="56"/>
+      <point x="504.0" y="56" type="qcurve" smooth="yes"/>
+      <point x="663.0" y="56"/>
+      <point x="874" y="275"/>
+      <point x="910" y="478.0" type="qcurve" smooth="yes"/>
+      <point x="1083" y="1456.0" type="line"/>
       <point x="1167.0" y="1456.0" type="line"/>
       <point x="994.0" y="478.0" type="line" smooth="yes"/>
-      <point x="950.0" y="224.0"/>
-      <point x="658" y="-20.0"/>
-      <point x="475.0" y="-20.0" type="qcurve" smooth="yes"/>
-      <point x="293" y="-20.0"/>
-      <point x="89.0" y="224.0"/>
+      <point x="951.0" y="238.0"/>
+      <point x="693.0" y="-20.0"/>
+      <point x="485.0" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="278.0" y="-20.0"/>
+      <point x="90.0" y="238.0"/>
     </contour>
   </outline>
 </glyph>

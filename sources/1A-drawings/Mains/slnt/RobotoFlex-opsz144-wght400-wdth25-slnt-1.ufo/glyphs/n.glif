@@ -2,17 +2,19 @@
 <glyph name="n" format="2">
   <advance width="344"/>
   <unicode hex="006E"/>
+  <anchor x="172.0" y="0" name="bottom"/>
+  <anchor x="172.0" y="914" name="top"/>
   <outline>
     <contour>
       <point x="-66.42500000000001" y="0.0" type="line"/>
-      <point x="65.7" y="912.35" type="line"/>
-      <point x="153.60000000000002" y="912.35" type="line"/>
+      <point x="66" y="914" type="line"/>
+      <point x="154" y="914" type="line"/>
       <point x="142.90000000000003" y="839.125" type="line"/>
       <point x="143.425" y="839.125" type="line"/>
       <point x="154.175" y="868.25"/>
-      <point x="208.32500000000005" y="920.675"/>
-      <point x="247.89999999999998" y="920.675" type="qcurve" smooth="yes"/>
-      <point x="292.30000000000007" y="920.675"/>
+      <point x="208" y="924"/>
+      <point x="248" y="924" type="qcurve" smooth="yes"/>
+      <point x="292" y="924"/>
       <point x="327.4000000000001" y="861.075"/>
       <point x="318.7750000000001" y="798.9" type="qcurve" smooth="yes"/>
       <point x="198.42500000000007" y="0.0" type="line"/>

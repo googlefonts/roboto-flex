@@ -2,15 +2,17 @@
 <glyph name="s" format="2">
   <advance width="1205"/>
   <unicode hex="0073"/>
+  <anchor x="480" y="0" name="bottom"/>
+  <anchor x="602.5" y="914" name="top"/>
   <outline>
     <contour>
       <point x="23" y="306" type="line"/>
       <point x="33" y="306" type="line"/>
       <point x="32" y="298" type="line" smooth="yes"/>
       <point x="1" y="122"/>
-      <point x="232" y="-20"/>
-      <point x="478" y="-21" type="qcurve" smooth="yes"/>
-      <point x="725" y="-22"/>
+      <point x="232" y="-14"/>
+      <point x="478" y="-15" type="qcurve" smooth="yes"/>
+      <point x="725" y="-16"/>
       <point x="993" y="129"/>
       <point x="1013" y="245" type="qcurve" smooth="yes"/>
       <point x="1034" y="363"/>
@@ -41,9 +43,9 @@
       <point x="1045" y="368"/>
       <point x="1023" y="246" type="qcurve" smooth="yes"/>
       <point x="1001" y="121"/>
-      <point x="729" y="-30"/>
-      <point x="477" y="-30" type="qcurve" smooth="yes"/>
-      <point x="223" y="-30"/>
+      <point x="729" y="-24"/>
+      <point x="477" y="-24" type="qcurve" smooth="yes"/>
+      <point x="223" y="-24"/>
       <point x="-11" y="114"/>
       <point x="20" y="289" type="qcurve" smooth="yes"/>
     </contour>

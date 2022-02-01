@@ -2,15 +2,17 @@
 <glyph name="j" format="2">
   <advance width="387"/>
   <unicode hex="006A"/>
+  <anchor x="250.0" y="-436" name="bottom"/>
+  <anchor x="250.0" y="1052" name="top"/>
   <outline>
     <contour>
       <point x="-282.68" y="-414.08" type="qcurve"/>
       <point x="-256.68" y="-333.44" type="line"/>
       <point x="-240.51999999999998" y="-338.76"/>
-      <point x="-180.26" y="-352.08"/>
-      <point x="-154.68" y="-352.08" type="qcurve" smooth="yes"/>
-      <point x="-80.4" y="-352.08"/>
-      <point x="15.0" y="-248.4426666666667"/>
+      <point x="-180" y="-352"/>
+      <point x="-155" y="-352" type="qcurve" smooth="yes"/>
+      <point x="-86" y="-352"/>
+      <point x="10.0" y="-237.0"/>
       <point x="29.0" y="-130.0" type="qcurve" smooth="yes"/>
       <point x="238.0" y="1052.0" type="line"/>
       <point x="320.32" y="1052.0" type="line"/>

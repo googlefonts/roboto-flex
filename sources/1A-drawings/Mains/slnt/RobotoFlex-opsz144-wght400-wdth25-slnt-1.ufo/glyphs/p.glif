@@ -2,27 +2,29 @@
 <glyph name="p" format="2">
   <advance width="351"/>
   <unicode hex="0070"/>
+  <anchor x="175.5" y="0" name="bottom"/>
+  <anchor x="175.5" y="914" name="top"/>
   <outline>
     <contour>
-      <point x="-126.35000000000001" y="-409.45" type="line"/>
-      <point x="65.525" y="912.35" type="line"/>
-      <point x="152.20000000000005" y="912.35" type="line"/>
+      <point x="-127" y="-416" type="line"/>
+      <point x="66" y="914" type="line"/>
+      <point x="152" y="914" type="line"/>
       <point x="142.375" y="843.675" type="line"/>
       <point x="143.07500000000005" y="843.85" type="line"/>
       <point x="151.875" y="872.625"/>
-      <point x="204.55" y="921.025"/>
-      <point x="240.22500000000002" y="921.025" type="qcurve" smooth="yes"/>
-      <point x="284.07500000000005" y="921.025"/>
+      <point x="205" y="923"/>
+      <point x="240" y="923" type="qcurve" smooth="yes"/>
+      <point x="284" y="923"/>
       <point x="327.5" y="845.275"/>
       <point x="313.9" y="757.325" type="qcurve" smooth="yes"/>
       <point x="234.25" y="173.575" type="line" smooth="yes"/>
       <point x="219.125" y="80.82500000000002"/>
-      <point x="152.8" y="-6.75"/>
-      <point x="102.65000000000003" y="-6.75" type="qcurve" smooth="yes"/>
-      <point x="70.52500000000003" y="-6.75"/>
+      <point x="153" y="-8"/>
+      <point x="103" y="-8" type="qcurve" smooth="yes"/>
+      <point x="71" y="-8"/>
       <point x="33.200000000000045" y="13.674999999999999"/>
       <point x="24.125" y="29.325" type="qcurve"/>
-      <point x="-37.625" y="-409.45" type="line"/>
+      <point x="-39" y="-416" type="line"/>
     </contour>
     <contour>
       <point x="37" y="103" type="line" smooth="yes"/>

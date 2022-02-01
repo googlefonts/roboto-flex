@@ -2,20 +2,24 @@
 <glyph name="u" format="2">
   <advance width="345"/>
   <unicode hex="0075"/>
+  <anchor x="172.5" y="0" name="bottom"/>
+  <anchor x="185" y="0" name="ogonek"/>
+  <anchor x="172.5" y="914" name="top"/>
+  <anchor x="249" y="914" name="topright"/>
   <outline>
     <contour>
       <point x="-52.0" y="88.70000000000002" type="qcurve" smooth="yes"/>
-      <point x="65.875" y="912.35" type="line"/>
-      <point x="153.65000000000003" y="912.35" type="line"/>
+      <point x="66" y="914" type="line"/>
+      <point x="154" y="914" type="line"/>
       <point x="39.625" y="110.4" type="line" smooth="yes"/>
-      <point x="36.150000000000034" y="83.94999999999999"/>
+      <point x="36" y="84"/>
       <point x="49.22500000000002" y="59.150000000000034"/>
       <point x="67.60000000000002" y="59.150000000000034" type="qcurve" smooth="yes"/>
       <point x="86.97500000000002" y="59.150000000000034"/>
       <point x="123.15000000000003" y="101.32500000000002"/>
       <point x="133.40000000000003" y="141.675" type="qcurve" smooth="yes"/>
-      <point x="247.075" y="912.35" type="line"/>
-      <point x="334.85" y="912.35" type="line"/>
+      <point x="247" y="914" type="line"/>
+      <point x="335" y="914" type="line"/>
       <point x="198.60000000000002" y="0.0" type="line"/>
       <point x="112.35000000000002" y="0.0" type="line"/>
       <point x="118" y="59" type="line"/>

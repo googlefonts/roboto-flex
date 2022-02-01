@@ -2,13 +2,16 @@
 <glyph name="h" format="2">
   <advance width="1312"/>
   <unicode hex="0068"/>
+  <anchor x="656.0" y="0" name="bottom"/>
+  <anchor x="416.0" y="1174" name="center"/>
+  <anchor x="416.0" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="-84.24603174603175" y="0.0" type="line"/>
       <point x="172.23809523809524" y="1456.0" type="line"/>
-      <point x="697.8253968253969" y="1456.0" type="line"/>
-      <point x="580.4761904761905" y="802.4126984126984" type="line"/>
-      <point x="617.047619047619" y="849.7539682539682"/>
+      <point x="698" y="1456.0" type="line"/>
+      <point x="580" y="802" type="line"/>
+      <point x="617" y="850"/>
       <point x="808.3730158730159" y="947.2857142857143"/>
       <point x="960.3174603174604" y="947.2857142857143" type="qcurve" smooth="yes"/>
       <point x="1124.2619047619048" y="947.2857142857143"/>

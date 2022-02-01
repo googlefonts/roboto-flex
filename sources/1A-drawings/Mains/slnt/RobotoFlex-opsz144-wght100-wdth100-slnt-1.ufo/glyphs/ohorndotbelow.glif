@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorndotbelow" format="2">
-  <advance width="882"/>
+  <advance width="767"/>
   <unicode hex="1EE3"/>
   <outline>
-    <component base="ohorn"/>
-    <component base="dotbelowcomb" xOffset="-78.30916519876337" yOffset="6.103174603173102"/>
+    <component base="o"/>
+    <component base="horncomb" xOffset="537"/>
+    <component base="dotbelowcomb" xOffset="-121"/>
   </outline>
   <lib>
     <dict>

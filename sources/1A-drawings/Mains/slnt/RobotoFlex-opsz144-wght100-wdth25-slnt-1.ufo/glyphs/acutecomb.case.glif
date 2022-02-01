@@ -1,18 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb.case" format="2">
   <advance width="250"/>
+  <anchor x="125.0" y="1456" name="_top"/>
+  <anchor x="125.0" y="1738.0" name="top"/>
   <outline>
     <contour>
-      <point x="195" y="1529.0" type="line"/>
-      <point x="329" y="1764.0" type="line"/>
-      <point x="334" y="1761.0" type="line"/>
-      <point x="199" y="1526.0" type="line"/>
+      <point x="195.0" y="1503.0" type="line"/>
+      <point x="329.0" y="1738.0" type="line"/>
+      <point x="334.0" y="1735.0" type="line"/>
+      <point x="199.0" y="1500.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
+      <string>0.9908,1,0.037,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,12 +2,15 @@
 <glyph name="I" format="2">
   <advance width="424"/>
   <unicode hex="0049"/>
+  <anchor x="241.0" y="0" name="bottom"/>
+  <anchor x="262" y="0" name="ogonek"/>
+  <anchor x="241.0" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="70.0" y="0.0" type="line"/>
       <point x="326.0" y="1456.0" type="line"/>
-      <point x="410.88" y="1456.0" type="line"/>
-      <point x="153.88" y="0.0" type="line"/>
+      <point x="412" y="1456.0" type="line"/>
+      <point x="156" y="0.0" type="line"/>
     </contour>
   </outline>
 </glyph>

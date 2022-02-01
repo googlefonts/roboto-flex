@@ -2,20 +2,22 @@
 <glyph name="dotbelowcomb" format="2">
   <advance width="1024"/>
   <unicode hex="0323"/>
+  <anchor x="512.0" y="0" name="_bottom"/>
+  <anchor x="512.0" y="-211.0" name="bottom"/>
   <outline>
     <contour>
-      <point x="330.73216253035093" y="-183.0" type="qcurve" smooth="yes"/>
-      <point x="332.1427783760186" y="-175.0"/>
-      <point x="345.0823751638117" y="-164.0"/>
-      <point x="355.0823751638117" y="-164.0" type="qcurve" smooth="yes"/>
-      <point x="365.0823751638117" y="-164.0"/>
-      <point x="373.1427783760186" y="-175.0"/>
-      <point x="371.73216253035093" y="-183.0" type="qcurve" smooth="yes"/>
-      <point x="370.1452197039747" y="-192.0"/>
-      <point x="357.2056229161816" y="-203.0"/>
-      <point x="347.2056229161816" y="-203.0" type="qcurve" smooth="yes"/>
-      <point x="337.2056229161816" y="-203.0"/>
-      <point x="329.1452197039747" y="-192.0"/>
+      <point x="330.73216253035093" y="-191.0" type="qcurve" smooth="yes"/>
+      <point x="332.1427783760186" y="-183.0"/>
+      <point x="345.0823751638117" y="-172.0"/>
+      <point x="355.0823751638117" y="-172.0" type="qcurve" smooth="yes"/>
+      <point x="365.0823751638117" y="-172.0"/>
+      <point x="373.1427783760186" y="-183.0"/>
+      <point x="371.73216253035093" y="-191.0" type="qcurve" smooth="yes"/>
+      <point x="370.1452197039747" y="-200.0"/>
+      <point x="357.2056229161816" y="-211.0"/>
+      <point x="347.2056229161816" y="-211.0" type="qcurve" smooth="yes"/>
+      <point x="337.2056229161816" y="-211.0"/>
+      <point x="329.1452197039747" y="-200.0"/>
     </contour>
   </outline>
   <lib>

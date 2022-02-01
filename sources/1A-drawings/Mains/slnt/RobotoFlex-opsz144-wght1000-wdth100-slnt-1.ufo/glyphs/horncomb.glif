@@ -2,32 +2,34 @@
 <glyph name="horncomb" format="2">
   <advance width="1024"/>
   <unicode hex="031B"/>
+  <anchor x="0.0" y="914" name="_topright"/>
+  <anchor x="0" y="1168" name="topright"/>
   <outline>
     <contour>
-      <point x="33.16286036753698" y="914.0" type="line"/>
-      <point x="101.16286036753698" y="914.0" type="line" smooth="yes"/>
-      <point x="140.16286036753695" y="914.0"/>
-      <point x="205.51063167304176" y="950.0"/>
-      <point x="215.3849425927158" y="1006.0" type="qcurve" smooth="yes"/>
-      <point x="224.20129162813902" y="1056.0"/>
-      <point x="226.60214216198233" y="1132.0"/>
-      <point x="225.12624044819552" y="1169.0" type="qcurve"/>
-      <point x="488.1262404481955" y="1169.0" type="line"/>
-      <point x="507.1311231041077" y="1135.0"/>
-      <point x="529.264136168302" y="1028.0"/>
-      <point x="514.9816507309163" y="947.0" type="qcurve" smooth="yes"/>
-      <point x="494.88037493015133" y="833.0"/>
-      <point x="300.83706101363714" y="725.0"/>
-      <point x="180.83706101363714" y="725.0" type="qcurve" smooth="yes"/>
-      <point x="122.83706101363711" y="725.0"/>
-      <point x="35.481965724264086" y="740.0"/>
-      <point x="4.59788949276566" y="752.0" type="qcurve"/>
+      <point x="0" y="914.0" type="line"/>
+      <point x="68" y="914.0" type="line" smooth="yes"/>
+      <point x="107" y="914.0"/>
+      <point x="173" y="950.0"/>
+      <point x="182" y="1006.0" type="qcurve" smooth="yes"/>
+      <point x="191" y="1056.0"/>
+      <point x="194" y="1132.0"/>
+      <point x="192" y="1169.0" type="qcurve"/>
+      <point x="455" y="1169.0" type="line"/>
+      <point x="474" y="1135.0"/>
+      <point x="496" y="1028.0"/>
+      <point x="482" y="947.0" type="qcurve" smooth="yes"/>
+      <point x="462" y="833.0"/>
+      <point x="268" y="725.0"/>
+      <point x="148" y="725.0" type="qcurve" smooth="yes"/>
+      <point x="90" y="725.0"/>
+      <point x="2" y="740.0"/>
+      <point x="-28" y="752.0" type="qcurve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
+      <string>0.9908,1,0.037,1</string>
     </dict>
   </lib>
 </glyph>
