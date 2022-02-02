@@ -320,8 +320,8 @@
     </array>
     <key>public.glyphOrder</key>
     <array>
-      <string>.null</string>
       <string>CR</string>
+      <string>nbspace</string>
       <string>space</string>
       <string>exclam</string>
       <string>quotedbl</string>
@@ -428,7 +428,6 @@
       <string>dieresis</string>
       <string>copyright</string>
       <string>ordfeminine</string>
-      <string>guillemotleft</string>
       <string>logicalnot</string>
       <string>softhyphen</string>
       <string>registered</string>
@@ -444,7 +443,6 @@
       <string>cedilla</string>
       <string>onesuperior</string>
       <string>ordmasculine</string>
-      <string>guillemotright</string>
       <string>onequarter</string>
       <string>onehalf</string>
       <string>threequarters</string>
@@ -565,7 +563,6 @@
       <string>IJ</string>
       <string>ij</string>
       <string>Jcircumflex</string>
-      <string>jcircumflex</string>
       <string>Kcommaaccent</string>
       <string>kcommaaccent</string>
       <string>kgreenlandic</string>
@@ -854,18 +851,12 @@
       <string>fraction</string>
       <string>commercialMinusSign</string>
       <string>foursuperior</string>
-      <string>coloncurrency</string>
       <string>franc</string>
       <string>lira</string>
       <string>naira</string>
       <string>peseta</string>
       <string>won</string>
       <string>dong</string>
-      <string>Euro</string>
-      <string>uni20AD</string>
-      <string>uni20B1</string>
-      <string>uni20B2</string>
-      <string>uni20B5</string>
       <string>rupeeIndian</string>
       <string>liraTurkish</string>
       <string>manat</string>
@@ -887,7 +878,6 @@
       <string>f_f_i</string>
       <string>f_f_l</string>
       <string>IJacute</string>
-      <string>diagonalbarL</string>
       <string>diagonalbarO</string>
       <string>diagonalbarl</string>
       <string>diagonalbaro</string>
@@ -898,9 +888,6 @@
       <string>idotless</string>
       <string>ijacute</string>
       <string>jdotless</string>
-      <string>zerosuperior</string>
-      <string>f_f_ij</string>
-      <string>f_ij</string>
       <string>gravecomb.case</string>
       <string>acutecomb.case</string>
       <string>circumflexcomb.case</string>
@@ -936,6 +923,22 @@
       <string>periodcentered.loclCAT</string>
       <string>periodcentered.loclCAT.case</string>
       <string>dollar.rvrn</string>
+      <string>jcircumflex</string>
+      <string>Jacute.loclNLD</string>
+      <string>jacute.loclNLD</string>
+      <string>guillemotleft</string>
+      <string>guillemotright</string>
+      <string>coloncurrency</string>
+      <string>Euro</string>
+      <string>uni20AD</string>
+      <string>uni20B1</string>
+      <string>uni20B2</string>
+      <string>uni20B5</string>
+      <string>.notdef</string>
+      <string>diagonalbarL</string>
+      <string>zerosuperior</string>
+      <string>f_f_ij</string>
+      <string>f_ij</string>
       <string>zero.prop</string>
       <string>one.prop</string>
       <string>two.prop</string>
@@ -946,29 +949,6 @@
       <string>seven.prop</string>
       <string>eight.prop</string>
       <string>nine.prop</string>
-      <string>.notdef</string>
-      <string>Jacute.loclNLD</string>
-      <string>jacute.loclNLD</string>
-      <string>breve.cyr</string>
-      <string>breve.cyr.case</string>
-      <string>brevegravecomb</string>
-      <string>breveacutecomb</string>
-      <string>circumflexhookabovecomb</string>
-      <string>brevehookabovecomb</string>
-      <string>circumflexacutecomb</string>
-      <string>circumflexgravecomb</string>
-      <string>circumflextildecomb</string>
-      <string>brevetildecomb</string>
-      <string>brevehookabovecomb.case</string>
-      <string>breveacutecomb.case</string>
-      <string>circumflexgravecomb.case</string>
-      <string>brevegravecomb.case</string>
-      <string>circumflexhookabovecomb.case</string>
-      <string>circumflextildecomb.case</string>
-      <string>circumflexacutecomb.case</string>
-      <string>brevetildecomb.case</string>
-      <string>onehalf.copy_1</string>
-      <string>threequarters.copy_1</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
