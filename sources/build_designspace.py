@@ -152,7 +152,7 @@ def main():
     ufo_paths = get_ufos(SRC_DIR)
     assert len(ufo_paths) == 72, "There should be 72 ufos!"
     ds = build_designspace(ufo_paths)
-    ds_path = "RobotoFlex2.designspace"
+    ds_path = "RobotoFlex.designspace"
     ds.write(ds_path)
     print(f"Saving {ds_path}")
     
