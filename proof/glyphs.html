@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>GFR - Glyphs</title>
+    
+    <style type="text/css">
+    
+
+        html{
+	  font-family: sans-serif;
+	}
+	.box-title{
+	  width: 100%;
+	  float: left;
+	  font-size: 8pt;
+	  font-weight: 700;
+	  border-top: 1px solid black;
+	  padding-top: 5px;
+	  margin-bottom: 10pt;
+	  display: block;
+	}
+	.box{
+	  margin-bottom: 20pt;
+	}
+	
+	#nav{
+	  position: fixed;
+	  right: 20px;
+	}
+	#font-toggle{
+	  display: block;
+	  font-weight: 700;
+	  cursor: pointer;
+	  -webkit-user-select: none; /* Safari */        
+	  -moz-user-select: none; /* Firefox */
+          -ms-user-select: none; /* IE10+/Edge */
+	  user-select: none; /* Standard */
+	  text-align: center;
+	  color: white;
+	  background-color: black;
+	  width: 50px;
+	  display: block;
+	  padding: 10px;
+	}
+
+	  
+
+	  
+
+	  
+	    @font-face { src: url(fonts/RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf); font-family: RobotoFlex-Regular; font-weight: 100 1000; font-stretch: 25% 151%; font-style: oblique -10deg 0deg; }
+	  
+
+	  
+
+	  
+
+	  
+	
+.cell{
+  position: relative;
+  z-index: -1;
+  float: left;
+  background-color: #fcfcfc;
+  display: block;
+  text-align: center;
+  padding: 5pt;
+  margin: 5pt;
+  width: 21.0px;
+  line-height: 21.0px;
+}
+
+    </style>
+</head>
+<body>
+    
+    <div id="content">
+	<h2>
+<b>Text</b>
+</h2>
+	
+  
+
+    </div>
+</body>
+	<script>
+
+	POSITION = "after"
+	fontToggle = document.getElementById("font-toggle")
+	function switchFonts() {
+	  items = document.getElementsByClassName("box")
+	  
+	  if (POSITION === "before") {
+	  POSITION = "after"
+	  for (item of items) {
+	    item.firstElementChild.textContent = item.firstElementChild.textContent.replace("before", "after")
+            item.lastElementChild.className = item.lastElementChild.className.replace("before", "after")
+	    fontToggle.textContent = "After"
+	  }
+	  } else {
+	  POSITION = "before"
+	  for (item of items) {
+	    item.firstElementChild.textContent = item.firstElementChild.textContent.replace("after", "before")
+            item.lastElementChild.className = item.lastElementChild.className.replace("after", "before")
+	    fontToggle.textContent = "Before"
+	  }
+	}
+	}
+	fontToggle.addEventListener("click", switchFonts);
+	</script>
+</html>

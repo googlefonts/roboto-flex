@@ -1,8 +1,0 @@
-RewriteEngine on
-RewriteBase "/"
-RewriteRule (^\.|/\.) - [F]
-RewriteRule ^(typespec|logopogo|proof)/(index.+)?$ / [R=301]
-
-<FilesMatch "\.woff2?$">
-	       Header set Access-Control-Allow-Origin "*"
-</FilesMatch>
