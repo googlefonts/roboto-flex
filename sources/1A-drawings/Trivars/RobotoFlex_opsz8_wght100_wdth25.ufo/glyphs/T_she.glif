@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tshe" format="2">
+  <advance width="1507"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="1267" y="0" type="line"/>
+      <point x="1267" y="372" type="line" smooth="yes"/>
+      <point x="1267" y="581"/>
+      <point x="1082" y="768"/>
+      <point x="876" y="768" type="qcurve" smooth="yes"/>
+      <point x="805" y="768"/>
+      <point x="643" y="743"/>
+      <point x="532" y="716" type="qcurve"/>
+      <point x="532" y="810" type="line"/>
+      <point x="649" y="838"/>
+      <point x="811" y="863"/>
+      <point x="876" y="863" type="qcurve" smooth="yes"/>
+      <point x="1128" y="863"/>
+      <point x="1360" y="631"/>
+      <point x="1367" y="372" type="qcurve" smooth="yes"/>
+      <point x="1367" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="1361" type="line"/>
+      <point x="24" y="1456" type="line"/>
+      <point x="1040" y="1456" type="line"/>
+      <point x="1040" y="1361" type="line"/>
+      <point x="582" y="1361" type="line"/>
+      <point x="582" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="482" y="1361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
+</glyph>

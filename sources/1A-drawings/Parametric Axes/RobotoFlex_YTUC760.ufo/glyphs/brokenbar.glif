@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="592"/>
+  <unicode hex="00A6"/>
+  <guideline x="0" y="901" angle="0" identifier="jmguX8NWKI"/>
+  <guideline x="0" y="555" angle="0" identifier="Z0RZpP7MTi"/>
+  <outline>
+    <contour>
+      <point x="387" y="-416" type="line"/>
+      <point x="205" y="-416" type="line"/>
+      <point x="205" y="359" type="line"/>
+      <point x="387" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="1536" type="line"/>
+      <point x="387" y="761" type="line"/>
+      <point x="205" y="761" type="line"/>
+      <point x="205" y="1536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Z0RZpP7MTi</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.jmguX8NWKI</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>
