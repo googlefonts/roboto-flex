@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="977"/>
+  <unicode hex="03C5"/>
+  <outline>
+    <contour>
+      <point x="352" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="168" y="-20.0"/>
+      <point x="37" y="171.0"/>
+      <point x="74" y="383.0" type="qcurve" smooth="yes"/>
+      <point x="191" y="1052.0" type="line"/>
+      <point x="364" y="1052.0" type="line"/>
+      <point x="246" y="378.0" type="line" smooth="yes"/>
+      <point x="224" y="248.0"/>
+      <point x="286" y="131.0"/>
+      <point x="379" y="131.0" type="qcurve" smooth="yes"/>
+      <point x="473" y="131.0"/>
+      <point x="578" y="248.0"/>
+      <point x="600" y="378.0" type="qcurve" smooth="yes"/>
+      <point x="718" y="1052.0" type="line"/>
+      <point x="891" y="1052.0" type="line"/>
+      <point x="774" y="383.0" type="line" smooth="yes"/>
+      <point x="737" y="171.0"/>
+      <point x="538" y="-20.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

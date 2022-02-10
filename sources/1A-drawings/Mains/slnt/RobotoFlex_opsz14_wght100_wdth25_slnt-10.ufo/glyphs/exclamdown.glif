@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="505"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="381.96212010726754" y="1083.0" type="qcurve" smooth="yes"/>
+      <point x="375.61434880176284" y="1047.0"/>
+      <point x="331.6216727856311" y="996.0"/>
+      <point x="299.6216727856311" y="996.0" type="qcurve" smooth="yes"/>
+      <point x="267.6216727856311" y="996.0"/>
+      <point x="242.61434880176284" y="1047.0"/>
+      <point x="248.96212010726754" y="1083.0" type="qcurve" smooth="yes"/>
+      <point x="255.30989141277234" y="1119.0"/>
+      <point x="298.302567428904" y="1170.0"/>
+      <point x="330.302567428904" y="1170.0" type="qcurve" smooth="yes"/>
+      <point x="362.302567428904" y="1170.0"/>
+      <point x="388.30989141277234" y="1119.0"/>
+    </contour>
+    <contour>
+      <point x="289.1293117628471" y="738.0" type="line"/>
+      <point x="110.69128994179277" y="-308.0" type="line"/>
+      <point x="29.691289941792775" y="-308.0" type="line"/>
+      <point x="221.12931176284712" y="738.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

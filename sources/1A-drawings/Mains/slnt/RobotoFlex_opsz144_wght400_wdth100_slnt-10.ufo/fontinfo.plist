@@ -9,13 +9,54 @@
     <key>copyright</key>
     <string>Copyright 2011, 2017 Google Inc. All Rights Reserved.</string>
     <key>descender</key>
-    <real>-444.0</real>
+    <integer>-444</integer>
     <key>familyName</key>
     <string>RobotoFlex</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>F5ZMnObEkb</string>
+        <key>x</key>
+        <integer>595</integer>
+        <key>y</key>
+        <integer>-332</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>90</integer>
+        <key>identifier</key>
+        <string>tVmRG9eCyA</string>
+        <key>x</key>
+        <integer>-179</integer>
+        <key>y</key>
+        <integer>1023</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>lmkKXKGiIx</string>
+        <key>x</key>
+        <integer>720</integer>
+        <key>y</key>
+        <integer>-339</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>f6P0QfSwCf</string>
+        <key>x</key>
+        <integer>587</integer>
+        <key>y</key>
+        <integer>1478</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
-    <real>0.0</real>
+    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2008/09/12 16:29:34</string>
     <key>openTypeHeadFlags</key>
@@ -171,7 +212,7 @@
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>opsz144-wght400-wdth100-slnt-1</string>
+    <string>opsz144</string>
     <key>trademark</key>
     <string>Roboto is a trademark of Google.</string>
     <key>unitsPerEm</key>

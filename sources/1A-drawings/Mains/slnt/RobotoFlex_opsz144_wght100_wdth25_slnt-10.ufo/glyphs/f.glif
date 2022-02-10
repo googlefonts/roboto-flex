@@ -4,32 +4,38 @@
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="-51" y="0" type="line"/>
-      <point x="141" y="1356" type="line" smooth="yes"/>
-      <point x="151" y="1426"/>
-      <point x="201" y="1475"/>
-      <point x="231" y="1475" type="qcurve" smooth="yes"/>
-      <point x="241" y="1475"/>
-      <point x="256" y="1472"/>
-      <point x="261" y="1470" type="qcurve"/>
-      <point x="261" y="1464" type="line"/>
-      <point x="256" y="1466"/>
-      <point x="239" y="1470"/>
-      <point x="231" y="1470" type="qcurve" smooth="yes"/>
-      <point x="202" y="1470"/>
-      <point x="155" y="1421"/>
-      <point x="145" y="1350" type="qcurve" smooth="yes"/>
-      <point x="83" y="909" type="line"/>
-      <point x="83" y="909" type="line"/>
-      <point x="-46" y="0" type="line"/>
+      <point x="-74.0" y="0.0" type="line"/>
+      <point x="165.62836678280394" y="1359.0" type="line" smooth="yes"/>
+      <point x="176.38431260602027" y="1420.0"/>
+      <point x="221.08229654498587" y="1475.0"/>
+      <point x="261.08229654498587" y="1475.0" type="qcurve" smooth="yes"/>
+      <point x="270.08229654498587" y="1475.0"/>
+      <point x="284.72964258356893" y="1473.0"/>
+      <point x="292.2006616414435" y="1470.0" type="qcurve"/>
+      <point x="291.1426997571927" y="1464.0" type="line"/>
+      <point x="284.67168069931813" y="1467.0"/>
+      <point x="270.02433466073506" y="1469.0"/>
+      <point x="260.02433466073506" y="1469.0" type="qcurve" smooth="yes"/>
+      <point x="224.02433466073506" y="1469.0"/>
+      <point x="182.20798562531184" y="1419.0"/>
+      <point x="170.39407791784464" y="1352.0" type="qcurve" smooth="yes"/>
+      <point x="92.81020640612005" y="912.0" type="line"/>
+      <point x="92.45755244470314" y="910.0" type="line"/>
+      <point x="-68.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="33" y="909" type="line"/>
-      <point x="33" y="914" type="line"/>
-      <point x="80" y="914" type="line"/>
-      <point x="80" y="914" type="line"/>
-      <point x="135" y="914" type="line"/>
-      <point x="135" y="909" type="line"/>
+      <point x="40.104898483286206" y="908.0" type="line"/>
+      <point x="41.16286036753698" y="914.0" type="line"/>
+      <point x="89.16286036753698" y="914.0" type="line"/>
+      <point x="91.16286036753698" y="914.0" type="line"/>
+      <point x="144.16286036753695" y="914.0" type="line"/>
+      <point x="143.1048984832862" y="908.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="coloncurrency.rvrn" format="2">
   <advance width="1154"/>
-  <guideline x="148.83335971229002" y="1570.0" angle="0" identifier="0DwZ2nfhdf"/>
+  <guideline x="148.83335971229002" y="1570" angle="0" identifier="0DwZ2nfhdf"/>
   <outline>
     <contour>
       <point x="64.91211219358058" y="612.0" type="qcurve" smooth="yes"/>
@@ -38,44 +38,50 @@
       <point x="11.308710058207225" y="308.0"/>
     </contour>
     <contour>
-      <point x="356" y="85" type="line"/>
-      <point x="349" y="66" type="line"/>
-      <point x="350" y="39" type="line"/>
-      <point x="298" y="-125" type="line"/>
-      <point x="139" y="-125" type="line"/>
-      <point x="218" y="122" type="line"/>
-      <point x="236" y="148" type="line"/>
-      <point x="240" y="161" type="line"/>
+      <point x="370.62781541493433" y="134.0" type="line"/>
+      <point x="341.9347141318809" y="45.0" type="line"/>
+      <point x="343.17388565275235" y="18.0" type="line"/>
+      <point x="297.9591274114419" y="-125.0" type="line"/>
+      <point x="138.9591274114419" y="-125.0" type="line"/>
+      <point x="210.80902505155495" y="101.0" type="line"/>
+      <point x="229.39352654997504" y="127.0" type="line"/>
+      <point x="232.62781541493433" y="134.0" type="line"/>
     </contour>
     <contour>
-      <point x="839" y="1570" type="line"/>
-      <point x="783" y="1395" type="line"/>
-      <point x="766" y="1374" type="line"/>
-      <point x="757" y="1347" type="line"/>
-      <point x="619" y="1347" type="line"/>
-      <point x="629" y="1376" type="line"/>
-      <point x="626" y="1399" type="line"/>
-      <point x="681" y="1570" type="line"/>
+      <point x="838.8333597122901" y="1570.0" type="line"/>
+      <point x="792.4422744902711" y="1426.0" type="line"/>
+      <point x="775.7394078953932" y="1405.0" type="line"/>
+      <point x="767.3312333776817" y="1380.0" type="line"/>
+      <point x="629.3312333776817" y="1380.0" type="line"/>
+      <point x="638.0920618568102" y="1407.0" type="line"/>
+      <point x="635.1475824131049" y="1430.0" type="line"/>
+      <point x="680.8333597122901" y="1570.0" type="line"/>
     </contour>
     <contour>
-      <point x="628" y="90" type="line"/>
-      <point x="622" y="68" type="line"/>
-      <point x="624" y="43" type="line"/>
-      <point x="570" y="-125" type="line"/>
-      <point x="411" y="-125" type="line"/>
-      <point x="463" y="40" type="line"/>
-      <point x="482" y="66" type="line"/>
-      <point x="491" y="90" type="line"/>
+      <point x="623.7535044952602" y="78.0" type="line"/>
+      <point x="613.0530792283386" y="40.0" type="line"/>
+      <point x="614.644904710627" y="15.0" type="line"/>
+      <point x="569.9591274114418" y="-125.0" type="line"/>
+      <point x="410.95912741144184" y="-125.0" type="line"/>
+      <point x="454.1159237685016" y="12.0" type="line"/>
+      <point x="472.7004252669217" y="38.0" type="line"/>
+      <point x="486.75350449526024" y="78.0" type="line"/>
     </contour>
     <contour>
-      <point x="1111" y="1570" type="line"/>
-      <point x="1028" y="1324" type="line"/>
-      <point x="1011" y="1301" type="line"/>
-      <point x="1005" y="1282" type="line"/>
-      <point x="892" y="1352" type="line"/>
-      <point x="895" y="1361" type="line"/>
-      <point x="892" y="1381" type="line"/>
-      <point x="953" y="1570" type="line"/>
+      <point x="1110.83335971229" y="1570.0" type="line"/>
+      <point x="1044.273271493431" y="1374.0" type="line"/>
+      <point x="1027.217750937136" y="1351.0" type="line"/>
+      <point x="1024.4544811300516" y="1341.0" type="line"/>
+      <point x="887.4544811300516" y="1341.0" type="line"/>
+      <point x="910.797369779644" y="1411.0" type="line"/>
+      <point x="907.3239093938134" y="1431.0" type="line"/>
+      <point x="952.8333597122901" y="1570.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

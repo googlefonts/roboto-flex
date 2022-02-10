@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El" format="2">
+  <advance width="1573"/>
+  <unicode hex="041B"/>
+  <outline>
+    <contour>
+      <point x="468" y="1456.0" type="line"/>
+      <point x="1536" y="1456.0" type="line"/>
+      <point x="1279.0" y="0.0" type="line"/>
+      <point x="1084.0" y="0.0" type="line"/>
+      <point x="1312" y="1293.0" type="line"/>
+      <point x="620" y="1293.0" type="line"/>
+      <point x="446" y="542.0" type="line" smooth="yes"/>
+      <point x="379" y="253.0"/>
+      <point x="182" y="-30.0"/>
+      <point x="-14" y="-30.0" type="qcurve" smooth="yes"/>
+      <point x="-38" y="-30.0"/>
+      <point x="-93" y="-23.0"/>
+      <point x="-120" y="-13.0" type="qcurve"/>
+      <point x="-90" y="156.0" type="line"/>
+      <point x="-68" y="148.0"/>
+      <point x="-29" y="143.0"/>
+      <point x="-8" y="143.0" type="qcurve" smooth="yes"/>
+      <point x="94" y="143.0"/>
+      <point x="209" y="339"/>
+      <point x="263" y="575.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

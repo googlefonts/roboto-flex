@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="1024"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="135.9810207442208" y="1361.0" type="line"/>
+      <point x="494.8717909728921" y="1712.0" type="line"/>
+      <point x="751.4831470788292" y="1551.0" type="line"/>
+      <point x="319.1189164643273" y="1220.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="640.9810207442208" y="1361.0" type="line"/>
+      <point x="999.8717909728921" y="1712.0" type="line"/>
+      <point x="1256.4831470788292" y="1551.0" type="line"/>
+      <point x="824.1189164643273" y="1220.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

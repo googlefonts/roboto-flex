@@ -1,16 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greater" format="2">
-  <advance width="770"/>
+  <advance width="1200"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="-2" y="57" type="line"/>
-      <point x="48" y="495" type="line"/>
-      <point x="419" y="653" type="line"/>
-      <point x="122" y="809" type="line"/>
-      <point x="172" y="1237" type="line"/>
-      <point x="802" y="848" type="line"/>
-      <point x="756" y="452" type="line"/>
+      <point x="-34.88651755945452" y="29.0" type="line"/>
+      <point x="54.68758864044571" y="537.0" type="line"/>
+      <point x="595.6076548045901" y="684.0" type="line"/>
+      <point x="104.76445116164973" y="821.0" type="line"/>
+      <point x="194.33855736155" y="1329.0" type="line"/>
+      <point x="1145.0444952710793" y="919.0" type="line"/>
+      <point x="1062.1708143381009" y="449.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

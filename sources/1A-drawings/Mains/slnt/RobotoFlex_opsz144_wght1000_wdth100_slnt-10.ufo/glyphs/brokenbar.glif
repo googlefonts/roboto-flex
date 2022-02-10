@@ -2,8 +2,8 @@
 <glyph name="brokenbar" format="2">
   <advance width="774"/>
   <unicode hex="00A6"/>
-  <guideline x="30.870609618326938" y="901.0" angle="0.0" identifier="jmguX8NWKI"/>
-  <guideline x="-30.138525706801943" y="555.0" angle="0.0" identifier="Z0RZpP7MTi"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="jmguX8NWKI"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="Z0RZpP7MTi"/>
   <outline>
     <contour>
       <point x="482.6479760252786" y="-416.0" type="line"/>
@@ -21,9 +21,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.Z0RZpP7MTi</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.jmguX8NWKI</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

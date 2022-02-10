@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar" format="2">
-  <advance width="664"/>
+  <advance width="774"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="-121.16666666666667" y="-416.0" type="line"/>
-      <point x="216.0952380952381" y="1456.0" type="line"/>
-      <point x="715.5238095238095" y="1456.0" type="line"/>
-      <point x="378.74603174603175" y="-416.0" type="line"/>
+      <point x="-111.35202397472143" y="-416.0" type="line"/>
+      <point x="218.73208391152502" y="1456.0" type="line"/>
+      <point x="812.732083911525" y="1456.0" type="line"/>
+      <point x="482.6479760252786" y="-416.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

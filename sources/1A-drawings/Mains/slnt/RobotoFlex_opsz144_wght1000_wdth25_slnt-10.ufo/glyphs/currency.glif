@@ -2,22 +2,22 @@
 <glyph name="currency" format="2">
   <advance width="1206"/>
   <unicode hex="00A4"/>
-  <guideline x="30.870609618326938" y="901.0" angle="0.0" identifier="bRYxxRaQQf"/>
-  <guideline x="-30.138525706801943" y="555.0" angle="0.0" identifier="917FhrihjR"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="bRYxxRaQQf"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="917FhrihjR"/>
   <outline>
     <contour>
-      <point x="580.3684832837187" y="711.0" type="qcurve"/>
-      <point x="570.8468263254615" y="657.0"/>
-      <point x="571.0280359620822" y="624.0"/>
-      <point x="580.0280359620822" y="624.0" type="qcurve" smooth="yes"/>
-      <point x="589.0280359620822" y="624.0"/>
-      <point x="600.8468263254615" y="657.0"/>
-      <point x="610.3684832837187" y="711.0" type="qcurve" smooth="yes"/>
-      <point x="619.8901402419757" y="765.0"/>
-      <point x="619.708930605355" y="798.0"/>
-      <point x="610.708930605355" y="798.0" type="qcurve" smooth="yes"/>
-      <point x="601.708930605355" y="798.0"/>
-      <point x="589.8901402419757" y="765.0"/>
+      <point x="570.3684832837187" y="711.0" type="qcurve" smooth="yes"/>
+      <point x="559.2598834990853" y="648.0"/>
+      <point x="565.2043629427906" y="625.0"/>
+      <point x="580.2043629427906" y="625.0" type="qcurve" smooth="yes"/>
+      <point x="595.2043629427906" y="625.0"/>
+      <point x="609.6125374605023" y="650.0"/>
+      <point x="620.3684832837187" y="711.0" type="qcurve" smooth="yes"/>
+      <point x="631.1244291069349" y="772.0"/>
+      <point x="625.5326036246465" y="797.0"/>
+      <point x="610.5326036246465" y="797.0" type="qcurve" smooth="yes"/>
+      <point x="595.5326036246465" y="797.0"/>
+      <point x="581.4770830683519" y="774.0"/>
     </contour>
     <contour>
       <point x="91.60277214867784" y="718.0" type="qcurve"/>
@@ -61,9 +61,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.917FhrihjR</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.bRYxxRaQQf</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

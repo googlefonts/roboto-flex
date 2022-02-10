@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I" format="2">
-  <advance width="312"/>
+  <advance width="318"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="36.08730158730158" y="0.0" type="line"/>
-      <point x="267.42857142857144" y="1456.0" type="line"/>
-      <point x="275.0079365079365" y="1456.0" type="line"/>
-      <point x="44.150793650793645" y="0.0" type="line"/>
+      <point x="26.0" y="0.0" type="line"/>
+      <point x="282.732083911525" y="1456.0" type="line"/>
+      <point x="292.732083911525" y="1456.0" type="line"/>
+      <point x="36.0" y="0.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nje" format="2">
+  <advance width="1813"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="294" y="1456" type="line"/>
+      <point x="472" y="1456" type="line"/>
+      <point x="366" y="858" type="line"/>
+      <point x="938" y="858" type="line"/>
+      <point x="1044" y="1456" type="line"/>
+      <point x="1222" y="1456" type="line"/>
+      <point x="1116" y="858" type="line"/>
+      <point x="1330" y="858" type="line" smooth="yes"/>
+      <point x="1539" y="858"/>
+      <point x="1727" y="644"/>
+      <point x="1689" y="433" type="qcurve" smooth="yes"/>
+      <point x="1652" y="220"/>
+      <point x="1389" y="0"/>
+      <point x="1179" y="0" type="qcurve" smooth="yes"/>
+      <point x="787" y="0" type="line"/>
+      <point x="911" y="704" type="line"/>
+      <point x="339" y="704" type="line"/>
+      <point x="215" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1089" y="704" type="line"/>
+      <point x="992" y="153" type="line"/>
+      <point x="1206" y="153" type="line" smooth="yes"/>
+      <point x="1345" y="153"/>
+      <point x="1484" y="312"/>
+      <point x="1505" y="433" type="qcurve" smooth="yes"/>
+      <point x="1527" y="553"/>
+      <point x="1442" y="704"/>
+      <point x="1302" y="704" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

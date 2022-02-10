@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma" format="2">
+  <advance width="1043"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="113.46432506070181" y="-366.0" type="line"/>
+      <point x="168.4783430417429" y="-54.0" type="line"/>
+      <point x="16.55394558955595" y="1058.0" type="line"/>
+      <point x="438.55394558955595" y="1058.0" type="line"/>
+      <point x="482.86635694911024" y="521.0" type="line" smooth="yes"/>
+      <point x="485.51858564360555" y="485.0"/>
+      <point x="485.9969286853484" y="431.0"/>
+      <point x="483.4728303991352" y="394.0" type="qcurve"/>
+      <point x="490.4728303991352" y="394.0" type="line"/>
+      <point x="500.9969286853484" y="431.0"/>
+      <point x="519.342258662897" y="484.0"/>
+      <point x="535.8663569491102" y="521.0" type="qcurve" smooth="yes"/>
+      <point x="770.553945589556" y="1058.0" type="line"/>
+      <point x="1129.553945589556" y="1058.0" type="line"/>
+      <point x="576.4783430417428" y="-54.0" type="line"/>
+      <point x="521.4643250607019" y="-366.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

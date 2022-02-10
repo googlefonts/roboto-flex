@@ -2,7 +2,7 @@
 <glyph name="coloncurrency" format="2">
   <advance width="1901"/>
   <unicode hex="20A1"/>
-  <guideline x="148.83335971229002" y="1570.0" angle="0.0" identifier="0DwZ2nfhdf"/>
+  <guideline x="148.83335971229002" y="1570" angle="0" identifier="0DwZ2nfhdf"/>
   <outline>
     <contour>
       <point x="1667.83335971229" y="1570.0" type="line"/>
@@ -19,18 +19,18 @@
       <point x="1393.83335971229" y="1570.0" type="line"/>
     </contour>
     <contour>
-      <point x="1237.83335971229" y="1570.0" type="line"/>
-      <point x="1163.9761380883087" y="1395.0" type="line"/>
-      <point x="1138.273271493431" y="1374.0" type="line"/>
-      <point x="583.6375807267586" y="66.0" type="line"/>
-      <point x="589.8767522476302" y="39.0" type="line"/>
-      <point x="520.9591274114418" y="-125.0" type="line"/>
-      <point x="245.9591274114419" y="-125.0" type="line"/>
-      <point x="349.51189164643273" y="122.0" type="line"/>
-      <point x="379.0963931448528" y="148.0" type="line"/>
-      <point x="899.6259254548479" y="1376.0" type="line"/>
-      <point x="891.6814460111425" y="1399.0" type="line"/>
-      <point x="964.8333597122901" y="1570.0" type="line"/>
+      <point x="1317.83335971229" y="1570.0" type="line"/>
+      <point x="1243.9761380883087" y="1395.0" type="line"/>
+      <point x="1218.273271493431" y="1374.0" type="line"/>
+      <point x="663.6375807267586" y="66.0" type="line"/>
+      <point x="669.8767522476302" y="39.0" type="line"/>
+      <point x="600.9591274114418" y="-125.0" type="line"/>
+      <point x="325.9591274114419" y="-125.0" type="line"/>
+      <point x="429.5118916464327" y="122.0" type="line"/>
+      <point x="459.09639314485287" y="148.0" type="line"/>
+      <point x="979.6259254548479" y="1376.0" type="line"/>
+      <point x="971.6814460111425" y="1399.0" type="line"/>
+      <point x="1044.83335971229" y="1570.0" type="line"/>
     </contour>
     <contour>
       <point x="22.912112193580583" y="612.0" type="qcurve" smooth="yes"/>
@@ -70,7 +70,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.0DwZ2nfhdf</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

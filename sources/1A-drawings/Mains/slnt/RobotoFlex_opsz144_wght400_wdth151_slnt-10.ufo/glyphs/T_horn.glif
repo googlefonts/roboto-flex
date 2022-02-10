@@ -2,8 +2,8 @@
 <glyph name="Thorn" format="2">
   <advance width="1470"/>
   <unicode hex="00DE"/>
-  <guideline x="30.870609618326938" y="901.0" angle="0.0" identifier="i9jYwjBDP4"/>
-  <guideline x="-30.138525706801943" y="555.0" angle="0.0" identifier="T8KKW8oxop"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="i9jYwjBDP4"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="T8KKW8oxop"/>
   <outline>
     <contour>
       <point x="358.732083911525" y="1456.0" type="line"/>
@@ -35,9 +35,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.T8KKW8oxop</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.i9jYwjBDP4</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

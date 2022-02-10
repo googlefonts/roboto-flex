@@ -4,26 +4,32 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="-102" y="0" type="line"/>
-      <point x="180" y="1458" type="line"/>
-      <point x="186" y="1458" type="line"/>
-      <point x="66" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
-      <point x="175" y="1386" type="line" smooth="yes"/>
-      <point x="175" y="1387"/>
-      <point x="180" y="1436"/>
-      <point x="180" y="1436" type="qcurve"/>
-      <point x="180" y="1436" type="line"/>
-      <point x="180" y="1436"/>
-      <point x="171" y="1387"/>
-      <point x="171" y="1386" type="qcurve" smooth="yes"/>
-      <point x="-96" y="0" type="line"/>
+      <point x="-128.0" y="0.0" type="line"/>
+      <point x="209.4373918343589" y="1460.0" type="line"/>
+      <point x="214.4373918343589" y="1460.0" type="line"/>
+      <point x="42.0" y="0.0" type="line"/>
+      <point x="36.0" y="0.0" type="line"/>
+      <point x="201.03654130051552" y="1384.0" type="line" smooth="yes"/>
+      <point x="202.857772991851" y="1400.0"/>
+      <point x="205.9132935481457" y="1423.0"/>
+      <point x="207.38187127806418" y="1437.0" type="qcurve"/>
+      <point x="207.38187127806418" y="1437.0" type="line"/>
+      <point x="206.67656335523031" y="1433.0"/>
+      <point x="199.857772991851" y="1400.0"/>
+      <point x="196.03654130051552" y="1384.0" type="qcurve" smooth="yes"/>
+      <point x="-122.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="-16" y="426" type="line"/>
-      <point x="-14" y="432" type="line"/>
-      <point x="97" y="432" type="line"/>
-      <point x="97" y="426" type="line"/>
+      <point x="-26.355725276068526" y="429.0" type="line"/>
+      <point x="-24.29776339181774" y="435.0" type="line"/>
+      <point x="90.70223660818226" y="435.0" type="line"/>
+      <point x="89.64427472393146" y="429.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

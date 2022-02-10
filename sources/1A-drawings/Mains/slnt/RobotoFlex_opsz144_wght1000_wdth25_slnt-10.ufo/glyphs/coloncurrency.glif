@@ -2,7 +2,7 @@
 <glyph name="coloncurrency" format="2">
   <advance width="1004"/>
   <unicode hex="20A1"/>
-  <guideline x="148.83335971229002" y="1570.0" angle="0.0" identifier="0DwZ2nfhdf"/>
+  <guideline x="148.83335971229002" y="1570" angle="0" identifier="0DwZ2nfhdf"/>
   <outline>
     <contour>
       <point x="988.8333597122901" y="1570.0" type="line"/>
@@ -33,44 +33,44 @@
       <point x="561.8333597122901" y="1570.0" type="line"/>
     </contour>
     <contour>
-      <point x="3.489289708132361" y="689.0" type="qcurve" smooth="yes"/>
-      <point x="17.242794203392634" y="767.0" type="line" smooth="yes"/>
-      <point x="83.18908498835853" y="1141.0"/>
-      <point x="423.25862352569425" y="1476.0"/>
-      <point x="643.2586235256942" y="1476.0" type="qcurve" smooth="yes"/>
+      <point x="-28.77854776151672" y="506.0" type="qcurve" smooth="yes"/>
+      <point x="48.45266978879093" y="944.0" type="line" smooth="yes"/>
+      <point x="98.17687834857807" y="1226.0"/>
+      <point x="410.25862352569425" y="1476.0"/>
+      <point x="638.2586235256942" y="1476.0" type="qcurve" smooth="yes"/>
       <point x="864.2586235256942" y="1476.0"/>
       <point x="1080.5874941942457" y="1234.0"/>
       <point x="1048.7955584383835" y="1014.0" type="qcurve" smooth="yes"/>
       <point x="1017.0567019108598" y="834.0" type="line"/>
-      <point x="530.0567019108598" y="834.0" type="line"/>
-      <point x="561.7955584383835" y="1014.0" type="line" smooth="yes"/>
-      <point x="568.3196567245967" y="1051.0"/>
+      <point x="532.0567019108598" y="834.0" type="line"/>
+      <point x="570.8486376667221" y="1054.0" type="line" smooth="yes"/>
+      <point x="573.846196338766" y="1071.0"/>
       <point x="568.0804852037252" y="1078.0"/>
       <point x="562.0804852037252" y="1078.0" type="qcurve" smooth="yes"/>
-      <point x="556.0804852037252" y="1078.0"/>
-      <point x="527.6289967694994" y="945.0"/>
-      <point x="496.2427942033926" y="767.0" type="qcurve" smooth="yes"/>
-      <point x="482.48928970813233" y="689.0" type="line" smooth="yes"/>
-      <point x="449.3398173349409" y="501.0"/>
-      <point x="429.6540400357559" y="361.0"/>
-      <point x="435.6540400357559" y="361.0" type="qcurve" smooth="yes"/>
-      <point x="441.6540400357559" y="361.0"/>
-      <point x="452.8254843605521" y="396.0"/>
-      <point x="460.9365254731415" y="442.0" type="qcurve" smooth="yes"/>
-      <point x="492.6753820006652" y="622.0" type="line"/>
+      <point x="553.0804852037252" y="1078.0"/>
+      <point x="549.1408884159321" y="1067.0"/>
+      <point x="547.0249646474306" y="1055.0" type="qcurve" smooth="yes"/>
+      <point x="425.8883289007151" y="368.0" type="line" smooth="yes"/>
+      <point x="422.89077022867116" y="351.0"/>
+      <point x="429.12750042158655" y="341.0"/>
+      <point x="435.12750042158655" y="341.0" type="qcurve" smooth="yes"/>
+      <point x="441.12750042158655" y="341.0"/>
+      <point x="449.41975117079664" y="354.0"/>
+      <point x="451.8883289007151" y="368.0" type="qcurve" smooth="yes"/>
+      <point x="496.6753820006652" y="622.0" type="line"/>
       <point x="979.6753820006652" y="622.0" type="line"/>
-      <point x="946.1732556660568" y="432.0" type="line" smooth="yes"/>
-      <point x="909.4972436786961" y="224.0"/>
-      <point x="603.6497873665392" y="-19.0"/>
-      <point x="377.64978736653916" y="-19.0" type="qcurve" smooth="yes"/>
-      <point x="136.64978736653916" y="-19.0"/>
-      <point x="-61.22271221187428" y="322.0"/>
+      <point x="959.7504331806088" y="509.0" type="line" smooth="yes"/>
+      <point x="913.3764372542823" y="246.0"/>
+      <point x="607.6497873665392" y="-19.0"/>
+      <point x="374.64978736653916" y="-19.0" type="qcurve" smooth="yes"/>
+      <point x="141.64978736653916" y="-19.0"/>
+      <point x="-77.79744839846998" y="228.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.0DwZ2nfhdf</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

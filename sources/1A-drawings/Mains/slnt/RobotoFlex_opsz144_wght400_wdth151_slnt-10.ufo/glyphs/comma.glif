@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="comma" format="2">
-  <advance width="633"/>
+  <advance width="526"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="5.387499999999989" y="-154.7375" type="line"/>
-      <point x="76.92499999999998" y="-112.8375"/>
-      <point x="159" y="12"/>
-      <point x="174" y="113" type="qcurve" smooth="yes"/>
-      <point x="191" y="218" type="line"/>
-      <point x="299.53125" y="218.44375000000002" type="line"/>
-      <point x="282.8375" y="115.81875" type="line" smooth="yes"/>
-      <point x="266.8375" y="10.175"/>
-      <point x="173" y="-133"/>
-      <point x="103" y="-171" type="qcurve"/>
+      <point x="-50.685777299185105" y="-140.0" type="line"/>
+      <point x="22.719955890570418" y="-98.0"/>
+      <point x="91.0604032122069" y="-11.0"/>
+      <point x="103.75594582321636" y="61.0" type="qcurve" smooth="yes"/>
+      <point x="120.50700899052055" y="156.0" type="line"/>
+      <point x="235.50700899052055" y="156.0" type="line"/>
+      <point x="218.75594582321634" y="61.0" type="line" smooth="yes"/>
+      <point x="202.35753661732912" y="-32.0"/>
+      <point x="79.43502912522868" y="-162.0"/>
+      <point x="8.263584800432398" y="-197.0" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

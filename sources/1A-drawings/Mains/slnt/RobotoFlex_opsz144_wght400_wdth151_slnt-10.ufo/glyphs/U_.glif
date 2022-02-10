@@ -1,27 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U" format="2">
-  <advance width="1824"/>
+  <advance width="1766"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="170" y="533" type="qcurve" smooth="yes"/>
-      <point x="332.775" y="1456.0" type="line"/>
-      <point x="448.2625" y="1456.0" type="line"/>
-      <point x="285" y="524" type="line" smooth="yes"/>
-      <point x="243" y="283"/>
-      <point x="533" y="66"/>
-      <point x="813" y="66" type="qcurve" smooth="yes"/>
-      <point x="1104" y="66"/>
-      <point x="1437" y="289"/>
-      <point x="1478" y="525" type="qcurve" smooth="yes"/>
-      <point x="1642" y="1456.0" type="line"/>
-      <point x="1751.275" y="1456.0" type="line"/>
-      <point x="1589" y="532" type="line" smooth="yes"/>
-      <point x="1540" y="253"/>
-      <point x="1156.40625" y="-24.0"/>
-      <point x="805.91875" y="-24.0" type="qcurve" smooth="yes"/>
-      <point x="468.25625" y="-24.0"/>
-      <point x="118" y="240"/>
+      <point x="171.0957631581573" y="562.0" type="qcurve" smooth="yes"/>
+      <point x="328.732083911525" y="1456.0" type="line"/>
+      <point x="438.732083911525" y="1456.0" type="line"/>
+      <point x="281.0957631581573" y="562.0" type="line" smooth="yes"/>
+      <point x="237.0140179810411" y="312.0"/>
+      <point x="520.519215630301" y="71.0"/>
+      <point x="788.519215630301" y="71.0" type="qcurve" smooth="yes"/>
+      <point x="1066.519215630301" y="71.0"/>
+      <point x="1382.4850370389156" y="309.0"/>
+      <point x="1427.0957631581573" y="562.0" type="qcurve" smooth="yes"/>
+      <point x="1584.732083911525" y="1456.0" type="line"/>
+      <point x="1694.732083911525" y="1456.0" type="line"/>
+      <point x="1537.0957631581573" y="562.0" type="line" smooth="yes"/>
+      <point x="1486.6662466755363" y="276.0"/>
+      <point x="1096.710190578746" y="-30.0"/>
+      <point x="770.710190578746" y="-30.0" type="qcurve" smooth="yes"/>
+      <point x="454.71019057874605" y="-30.0"/>
+      <point x="118.72664988774324" y="265.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

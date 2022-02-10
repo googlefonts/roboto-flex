@@ -2,22 +2,24 @@
 <glyph name="fraction" format="2">
   <advance width="342"/>
   <unicode hex="2044"/>
-  <guideline x="0.0" y="901.0" angle="0.0" identifier="tcCoNUQTdD"/>
-  <guideline x="0.0" y="555.0" angle="0.0" identifier="0lx51aIE0d"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="tcCoNUQTdD"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="0lx51aIE0d"/>
   <outline>
     <contour>
-      <point x="738" y="1473" type="line"/>
-      <point x="-375" y="-24" type="line"/>
-      <point x="-383" y="-18" type="line"/>
-      <point x="730" y="1480" type="line"/>
+      <point x="719.7296425835689" y="1473.0" type="line"/>
+      <point x="-377.23184753700315" y="-24.0" type="line"/>
+      <point x="-384.17388565275235" y="-18.0" type="line"/>
+      <point x="712.9639314485282" y="1480.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.0lx51aIE0d</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.tcCoNUQTdD</key>
-      <real>5.0</real>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>

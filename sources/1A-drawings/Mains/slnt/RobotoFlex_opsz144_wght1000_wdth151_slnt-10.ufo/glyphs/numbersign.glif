@@ -1,31 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numbersign" format="2">
-  <advance width="1565"/>
+  <advance width="1612"/>
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="-45.0" y="-20.0" type="line"/>
-      <point x="515.0" y="1476.0" type="line"/>
-      <point x="979.0" y="1476.0" type="line"/>
-      <point x="420.0" y="-20.0" type="line"/>
+      <point x="-66.52653961416931" y="-20.0" type="line"/>
+      <point x="602.2586235256942" y="1476.0" type="line"/>
+      <point x="1070.2586235256942" y="1476.0" type="line"/>
+      <point x="402.47346038583066" y="-20.0" type="line"/>
     </contour>
     <contour>
-      <point x="549.0" y="-20.0" type="line"/>
-      <point x="1108.0" y="1476.0" type="line"/>
-      <point x="1573.0" y="1476.0" type="line"/>
-      <point x="1013.0" y="-20.0" type="line"/>
+      <point x="542.4734603858307" y="-20.0" type="line"/>
+      <point x="1210.2586235256942" y="1476.0" type="line"/>
+      <point x="1679.2586235256942" y="1476.0" type="line"/>
+      <point x="1011.4734603858308" y="-20.0" type="line"/>
     </contour>
     <contour>
-      <point x="-19.0" y="306.0" type="line"/>
-      <point x="6.0" y="640.0" type="line"/>
-      <point x="1487.0" y="640.0" type="line"/>
-      <point x="1463.0" y="306.0" type="line"/>
+      <point x="-62.04394390320971" y="306.0" type="line"/>
+      <point x="-3.1507323465824157" y="640.0" type="line"/>
+      <point x="1518.8492676534177" y="640.0" type="line"/>
+      <point x="1459.9560560967902" y="306.0" type="line"/>
     </contour>
     <contour>
-      <point x="130.0" y="816.0" type="line"/>
-      <point x="154" y="1150.0" type="line"/>
-      <point x="1637.0" y="1150.0" type="line"/>
-      <point x="1613.0" y="816.0" type="line"/>
+      <point x="93.88281625810743" y="816.0" type="line"/>
+      <point x="152.77602781473473" y="1150.0" type="line"/>
+      <point x="1674.7760278147348" y="1150.0" type="line"/>
+      <point x="1615.8828162581074" y="816.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

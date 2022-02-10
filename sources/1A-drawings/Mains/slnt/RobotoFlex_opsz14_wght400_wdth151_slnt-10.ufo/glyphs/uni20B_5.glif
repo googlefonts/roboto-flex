@@ -2,7 +2,7 @@
 <glyph name="uni20B5" format="2">
   <advance width="1146"/>
   <unicode hex="20B5"/>
-  <guideline x="-150.04087258855813" y="-125.0" angle="0.0" identifier="1Am3eQoiKr"/>
+  <guideline x="-150.04087258855813" y="-125" angle="0" identifier="1Am3eQoiKr"/>
   <outline>
     <contour>
       <point x="371.49787366539164" y="-190.0" type="line"/>
@@ -16,12 +16,12 @@
     </contour>
     <contour>
       <point x="542.8395023415932" y="708.0" type="line"/>
-      <point x="658.1573477249293" y="1362.0" type="line"/>
-      <point x="649.9206175320139" y="1372.0" type="line"/>
+      <point x="668.2079856253118" y="1419.0" type="line"/>
+      <point x="659.9712554323964" y="1429.0" type="line"/>
       <point x="686.9492834807916" y="1582.0" type="line"/>
       <point x="846.9492834807916" y="1582.0" type="line"/>
-      <point x="809.9206175320139" y="1372.0" type="line"/>
-      <point x="802.6283667828039" y="1359.0" type="line"/>
+      <point x="819.9712554323964" y="1429.0" type="line"/>
+      <point x="812.6790046831863" y="1416.0" type="line"/>
       <point x="687.8395023415932" y="708.0" type="line"/>
     </contour>
     <contour>
@@ -62,7 +62,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.1Am3eQoiKr</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

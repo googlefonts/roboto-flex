@@ -2,28 +2,28 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="1024"/>
   <unicode hex="02DD"/>
-  <guideline x="30.870609618326938" y="901.0" angle="0.0" identifier="1emCWSQy5G"/>
-  <guideline x="-30.138525706801943" y="555.0" angle="0.0" identifier="s1MFYmxmed"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="1emCWSQy5G"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="s1MFYmxmed"/>
   <outline>
     <contour>
-      <point x="288" y="1105.0" type="line"/>
-      <point x="566" y="1399.0" type="line"/>
-      <point x="660" y="1320.0" type="line"/>
-      <point x="357" y="1050.0" type="line"/>
+      <point x="305.8413136828538" y="1105.0" type="line"/>
+      <point x="583.6814460111425" y="1399.0" type="line"/>
+      <point x="677.7516145351738" y="1320.0" type="line"/>
+      <point x="374.1433297438882" y="1050.0" type="line"/>
     </contour>
     <contour>
-      <point x="618" y="1105.0" type="line"/>
-      <point x="896" y="1399.0" type="line"/>
-      <point x="990" y="1320.0" type="line"/>
-      <point x="687" y="1050.0" type="line"/>
+      <point x="635.8413136828538" y="1105.0" type="line"/>
+      <point x="913.6814460111425" y="1399.0" type="line"/>
+      <point x="1007.7516145351738" y="1320.0" type="line"/>
+      <point x="704.1433297438882" y="1050.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.1emCWSQy5G</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.s1MFYmxmed</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

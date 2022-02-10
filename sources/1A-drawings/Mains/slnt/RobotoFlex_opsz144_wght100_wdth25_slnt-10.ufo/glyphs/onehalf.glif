@@ -2,7 +2,7 @@
 <glyph name="onehalf" format="2">
   <advance width="404"/>
   <unicode hex="00BD"/>
-  <guideline x="0.0" y="2079.0" angle="0.0" identifier="ZZEoUYP2Rx"/>
+  <guideline x="0" y="2079" angle="0" identifier="ZZEoUYP2Rx"/>
   <outline>
     <component base="onesuperior" xOffset="-20"/>
     <component base="fraction" xOffset="149"/>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.ZZEoUYP2Rx</key>
-      <real>5.0</real>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

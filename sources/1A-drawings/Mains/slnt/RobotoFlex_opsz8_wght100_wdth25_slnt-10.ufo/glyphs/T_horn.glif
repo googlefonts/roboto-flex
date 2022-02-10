@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1081"/>
+  <unicode hex="00DE"/>
+  <guideline x="30.870609618326938" y="901.0" angle="0" identifier="i9jYwjBDP4"/>
+  <guideline x="-30.138525706801943" y="555.0" angle="0" identifier="T8KKW8oxop"/>
+  <outline>
+    <contour>
+      <point x="298.732083911525" y="1456.0" type="line"/>
+      <point x="398.732083911525" y="1456.0" type="line"/>
+      <point x="348.302567428904" y="1170.0" type="line"/>
+      <point x="645.302567428904" y="1170.0" type="line" smooth="yes"/>
+      <point x="857.302567428904" y="1170.0"/>
+      <point x="1044.6289967694993" y="945.0"/>
+      <point x="1007.7766578014302" y="736.0" type="qcurve" smooth="yes"/>
+      <point x="970.924318833361" y="527.0"/>
+      <point x="704.4270751546649" y="303.0"/>
+      <point x="492.42707515466486" y="303.0" type="qcurve" smooth="yes"/>
+      <point x="195.42707515466486" y="303.0" type="line"/>
+      <point x="142.0" y="0.0" type="line"/>
+      <point x="42.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="628.7278312423083" y="1076.0" type="qcurve" smooth="yes"/>
+      <point x="331.7278312423083" y="1076.0" type="line"/>
+      <point x="212.00181134126058" y="397.0" type="line"/>
+      <point x="509.0018113412606" y="397.0" type="line" smooth="yes"/>
+      <point x="671.0018113412606" y="397.0"/>
+      <point x="877.0353599459504" y="573.0"/>
+      <point x="905.7766578014302" y="736.0" type="qcurve" smooth="yes"/>
+      <point x="934.5179556569101" y="899.0"/>
+      <point x="790.5515042615998" y="1075.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

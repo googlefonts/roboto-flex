@@ -2,6 +2,12 @@
 <glyph name="dotbelowcomb.case" format="2">
   <advance width="1024"/>
   <outline>
-    <component base="dotaccentcomb.case" xOffset="-347" yOffset="-1811"/>
+    <component base="dotaccentcomb.case" xOffset="-301" yOffset="-1811"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
 </glyph>

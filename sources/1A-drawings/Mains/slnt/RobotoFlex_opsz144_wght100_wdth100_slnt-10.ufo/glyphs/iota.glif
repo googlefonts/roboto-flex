@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota" format="2">
+  <advance width="402"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="156.47346038583072" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="61.47346038583069" y="-20.0"/>
+      <point x="-0.604032122068844" y="110.0"/>
+      <point x="24.963380080658567" y="255.0" type="qcurve" smooth="yes"/>
+      <point x="141.16286036753695" y="914.0" type="line"/>
+      <point x="151.16286036753695" y="914.0" type="line"/>
+      <point x="34.96338008065857" y="255.0" type="line" smooth="yes"/>
+      <point x="10.277602781473462" y="115.0"/>
+      <point x="69.23673019291536" y="-10.0"/>
+      <point x="160.23673019291533" y="-10.0" type="qcurve" smooth="yes"/>
+      <point x="188.23673019291533" y="-10.0"/>
+      <point x="233.1183650964577" y="-5.0"/>
+      <point x="254.0" y="0.0" type="qcurve"/>
+      <point x="252.23673019291533" y="-10.0" type="line"/>
+      <point x="232.35509528937303" y="-15.0"/>
+      <point x="187.47346038583072" y="-20.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

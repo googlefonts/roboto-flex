@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theta" format="2">
+  <advance width="350"/>
+  <unicode hex="03B8"/>
+  <outline>
+    <contour>
+      <point x="46.41305717362383" y="-9.0" type="qcurve" smooth="yes"/>
+      <point x="-46.58694282637619" y="-9.0"/>
+      <point x="-56.734603858307" y="200.0"/>
+      <point x="16.08843917428902" y="613.0" type="qcurve"/>
+      <point x="60.699165293530655" y="866.0" type="line"/>
+      <point x="132.11159248045897" y="1271.0"/>
+      <point x="215.2586235256943" y="1476.0"/>
+      <point x="307.2586235256943" y="1476.0" type="qcurve" smooth="yes"/>
+      <point x="399.25862352569425" y="1476.0"/>
+      <point x="410.11159248045897" y="1271.0"/>
+      <point x="338.69916529353065" y="866.0" type="qcurve"/>
+      <point x="294.088439174289" y="613.0" type="line"/>
+      <point x="221.26539614169297" y="200.0"/>
+      <point x="138.41305717362383" y="-9.0"/>
+    </contour>
+    <contour>
+      <point x="61.811466379511046" y="84.0" type="qcurve" smooth="yes"/>
+      <point x="92.81146637951105" y="84.0"/>
+      <point x="136.2001102735739" y="245.0"/>
+      <point x="192.44841711957423" y="564.0" type="qcurve"/>
+      <point x="253.1048984832862" y="908.0" type="line" smooth="yes"/>
+      <point x="308.82422438716117" y="1224.0"/>
+      <point x="322.0365413005155" y="1384.0"/>
+      <point x="291.0365413005155" y="1384.0" type="qcurve" smooth="yes"/>
+      <point x="260.0365413005155" y="1384.0"/>
+      <point x="216.82422438716117" y="1224.0"/>
+      <point x="161.1048984832862" y="908.0" type="qcurve" smooth="yes"/>
+      <point x="100.44841711957423" y="564.0" type="line" smooth="yes"/>
+      <point x="44.20011027357393" y="245.0"/>
+      <point x="30.811466379511046" y="84.0"/>
+    </contour>
+    <contour>
+      <point x="50.25500084317309" y="682.0" type="line"/>
+      <point x="66.65341004906037" y="775.0" type="line"/>
+      <point x="301.65341004906037" y="775.0" type="line"/>
+      <point x="285.2550008431731" y="682.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

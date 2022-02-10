@@ -1,23 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="1061"/>
+  <advance width="1096"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="-124" y="0" type="line"/>
-      <point x="133" y="1456" type="line"/>
-      <point x="611" y="1456" type="line"/>
-      <point x="555" y="1142" type="line"/>
-      <point x="745" y="1456" type="line"/>
-      <point x="1194" y="1456" type="line"/>
-      <point x="398" y="294" type="line"/>
-      <point x="356" y="0" type="line"/>
+      <point x="-118.0" y="0.0" type="line"/>
+      <point x="138.73208391152502" y="1456.0" type="line"/>
+      <point x="628.732083911525" y="1456.0" type="line"/>
+      <point x="577.4209325253616" y="1165.0" type="line"/>
+      <point x="730.732083911525" y="1456.0" type="line"/>
+      <point x="1219.732083911525" y="1456.0" type="line"/>
+      <point x="413.26051348578085" y="234.0" type="line"/>
+      <point x="372.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="436" y="0" type="line"/>
-      <point x="441" y="537" type="line"/>
-      <point x="851" y="1134" type="line"/>
-      <point x="942" y="0" type="line"/>
+      <point x="442.0" y="0.0" type="line"/>
+      <point x="414.0908805022451" y="596.0" type="line"/>
+      <point x="854.9981100399135" y="1242.0" type="line"/>
+      <point x="978.0" y="0.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

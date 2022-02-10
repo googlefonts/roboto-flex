@@ -2,26 +2,26 @@
 <glyph name="uni20B5" format="2">
   <advance width="1024"/>
   <unicode hex="20B5"/>
-  <guideline x="-150.04087258855813" y="-125.0" angle="0" identifier="1Am3eQoiKr"/>
+  <guideline x="-150.04087258855813" y="-125" angle="0" identifier="1Am3eQoiKr"/>
   <outline>
     <contour>
       <point x="354.49787366539164" y="-190.0" type="line"/>
-      <point x="394.5240982862132" y="37.0" type="line"/>
-      <point x="397.99267601613167" y="51.0" type="line"/>
+      <point x="387.29469207716613" y="-4.0" type="line"/>
+      <point x="390.7632698070846" y="10.0" type="line"/>
       <point x="513.8395023415932" y="708.0" type="line"/>
       <point x="597.8395023415932" y="708.0" type="line"/>
-      <point x="481.8163490354233" y="50.0" type="line"/>
-      <point x="481.05307922833856" y="40.0" type="line"/>
+      <point x="474.58694282637623" y="9.0" type="line"/>
+      <point x="473.8236730192915" y="-1.0" type="line"/>
       <point x="440.4978736653917" y="-190.0" type="line"/>
     </contour>
     <contour>
       <point x="513.8395023415932" y="708.0" type="line"/>
-      <point x="639.7369665674372" y="1422.0" type="line"/>
-      <point x="640.5002363745218" y="1432.0" type="line"/>
+      <point x="645.0267759886912" y="1452.0" type="line"/>
+      <point x="645.7900457957758" y="1462.0" type="line"/>
       <point x="666.9492834807916" y="1582.0" type="line"/>
       <point x="752.9492834807916" y="1582.0" type="line"/>
-      <point x="726.5002363745218" y="1432.0" type="line"/>
-      <point x="723.7369665674372" y="1422.0" type="line"/>
+      <point x="731.7900457957758" y="1462.0" type="line"/>
+      <point x="729.0267759886912" y="1452.0" type="line"/>
       <point x="597.8395023415932" y="708.0" type="line"/>
     </contour>
     <contour>
@@ -62,7 +62,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.1Am3eQoiKr</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

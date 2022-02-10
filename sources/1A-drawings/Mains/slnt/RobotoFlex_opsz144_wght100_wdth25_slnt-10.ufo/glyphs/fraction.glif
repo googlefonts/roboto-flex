@@ -1,23 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fraction" format="2">
-  <advance width="102"/>
+  <advance width="111"/>
   <unicode hex="2044"/>
-  <guideline x="30.870609618326938" y="901.0" angle="0.0" identifier="tcCoNUQTdD"/>
-  <guideline x="-30.138525706801943" y="555.0" angle="0.0" identifier="0lx51aIE0d"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="tcCoNUQTdD"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="0lx51aIE0d"/>
   <outline>
     <contour>
-      <point x="280.3818712780642" y="1437.0" type="line"/>
-      <point x="-187.70774925078996" y="13.0" type="line"/>
-      <point x="-192.35509528937303" y="15.0" type="line"/>
-      <point x="273.3818712780642" y="1437.0" type="line"/>
+      <point x="302.72964258356893" y="1473.0" type="line"/>
+      <point x="-193.0555205562947" y="-23.0" type="line"/>
+      <point x="-197.70286659487778" y="-21.0" type="line"/>
+      <point x="295.72964258356893" y="1473.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.0lx51aIE0d</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.tcCoNUQTdD</key>
-      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>
