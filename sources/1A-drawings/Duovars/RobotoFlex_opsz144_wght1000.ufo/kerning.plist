@@ -1469,6 +1469,11 @@
       <key>w</key>
       <integer>-20</integer>
     </dict>
+    <key>a</key>
+    <dict>
+      <key>x</key>
+      <integer>10</integer>
+    </dict>
     <key>apostrophemod</key>
     <dict>
       <key>w</key>
@@ -1540,10 +1545,17 @@
       <key>Utilde</key>
       <integer>-13</integer>
     </dict>
+    <key>c</key>
+    <dict>
+      <key>x</key>
+      <integer>-60</integer>
+    </dict>
     <key>e</key>
     <dict>
       <key>quoteright</key>
       <integer>-60</integer>
+      <key>x</key>
+      <integer>-50</integer>
     </dict>
     <key>eacute</key>
     <dict>
@@ -1708,6 +1720,8 @@
       <integer>-18</integer>
       <key>gdotaccent</key>
       <integer>-18</integer>
+      <key>i</key>
+      <integer>10</integer>
       <key>minute</key>
       <integer>12</integer>
       <key>oe</key>
@@ -1772,7 +1786,7 @@
       <key>dzcaron</key>
       <integer>-15</integer>
       <key>e</key>
-      <integer>-15</integer>
+      <integer>-85</integer>
       <key>eacute</key>
       <integer>-15</integer>
       <key>ebreve</key>
@@ -2994,6 +3008,15 @@
       <integer>-92</integer>
       <key>quotesinglbase</key>
       <integer>-92</integer>
+    </dict>
+    <key>x</key>
+    <dict>
+      <key>a</key>
+      <integer>-40</integer>
+      <key>c</key>
+      <integer>-70</integer>
+      <key>e</key>
+      <integer>-70</integer>
     </dict>
     <key>y</key>
     <dict>
