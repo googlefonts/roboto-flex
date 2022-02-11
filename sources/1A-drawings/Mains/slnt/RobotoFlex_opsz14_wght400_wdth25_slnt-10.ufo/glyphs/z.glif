@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z" format="2">
-  <advance width="773"/>
+  <advance width="803"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="-75" y="0" type="line"/>
-      <point x="-51" y="133" type="line"/>
-      <point x="537" y="904" type="line"/>
-      <point x="90" y="904" type="line"/>
-      <point x="117" y="1052" type="line"/>
-      <point x="758" y="1052" type="line"/>
-      <point x="734" y="922" type="line"/>
-      <point x="143" y="148" type="line"/>
-      <point x="624" y="148" type="line"/>
-      <point x="597" y="0" type="line"/>
+      <point x="-73.0" y="0.0" type="line"/>
+      <point x="-49.54851156577416" y="133.0" type="line"/>
+      <point x="558.3995905604523" y="904.0" type="line"/>
+      <point x="93.39959056045234" y="904.0" type="line"/>
+      <point x="119.49598370530515" y="1052.0" type="line"/>
+      <point x="784.4959837053052" y="1052.0" type="line"/>
+      <point x="761.5734762132047" y="922.0" type="line"/>
+      <point x="151.0963931448528" y="148.0" type="line"/>
+      <point x="651.0963931448529" y="148.0" type="line"/>
+      <point x="625.0" y="0.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

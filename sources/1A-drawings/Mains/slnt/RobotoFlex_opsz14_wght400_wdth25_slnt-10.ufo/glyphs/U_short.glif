@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ushort" format="2">
-  <advance width="1008"/>
+  <advance width="1038"/>
   <unicode hex="040E"/>
   <outline>
     <component base="Ucyr"/>
-    <component base="breve.cyr.case" xOffset="10"/>
+    <component base="breve.cyr.case" xOffset="20"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9994,0.8687,0.7006,1</string>
+      <string>1,0.868,0.7015,1</string>
     </dict>
   </lib>
 </glyph>

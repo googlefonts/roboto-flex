@@ -1,23 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedbl" format="2">
-  <advance width="750"/>
+  <advance width="773"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="154" y="955" type="line"/>
-      <point x="201" y="1317" type="line"/>
-      <point x="225" y="1456" type="line"/>
-      <point x="405" y="1456" type="line"/>
-      <point x="381" y="1317" type="line"/>
-      <point x="304" y="955" type="line"/>
+      <point x="156.39226657658406" y="955.0" type="line"/>
+      <point x="204.22263359304839" y="1317.0" type="line"/>
+      <point x="228.73208391152502" y="1456.0" type="line"/>
+      <point x="414.732083911525" y="1456.0" type="line"/>
+      <point x="390.2226335930484" y="1317.0" type="line"/>
+      <point x="311.39226657658406" y="955.0" type="line"/>
     </contour>
     <contour>
-      <point x="528" y="955" type="line"/>
-      <point x="575" y="1317" type="line"/>
-      <point x="599" y="1456" type="line"/>
-      <point x="781" y="1456" type="line"/>
-      <point x="757" y="1317" type="line"/>
-      <point x="680" y="955" type="line"/>
+      <point x="542.392266576584" y="955.0" type="line"/>
+      <point x="590.2226335930484" y="1317.0" type="line"/>
+      <point x="614.732083911525" y="1456.0" type="line"/>
+      <point x="801.732083911525" y="1456.0" type="line"/>
+      <point x="777.2226335930484" y="1317.0" type="line"/>
+      <point x="698.392266576584" y="955.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>
