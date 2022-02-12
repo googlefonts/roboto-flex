@@ -2,8 +2,8 @@
 <glyph name="ordfeminine" format="2">
   <advance width="1029"/>
   <unicode hex="00AA"/>
-  <guideline x="168.40565457092964" y="1681.0" angle="0.0" identifier="3CJlALCfkl"/>
-  <guideline x="32.28122546399467" y="909.0" angle="0.0" identifier="Zdl6NZVQAy"/>
+  <guideline x="168.40565457092964" y="1681" angle="0" identifier="3CJlALCfkl"/>
+  <guideline x="32.28122546399467" y="909" angle="0" identifier="Zdl6NZVQAy"/>
   <outline>
     <contour>
       <point x="744.9938573706968" y="862.0" type="line"/>
@@ -59,9 +59,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.3CJlALCfkl</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.Zdl6NZVQAy</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

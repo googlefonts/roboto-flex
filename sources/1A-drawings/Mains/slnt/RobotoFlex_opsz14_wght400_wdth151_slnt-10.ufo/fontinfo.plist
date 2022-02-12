@@ -13,9 +13,50 @@
     <key>familyName</key>
     <string>RobotoFlex</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>DFSLLg3wDZ</string>
+        <key>x</key>
+        <integer>267</integer>
+        <key>y</key>
+        <integer>1220</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>zM0QejRTqE</string>
+        <key>x</key>
+        <integer>842</integer>
+        <key>y</key>
+        <integer>-30</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>cHR20HA7rc</string>
+        <key>x</key>
+        <integer>326</integer>
+        <key>y</key>
+        <integer>1600</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>zXDMq2Y3Rx</string>
+        <key>x</key>
+        <integer>1290</integer>
+        <key>y</key>
+        <integer>-143</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
-    <real>0.0</real>
+    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2008/09/12 12:29:34</string>
     <key>openTypeHeadFlags</key>
@@ -51,8 +92,6 @@
     <string>Google</string>
     <key>openTypeNameManufacturerURL</key>
     <string>Google.com</string>
-    <key>openTypeNamePreferredFamilyName</key>
-    <string>RobotoDelta</string>
     <key>openTypeNameUniqueID</key>
     <string>Google:Roboto Regular:2017</string>
     <key>openTypeNameVersion</key>
@@ -174,12 +213,10 @@
     <integer>166</integer>
     <key>postscriptWeightName</key>
     <string>Normal</string>
-    <key>styleMapFamilyName</key>
-    <string>RobotoExtremo wdthmax</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>opsz14-wght400-wdth151-slnt-1</string>
+    <string>opsz14-wght400-wdth151-slnt-10</string>
     <key>trademark</key>
     <string>Roboto is a trademark of Google.</string>
     <key>unitsPerEm</key>

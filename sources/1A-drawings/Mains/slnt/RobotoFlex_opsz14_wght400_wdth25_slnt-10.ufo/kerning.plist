@@ -1143,6 +1143,10 @@
       <integer>14</integer>
       <key>parenright</key>
       <integer>17</integer>
+      <key>public.kern2.a_LC</key>
+      <integer>-60</integer>
+      <key>public.kern2.o_LC</key>
+      <integer>-30</integer>
       <key>r</key>
       <integer>-25</integer>
     </dict>
@@ -1206,7 +1210,7 @@
       <key>AE</key>
       <integer>-81</integer>
       <key>ae</key>
-      <integer>-53</integer>
+      <integer>-100</integer>
       <key>ampersand</key>
       <integer>-25</integer>
       <key>asterisk</key>
@@ -1224,7 +1228,7 @@
       <key>guillemotright</key>
       <integer>-43</integer>
       <key>oslash</key>
-      <integer>-54</integer>
+      <integer>-100</integer>
       <key>parenright</key>
       <integer>17</integer>
       <key>r</key>
@@ -2508,6 +2512,15 @@
       <integer>-26</integer>
       <key>public.kern2.u_LC</key>
       <integer>-16</integer>
+    </dict>
+    <key>public.kern1.Y_UC</key>
+    <dict>
+      <key>public.kern2.a_LC</key>
+      <integer>-160</integer>
+      <key>public.kern2.o_LC</key>
+      <integer>-170</integer>
+      <key>public.kern2.u_LC</key>
+      <integer>-100</integer>
     </dict>
     <key>public.kern1.Z_UC</key>
     <dict>
