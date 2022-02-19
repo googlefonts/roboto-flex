@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccentcomb" format="2">
-  <advance width="1024"/>
-  <unicode hex="0326"/>
-  <outline>
-    <contour>
-      <point x="339.0" y="-597.0" type="line"/>
-      <point x="375.0" y="-493.0"/>
-      <point x="420.0" y="-353.0"/>
-      <point x="449.0" y="-225.0" type="qcurve"/>
-      <point x="701.0" y="-223.0" type="line"/>
-      <point x="543.0" y="-600.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9908,1,0.037,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0326"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="339" y="-597" type="line"/>
+			<point x="375" y="-493"/>
+			<point x="420" y="-353"/>
+			<point x="449" y="-225" type="qcurve"/>
+			<point x="701" y="-223" type="line"/>
+			<point x="543" y="-600" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
 </glyph>
