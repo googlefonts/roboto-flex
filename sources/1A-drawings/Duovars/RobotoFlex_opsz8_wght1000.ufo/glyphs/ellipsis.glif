@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="2">
-  <advance width="2276"/>
-  <unicode hex="2026"/>
-  <outline>
-    <component base="period"/>
-    <component base="period" xOffset="758.7053164556962"/>
-    <component base="period" xOffset="1517.4106329113924"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.Image.Brightness</key>
-      <integer>0</integer>
-      <key>com.typemytype.robofont.Image.Contrast</key>
-      <integer>1</integer>
-      <key>com.typemytype.robofont.Image.Saturation</key>
-      <integer>1</integer>
-      <key>com.typemytype.robofont.Image.Sharpness</key>
-      <real>0.4</real>
-    </dict>
-  </lib>
+	<unicode hex="2026"/>
+	<advance width="2276"/>
+	<outline>
+		<component base="period"/>
+		<component base="period" xOffset="758.7053164557"/>
+		<component base="period" xOffset="1517.4106329114"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.Image.Brightness</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.Image.Contrast</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.Image.Saturation</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.Image.Sharpness</key>
+			<real>0.4</real>
+		</dict>
+	</lib>
 </glyph>

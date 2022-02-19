@@ -1,31 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="2">
-  <advance width="769"/>
-  <unicode hex="03B9"/>
-  <outline>
-    <contour>
-      <point x="486.0" y="-19.0" type="qcurve"/>
-      <point x="305.0" y="-19.0"/>
-      <point x="86.0" y="151.0"/>
-      <point x="86.0" y="364.0" type="qcurve" smooth="yes"/>
-      <point x="88.0" y="914.0" type="line"/>
-      <point x="681.0" y="914.0" type="line"/>
-      <point x="681.0" y="439.0" type="line"/>
-      <point x="681.0" y="370.0"/>
-      <point x="745" y="330.0"/>
-      <point x="786" y="330.0" type="qcurve"/>
-      <point x="815" y="330.0"/>
-      <point x="875" y="342.0"/>
-      <point x="899" y="352.0" type="qcurve"/>
-      <point x="899" y="7.0" type="line"/>
-      <point x="880" y="-2.0"/>
-      <point x="575.0" y="-19.0"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7176,0.2706,1,1</string>
-    </dict>
-  </lib>
+	<unicode hex="03B9"/>
+	<advance width="769"/>
+	<outline>
+		<contour>
+			<point x="486" y="-19" type="qcurve"/>
+			<point x="305" y="-19"/>
+			<point x="86" y="151"/>
+			<point x="86" y="364" type="qcurve" smooth="yes"/>
+			<point x="88" y="914" type="line"/>
+			<point x="681" y="914" type="line"/>
+			<point x="681" y="439" type="line"/>
+			<point x="681" y="370"/>
+			<point x="745" y="330"/>
+			<point x="786" y="330" type="qcurve"/>
+			<point x="815" y="330"/>
+			<point x="875" y="342"/>
+			<point x="899" y="352" type="qcurve"/>
+			<point x="899" y="7" type="line"/>
+			<point x="880" y="-2"/>
+			<point x="575" y="-19"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.7176,0.2706,1,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otildemacron" format="2">
-  <advance width="1505"/>
-  <unicode hex="022D"/>
-  <outline>
-    <component base="o"/>
-    <component base="tildecomb" xOffset="228" yOffset="17"/>
-    <component base="macroncomb" xOffset="208" yOffset="466"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
-    </dict>
-  </lib>
+	<unicode hex="022D"/>
+	<advance width="1505"/>
+	<outline>
+		<component base="o"/>
+		<component base="tildecomb" xOffset="228" yOffset="17"/>
+		<component base="macroncomb" xOffset="208" yOffset="466"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8337,1,0.1931,1</string>
+		</dict>
+	</lib>
 </glyph>

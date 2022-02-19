@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb" format="2">
-  <advance width="1024"/>
-  <unicode hex="0323"/>
-  <outline>
-    <contour>
-      <point x="491.0" y="-191.0" type="qcurve" smooth="yes"/>
-      <point x="491.0" y="-183.0"/>
-      <point x="502.0" y="-172.0"/>
-      <point x="512.0" y="-172.0" type="qcurve" smooth="yes"/>
-      <point x="522.0" y="-172.0"/>
-      <point x="532.0" y="-183.0"/>
-      <point x="532.0" y="-191.0" type="qcurve" smooth="yes"/>
-      <point x="532.0" y="-200.0"/>
-      <point x="521.0" y="-211.0"/>
-      <point x="511.0" y="-211.0" type="qcurve" smooth="yes"/>
-      <point x="501.0" y="-211.0"/>
-      <point x="491.0" y="-200.0"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9908,1,0.037,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0323"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="491" y="-191" type="qcurve" smooth="yes"/>
+			<point x="491" y="-183"/>
+			<point x="502" y="-172"/>
+			<point x="512" y="-172" type="qcurve" smooth="yes"/>
+			<point x="522" y="-172"/>
+			<point x="532" y="-183"/>
+			<point x="532" y="-191" type="qcurve" smooth="yes"/>
+			<point x="532" y="-200"/>
+			<point x="521" y="-211"/>
+			<point x="511" y="-211" type="qcurve" smooth="yes"/>
+			<point x="501" y="-211"/>
+			<point x="491" y="-200"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
 </glyph>

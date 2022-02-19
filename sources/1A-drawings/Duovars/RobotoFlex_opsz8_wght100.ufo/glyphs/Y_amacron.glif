@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yamacron" format="2">
-  <advance width="1242"/>
-  <unicode hex="F528"/>
-  <guideline x="664" y="762" angle="90" identifier="UgyGerl8av"/>
-  <outline>
-    <component base="Ya"/>
-    <component base="macroncomb.case" xOffset="141"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9991,0.8674,0.7109,1</string>
-    </dict>
-  </lib>
+	<unicode hex="F528"/>
+	<advance width="1242"/>
+	<outline>
+		<component base="Ya"/>
+		<component base="macroncomb.case" xOffset="141"/>
+	</outline>
+	<guideline x="664" y="762" angle="90" identifier="UgyGerl8av"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9991,0.8674,0.7109,1</string>
+		</dict>
+	</lib>
 </glyph>

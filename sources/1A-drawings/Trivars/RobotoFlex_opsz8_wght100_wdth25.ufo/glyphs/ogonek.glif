@@ -1,35 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="2">
-  <advance width="1024"/>
-  <unicode hex="02DB"/>
-  <outline>
-    <contour>
-      <point x="508.0" y="26.0" type="qcurve"/>
-      <point x="550.0" y="-1.0" type="line"/>
-      <point x="479.0" y="-67.0"/>
-      <point x="408.0" y="-193.0"/>
-      <point x="408.0" y="-241.0" type="qcurve" smooth="yes"/>
-      <point x="408.0" y="-289.0"/>
-      <point x="469.0" y="-340.0"/>
-      <point x="516.0" y="-340.0" type="qcurve" smooth="yes"/>
-      <point x="544.0" y="-340.0"/>
-      <point x="604.0" y="-322.0"/>
-      <point x="630.0" y="-305.0" type="qcurve"/>
-      <point x="640.0" y="-364.0" type="line"/>
-      <point x="619.0" y="-378.0"/>
-      <point x="551.0" y="-406.0"/>
-      <point x="500.0" y="-406.0" type="qcurve" smooth="yes"/>
-      <point x="419.0" y="-406.0"/>
-      <point x="331.0" y="-323.0"/>
-      <point x="331.0" y="-259.0" type="qcurve" smooth="yes"/>
-      <point x="331.0" y="-195.0"/>
-      <point x="419.0" y="-42.0"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9908,1,0.037,1</string>
-    </dict>
-  </lib>
+	<unicode hex="02DB"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="508" y="26" type="qcurve"/>
+			<point x="550" y="-1" type="line"/>
+			<point x="479" y="-67"/>
+			<point x="408" y="-193"/>
+			<point x="408" y="-241" type="qcurve" smooth="yes"/>
+			<point x="408" y="-289"/>
+			<point x="469" y="-340"/>
+			<point x="516" y="-340" type="qcurve" smooth="yes"/>
+			<point x="544" y="-340"/>
+			<point x="604" y="-322"/>
+			<point x="630" y="-305" type="qcurve"/>
+			<point x="640" y="-364" type="line"/>
+			<point x="619" y="-378"/>
+			<point x="551" y="-406"/>
+			<point x="500" y="-406" type="qcurve" smooth="yes"/>
+			<point x="419" y="-406"/>
+			<point x="331" y="-323"/>
+			<point x="331" y="-259" type="qcurve" smooth="yes"/>
+			<point x="331" y="-195"/>
+			<point x="419" y="-42"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
 </glyph>
