@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gheup" format="2">
-	<unicode hex="0491"/>
-	<advance width="1083"/>
-	<outline>
-		<contour>
-			<point x="112" y="1132.5714285714" type="line"/>
-			<point x="656" y="1132.5714285714" type="line"/>
-			<point x="656" y="1396.5714285714" type="line"/>
-			<point x="1053" y="1396.5714285714" type="line"/>
-			<point x="1053" y="826.5714285714" type="line"/>
-			<point x="529" y="826.5714285714" type="line"/>
-			<point x="529" y="0" type="line"/>
-			<point x="112" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
-		</dict>
-	</lib>
+  <advance width="1131"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="160" y="1133" type="line"/>
+      <point x="714" y="1133" type="line"/>
+      <point x="714" y="1397" type="line"/>
+      <point x="1111" y="1397" type="line"/>
+      <point x="1111" y="827" type="line"/>
+      <point x="577" y="827" type="line"/>
+      <point x="577" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
 </glyph>
