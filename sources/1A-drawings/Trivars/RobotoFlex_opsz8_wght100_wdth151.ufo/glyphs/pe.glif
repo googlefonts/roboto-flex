@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pe" format="2">
-	<unicode hex="043F"/>
-	<advance width="1330"/>
-	<outline>
-		<contour>
-			<point x="148" y="1089" type="line"/>
-			<point x="1182" y="1089" type="line"/>
-			<point x="1182" y="0" type="line"/>
-			<point x="1066" y="0" type="line"/>
-			<point x="1066" y="985" type="line"/>
-			<point x="264" y="985" type="line"/>
-			<point x="264" y="0" type="line"/>
-			<point x="148" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
-		</dict>
-	</lib>
+  <advance width="1375"/>
+  <unicode hex="043F"/>
+  <outline>
+    <contour>
+      <point x="190" y="1089" type="line"/>
+      <point x="1185" y="1089" type="line"/>
+      <point x="1185" y="0" type="line"/>
+      <point x="1069" y="0" type="line"/>
+      <point x="1069" y="985" type="line"/>
+      <point x="306" y="985" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
 </glyph>
