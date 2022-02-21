@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pe.bgr" format="2">
-	<advance width="1118"/>
+	<advance width="1119"/>
 	<outline>
-		<component base="n"/>
+		<component base="n" xOffset="1"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>

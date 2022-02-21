@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kje" format="2">
 	<unicode hex="045C"/>
-	<advance width="1132"/>
+	<advance width="1097"/>
 	<outline>
 		<component base="ka"/>
-		<component base="acutecomb" xOffset="82.5"/>
+		<component base="acutecomb" xOffset="85"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>

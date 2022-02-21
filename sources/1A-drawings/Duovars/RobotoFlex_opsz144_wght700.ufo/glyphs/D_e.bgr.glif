@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="De.bgr" format="2">
-	<advance width="1347"/>
+	<advance width="1387"/>
 	<outline>
 		<contour>
-			<point x="1009" y="-285" type="line"/>
-			<point x="1009" y="0" type="line"/>
+			<point x="1049" y="-285" type="line"/>
+			<point x="1049" y="0" type="line"/>
 			<point x="337.5" y="0" type="line"/>
 			<point x="337.5" y="-285" type="line"/>
 			<point x="7.5" y="-285" type="line"/>
 			<point x="7.5" y="284" type="line"/>
-			<point x="1339" y="284" type="line"/>
-			<point x="1339" y="-285" type="line"/>
+			<point x="1379" y="284" type="line"/>
+			<point x="1379" y="-285" type="line"/>
 		</contour>
 		<contour>
-			<point x="1280.5" y="130" type="line"/>
-			<point x="934.5" y="130" type="line"/>
-			<point x="690" y="970.5" type="line" smooth="yes"/>
-			<point x="684.5" y="990"/>
-			<point x="672" y="1035"/>
-			<point x="667.5" y="1053.5" type="qcurve"/>
-			<point x="663" y="1053.5" type="line"/>
-			<point x="659" y="1035"/>
-			<point x="646" y="986.5"/>
-			<point x="641.5" y="970.5" type="qcurve" smooth="yes"/>
+			<point x="1321" y="130" type="line"/>
+			<point x="975" y="130" type="line"/>
+			<point x="710" y="971" type="line" smooth="yes"/>
+			<point x="704" y="990"/>
+			<point x="692" y="1035"/>
+			<point x="688" y="1054" type="qcurve"/>
+			<point x="683" y="1054" type="line"/>
+			<point x="679" y="1035"/>
+			<point x="667" y="987"/>
+			<point x="662" y="971" type="qcurve" smooth="yes"/>
 			<point x="399" y="130" type="line"/>
 			<point x="66.5" y="130" type="line"/>
-			<point x="473" y="1464" type="line"/>
-			<point x="874" y="1464" type="line"/>
+			<point x="493" y="1464" type="line"/>
+			<point x="894" y="1464" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>
