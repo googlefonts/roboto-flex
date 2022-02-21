@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ka" format="2">
 	<unicode hex="043A"/>
-	<advance width="1132"/>
+	<advance width="1097"/>
 	<outline>
 		<contour>
-			<point x="737" y="0" type="line"/>
-			<point x="446.5" y="384.5" type="line"/>
-			<point x="709" y="542.5" type="line"/>
-			<point x="1144" y="0" type="line"/>
+			<point x="712" y="0" type="line"/>
+			<point x="462" y="418" type="line"/>
+			<point x="732" y="598" type="line"/>
+			<point x="1113" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="253" y="582.5" type="line"/>
-			<point x="475.5" y="582.5" type="line"/>
-			<point x="707" y="914" type="line"/>
-			<point x="1096" y="914" type="line"/>
-			<point x="685" y="339.5" type="line"/>
-			<point x="253" y="339.5" type="line"/>
+			<point x="253" y="582" type="line"/>
+			<point x="515" y="582" type="line"/>
+			<point x="689" y="914" type="line"/>
+			<point x="1063" y="914" type="line"/>
+			<point x="724" y="338" type="line"/>
+			<point x="253" y="338" type="line"/>
 		</contour>
 		<contour>
 			<point x="425" y="914" type="line"/>
 			<point x="425" y="0" type="line"/>
-			<point x="81.5" y="0" type="line"/>
-			<point x="81.5" y="914" type="line"/>
+			<point x="81" y="0" type="line"/>
+			<point x="81" y="914" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>

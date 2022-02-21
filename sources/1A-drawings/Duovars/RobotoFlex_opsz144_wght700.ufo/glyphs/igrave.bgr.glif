@@ -3,6 +3,12 @@
 	<advance width="1115"/>
 	<outline>
 		<component base="u"/>
-		<component base="gravecomb" xOffset="49.5"/>
+		<component base="gravecomb" xOffset="57"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>

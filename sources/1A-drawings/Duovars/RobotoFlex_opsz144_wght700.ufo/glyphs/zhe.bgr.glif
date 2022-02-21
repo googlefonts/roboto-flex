@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zhe.bgr" format="2">
-	<advance width="1687"/>
+	<advance width="1706"/>
 	<outline>
 		<contour>
-			<point x="1301.5" y="0" type="line"/>
-			<point x="1023.5" y="434.5" type="line"/>
-			<point x="1234.5" y="666.5" type="line"/>
-			<point x="1703.5" y="0" type="line"/>
+			<point x="1320" y="0" type="line"/>
+			<point x="1047" y="435" type="line"/>
+			<point x="1258" y="667" type="line"/>
+			<point x="1722" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="374" y="0" type="line"/>
-			<point x="-16.5" y="0" type="line"/>
-			<point x="442.5" y="666.5" type="line"/>
-			<point x="652" y="434.5" type="line"/>
+			<point x="382" y="0" type="line"/>
+			<point x="-16" y="0" type="line"/>
+			<point x="448" y="667" type="line"/>
+			<point x="655" y="435" type="line"/>
 		</contour>
 		<contour>
-			<point x="666" y="0" type="line"/>
-			<point x="666" y="229.5" type="line"/>
-			<point x="22.5" y="914" type="line"/>
-			<point x="416.5" y="914" type="line"/>
-			<point x="666" y="603.5" type="line"/>
-			<point x="666" y="1458" type="line"/>
-			<point x="1009.5" y="1458" type="line"/>
-			<point x="1009.5" y="603.5" type="line"/>
-			<point x="1259" y="914" type="line"/>
-			<point x="1653" y="914" type="line"/>
-			<point x="1009.5" y="229.5" type="line"/>
-			<point x="1009.5" y="0" type="line"/>
+			<point x="679" y="0" type="line"/>
+			<point x="679" y="240" type="line"/>
+			<point x="15" y="914" type="line"/>
+			<point x="425" y="914" type="line"/>
+			<point x="679" y="605" type="line"/>
+			<point x="679" y="1458" type="line"/>
+			<point x="1023" y="1458" type="line"/>
+			<point x="1023" y="605" type="line"/>
+			<point x="1277" y="914" type="line"/>
+			<point x="1671" y="914" type="line"/>
+			<point x="1023" y="240" type="line"/>
+			<point x="1023" y="0" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>
