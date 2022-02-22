@@ -3,7 +3,30 @@
   <advance width="1255"/>
   <unicode hex="04BA"/>
   <outline>
-    <component base="Che" xScale="-1" yScale="-1" xOffset="1273" yOffset="1456"/>
+    <contour>
+      <point x="973" y="405" type="line" smooth="yes"/>
+      <point x="1006" y="593"/>
+      <point x="837" y="796"/>
+      <point x="646" y="796" type="qcurve" smooth="yes"/>
+      <point x="553" y="796"/>
+      <point x="345" y="768"/>
+      <point x="244" y="742" type="qcurve"/>
+      <point x="259" y="827" type="line"/>
+      <point x="366" y="853"/>
+      <point x="575" y="880"/>
+      <point x="661" y="880" type="qcurve" smooth="yes"/>
+      <point x="894" y="880"/>
+      <point x="1100" y="632"/>
+      <point x="1058" y="402" type="qcurve" smooth="yes"/>
+      <point x="987" y="0" type="line"/>
+      <point x="901" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="322" y="1456" type="line"/>
+      <point x="408" y="1456" type="line"/>
+      <point x="151" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

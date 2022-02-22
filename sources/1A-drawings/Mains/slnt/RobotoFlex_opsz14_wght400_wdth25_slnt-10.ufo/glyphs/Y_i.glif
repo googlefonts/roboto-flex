@@ -3,7 +3,40 @@
   <advance width="534"/>
   <unicode hex="0407"/>
   <outline>
-    <component base="Idieresis"/>
+    <contour>
+      <point x="47.0" y="0.0" type="line"/>
+      <point x="303.732083911525" y="1456.0" type="line"/>
+      <point x="486.732083911525" y="1456.0" type="line"/>
+      <point x="230.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="108.0963145260269" y="1787.0" type="qcurve" smooth="yes"/>
+      <point x="117.7942984649925" y="1842.0"/>
+      <point x="188.1975903267919" y="1901.0"/>
+      <point x="244.1975903267919" y="1901.0" type="qcurve" smooth="yes"/>
+      <point x="297.1975903267919" y="1901.0"/>
+      <point x="349.0889905421586" y="1838.0"/>
+      <point x="340.09631452602684" y="1787.0" type="qcurve" smooth="yes"/>
+      <point x="330.5746575677698" y="1733.0"/>
+      <point x="261.1713657059704" y="1674.0"/>
+      <point x="204.1713657059704" y="1674.0" type="qcurve" smooth="yes"/>
+      <point x="151.1713657059704" y="1674.0"/>
+      <point x="99.10363850989518" y="1736.0"/>
+    </contour>
+    <contour>
+      <point x="568.0963145260268" y="1787.0" type="qcurve" smooth="yes"/>
+      <point x="577.7942984649925" y="1842.0"/>
+      <point x="648.1975903267919" y="1901.0"/>
+      <point x="704.1975903267919" y="1901.0" type="qcurve" smooth="yes"/>
+      <point x="757.1975903267919" y="1901.0"/>
+      <point x="809.0889905421586" y="1838.0"/>
+      <point x="800.0963145260268" y="1787.0" type="qcurve" smooth="yes"/>
+      <point x="790.5746575677699" y="1733.0"/>
+      <point x="721.1713657059704" y="1674.0"/>
+      <point x="664.1713657059704" y="1674.0" type="qcurve" smooth="yes"/>
+      <point x="611.1713657059704" y="1674.0"/>
+      <point x="559.1036385098952" y="1736.0"/>
+    </contour>
   </outline>
   <lib>
     <dict>

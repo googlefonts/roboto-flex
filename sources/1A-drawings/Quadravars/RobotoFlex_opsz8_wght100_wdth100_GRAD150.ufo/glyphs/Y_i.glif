@@ -1,8 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yi" format="2">
-	<unicode hex="0407"/>
-	<advance width="460"/>
-	<outline>
-		<component base="Idieresis"/>
-	</outline>
+  <advance width="460"/>
+  <unicode hex="0407"/>
+  <outline>
+    <contour>
+      <point x="168.8" y="0" type="line"/>
+      <point x="168.8" y="1456" type="line"/>
+      <point x="290.2" y="1456" type="line"/>
+      <point x="290.2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-135.4529411765" y="1761.9725490196" type="qcurve" smooth="yes"/>
+      <point x="-135.4529411765" y="1805.5450980392"/>
+      <point x="-81.81764705879999" y="1852.1176470588"/>
+      <point x="-32.068627451" y="1852.1176470588" type="qcurve" smooth="yes"/>
+      <point x="15.680392156899984" y="1852.1176470588"/>
+      <point x="72.00196078430002" y="1802.3450980392"/>
+      <point x="72.00196078430002" y="1761.9725490196" type="qcurve" smooth="yes"/>
+      <point x="72.00196078430002" y="1720.7725490196"/>
+      <point x="19.366666666699984" y="1674.0"/>
+      <point x="-32.068627451" y="1674.0" type="qcurve" smooth="yes"/>
+      <point x="-79.81764705879999" y="1674.0"/>
+      <point x="-135.4529411765" y="1722.7725490196"/>
+    </contour>
+    <contour>
+      <point x="387.68431372550003" y="1761.9725490196" type="qcurve" smooth="yes"/>
+      <point x="387.68431372550003" y="1805.5450980392"/>
+      <point x="441.3196078431" y="1852.1176470588"/>
+      <point x="491.068627451" y="1852.1176470588" type="qcurve" smooth="yes"/>
+      <point x="538.8176470588" y="1852.1176470588"/>
+      <point x="595.1392156863" y="1802.3450980392"/>
+      <point x="595.1392156863" y="1761.9725490196" type="qcurve" smooth="yes"/>
+      <point x="595.1392156863" y="1720.7725490196"/>
+      <point x="542.5039215686" y="1674.0"/>
+      <point x="491.068627451" y="1674.0" type="qcurve" smooth="yes"/>
+      <point x="443.3196078431" y="1674.0"/>
+      <point x="387.68431372550003" y="1722.7725490196"/>
+    </contour>
+  </outline>
 </glyph>

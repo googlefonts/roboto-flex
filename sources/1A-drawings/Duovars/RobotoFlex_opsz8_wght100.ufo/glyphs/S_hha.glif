@@ -1,14 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Shha" format="2">
-	<unicode hex="04BA"/>
-	<advance width="1406"/>
-	<outline>
-		<component base="Che" xScale="-1" yScale="-1" xOffset="1406" yOffset="1456"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.9991,0.8674,0.7109,1</string>
-		</dict>
-	</lib>
+  <advance width="1406"/>
+  <unicode hex="04BA"/>
+  <outline>
+    <contour>
+      <point x="1147" y="401" type="line" smooth="yes"/>
+      <point x="1147" y="636"/>
+      <point x="918" y="793"/>
+      <point x="706" y="793" type="qcurve" smooth="yes"/>
+      <point x="563" y="793"/>
+      <point x="331.12828620310006" y="763.0350971688"/>
+      <point x="225" y="734" type="qcurve"/>
+      <point x="225" y="833" type="line"/>
+      <point x="333.1162036052001" y="861.0301268606"/>
+      <point x="551" y="893"/>
+      <point x="706" y="893" type="qcurve" smooth="yes"/>
+      <point x="981" y="893"/>
+      <point x="1256" y="686"/>
+      <point x="1256" y="401" type="qcurve" smooth="yes"/>
+      <point x="1256" y="0" type="line"/>
+      <point x="1147" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1456" type="line"/>
+      <point x="279" y="1456" type="line"/>
+      <point x="279" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9991,0.8674,0.7109,1</string>
+    </dict>
+  </lib>
 </glyph>

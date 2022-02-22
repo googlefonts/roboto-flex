@@ -3,7 +3,30 @@
   <advance width="1628"/>
   <unicode hex="04BA"/>
   <outline>
-    <component base="Che" xScale="-1" yScale="-1" xOffset="1628" yOffset="1456"/>
+    <contour>
+      <point x="1004.3978578380177" y="324.0" type="line" smooth="yes"/>
+      <point x="1037.194676249792" y="510.0"/>
+      <point x="915.7248310485995" y="629.0"/>
+      <point x="743.1775869540995" y="629.0" type="qcurve" smooth="yes"/>
+      <point x="631.9008427680994" y="629.0"/>
+      <point x="440.35303813049495" y="606.0467721534"/>
+      <point x="330.4191998029271" y="585.0" type="qcurve"/>
+      <point x="383.84627495759196" y="888.0" type="line"/>
+      <point x="547.5106300388791" y="924.6928511972"/>
+      <point x="787.708085671049" y="942.0"/>
+      <point x="913.367931915849" y="942.0" type="qcurve" smooth="yes"/>
+      <point x="1228.490309538249" y="942.0"/>
+      <point x="1506.9286501214037" y="724.0"/>
+      <point x="1460.5546541950773" y="461.0" type="qcurve" smooth="yes"/>
+      <point x="1379.267916088475" y="0.0" type="line"/>
+      <point x="947.267916088475" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="11.267916088474976" y="0.0" type="line"/>
+      <point x="268.0" y="1456.0" type="line"/>
+      <point x="700.0" y="1456.0" type="line"/>
+      <point x="443.267916088475" y="0.0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -3,8 +3,63 @@
   <advance width="1585"/>
   <unicode hex="0123"/>
   <outline>
-    <component base="g"/>
-    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="1323.0397007206" yOffset="1181.5714285714"/>
+    <contour>
+      <point x="171" y="-323" type="qcurve"/>
+      <point x="323" y="-68" type="line"/>
+      <point x="388" y="-111"/>
+      <point x="594" y="-157"/>
+      <point x="723" y="-157" type="qcurve" smooth="yes"/>
+      <point x="847" y="-157"/>
+      <point x="1009" y="-47"/>
+      <point x="1009" y="89" type="qcurve" smooth="yes"/>
+      <point x="1009" y="133" type="line"/>
+      <point x="963" y="70"/>
+      <point x="777" y="5"/>
+      <point x="653" y="5" type="qcurve" smooth="yes"/>
+      <point x="408" y="5"/>
+      <point x="100" y="293"/>
+      <point x="100" y="560" type="qcurve" smooth="yes"/>
+      <point x="100" y="582" type="line" smooth="yes"/>
+      <point x="100" y="850"/>
+      <point x="406" y="1153"/>
+      <point x="653" y="1153" type="qcurve" smooth="yes"/>
+      <point x="772" y="1153"/>
+      <point x="971" y="1077"/>
+      <point x="1009" y="1013" type="qcurve"/>
+      <point x="1012" y="1013" type="line"/>
+      <point x="1019" y="1133" type="line"/>
+      <point x="1425" y="1133" type="line"/>
+      <point x="1425" y="121" type="line" smooth="yes"/>
+      <point x="1425" y="-149"/>
+      <point x="1036" y="-438"/>
+      <point x="750" y="-438" type="qcurve" smooth="yes"/>
+      <point x="577" y="-438"/>
+      <point x="244" y="-375"/>
+    </contour>
+    <contour>
+      <point x="527" y="531" type="line" smooth="yes"/>
+      <point x="527" y="418"/>
+      <point x="660" y="293"/>
+      <point x="783" y="293" type="qcurve" smooth="yes"/>
+      <point x="862" y="293"/>
+      <point x="979" y="358"/>
+      <point x="1008" y="418" type="qcurve"/>
+      <point x="1008" y="713" type="line"/>
+      <point x="982" y="779"/>
+      <point x="861" y="851"/>
+      <point x="773" y="851" type="qcurve" smooth="yes"/>
+      <point x="654" y="851"/>
+      <point x="527" y="724"/>
+      <point x="527" y="611" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1045.0397007206" y="1778.5714285714" type="line"/>
+      <point x="1011.0397007206" y="1656.5714285714"/>
+      <point x="969.0397007206" y="1493.5714285714"/>
+      <point x="943.0397007206" y="1344.5714285714" type="qcurve"/>
+      <point x="547.0397007206" y="1341.5714285714" type="line"/>
+      <point x="694.0397007206" y="1781.5714285714" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lownumeralsign" format="2">
-	<unicode hex="0375"/>
-	<advance width="526"/>
-	<outline>
-		<component base="numeralsign" xScale="-1" yScale="-1" xOffset="527.4" yOffset="1358"/>
-	</outline>
+  <advance width="526"/>
+  <unicode hex="0375"/>
+  <outline>
+    <contour>
+      <point x="328.33333333329995" y="297.1333333333" type="line"/>
+      <point x="338.5333333333" y="295.0333333333001" type="line"/>
+      <point x="243.89999999999998" y="-117.5" type="line"/>
+      <point x="231.79999999999995" y="-115.26666666670008" type="line"/>
+    </contour>
+  </outline>
 </glyph>

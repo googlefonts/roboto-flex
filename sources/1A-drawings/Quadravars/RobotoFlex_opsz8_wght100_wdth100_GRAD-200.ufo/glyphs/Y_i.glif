@@ -1,8 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yi" format="2">
-	<unicode hex="0407"/>
-	<advance width="460"/>
-	<outline>
-		<component base="Idieresis"/>
-	</outline>
+  <advance width="460"/>
+  <unicode hex="0407"/>
+  <outline>
+    <contour>
+      <point x="182.5" y="0" type="line"/>
+      <point x="182.5" y="1456" type="line"/>
+      <point x="276.25" y="1456" type="line"/>
+      <point x="276.25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-122.6029411765" y="1757.3725490196" type="qcurve" smooth="yes"/>
+      <point x="-122.6029411765" y="1794.9950980392"/>
+      <point x="-75.6176470588" y="1835.3676470588"/>
+      <point x="-32.068627451" y="1835.3676470588" type="qcurve" smooth="yes"/>
+      <point x="9.730392156899995" y="1835.3676470588"/>
+      <point x="59.1519607843" y="1792.2450980392"/>
+      <point x="59.1519607843" y="1757.3725490196" type="qcurve" smooth="yes"/>
+      <point x="59.1519607843" y="1722.1225490196"/>
+      <point x="13.166666666699996" y="1682.0"/>
+      <point x="-32.068627451" y="1682.0" type="qcurve" smooth="yes"/>
+      <point x="-73.8676470588" y="1682.0"/>
+      <point x="-122.6029411765" y="1723.8725490196"/>
+    </contour>
+    <contour>
+      <point x="400.53431372550006" y="1757.3725490196" type="qcurve" smooth="yes"/>
+      <point x="400.53431372550006" y="1794.9950980392"/>
+      <point x="447.51960784309995" y="1835.3676470588"/>
+      <point x="491.068627451" y="1835.3676470588" type="qcurve" smooth="yes"/>
+      <point x="532.8676470588" y="1835.3676470588"/>
+      <point x="582.2892156863" y="1792.2450980392"/>
+      <point x="582.2892156863" y="1757.3725490196" type="qcurve" smooth="yes"/>
+      <point x="582.2892156863" y="1722.1225490196"/>
+      <point x="536.3039215686" y="1682.0"/>
+      <point x="491.068627451" y="1682.0" type="qcurve" smooth="yes"/>
+      <point x="449.26960784309995" y="1682.0"/>
+      <point x="400.53431372550006" y="1723.8725490196"/>
+    </contour>
+  </outline>
 </glyph>

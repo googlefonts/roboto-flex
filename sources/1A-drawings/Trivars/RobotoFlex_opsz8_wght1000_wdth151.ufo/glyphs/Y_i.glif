@@ -3,7 +3,40 @@
   <advance width="841"/>
   <unicode hex="0407"/>
   <outline>
-    <component base="Idieresis"/>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="1456" type="line"/>
+      <point x="636" y="1456" type="line"/>
+      <point x="636" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-31" y="1775" type="qcurve" smooth="yes"/>
+      <point x="-31" y="1850"/>
+      <point x="70" y="1950"/>
+      <point x="164" y="1950" type="qcurve" smooth="yes"/>
+      <point x="257" y="1950"/>
+      <point x="359" y="1850"/>
+      <point x="359" y="1775" type="qcurve" smooth="yes"/>
+      <point x="359" y="1701"/>
+      <point x="257" y="1600"/>
+      <point x="163" y="1600" type="qcurve" smooth="yes"/>
+      <point x="69" y="1600"/>
+      <point x="-31" y="1701"/>
+    </contour>
+    <contour>
+      <point x="482" y="1775" type="qcurve" smooth="yes"/>
+      <point x="482" y="1850"/>
+      <point x="583" y="1950"/>
+      <point x="677" y="1950" type="qcurve" smooth="yes"/>
+      <point x="771" y="1950"/>
+      <point x="873" y="1850"/>
+      <point x="873" y="1775" type="qcurve" smooth="yes"/>
+      <point x="873" y="1701"/>
+      <point x="771" y="1600"/>
+      <point x="676" y="1600" type="qcurve" smooth="yes"/>
+      <point x="582" y="1600"/>
+      <point x="482" y="1701"/>
+    </contour>
   </outline>
   <lib>
     <dict>

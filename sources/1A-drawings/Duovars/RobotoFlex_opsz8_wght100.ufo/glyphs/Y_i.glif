@@ -1,14 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yi" format="2">
-	<unicode hex="0407"/>
-	<advance width="460"/>
-	<outline>
-		<component base="Idieresis"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.9991,0.8674,0.7109,1</string>
-		</dict>
-	</lib>
+  <advance width="460"/>
+  <unicode hex="0407"/>
+  <outline>
+    <contour>
+      <point x="175" y="0" type="line"/>
+      <point x="175" y="1456" type="line"/>
+      <point x="284" y="1456" type="line"/>
+      <point x="284" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-130.8529411765" y="1757.3725490196" type="qcurve" smooth="yes"/>
+      <point x="-130.8529411765" y="1798.7450980392"/>
+      <point x="-79.6176470588" y="1843.1176470588"/>
+      <point x="-32.068627451" y="1843.1176470588" type="qcurve" smooth="yes"/>
+      <point x="13.480392156899995" y="1843.1176470588"/>
+      <point x="67.4019607843" y="1795.7450980392"/>
+      <point x="67.4019607843" y="1757.3725490196" type="qcurve" smooth="yes"/>
+      <point x="67.4019607843" y="1718.3725490196"/>
+      <point x="17.166666666699996" y="1674.0"/>
+      <point x="-32.068627451" y="1674.0" type="qcurve" smooth="yes"/>
+      <point x="-77.6176470588" y="1674.0"/>
+      <point x="-130.8529411765" y="1720.3725490196"/>
+    </contour>
+    <contour>
+      <point x="392.28431372550006" y="1757.3725490196" type="qcurve" smooth="yes"/>
+      <point x="392.28431372550006" y="1798.7450980392"/>
+      <point x="443.51960784309995" y="1843.1176470588"/>
+      <point x="491.068627451" y="1843.1176470588" type="qcurve" smooth="yes"/>
+      <point x="536.6176470588" y="1843.1176470588"/>
+      <point x="590.5392156863" y="1795.7450980392"/>
+      <point x="590.5392156863" y="1757.3725490196" type="qcurve" smooth="yes"/>
+      <point x="590.5392156863" y="1718.3725490196"/>
+      <point x="540.3039215686" y="1674.0"/>
+      <point x="491.068627451" y="1674.0" type="qcurve" smooth="yes"/>
+      <point x="445.51960784309995" y="1674.0"/>
+      <point x="392.28431372550006" y="1720.3725490196"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9991,0.8674,0.7109,1</string>
+    </dict>
+  </lib>
 </glyph>

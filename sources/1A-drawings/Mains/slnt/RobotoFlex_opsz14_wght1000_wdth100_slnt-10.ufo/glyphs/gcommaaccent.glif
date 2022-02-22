@@ -3,8 +3,63 @@
   <advance width="1309"/>
   <unicode hex="0123"/>
   <outline>
-    <component base="g"/>
-    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="1221.5197007206" yOffset="1107"/>
+    <contour>
+      <point x="-30.01645930899717" y="-295.0" type="qcurve"/>
+      <point x="118.41549850157992" y="-26.0" type="line"/>
+      <point x="163.95180342757357" y="-74.0"/>
+      <point x="335.8456449708964" y="-154.0"/>
+      <point x="434.8456449708964" y="-154.0" type="qcurve" smooth="yes"/>
+      <point x="519.8456449708964" y="-154.0"/>
+      <point x="656.8285556752037" y="-35.0"/>
+      <point x="680.809025051555" y="101.0" type="qcurve" smooth="yes"/>
+      <point x="679.5747361865957" y="94.0" type="line"/>
+      <point x="637.5240982862132" y="37.0"/>
+      <point x="486.64978736653916" y="-19.0"/>
+      <point x="395.64978736653916" y="-19.0" type="qcurve" smooth="yes"/>
+      <point x="189.64978736653916" y="-19.0"/>
+      <point x="-20.80233105438218" y="262.0"/>
+      <point x="23.455741103442534" y="513.0" type="qcurve" smooth="yes"/>
+      <point x="29.098204486113417" y="545.0" type="line" smooth="yes"/>
+      <point x="73.53260362464658" y="797.0"/>
+      <point x="381.08048520372523" y="1078.0"/>
+      <point x="589.0804852037252" y="1078.0" type="qcurve" smooth="yes"/>
+      <point x="675.0804852037252" y="1078.0"/>
+      <point x="815.2665774962582" y="1011.0"/>
+      <point x="831.0396126151671" y="953.0" type="qcurve"/>
+      <point x="836.0396126151671" y="953.0" type="line"/>
+      <point x="859.553945589556" y="1058.0" type="line"/>
+      <point x="1255.553945589556" y="1058.0" type="line"/>
+      <point x="1089.6302567428904" y="117.0" type="line" smooth="yes"/>
+      <point x="1042.3746259130219" y="-151.0"/>
+      <point x="655.7687824496924" y="-438.0"/>
+      <point x="411.76878244969237" y="-438.0" type="qcurve" smooth="yes"/>
+      <point x="264.76878244969237" y="-438.0"/>
+      <point x="34.40392184849492" y="-355.0"/>
+    </contour>
+    <contour>
+      <point x="435.34225866289705" y="484.0" type="line" smooth="yes"/>
+      <point x="417.5332336113421" y="383.0"/>
+      <point x="485.8425736562448" y="277.0"/>
+      <point x="568.8425736562448" y="277.0" type="qcurve" smooth="yes"/>
+      <point x="620.8425736562448" y="277.0"/>
+      <point x="707.8328083444204" y="345.0"/>
+      <point x="730.4148685148843" y="388.0" type="qcurve"/>
+      <point x="778.02315330617" y="658.0" type="line"/>
+      <point x="771.3080800715118" y="722.0"/>
+      <point x="703.8876989140197" y="782.0"/>
+      <point x="647.8876989140197" y="782.0" type="qcurve" smooth="yes"/>
+      <point x="573.8876989140197" y="782.0"/>
+      <point x="469.02071197821385" y="675.0"/>
+      <point x="451.2116869266589" y="574.0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1176.7869082035536" y="1704.0" type="line"/>
+      <point x="1121.2750165571208" y="1582.0"/>
+      <point x="1050.5337187016412" y="1419.0"/>
+      <point x="998.2609985760798" y="1270.0" type="qcurve"/>
+      <point x="601.7320176339543" y="1267.0" type="line"/>
+      <point x="826.315889145679" y="1707.0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

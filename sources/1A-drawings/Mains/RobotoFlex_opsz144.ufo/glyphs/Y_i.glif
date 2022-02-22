@@ -1,14 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yi" format="2">
-	<unicode hex="0407"/>
-	<advance width="390"/>
-	<outline>
-		<component base="Idieresis"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
-		</dict>
-	</lib>
+  <advance width="390"/>
+  <unicode hex="0407"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="1456" type="line"/>
+      <point x="250" y="1456" type="line"/>
+      <point x="250" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-75" y="1684" type="qcurve" smooth="yes"/>
+      <point x="-75" y="1725"/>
+      <point x="-34" y="1770"/>
+      <point x="12" y="1770" type="qcurve" smooth="yes"/>
+      <point x="54" y="1770"/>
+      <point x="100" y="1725"/>
+      <point x="100" y="1684" type="qcurve" smooth="yes"/>
+      <point x="100" y="1650"/>
+      <point x="54" y="1602"/>
+      <point x="12" y="1602" type="qcurve" smooth="yes"/>
+      <point x="-34" y="1602"/>
+      <point x="-75" y="1650"/>
+    </contour>
+    <contour>
+      <point x="290" y="1682" type="qcurve" smooth="yes"/>
+      <point x="290" y="1723"/>
+      <point x="337" y="1768"/>
+      <point x="377" y="1768" type="qcurve" smooth="yes"/>
+      <point x="424" y="1768"/>
+      <point x="465" y="1723"/>
+      <point x="465" y="1682" type="qcurve" smooth="yes"/>
+      <point x="465" y="1650"/>
+      <point x="424" y="1600"/>
+      <point x="377" y="1600" type="qcurve" smooth="yes"/>
+      <point x="337" y="1600"/>
+      <point x="290" y="1650"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
 </glyph>
