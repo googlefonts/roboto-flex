@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ustraight" format="2">
-	<unicode hex="04AF"/>
-	<advance width="1201"/>
+<glyph name="ustraightstroke" format="2">
+	<advance width="500"/>
 	<outline>
 		<contour>
 			<point x="548" y="-416" type="line"/>
@@ -22,10 +21,4 @@
 			<point x="651" y="-416" type="line"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
-		</dict>
-	</lib>
 </glyph>
