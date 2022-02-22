@@ -1,41 +1,41 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chedescender-cy" format="2">
-  <advance width="1667"/>
-  <unicode hex="04B6"/>
-  <outline>
-    <contour>
-      <point x="268" y="1059" type="line" smooth="yes"/>
-      <point x="268" y="815"/>
-      <point x="523" y="663"/>
-      <point x="760" y="663" type="qcurve" smooth="yes"/>
-      <point x="928" y="663"/>
-      <point x="1204" y="691"/>
-      <point x="1329" y="727" type="qcurve"/>
-      <point x="1329" y="620" type="line"/>
-      <point x="1202" y="587"/>
-      <point x="943" y="555"/>
-      <point x="762" y="555" type="qcurve" smooth="yes"/>
-      <point x="451" y="555"/>
-      <point x="150" y="770"/>
-      <point x="150" y="1059" type="qcurve" smooth="yes"/>
-      <point x="150" y="1456" type="line"/>
-      <point x="268" y="1456" type="line"/>
-    </contour>
-    <contour>
-      <point x="1519" y="-290" type="line"/>
-      <point x="1519" y="0" type="line"/>
-      <point x="1272" y="0" type="line"/>
-      <point x="1272" y="1456" type="line"/>
-      <point x="1390" y="1456" type="line"/>
-      <point x="1390" y="104" type="line"/>
-      <point x="1627" y="104" type="line"/>
-      <point x="1627" y="-290" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
-    </dict>
-  </lib>
+	<unicode hex="04B6"/>
+	<advance width="1667"/>
+	<outline>
+		<contour>
+			<point x="268" y="1059" type="line" smooth="yes"/>
+			<point x="268" y="815"/>
+			<point x="523" y="663"/>
+			<point x="760" y="663" type="qcurve" smooth="yes"/>
+			<point x="928" y="663"/>
+			<point x="1204" y="691"/>
+			<point x="1329" y="727" type="qcurve"/>
+			<point x="1329" y="620" type="line"/>
+			<point x="1202" y="587"/>
+			<point x="943" y="555"/>
+			<point x="762" y="555" type="qcurve" smooth="yes"/>
+			<point x="451" y="555"/>
+			<point x="150" y="770"/>
+			<point x="150" y="1059" type="qcurve" smooth="yes"/>
+			<point x="150" y="1456" type="line"/>
+			<point x="268" y="1456" type="line"/>
+		</contour>
+		<contour>
+			<point x="1519" y="-290" type="line"/>
+			<point x="1519" y="0" type="line"/>
+			<point x="1272" y="0" type="line"/>
+			<point x="1272" y="1456" type="line"/>
+			<point x="1390" y="1456" type="line"/>
+			<point x="1390" y="104" type="line"/>
+			<point x="1627" y="104" type="line"/>
+			<point x="1627" y="-290" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>
