@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gje" format="2">
-  <advance width="1310"/>
-  <unicode hex="0403"/>
-  <outline>
-    <component base="Ghe"/>
-    <component base="acutecomb.case" xOffset="289" yOffset="66"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0403"/>
+	<advance width="1310"/>
+	<outline>
+		<component base="Ghe"/>
+		<component base="acutecomb.case" xOffset="289" yOffset="66"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>
