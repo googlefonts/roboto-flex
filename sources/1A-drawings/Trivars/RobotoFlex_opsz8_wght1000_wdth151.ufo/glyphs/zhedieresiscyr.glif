@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zhedieresiscyr" format="2">
-  <advance width="2159"/>
-  <unicode hex="04DD"/>
-  <outline>
-    <component base="dieresiscomb" xOffset="545" yOffset="9"/>
-    <component base="zhe" yOffset="1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
-    </dict>
-  </lib>
+	<unicode hex="04DD"/>
+	<advance width="2159"/>
+	<outline>
+		<component base="dieresiscomb" xOffset="547" yOffset="9"/>
+		<component base="zhe" yOffset="1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>
