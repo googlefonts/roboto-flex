@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="wght" minimum="100" maximum="1000" default="400"/>
+    <axis tag="wdth" name="wdth" minimum="25" maximum="100" default="100"/>
+  </axes>
+  <sources>
+    <source filename="../Mains/RobotoFlex_opsz8.ufo" familyname="RobotoFlex" stylename="opsz8">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="RobotoFlex_opsz8_wdth25.ufo" familyname="RobotoFlex" stylename="opsz8-wdth25">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="RobotoFlex_opsz8_wdth151.ufo" familyname="RobotoFlex" stylename="opsz8-wdth151">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="151"/>
+      </location>
+    </source>
+    <source filename="RobotoFlex_opsz8_wght100.ufo" familyname="RobotoFlex" stylename="opsz8-wght100">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="RobotoFlex_opsz8_wght1000.ufo" familyname="RobotoFlex" stylename="opsz8-wght1000">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="../Trivars/RobotoFlex_opsz8_wght100_wdth25.ufo" familyname="RobotoFlex" stylename="opsz8-wght100-wdth25">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="../Trivars/RobotoFlex_opsz8_wght100_wdth151.ufo" familyname="RobotoFlex" stylename="opsz8-wght100-wdth151">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+      </location>
+    </source>
+    <source filename="../Trivars/RobotoFlex_opsz8_wght1000_wdth25.ufo" familyname="RobotoFlex" stylename="opsz8-wght1000-wdth25">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="../Trivars/RobotoFlex_opsz8_wght1000_wdth151.ufo" familyname="RobotoFlex" stylename="opsz8-wght1000-wdth151">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="151"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
