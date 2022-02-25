@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kabashkircyr" format="2">
-	<unicode hex="04A0"/>
-	<advance width="1442"/>
-	<outline>
-		<contour>
-			<point x="1308" y="0" type="line"/>
-			<point x="617" y="745" type="line"/>
-			<point x="724" y="772" type="line"/>
-			<point x="1442" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="494" y="801" type="line"/>
-			<point x="654" y="801" type="line"/>
-			<point x="1249" y="1456" type="line"/>
-			<point x="1374" y="1456" type="line"/>
-			<point x="683" y="706" type="line"/>
-			<point x="494" y="706" type="line"/>
-		</contour>
-		<contour>
-			<point x="444" y="0" type="line"/>
-			<point x="444" y="1361" type="line"/>
-			<point x="24" y="1361" type="line"/>
-			<point x="24" y="1456" type="line"/>
-			<point x="544" y="1456" type="line"/>
-			<point x="544" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
-		</dict>
-	</lib>
+  <advance width="1267"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="1151" y="0" type="line"/>
+      <point x="643" y="745" type="line"/>
+      <point x="750" y="772" type="line"/>
+      <point x="1278" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="801" type="line"/>
+      <point x="664" y="801" type="line"/>
+      <point x="1094" y="1456" type="line"/>
+      <point x="1214" y="1456" type="line"/>
+      <point x="713" y="706" type="line"/>
+      <point x="444" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="0" type="line"/>
+      <point x="394" y="1361" type="line"/>
+      <point x="24" y="1361" type="line"/>
+      <point x="24" y="1456" type="line"/>
+      <point x="493" y="1456" type="line"/>
+      <point x="493" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
 </glyph>
