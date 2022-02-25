@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohm" format="2">
+<<<<<<< HEAD
   <advance width="1378"/>
   <unicode hex="2126"/>
   <outline>
     <component base="Omega"/>
+=======
+  <advance width="1368"/>
+  <unicode hex="2126"/>
+  <outline>
+    <component base="Omega" xOffset="-5"/>
+>>>>>>> b1454355994ba4fd91c660a14903e8e47341a6e9
   </outline>
 </glyph>
