@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphatonos" format="2">
-	<unicode hex="0386"/>
-	<advance width="1441"/>
-	<outline>
-		<component base="Alpha" xOffset="332"/>
-		<component base="tonos.case" xOffset="-228"/>
-	</outline>
+  <advance width="1441"/>
+  <unicode hex="0386"/>
+  <outline>
+    <component base="Alpha" xOffset="277"/>
+    <component base="tonos.case" xOffset="-248" yOffset="30"/>
+  </outline>
 </glyph>
