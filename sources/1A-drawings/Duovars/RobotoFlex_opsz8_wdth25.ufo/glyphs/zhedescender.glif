@@ -5,17 +5,17 @@
   <guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
   <outline>
     <contour>
-      <point x="845" y="0" type="line"/>
-      <point x="650" y="0" type="line"/>
-      <point x="650" y="1089" type="line"/>
-      <point x="845" y="1089" type="line"/>
-    </contour>
-    <contour>
       <point x="1293" y="0" type="line"/>
       <point x="918" y="559" type="line"/>
       <point x="1043" y="687" type="line"/>
       <point x="1473" y="69" type="line"/>
       <point x="1473" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="845" y="1089" type="line"/>
+      <point x="845" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="650" y="1089" type="line"/>
     </contour>
     <contour>
       <point x="748" y="630" type="line"/>
@@ -24,6 +24,14 @@
       <point x="1481" y="1089" type="line"/>
       <point x="986" y="471" type="line"/>
       <point x="748" y="471" type="line"/>
+    </contour>
+    <contour>
+      <point x="1298" y="160" type="line"/>
+      <point x="1558" y="160" type="line"/>
+      <point x="1558" y="-270" type="line"/>
+      <point x="1373" y="-270" type="line"/>
+      <point x="1373" y="0" type="line"/>
+      <point x="1298" y="0" type="line"/>
     </contour>
     <contour>
       <point x="214" y="0" type="line"/>
@@ -38,14 +46,6 @@
       <point x="26" y="1089" type="line"/>
       <point x="249" y="1089" type="line"/>
       <point x="607" y="630" type="line"/>
-    </contour>
-    <contour>
-      <point x="1298" y="160" type="line"/>
-      <point x="1558" y="160" type="line"/>
-      <point x="1558" y="-270" type="line"/>
-      <point x="1373" y="-270" type="line"/>
-      <point x="1373" y="0" type="line"/>
-      <point x="1298" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
