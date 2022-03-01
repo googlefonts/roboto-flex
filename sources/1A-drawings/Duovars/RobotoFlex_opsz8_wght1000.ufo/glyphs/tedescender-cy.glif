@@ -1,27 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tedescender-cy" format="2">
-	<unicode hex="04AD"/>
-	<advance width="1124"/>
-	<outline>
-		<contour>
-			<point x="567" y="-270" type="line"/>
-			<point x="567" y="0" type="line"/>
-			<point x="389" y="0" type="line"/>
-			<point x="389" y="886" type="line"/>
-			<point x="40" y="886" type="line"/>
-			<point x="40" y="1116" type="line"/>
-			<point x="1084" y="1116" type="line"/>
-			<point x="1084" y="886" type="line"/>
-			<point x="734" y="886" type="line"/>
-			<point x="734" y="230" type="line"/>
-			<point x="887" y="230" type="line"/>
-			<point x="887" y="-270" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0,0,1</string>
-		</dict>
-	</lib>
+  <advance width="1125"/>
+  <unicode hex="04AD"/>
+  <outline>
+    <contour>
+      <point x="564" y="-270" type="line"/>
+      <point x="564" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="399" y="886" type="line"/>
+      <point x="40" y="885.5" type="line"/>
+      <point x="40" y="1116" type="line"/>
+      <point x="1085" y="1116" type="line"/>
+      <point x="1085" y="886" type="line"/>
+      <point x="720" y="886" type="line"/>
+      <point x="720" y="231" type="line"/>
+      <point x="873" y="231" type="line"/>
+      <point x="873" y="-270" type="line"/>
+    </contour>
+  </outline>
 </glyph>

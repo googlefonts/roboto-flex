@@ -1,21 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ghe" format="2">
-	<unicode hex="0413"/>
-	<advance width="1272"/>
-	<outline>
-		<contour>
-			<point x="168" y="0" type="line"/>
-			<point x="168" y="1456" type="line"/>
-			<point x="1214" y="1456" type="line"/>
-			<point x="1214" y="1219" type="line"/>
-			<point x="523" y="1219" type="line"/>
-			<point x="523" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0,0,1</string>
-		</dict>
-	</lib>
+  <advance width="1206"/>
+  <unicode hex="0413"/>
+  <outline>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1456" type="line"/>
+      <point x="1182" y="1456" type="line"/>
+      <point x="1182" y="1219.55" type="line"/>
+      <point x="525" y="1220" type="line"/>
+      <point x="525" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>
