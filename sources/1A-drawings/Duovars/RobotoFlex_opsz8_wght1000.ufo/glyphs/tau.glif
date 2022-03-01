@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tau" format="2">
-	<unicode hex="03C4"/>
-	<advance width="972"/>
-	<outline>
-		<contour>
-			<point x="-1.5" y="858.3727848101" type="line"/>
-			<point x="-1.5" y="1095" type="line"/>
-			<point x="938.25" y="1095" type="line"/>
-			<point x="938.25" y="858.3727848101" type="line"/>
-		</contour>
-		<contour>
-			<point x="661.15" y="-29" type="qcurve" smooth="yes"/>
-			<point x="482.75" y="-29"/>
-			<point x="286.25" y="187.05"/>
-			<point x="283.25" y="388.4" type="qcurve" smooth="yes"/>
-			<point x="283.25" y="999.55" type="line"/>
-			<point x="605.25" y="999.55" type="line"/>
-			<point x="605.25" y="400.4" type="line" smooth="yes"/>
-			<point x="605.25" y="315.4"/>
-			<point x="678.45" y="224.4"/>
-			<point x="743.5" y="224.4" type="qcurve" smooth="yes"/>
-			<point x="761.6" y="224.4"/>
-			<point x="801.4" y="235.55"/>
-			<point x="817.35" y="242.4" type="qcurve"/>
-			<point x="817.35" y="1" type="line"/>
-			<point x="795.95" y="-11"/>
-			<point x="709.1" y="-29"/>
-		</contour>
-	</outline>
+  <advance width="987"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="0" y="870" type="line"/>
+      <point x="0" y="1115" type="line"/>
+      <point x="939" y="1115" type="line"/>
+      <point x="939" y="870" type="line"/>
+    </contour>
+    <contour>
+      <point x="662" y="-30" type="qcurve"/>
+      <point x="494" y="-30"/>
+      <point x="284.0" y="137.0"/>
+      <point x="284" y="338" type="qcurve" smooth="yes"/>
+      <point x="284" y="1020" type="line"/>
+      <point x="629" y="1020" type="line"/>
+      <point x="629" y="350" type="line" smooth="yes"/>
+      <point x="629.0" y="266"/>
+      <point x="675" y="200"/>
+      <point x="732" y="200" type="qcurve"/>
+      <point x="751" y="200"/>
+      <point x="806" y="214"/>
+      <point x="822" y="223" type="qcurve"/>
+      <point x="822" y="1" type="line"/>
+      <point x="801" y="-11"/>
+      <point x="720" y="-30"/>
+    </contour>
+  </outline>
 </glyph>
