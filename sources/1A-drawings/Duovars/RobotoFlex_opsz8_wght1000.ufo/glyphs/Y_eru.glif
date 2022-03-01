@@ -1,9 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yeru" format="2">
-  <advance width="2056"/>
-  <unicode hex="042B"/>
-  <outline>
-    <component base="Soft" xOffset="-4"/>
-    <component base="I" xOffset="1362"/>
-  </outline>
+	<unicode hex="042B"/>
+	<advance width="2036"/>
+	<outline>
+		<component base="Soft" xOffset="-4"/>
+		<component base="I" xOffset="1342"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
 </glyph>

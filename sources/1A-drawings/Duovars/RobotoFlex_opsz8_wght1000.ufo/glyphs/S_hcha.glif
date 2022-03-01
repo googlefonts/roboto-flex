@@ -1,25 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shcha" format="2">
-  <advance width="2308"/>
-  <unicode hex="0429"/>
-  <outline>
-    <contour>
-      <point x="167" y="1456" type="line"/>
-      <point x="523" y="1456" type="line"/>
-      <point x="523" y="236" type="line"/>
-      <point x="983" y="236" type="line"/>
-      <point x="983" y="1456" type="line"/>
-      <point x="1315" y="1456" type="line"/>
-      <point x="1315" y="236" type="line"/>
-      <point x="1779" y="236" type="line"/>
-      <point x="1779" y="1456" type="line"/>
-      <point x="2110" y="1456" type="line"/>
-      <point x="2110" y="236" type="line"/>
-      <point x="2300" y="236" type="line"/>
-      <point x="2300" y="-290" type="line"/>
-      <point x="1982" y="-290" type="line"/>
-      <point x="1982" y="0" type="line"/>
-      <point x="167" y="0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0429"/>
+	<advance width="2315"/>
+	<outline>
+		<contour>
+			<point x="168" y="1456" type="line"/>
+			<point x="523" y="1456" type="line"/>
+			<point x="523" y="237" type="line"/>
+			<point x="958" y="237" type="line"/>
+			<point x="958" y="1456" type="line"/>
+			<point x="1314" y="1456" type="line"/>
+			<point x="1314" y="237" type="line"/>
+			<point x="1748" y="237" type="line"/>
+			<point x="1748" y="1456" type="line"/>
+			<point x="2104" y="1456" type="line"/>
+			<point x="2104" y="237" type="line"/>
+			<point x="2294" y="237" type="line"/>
+			<point x="2294" y="-290" type="line"/>
+			<point x="1964" y="-290" type="line"/>
+			<point x="1964" y="0" type="line"/>
+			<point x="168" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
 </glyph>
