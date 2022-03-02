@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-	<advance width="572"/>
-	<outline>
-		<contour>
-			<point x="183" y="0" type="line"/>
-			<point x="183" y="1089" type="line"/>
-			<point x="390" y="1089" type="line"/>
-			<point x="390" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="572"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="1089" type="line"/>
+      <point x="390" y="1089" type="line"/>
+      <point x="390" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>
