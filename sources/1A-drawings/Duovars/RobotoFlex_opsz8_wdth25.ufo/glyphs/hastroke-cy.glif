@@ -1,39 +1,39 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hastroke-cy" format="2">
-  <advance width="923"/>
-  <unicode hex="04FF"/>
-  <outline>
-    <contour>
-      <point x="107" y="464" type="line"/>
-      <point x="107" y="610" type="line"/>
-      <point x="794" y="610" type="line"/>
-      <point x="794" y="464" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="0" type="line"/>
-      <point x="373" y="589" type="line"/>
-      <point x="415" y="589" type="line"/>
-      <point x="675" y="1089" type="line"/>
-      <point x="881" y="1089" type="line"/>
-      <point x="543" y="515" type="line"/>
-      <point x="500" y="515" type="line"/>
-      <point x="229" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="44" y="1089" type="line"/>
-      <point x="260" y="1089" type="line"/>
-      <point x="508" y="599" type="line"/>
-      <point x="539" y="599" type="line"/>
-      <point x="898" y="0" type="line"/>
-      <point x="683" y="0" type="line"/>
-      <point x="422" y="505" type="line"/>
-      <point x="393" y="505" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.6157,0.6499,1</string>
-    </dict>
-  </lib>
+	<unicode hex="04FF"/>
+	<advance width="923"/>
+	<outline>
+		<contour>
+			<point x="107" y="464" type="line"/>
+			<point x="107" y="610" type="line"/>
+			<point x="794" y="610" type="line"/>
+			<point x="794" y="464" type="line"/>
+		</contour>
+		<contour>
+			<point x="24" y="0" type="line"/>
+			<point x="373" y="589" type="line"/>
+			<point x="415" y="589" type="line"/>
+			<point x="675" y="1089" type="line"/>
+			<point x="881" y="1089" type="line"/>
+			<point x="543" y="515" type="line"/>
+			<point x="500" y="515" type="line"/>
+			<point x="229" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="44" y="1089" type="line"/>
+			<point x="260" y="1089" type="line"/>
+			<point x="508" y="599" type="line"/>
+			<point x="539" y="599" type="line"/>
+			<point x="898" y="0" type="line"/>
+			<point x="683" y="0" type="line"/>
+			<point x="422" y="505" type="line"/>
+			<point x="393" y="505" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.6157,0.6499,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="umacroncyr" format="2">
-  <advance width="962"/>
-  <unicode hex="04EF"/>
-  <outline>
-    <component base="y"/>
-    <component base="macroncomb" xOffset="-26"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
-    </dict>
-  </lib>
+	<unicode hex="04EF"/>
+	<advance width="962"/>
+	<outline>
+		<component base="y"/>
+		<component base="macroncomb" xOffset="-26"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
 </glyph>

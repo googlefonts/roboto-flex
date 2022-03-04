@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="2">
-  <advance width="1024"/>
-  <unicode hex="02D9"/>
-  <outline>
-    <contour>
-      <point x="385" y="1403.0" type="qcurve" smooth="yes"/>
-      <point x="385" y="1451"/>
-      <point x="455" y="1529"/>
-      <point x="512" y="1529" type="qcurve" smooth="yes"/>
-      <point x="568" y="1529"/>
-      <point x="639" y="1451"/>
-      <point x="639" y="1403.0" type="qcurve" smooth="yes"/>
-      <point x="639" y="1355"/>
-      <point x="568" y="1277"/>
-      <point x="512" y="1277" type="qcurve" smooth="yes"/>
-      <point x="455" y="1277"/>
-      <point x="385" y="1355"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9908,1,0.037,1</string>
-    </dict>
-  </lib>
+	<unicode hex="02D9"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="385" y="1403" type="qcurve" smooth="yes"/>
+			<point x="385" y="1451"/>
+			<point x="455" y="1529"/>
+			<point x="512" y="1529" type="qcurve" smooth="yes"/>
+			<point x="568" y="1529"/>
+			<point x="639" y="1451"/>
+			<point x="639" y="1403" type="qcurve" smooth="yes"/>
+			<point x="639" y="1355"/>
+			<point x="568" y="1277"/>
+			<point x="512" y="1277" type="qcurve" smooth="yes"/>
+			<point x="455" y="1277"/>
+			<point x="385" y="1355"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
 </glyph>
