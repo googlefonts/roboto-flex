@@ -2,6 +2,8 @@
 <glyph name="paragraph" format="2">
   <advance width="1147"/>
   <unicode hex="00B6"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="27539Lsr1A"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="e34wUdCmXR"/>
   <outline>
     <contour>
       <point x="442.2562608165641" y="-146.0" type="line"/>
@@ -25,6 +27,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.27539Lsr1A</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.e34wUdCmXR</key>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>
