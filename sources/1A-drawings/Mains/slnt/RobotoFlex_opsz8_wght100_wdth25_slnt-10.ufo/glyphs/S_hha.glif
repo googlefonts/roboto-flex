@@ -1,37 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Shha" format="2">
-  <advance width="1312"/>
+  <advance width="1182"/>
   <unicode hex="04BA"/>
+  <guideline x="1234.7790991293864" y="719" angle="100.0" identifier="fqbjtwGfjP"/>
+  <guideline x="1234.7790991293864" y="719" angle="100.0"/>
   <outline>
     <contour>
-      <point x="1013.9750353525694" y="401.0" type="line" smooth="yes"/>
-      <point x="1050.8273743206387" y="610.0"/>
-      <point x="891.97684669383" y="798.0"/>
-      <point x="677.97684669383" y="798.0" type="qcurve" smooth="yes"/>
-      <point x="558.97684669383" y="798.0"/>
-      <point x="346.0396912339929" y="770.0"/>
-      <point x="226.5735548320306" y="739.0" type="qcurve"/>
-      <point x="243.14829101862642" y="833.0" type="line"/>
-      <point x="370.79075440129714" y="865.0"/>
-      <point x="583.7279098611342" y="893.0"/>
-      <point x="694.7279098611342" y="893.0" type="qcurve" smooth="yes"/>
-      <point x="961.7279098611342" y="893.0"/>
-      <point x="1159.6437233560619" y="660.0"/>
-      <point x="1113.9750353525694" y="401.0" type="qcurve" smooth="yes"/>
-      <point x="1043.267916088475" y="0.0" type="line"/>
-      <point x="943.267916088475" y="0.0" type="line"/>
+      <point x="889.4173098428405" y="371.0" type="line" smooth="yes"/>
+      <point x="928.2092455987029" y="591.0"/>
+      <point x="783.4191211841011" y="768.0"/>
+      <point x="603.4191211841011" y="768.0" type="qcurve" smooth="yes"/>
+      <point x="492.4191211841011" y="768.0"/>
+      <point x="333.0109466663895" y="743.0"/>
+      <point x="221.66317536088474" y="707.0" type="qcurve"/>
+      <point x="238.23791154748045" y="801.0" type="line"/>
+      <point x="354.4093558722767" y="836.0"/>
+      <point x="517.1701843514053" y="863.0"/>
+      <point x="620.1701843514053" y="863.0" type="qcurve" smooth="yes"/>
+      <point x="852.1701843514053" y="863.0"/>
+      <point x="1034.0280359620822" y="624.0"/>
+      <point x="989.4173098428405" y="371.0" type="qcurve" smooth="yes"/>
+      <point x="924.0" y="0.0" type="line"/>
+      <point x="824.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="41.267916088474976" y="0.0" type="line"/>
-      <point x="298.0" y="1456.0" type="line"/>
-      <point x="398.0" y="1456.0" type="line"/>
-      <point x="141.26791608847498" y="0.0" type="line"/>
+      <point x="42.0" y="0.0" type="line"/>
+      <point x="298.732083911525" y="1456.0" type="line"/>
+      <point x="398.732083911525" y="1456.0" type="line"/>
+      <point x="142.0" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>

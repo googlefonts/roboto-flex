@@ -3,17 +3,38 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <real>2831.0769230769</real>
+    <real>1526.0</real>
     <key>capHeight</key>
     <integer>1456</integer>
     <key>copyright</key>
     <string>Copyright 2011, 2017 Google Inc. All Rights Reserved.</string>
     <key>descender</key>
-    <integer>-694</integer>
+    <integer>-416</integer>
     <key>familyName</key>
     <string>RobotoFlex</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>b1VvDzCBlJ</string>
+        <key>x</key>
+        <integer>1292</integer>
+        <key>y</key>
+        <integer>904</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>vRGanjAigV</string>
+        <key>x</key>
+        <integer>748</integer>
+        <key>y</key>
+        <integer>596</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>note</key>
@@ -206,7 +227,7 @@
     <key>postscriptWeightName</key>
     <string>Normal</string>
     <key>styleName</key>
-    <string>opsz14-wght1000-wdth25</string>
+    <string>opsz14_wght1000_wdth25_slnt-10</string>
     <key>trademark</key>
     <string>Roboto is a trademark of Google.</string>
     <key>unitsPerEm</key>

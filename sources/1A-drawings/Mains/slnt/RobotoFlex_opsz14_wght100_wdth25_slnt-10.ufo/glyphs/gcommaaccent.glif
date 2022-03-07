@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcommaaccent" format="2">
-  <advance width="1017"/>
+  <advance width="1007"/>
   <unicode hex="0123"/>
   <outline>
     <contour>
@@ -53,18 +53,18 @@
       <point x="145.1537250424081" y="568.0" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="843.4817957182536" y="1663.0" type="line"/>
-      <point x="796.1437897245733" y="1559.0"/>
-      <point x="749.5739361938897" y="1431.0"/>
-      <point x="693.0644858754131" y="1292.0" type="qcurve"/>
-      <point x="588.7118319139961" y="1290.0" type="line"/>
-      <point x="779.010776660379" y="1666.0" type="line"/>
+      <point x="775.4463571534773" y="1663.0" type="line"/>
+      <point x="728.1083511597969" y="1559.0"/>
+      <point x="681.5384976291134" y="1431.0"/>
+      <point x="625.0290473106368" y="1292.0" type="qcurve"/>
+      <point x="520.6763933492198" y="1290.0" type="line"/>
+      <point x="710.9753380956026" y="1666.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8337,1,0.1931,1</string>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>

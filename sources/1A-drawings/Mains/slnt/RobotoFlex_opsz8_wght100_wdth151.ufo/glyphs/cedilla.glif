@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="1024"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="293.5265396141693" y="20.0" type="line"/>
+      <point x="392.52653961416934" y="20.0" type="line"/>
+      <point x="338.6015907941128" y="-93.0" type="line"/>
+      <point x="476.5436289098619" y="-99.0"/>
+      <point x="584.0268546075171" y="-187.0"/>
+      <point x="572.5656008614668" y="-252.0" type="qcurve" smooth="yes"/>
+      <point x="557.048826559122" y="-340.0"/>
+      <point x="288.53449358473307" y="-445.0"/>
+      <point x="95.53449358473307" y="-445.0" type="qcurve"/>
+      <point x="103.23003619574257" y="-373.0" type="line"/>
+      <point x="249.93534411857644" y="-369.0"/>
+      <point x="448.3386359803759" y="-310.0"/>
+      <point x="458.21294690004993" y="-254.0" type="qcurve" smooth="yes"/>
+      <point x="466.32398801263923" y="-208.0"/>
+      <point x="359.55339422168635" y="-167.0"/>
+      <point x="217.7876830866456" y="-160.0" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>
