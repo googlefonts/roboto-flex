@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacroncyr" format="2">
-	<unicode hex="F519"/>
-	<advance width="209"/>
-	<outline>
-		<component base="o"/>
-		<component base="macroncomb" xOffset="-21"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.9991,0.8674,0.7109,1</string>
-		</dict>
-	</lib>
+  <advance width="209"/>
+  <unicode hex="F519"/>
+  <outline>
+    <component base="o"/>
+    <component base="macroncomb" xOffset="-21"/>
+  </outline>
 </glyph>

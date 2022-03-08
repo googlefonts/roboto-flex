@@ -1,35 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonek" format="2">
-	<unicode hex="02DB"/>
-	<advance width="1024"/>
-	<outline>
-		<contour>
-			<point x="556" y="5" type="qcurve"/>
-			<point x="560" y="0" type="line"/>
-			<point x="442" y="-64"/>
-			<point x="316" y="-196"/>
-			<point x="316" y="-256" type="qcurve" smooth="yes"/>
-			<point x="316" y="-310"/>
-			<point x="398" y="-380"/>
-			<point x="461" y="-380" type="qcurve" smooth="yes"/>
-			<point x="521" y="-380"/>
-			<point x="641" y="-342"/>
-			<point x="659" y="-334" type="qcurve"/>
-			<point x="662" y="-344" type="line"/>
-			<point x="641" y="-353"/>
-			<point x="523" y="-389"/>
-			<point x="460" y="-389" type="qcurve" smooth="yes"/>
-			<point x="392" y="-389"/>
-			<point x="305" y="-315"/>
-			<point x="305" y="-258" type="qcurve" smooth="yes"/>
-			<point x="305" y="-195"/>
-			<point x="431" y="-58"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.9908,1,0.037,1</string>
-		</dict>
-	</lib>
+  <advance width="1024"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="556.0" y="5.0" type="qcurve"/>
+      <point x="560.0" y="0.0" type="line"/>
+      <point x="442.0" y="-64.0"/>
+      <point x="316.0" y="-196.0"/>
+      <point x="316.0" y="-256.0" type="qcurve" smooth="yes"/>
+      <point x="316.0" y="-310.0"/>
+      <point x="398.0" y="-380.0"/>
+      <point x="461.0" y="-380.0" type="qcurve" smooth="yes"/>
+      <point x="521.0" y="-380.0"/>
+      <point x="641.0" y="-342.0"/>
+      <point x="659.0" y="-334.0" type="qcurve"/>
+      <point x="662.0" y="-344.0" type="line"/>
+      <point x="641.0" y="-353.0"/>
+      <point x="523.0" y="-389.0"/>
+      <point x="460.0" y="-389.0" type="qcurve" smooth="yes"/>
+      <point x="392.0" y="-389.0"/>
+      <point x="305.0" y="-315.0"/>
+      <point x="305.0" y="-258.0" type="qcurve" smooth="yes"/>
+      <point x="305.0" y="-195.0"/>
+      <point x="431.0" y="-58.0"/>
+    </contour>
+  </outline>
 </glyph>

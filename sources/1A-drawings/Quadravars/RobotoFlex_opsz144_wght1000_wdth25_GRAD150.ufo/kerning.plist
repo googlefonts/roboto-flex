@@ -1038,6 +1038,8 @@
     <dict>
       <key>AE</key>
       <integer>-54</integer>
+      <key>J</key>
+      <integer>-20</integer>
       <key>V</key>
       <integer>-49</integer>
       <key>X</key>
@@ -1753,6 +1755,11 @@
       <key>w</key>
       <integer>-15</integer>
     </dict>
+    <key>a</key>
+    <dict>
+      <key>x</key>
+      <integer>0</integer>
+    </dict>
     <key>ampersand</key>
     <dict>
       <key>V</key>
@@ -1927,10 +1934,17 @@
       <key>Utilde</key>
       <integer>-10</integer>
     </dict>
+    <key>c</key>
+    <dict>
+      <key>x</key>
+      <integer>-155</integer>
+    </dict>
     <key>e</key>
     <dict>
       <key>quoteright</key>
       <integer>-30</integer>
+      <key>x</key>
+      <integer>-130</integer>
     </dict>
     <key>eacute</key>
     <dict>
@@ -2001,6 +2015,11 @@
     <dict>
       <key>quoteright</key>
       <integer>-45</integer>
+    </dict>
+    <key>ellipsis</key>
+    <dict>
+      <key>j</key>
+      <integer>0</integer>
     </dict>
     <key>emacron</key>
     <dict>
@@ -2118,6 +2137,8 @@
       <integer>-13</integer>
       <key>gdotaccent</key>
       <integer>-13</integer>
+      <key>i</key>
+      <integer>0</integer>
       <key>minute</key>
       <integer>9</integer>
       <key>oe</key>
@@ -2457,6 +2478,11 @@
       <integer>12</integer>
       <key>Ytilde</key>
       <integer>12</integer>
+    </dict>
+    <key>period</key>
+    <dict>
+      <key>j</key>
+      <integer>0</integer>
     </dict>
     <key>public.kern1.A.smcp</key>
     <dict>
@@ -4140,6 +4166,8 @@
       <integer>-72</integer>
       <key>otildemacron</key>
       <integer>-72</integer>
+      <key>public.kern2.s_LC</key>
+      <integer>-95</integer>
       <key>s</key>
       <integer>-63</integer>
       <key>sacute</key>
@@ -4168,6 +4196,8 @@
       <integer>11</integer>
       <key>w</key>
       <integer>10</integer>
+      <key>z</key>
+      <integer>0</integer>
     </dict>
     <key>racute</key>
     <dict>
@@ -4220,6 +4250,8 @@
       <integer>-8</integer>
       <key>minute</key>
       <integer>-8</integer>
+      <key>public.kern2.minute</key>
+      <integer>-140</integer>
       <key>quotedbl</key>
       <integer>-8</integer>
       <key>quotedblleft</key>
@@ -4383,12 +4415,18 @@
     </dict>
     <key>x</key>
     <dict>
+      <key>a</key>
+      <integer>-80</integer>
       <key>ampersand</key>
       <integer>-90</integer>
       <key>at</key>
       <integer>-80</integer>
       <key>backslash</key>
       <integer>-115</integer>
+      <key>c</key>
+      <integer>-121</integer>
+      <key>e</key>
+      <integer>-121</integer>
       <key>eth</key>
       <integer>-140</integer>
       <key>public.kern2.a_LC</key>
