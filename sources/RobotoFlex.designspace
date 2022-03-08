@@ -1604,9 +1604,8 @@
       </location>
     </source>
   </sources>
-<!--
   <instances>
-    <instance filename="instances/RobotoFlex_Thin.ufo" stylename="Thin">
+    <instance stylename="Thin">
       <location>
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1625,7 +1624,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_ExtraLight.ufo" stylename="ExtraLight">
+    <instance stylename="ExtraLight">
       <location>
         <dimension name="wght" xvalue="200"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1644,7 +1643,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Light.ufo" stylename="Light">
+    <instance stylename="Light">
       <location>
         <dimension name="wght" xvalue="300"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1663,7 +1662,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Regular.ufo" stylename="Regular">
+    <instance stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1682,7 +1681,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Medium.ufo" stylename="Medium">
+    <instance stylename="Medium">
       <location>
         <dimension name="wght" xvalue="500"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1701,7 +1700,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_SemiBold.ufo" stylename="SemiBold">
+    <instance stylename="SemiBold">
       <location>
         <dimension name="wght" xvalue="600"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1720,7 +1719,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Bold.ufo" stylename="Bold">
+    <instance stylename="Bold">
       <location>
         <dimension name="wght" xvalue="700"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1739,7 +1738,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_ExtraBold.ufo" stylename="ExtraBold">
+    <instance stylename="ExtraBold">
       <location>
         <dimension name="wght" xvalue="800"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1758,7 +1757,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Black.ufo" stylename="Black">
+    <instance stylename="Black">
       <location>
         <dimension name="wght" xvalue="900"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1777,7 +1776,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_ExtraBlack.ufo" stylename="ExtraBlack">
+    <instance stylename="ExtraBlack">
       <location>
         <dimension name="wght" xvalue="1000"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1796,7 +1795,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Thin_Italic.ufo" stylename="Thin Italic">
+    <instance stylename="Thin Italic">
       <location>
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1815,7 +1814,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_ExtraLight_Italic.ufo" stylename="ExtraLight Italic">
+    <instance stylename="ExtraLight Italic">
       <location>
         <dimension name="wght" xvalue="200"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1834,7 +1833,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Light_Italic.ufo" stylename="Light Italic">
+    <instance stylename="Light Italic">
       <location>
         <dimension name="wght" xvalue="300"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1853,7 +1852,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Italic.ufo" stylename="Italic">
+    <instance stylename="Italic">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1872,7 +1871,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Medium_Italic.ufo" stylename="Medium Italic">
+    <instance stylename="Medium Italic">
       <location>
         <dimension name="wght" xvalue="500"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1891,7 +1890,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_SemiBold_Italic.ufo" stylename="SemiBold Italic">
+    <instance stylename="SemiBold Italic">
       <location>
         <dimension name="wght" xvalue="600"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1910,7 +1909,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Italic.ufo" stylename="Bold Italic">
+    <instance stylename="Bold Italic">
       <location>
         <dimension name="wght" xvalue="700"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1929,7 +1928,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_ExtraBold_Italic.ufo" stylename="ExtraBold Italic">
+    <instance stylename="ExtraBold Italic">
       <location>
         <dimension name="wght" xvalue="800"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1948,7 +1947,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_Black_Italic.ufo" stylename="Black Italic">
+    <instance stylename="Black Italic">
       <location>
         <dimension name="wght" xvalue="900"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1967,7 +1966,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance filename="instances/RobotoFlex_ExtraBlack_Italic.ufo" stylename="ExtraBlack Italic">
+    <instance stylename="ExtraBlack Italic">
       <location>
         <dimension name="wght" xvalue="1000"/>
         <dimension name="wdth" xvalue="100"/>
@@ -1987,5 +1986,4 @@
       <info/>
     </instance>
   </instances>
--->
 </designspace>
