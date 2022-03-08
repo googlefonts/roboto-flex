@@ -1,27 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bullet" format="2">
-  <advance width="784"/>
-  <unicode hex="2022"/>
-  <outline>
-    <contour>
-      <point x="329.47708306835193" y="774.0" type="qcurve" smooth="yes"/>
-      <point x="334.5905655088974" y="803.0"/>
-      <point x="382.1726256793614" y="846.0"/>
-      <point x="413.1726256793613" y="846.0" type="qcurve" smooth="yes"/>
-      <point x="444.1726256793613" y="846.0"/>
-      <point x="476.5905655088974" y="803.0"/>
-      <point x="471.47708306835193" y="774.0" type="qcurve" smooth="yes"/>
-      <point x="466.36360062780636" y="745.0"/>
-      <point x="418.78154045734243" y="702.0"/>
-      <point x="387.78154045734243" y="702.0" type="qcurve" smooth="yes"/>
-      <point x="356.78154045734243" y="702.0"/>
-      <point x="324.3636006278064" y="745.0"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
+	<unicode hex="2022"/>
+	<advance width="784"/>
+	<outline>
+		<contour>
+			<point x="321" y="774" type="qcurve" smooth="yes"/>
+			<point x="321" y="803"/>
+			<point x="361" y="846"/>
+			<point x="392" y="846" type="qcurve" smooth="yes"/>
+			<point x="423" y="846"/>
+			<point x="463" y="803"/>
+			<point x="463" y="774" type="qcurve" smooth="yes"/>
+			<point x="463" y="745"/>
+			<point x="423" y="702"/>
+			<point x="392" y="702" type="qcurve" smooth="yes"/>
+			<point x="361" y="702"/>
+			<point x="321" y="745"/>
+		</contour>
+	</outline>
 </glyph>

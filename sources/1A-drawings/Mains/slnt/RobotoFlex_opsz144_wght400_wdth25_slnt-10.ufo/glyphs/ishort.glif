@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ishort" format="2">
-  <advance width="366"/>
-  <unicode hex="0439"/>
-  <guideline x="578" y="1072" angle="90" identifier="p0aJ1s3JmT"/>
-  <outline>
-    <component base="icyr"/>
-    <component base="breve.cyr" xOffset="-328"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9991,0.8674,0.7109,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0439"/>
+	<advance width="366"/>
+	<outline>
+		<component base="icyr"/>
+		<component base="breve.cyr" xOffset="-328"/>
+	</outline>
+	<guideline x="578" y="1072" angle="90" identifier="p0aJ1s3JmT"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9991,0.8674,0.7109,1</string>
+		</dict>
+	</lib>
 </glyph>
