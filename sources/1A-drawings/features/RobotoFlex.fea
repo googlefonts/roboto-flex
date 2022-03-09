@@ -3,11 +3,12 @@ languagesystem latn dflt;
 languagesystem latn TRK;
 languagesystem latn AZE;
 languagesystem latn CRT;
-languagesystem latn BGR;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
 languagesystem latn NLD;
+languagesystem cyrl BGR;
+languagesystem cyrl SRB;
 
 @figures = [zero one two three four five six seven eight nine];
 @figures_prop = [zero.prop one.prop two.prop three.prop four.prop five.prop six.prop seven.prop eight.prop nine.prop];
@@ -55,7 +56,7 @@ feature locl {
         sub Tcedilla by Tcommaaccent;
         sub tcedilla by tcommaaccent;
     
-#    script cyrl;
+    script cyrl;
 #    language BGR exclude_dflt;
 #        sub De by De.bgr;
 #        sub Zhe by Zhe.bgr;
@@ -79,6 +80,9 @@ feature locl {
 #        sub soft by soft.bgr;
 #        sub hard by hard.bgr;
 #        sub yu by yu.bgr;
+    
+    language SRB exclude_dflt;
+        sub be by be.locl;
     
 } locl;
 
