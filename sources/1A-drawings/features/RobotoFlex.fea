@@ -7,8 +7,8 @@ languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
 languagesystem latn NLD;
-languagesystem cyrl BGR;
-languagesystem cyrl SRB;
+#languagesystem cyrl BGR;
+#languagesystem cyrl SRB;
 
 @figures = [zero one two three four five six seven eight nine];
 @figures_prop = [zero.prop one.prop two.prop three.prop four.prop five.prop six.prop seven.prop eight.prop nine.prop];
