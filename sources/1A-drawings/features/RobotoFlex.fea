@@ -1,0 +1,109 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn BGR;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+languagesystem latn NLD;
+
+@figures = [zero one two three four five six seven eight nine];
+@figures_prop = [zero.prop one.prop two.prop three.prop four.prop five.prop six.prop seven.prop eight.prop nine.prop];
+@figures_tab = [zero one two three four five six seven eight nine];
+
+
+feature locl {
+    sub [space hyphen softhyphen endash emdash underscore] etatonos' [space hyphen softhyphen endash emdash underscore comma] by Etatonos;
+    script latn;
+    
+    language TRK exclude_dflt;
+
+	    lookup IDOT {
+	      sub i' by idotaccent;
+	    } IDOT;
+    
+    language AZE exclude_dflt;
+	    lookup IDOT;
+
+	language CRT exclude_dflt;
+	    lookup IDOT;
+	
+	language CAT exclude_dflt;
+	    lookup LDOT {
+	      sub L' periodcentered' L by Ldot;
+	      sub l' periodcentered' l by ldot;
+	    } LDOT;
+    language CAT;
+    
+    language NLD exclude_dflt;
+	    lookup IJ {
+	      sub I' J' by IJ;
+	      sub i' j' by ij;
+	    } IJ;
+    
+    language ROM exclude_dflt;
+        sub Scedilla by Scommaaccent;
+        sub scedilla by scommaaccent;
+        sub Tcedilla by Tcommaaccent;
+        sub tcedilla by tcommaaccent;
+    
+    language MOL exclude_dflt;
+        sub Scedilla by Scommaaccent;
+        sub scedilla by scommaaccent;
+        sub Tcedilla by Tcommaaccent;
+        sub tcedilla by tcommaaccent;
+    
+#    script cyrl;
+#    language BGR exclude_dflt;
+#        sub De by De.bgr;
+#        sub Zhe by Zhe.bgr;
+#        sub Ka by Ka.bgr; 
+#        sub El by El.bgr;
+#        sub ve by ve.bgr;
+#        sub icyr by i.bgr;
+#        sub igravecyr by igrave.bgr;
+#        sub ishort by ishort.bgr;
+#        sub ghe by ghe.bgr;
+#        sub de by de.bgr;
+#        sub zhe by zhe.bgr;
+#        sub ze by ze.bgr;
+#        sub ka by ka.bgr;
+#        sub el by el.bgr;
+#        sub pe by pe.bgr;
+#        sub te by te.bgr;
+#        sub tse by tse.bgr;
+#        sub sha by sha.bgr;
+#        sub shcha by shcha.bgr;
+#        sub soft by soft.bgr;
+#        sub hard by hard.bgr;
+#        sub yu by yu.bgr;
+    
+} locl;
+
+
+feature liga {
+    sub f f i by f_f_i;
+    sub f f i j by f_f_ij;
+    sub f f l by f_f_l;
+    sub f i by fi;
+    sub f l by fl;
+    sub f f by f_f;
+} liga;
+
+feature pnum {
+    sub zero by zero.prop;
+    sub one by one.prop;
+    sub two by two.prop;
+    sub three by three.prop;
+    sub four by four.prop;
+    sub five by five.prop;
+    sub six by six.prop;
+    sub seven by seven.prop;
+    sub eight by eight.prop;
+    sub nine by nine.prop;
+} pnum;
+
+
+
