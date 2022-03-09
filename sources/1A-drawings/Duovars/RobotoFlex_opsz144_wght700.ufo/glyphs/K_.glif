@@ -1,23 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-	<unicode hex="004B"/>
-	<advance width="1188"/>
-	<outline>
-		<contour>
-			<point x="85" y="0" type="line"/>
-			<point x="85" y="1456" type="line"/>
-			<point x="440" y="1456" type="line"/>
-			<point x="440" y="910" type="line"/>
-			<point x="829" y="1456" type="line"/>
-			<point x="1192" y="1456" type="line"/>
-			<point x="440" y="475" type="line"/>
-			<point x="440" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="838.5" y="0" type="line"/>
-			<point x="437" y="703" type="line"/>
-			<point x="649" y="971" type="line"/>
-			<point x="1235.5" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1188"/>
+  <unicode hex="004B"/>
+  <anchor x="619.5" y="0" name="bottom"/>
+  <anchor x="619.5" y="1456.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="1456" type="line"/>
+      <point x="440" y="1456" type="line"/>
+      <point x="440" y="910" type="line"/>
+      <point x="829" y="1456" type="line"/>
+      <point x="1192" y="1456" type="line"/>
+      <point x="440" y="475" type="line"/>
+      <point x="440" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="838.5" y="0" type="line"/>
+      <point x="437" y="703" type="line"/>
+      <point x="649" y="971" type="line"/>
+      <point x="1235.5" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>
