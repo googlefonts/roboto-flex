@@ -1,8 +1,9 @@
 # Roboto Flex
 
-This project upgrades Roboto to become a more powerful Variable Font, allowing you to do more to express and finesse your text.
+This project upgrades Roboto to become a more powerful typeface system, allowing you to do more to express and finesse your text.
 
-**[Download latest development TTF](https://github.com/TypeNetwork/Roboto-Flex/blob/main/fonts/RobotoFlex%5BGRAD%2CXOPQ%2CXTRA%2CYOPQ%2CYTAS%2CYTDE%2CYTFI%2CYTLC%2CYTUC%2Copsz%2Cslnt%2Cwdth%2Cwght%5D.ttf)**
+* **[Download latest development TTF from main branch](https://github.com/TypeNetwork/Roboto-Flex/blob/main/fonts/RobotoFlex%5BGRAD%2CXOPQ%2CXTRA%2CYOPQ%2CYTAS%2CYTDE%2CYTFI%2CYTLC%2CYTUC%2Copsz%2Cslnt%2Cwdth%2Cwght%5D.ttf)**
+* [Download latest releases from the Releases page](https://github.com/googlefonts/roboto-flex/releases)
 
 ## Background
 
