@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="1253"/>
-  <unicode hex="004C"/>
-  <anchor x="701" y="0" name="bottom"/>
-  <anchor x="878" y="784.0" name="center"/>
-  <anchor x="255" y="1456" name="top"/>
-  <anchor x="740" y="1089" name="topright"/>
-  <outline>
-    <contour>
-      <point x="220" y="0" type="line"/>
-      <point x="220" y="1456" type="line"/>
-      <point x="338" y="1456" type="line"/>
-      <point x="338" y="108" type="line"/>
-      <point x="1230" y="108" type="line"/>
-      <point x="1230" y="0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="004C"/>
+	<advance width="1253"/>
+	<outline>
+		<contour>
+			<point x="220" y="0" type="line"/>
+			<point x="220" y="1456" type="line"/>
+			<point x="338" y="1456" type="line"/>
+			<point x="338" y="108" type="line"/>
+			<point x="1230" y="108" type="line"/>
+			<point x="1230" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="701" y="0"/>
+	<anchor name="center" x="878" y="784"/>
+	<anchor name="top" x="255" y="1456"/>
+	<anchor name="topright" x="740" y="1089"/>
 </glyph>

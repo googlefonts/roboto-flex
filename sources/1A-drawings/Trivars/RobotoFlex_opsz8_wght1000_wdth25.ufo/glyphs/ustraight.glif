@@ -1,31 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ustraight" format="2">
-  <advance width="969"/>
-  <unicode hex="04AF"/>
-  <outline>
-    <contour>
-      <point x="332" y="-416" type="line"/>
-      <point x="332" y="0" type="line"/>
-      <point x="-20" y="1116" type="line"/>
-      <point x="298" y="1116" type="line"/>
-      <point x="465" y="509" type="line" smooth="yes"/>
-      <point x="476" y="468"/>
-      <point x="490" y="377"/>
-      <point x="497" y="337" type="qcurve"/>
-      <point x="503" y="337" type="line"/>
-      <point x="509" y="377"/>
-      <point x="524" y="468"/>
-      <point x="535" y="509" type="qcurve" smooth="yes"/>
-      <point x="702" y="1116" type="line"/>
-      <point x="989" y="1116" type="line"/>
-      <point x="636" y="0" type="line"/>
-      <point x="636" y="-416" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9991,0.8674,0.7109,1</string>
-    </dict>
-  </lib>
+	<unicode hex="04AF"/>
+	<advance width="969"/>
+	<outline>
+		<contour>
+			<point x="332" y="-416" type="line"/>
+			<point x="332" y="0" type="line"/>
+			<point x="-20" y="1116" type="line"/>
+			<point x="298" y="1116" type="line"/>
+			<point x="465" y="509" type="line" smooth="yes"/>
+			<point x="476" y="468"/>
+			<point x="490" y="377"/>
+			<point x="497" y="337" type="qcurve"/>
+			<point x="503" y="337" type="line"/>
+			<point x="509" y="377"/>
+			<point x="524" y="468"/>
+			<point x="535" y="509" type="qcurve" smooth="yes"/>
+			<point x="702" y="1116" type="line"/>
+			<point x="989" y="1116" type="line"/>
+			<point x="636" y="0" type="line"/>
+			<point x="636" y="-416" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9991,0.8674,0.7109,1</string>
+		</dict>
+	</lib>
 </glyph>

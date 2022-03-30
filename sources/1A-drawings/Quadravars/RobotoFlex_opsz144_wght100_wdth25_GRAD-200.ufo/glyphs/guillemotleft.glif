@@ -1,35 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="2">
-  <advance width="240"/>
-  <unicode hex="00AB"/>
-  <guideline x="0" y="901.0" angle="0" identifier="ZftBQarVKw"/>
-  <guideline x="0" y="555.0" angle="0" identifier="MVJpdoVRVd"/>
-  <outline>
-    <contour>
-      <point x="55.0" y="528.0" type="line"/>
-      <point x="55.0" y="541.0" type="line"/>
-      <point x="123.0" y="915.0" type="line"/>
-      <point x="130.0" y="915.0" type="line"/>
-      <point x="60.0" y="534.0" type="line"/>
-      <point x="130.0" y="153.0" type="line"/>
-      <point x="123.0" y="153.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="135.0" y="528.0" type="line"/>
-      <point x="135.0" y="541.0" type="line"/>
-      <point x="203.0" y="915.0" type="line"/>
-      <point x="210.0" y="915.0" type="line"/>
-      <point x="140.0" y="534.0" type="line"/>
-      <point x="210.0" y="153.0" type="line"/>
-      <point x="203.0" y="153.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.MVJpdoVRVd</key>
-      <integer>5</integer>
-      <key>com.typemytype.robofont.guideline.magnetic.ZftBQarVKw</key>
-      <integer>5</integer>
-    </dict>
-  </lib>
+	<unicode hex="00AB"/>
+	<advance width="240"/>
+	<outline>
+		<contour>
+			<point x="55" y="528" type="line"/>
+			<point x="55" y="541" type="line"/>
+			<point x="123" y="915" type="line"/>
+			<point x="130" y="915" type="line"/>
+			<point x="60" y="534" type="line"/>
+			<point x="130" y="153" type="line"/>
+			<point x="123" y="153" type="line"/>
+		</contour>
+		<contour>
+			<point x="135" y="528" type="line"/>
+			<point x="135" y="541" type="line"/>
+			<point x="203" y="915" type="line"/>
+			<point x="210" y="915" type="line"/>
+			<point x="140" y="534" type="line"/>
+			<point x="210" y="153" type="line"/>
+			<point x="203" y="153" type="line"/>
+		</contour>
+	</outline>
+	<guideline y="901" identifier="ZftBQarVKw"/>
+	<guideline y="555" identifier="MVJpdoVRVd"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.MVJpdoVRVd</key>
+			<integer>5</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.ZftBQarVKw</key>
+			<integer>5</integer>
+		</dict>
+	</lib>
 </glyph>

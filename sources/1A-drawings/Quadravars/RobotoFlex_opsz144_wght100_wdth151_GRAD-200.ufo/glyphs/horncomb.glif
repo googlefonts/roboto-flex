@@ -1,29 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="horncomb" format="2">
-  <advance width="1024"/>
-  <unicode hex="031B"/>
-  <anchor x="3.0" y="914.0" name="_topright"/>
-  <anchor x="4.0" y="1198.0" name="topright"/>
-  <outline>
-    <contour>
-      <point x="0.0" y="914.0" type="line"/>
-      <point x="145.0" y="914.0" type="line" smooth="yes"/>
-      <point x="251.0" y="914.0"/>
-      <point x="347.0" y="961.0"/>
-      <point x="347.0" y="1014.0" type="qcurve" smooth="yes"/>
-      <point x="347.0" y="1066.0"/>
-      <point x="317.0" y="1158.0"/>
-      <point x="298.0" y="1198.0" type="qcurve"/>
-      <point x="308.0" y="1198.0" type="line"/>
-      <point x="327.0" y="1159.0"/>
-      <point x="358.0" y="1065.0"/>
-      <point x="358.0" y="1012.0" type="qcurve" smooth="yes"/>
-      <point x="358.0" y="955.0"/>
-      <point x="259.0" y="904.0"/>
-      <point x="150.0" y="904.0" type="qcurve" smooth="yes"/>
-      <point x="127.0" y="904.0"/>
-      <point x="31.0" y="905.0"/>
-      <point x="0.0" y="906.0" type="qcurve"/>
-    </contour>
-  </outline>
+	<unicode hex="031B"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="0" y="914" type="line"/>
+			<point x="145" y="914" type="line" smooth="yes"/>
+			<point x="251" y="914"/>
+			<point x="347" y="961"/>
+			<point x="347" y="1014" type="qcurve" smooth="yes"/>
+			<point x="347" y="1066"/>
+			<point x="317" y="1158"/>
+			<point x="298" y="1198" type="qcurve"/>
+			<point x="308" y="1198" type="line"/>
+			<point x="327" y="1159"/>
+			<point x="358" y="1065"/>
+			<point x="358" y="1012" type="qcurve" smooth="yes"/>
+			<point x="358" y="955"/>
+			<point x="259" y="904"/>
+			<point x="150" y="904" type="qcurve" smooth="yes"/>
+			<point x="127" y="904"/>
+			<point x="31" y="905"/>
+			<point x="0" y="906" type="qcurve"/>
+		</contour>
+	</outline>
+	<anchor name="_topright" x="3" y="914"/>
+	<anchor name="topright" x="4" y="1198"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
 </glyph>

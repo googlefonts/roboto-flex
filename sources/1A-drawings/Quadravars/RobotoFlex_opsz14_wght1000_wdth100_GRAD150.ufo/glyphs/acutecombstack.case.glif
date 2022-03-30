@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecombstack.case" format="2">
-  <advance width="1024"/>
-  <anchor x="512.0" y="1456.0" name="_top"/>
-  <anchor x="512.0" y="2072.0" name="top"/>
-  <outline>
-    <contour>
-      <point x="209.8" y="1823.2" type="line"/>
-      <point x="575.8" y="2082.2" type="line"/>
-      <point x="764.0" y="1783.0" type="line"/>
-      <point x="370.0" y="1590.0" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="209.8" y="1823.2" type="line"/>
+			<point x="575.8" y="2082.2" type="line"/>
+			<point x="764" y="1783" type="line"/>
+			<point x="370" y="1590" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="512" y="1456"/>
+	<anchor name="top" x="512" y="2072"/>
 </glyph>

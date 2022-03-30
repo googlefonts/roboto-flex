@@ -1,23 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kaisymbol" format="2">
-  <advance width="207"/>
-  <unicode hex="03CF"/>
-  <outline>
-    <contour>
-      <point x="65.0" y="-528.0" type="line"/>
-      <point x="59.0" y="-526.0" type="line"/>
-      <point x="193.0" y="-20.0" type="line"/>
-      <point x="103.0" y="864.0" type="line"/>
-      <point x="60.0" y="586.0" type="line"/>
-      <point x="60.0" y="0.0" type="line"/>
-      <point x="54.0" y="0.0" type="line"/>
-      <point x="54.0" y="1456.0" type="line"/>
-      <point x="60.0" y="1456.0" type="line"/>
-      <point x="60.0" y="622.0" type="line"/>
-      <point x="188.0" y="1456.0" type="line"/>
-      <point x="194.0" y="1456.0" type="line"/>
-      <point x="107.0" y="889.0" type="line"/>
-      <point x="199.0" y="-20.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="03CF"/>
+	<advance width="207"/>
+	<outline>
+		<contour>
+			<point x="65" y="-528" type="line"/>
+			<point x="59" y="-526" type="line"/>
+			<point x="193" y="-20" type="line"/>
+			<point x="103" y="864" type="line"/>
+			<point x="60" y="586" type="line"/>
+			<point x="60" y="0" type="line"/>
+			<point x="54" y="0" type="line"/>
+			<point x="54" y="1456" type="line"/>
+			<point x="60" y="1456" type="line"/>
+			<point x="60" y="622" type="line"/>
+			<point x="188" y="1456" type="line"/>
+			<point x="194" y="1456" type="line"/>
+			<point x="107" y="889" type="line"/>
+			<point x="199" y="-20" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.7176,0.2706,1,1</string>
+		</dict>
+	</lib>
 </glyph>

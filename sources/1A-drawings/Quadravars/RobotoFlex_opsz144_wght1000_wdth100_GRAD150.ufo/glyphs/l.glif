@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="677"/>
-  <unicode hex="006C"/>
-  <anchor x="338.5" y="0" name="bottom"/>
-  <anchor x="338.5" y="728.0" name="center"/>
-  <anchor x="339.0" y="1456.0" name="top"/>
-  <anchor x="525.3333333333334" y="940.9333333333333" name="topright"/>
-  <outline>
-    <contour>
-      <point x="43.0" y="0.0" type="line"/>
-      <point x="43.0" y="1456.0" type="line"/>
-      <point x="634.0" y="1456.0" type="line"/>
-      <point x="634.0" y="0.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="006C"/>
+	<advance width="677"/>
+	<outline>
+		<contour>
+			<point x="43" y="0" type="line"/>
+			<point x="43" y="1456" type="line"/>
+			<point x="634" y="1456" type="line"/>
+			<point x="634" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="338.5" y="0"/>
+	<anchor name="center" x="338.5" y="728"/>
+	<anchor name="top" x="339" y="1456"/>
+	<anchor name="topright" x="525.3333333333334" y="940.9333333333333"/>
 </glyph>

@@ -1,32 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="1559"/>
-  <unicode hex="0041"/>
-  <anchor x="737.0" y="0" name="bottom"/>
-  <anchor x="1196" y="0" name="ogonek"/>
-  <anchor x="737.0" y="1456" name="top"/>
-  <outline>
-    <contour>
-      <point x="-50" y="0" type="line"/>
-      <point x="572" y="1460" type="line"/>
-      <point x="969" y="1460" type="line"/>
-      <point x="1609" y="0" type="line"/>
-      <point x="1147" y="0" type="line"/>
-      <point x="823" y="853" type="line" smooth="yes"/>
-      <point x="805" y="901"/>
-      <point x="769" y="1015"/>
-      <point x="765" y="1060" type="qcurve"/>
-      <point x="756" y="1060" type="line"/>
-      <point x="749" y="1009"/>
-      <point x="718" y="899"/>
-      <point x="699" y="853" type="qcurve" smooth="yes"/>
-      <point x="354" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="312" y="258" type="line"/>
-      <point x="404" y="560" type="line"/>
-      <point x="1114" y="560" type="line"/>
-      <point x="1209" y="258" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0041"/>
+	<advance width="1559"/>
+	<outline>
+		<contour>
+			<point x="-50" y="0" type="line"/>
+			<point x="572" y="1460" type="line"/>
+			<point x="969" y="1460" type="line"/>
+			<point x="1609" y="0" type="line"/>
+			<point x="1147" y="0" type="line"/>
+			<point x="823" y="853" type="line" smooth="yes"/>
+			<point x="805" y="901"/>
+			<point x="769" y="1015"/>
+			<point x="765" y="1060" type="qcurve"/>
+			<point x="756" y="1060" type="line"/>
+			<point x="749" y="1009"/>
+			<point x="718" y="899"/>
+			<point x="699" y="853" type="qcurve" smooth="yes"/>
+			<point x="354" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="312" y="258" type="line"/>
+			<point x="404" y="560" type="line"/>
+			<point x="1114" y="560" type="line"/>
+			<point x="1209" y="258" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="737" y="0"/>
+	<anchor name="ogonek" x="1196" y="0"/>
+	<anchor name="top" x="737" y="1456"/>
 </glyph>

@@ -1,29 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x" format="2">
-  <advance width="1058"/>
-  <unicode hex="0078"/>
-  <anchor x="548.5" y="0" name="bottom"/>
-  <anchor x="548.5" y="1089.12" name="top"/>
-  <outline>
-    <contour>
-      <point x="64.75" y="0.0" type="line"/>
-      <point x="495.5" y="593.75" type="line"/>
-      <point x="519.5" y="604.75" type="line"/>
-      <point x="869.25" y="1089.0" type="line"/>
-      <point x="972.75" y="1089.0" type="line"/>
-      <point x="566.0" y="526.25" type="line"/>
-      <point x="540.0" y="512.25" type="line"/>
-      <point x="169.25" y="0.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="95.75" y="1089.0" type="line"/>
-      <point x="215.25" y="1089.0" type="line"/>
-      <point x="553.75" y="599.75" type="line"/>
-      <point x="565.0" y="584.75" type="line"/>
-      <point x="994.0" y="0.0" type="line"/>
-      <point x="874.5" y="0.0" type="line"/>
-      <point x="516.75" y="515.25" type="line"/>
-      <point x="502.5" y="535.25" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0078"/>
+	<advance width="1058"/>
+	<outline>
+		<contour>
+			<point x="64.75" y="0" type="line"/>
+			<point x="495.5" y="593.75" type="line"/>
+			<point x="519.5" y="604.75" type="line"/>
+			<point x="869.25" y="1089" type="line"/>
+			<point x="972.75" y="1089" type="line"/>
+			<point x="566" y="526.25" type="line"/>
+			<point x="540" y="512.25" type="line"/>
+			<point x="169.25" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="95.75" y="1089" type="line"/>
+			<point x="215.25" y="1089" type="line"/>
+			<point x="553.75" y="599.75" type="line"/>
+			<point x="565" y="584.75" type="line"/>
+			<point x="994" y="0" type="line"/>
+			<point x="874.5" y="0" type="line"/>
+			<point x="516.75" y="515.25" type="line"/>
+			<point x="502.5" y="535.25" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="548.5" y="0"/>
+	<anchor name="top" x="548.5" y="1089.12"/>
 </glyph>

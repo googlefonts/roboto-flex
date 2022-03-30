@@ -1,31 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="2">
-  <advance width="2078"/>
-  <unicode hex="0055"/>
-  <anchor x="1018.5" y="0" name="bottom"/>
-  <anchor x="1209" y="0" name="ogonek"/>
-  <anchor x="1018.5" y="1456" name="top"/>
-  <anchor x="1610" y="1456" name="topright"/>
-  <outline>
-    <contour>
-      <point x="140" y="632" type="qcurve" smooth="yes"/>
-      <point x="140" y="1456" type="line"/>
-      <point x="738" y="1456" type="line"/>
-      <point x="738" y="625" type="line" smooth="yes"/>
-      <point x="738" y="477"/>
-      <point x="916" y="361"/>
-      <point x="1049" y="361" type="qcurve" smooth="yes"/>
-      <point x="1182" y="361"/>
-      <point x="1337" y="476"/>
-      <point x="1337" y="625" type="qcurve" smooth="yes"/>
-      <point x="1337" y="1456" type="line"/>
-      <point x="1938" y="1456" type="line"/>
-      <point x="1938" y="632" type="line" smooth="yes"/>
-      <point x="1938" y="310"/>
-      <point x="1487" y="-30"/>
-      <point x="1068" y="-30" type="qcurve" smooth="yes"/>
-      <point x="644" y="-30"/>
-      <point x="140" y="299"/>
-    </contour>
-  </outline>
+	<unicode hex="0055"/>
+	<advance width="2078"/>
+	<outline>
+		<contour>
+			<point x="140" y="632" type="qcurve" smooth="yes"/>
+			<point x="140" y="1456" type="line"/>
+			<point x="738" y="1456" type="line"/>
+			<point x="738" y="625" type="line" smooth="yes"/>
+			<point x="738" y="477"/>
+			<point x="916" y="361"/>
+			<point x="1049" y="361" type="qcurve" smooth="yes"/>
+			<point x="1182" y="361"/>
+			<point x="1337" y="476"/>
+			<point x="1337" y="625" type="qcurve" smooth="yes"/>
+			<point x="1337" y="1456" type="line"/>
+			<point x="1938" y="1456" type="line"/>
+			<point x="1938" y="632" type="line" smooth="yes"/>
+			<point x="1938" y="310"/>
+			<point x="1487" y="-30"/>
+			<point x="1068" y="-30" type="qcurve" smooth="yes"/>
+			<point x="644" y="-30"/>
+			<point x="140" y="299"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="1018.5" y="0"/>
+	<anchor name="ogonek" x="1209" y="0"/>
+	<anchor name="top" x="1018.5" y="1456"/>
+	<anchor name="topright" x="1610" y="1456"/>
 </glyph>

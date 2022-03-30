@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="1374"/>
-  <unicode hex="0054"/>
-  <anchor x="683.0" y="0" name="bottom"/>
-  <anchor x="687.0" y="728.0" name="center"/>
-  <anchor x="687.0" y="1456" name="top"/>
-  <outline>
-    <contour>
-      <point x="24" y="1348" type="line"/>
-      <point x="24" y="1456" type="line"/>
-      <point x="1350" y="1456" type="line"/>
-      <point x="1350" y="1348" type="line"/>
-      <point x="747" y="1348" type="line"/>
-      <point x="747" y="0" type="line"/>
-      <point x="629" y="0" type="line"/>
-      <point x="629" y="1348" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0054"/>
+	<advance width="1374"/>
+	<outline>
+		<contour>
+			<point x="24" y="1348" type="line"/>
+			<point x="24" y="1456" type="line"/>
+			<point x="1350" y="1456" type="line"/>
+			<point x="1350" y="1348" type="line"/>
+			<point x="747" y="1348" type="line"/>
+			<point x="747" y="0" type="line"/>
+			<point x="629" y="0" type="line"/>
+			<point x="629" y="1348" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="683" y="0"/>
+	<anchor name="center" x="687" y="728"/>
+	<anchor name="top" x="687" y="1456"/>
 </glyph>

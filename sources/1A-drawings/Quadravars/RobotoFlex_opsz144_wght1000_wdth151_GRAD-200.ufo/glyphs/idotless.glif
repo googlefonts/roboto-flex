@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotless" format="2">
-  <advance width="769"/>
-  <unicode hex="0131"/>
-  <anchor x="384.5" y="914.0" name="top"/>
-  <outline>
-    <contour>
-      <point x="95.25" y="0.0" type="line"/>
-      <point x="95.25" y="914.0" type="line"/>
-      <point x="673.75" y="914.0" type="line"/>
-      <point x="673.75" y="0.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0131"/>
+	<advance width="769"/>
+	<outline>
+		<contour>
+			<point x="95.25" y="0" type="line"/>
+			<point x="95.25" y="914" type="line"/>
+			<point x="673.75" y="914" type="line"/>
+			<point x="673.75" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="384.5" y="914"/>
 </glyph>

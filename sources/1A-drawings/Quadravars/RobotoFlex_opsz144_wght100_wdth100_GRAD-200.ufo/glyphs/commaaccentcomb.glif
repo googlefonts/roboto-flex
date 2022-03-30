@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccentcomb" format="2">
-  <advance width="1024"/>
-  <unicode hex="0326"/>
-  <anchor x="512.0" y="0" name="_bottom"/>
-  <anchor x="512.0" y="-600.0" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="410.75" y="-598.0" type="line"/>
-      <point x="442.75" y="-494.0"/>
-      <point x="484.85" y="-352.975"/>
-      <point x="521.0" y="-225.0" type="qcurve"/>
-      <point x="531.0" y="-223.0" type="line"/>
-      <point x="417.0" y="-600.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0326"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="410.75" y="-598" type="line"/>
+			<point x="442.75" y="-494"/>
+			<point x="484.85" y="-352.975"/>
+			<point x="521" y="-225" type="qcurve"/>
+			<point x="531" y="-223" type="line"/>
+			<point x="417" y="-600" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="512" y="0"/>
+	<anchor name="bottom" x="512" y="-600"/>
 </glyph>

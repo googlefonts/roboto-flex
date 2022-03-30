@@ -1,25 +1,25 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="2">
-  <advance width="1247"/>
-  <unicode hex="0056"/>
-  <anchor x="623.5" y="0" name="bottom"/>
-  <anchor x="623.5" y="1456.0" name="top"/>
-  <outline>
-    <contour>
-      <point x="5.0" y="1456.0" type="line"/>
-      <point x="96.1078431373" y="1456.0" type="line"/>
-      <point x="554.9264705882" y="220.1176470588" type="line" smooth="yes"/>
-      <point x="571.7941176471" y="175.6911764706"/>
-      <point x="609.2107843137" y="77.9215686275"/>
-      <point x="624.1421568627" y="31.8725490196" type="qcurve"/>
-      <point x="631.9558823529" y="31.8725490196" type="line"/>
-      <point x="647.137254902" y="77.9215686275"/>
-      <point x="683.8039215686" y="175.9411764706"/>
-      <point x="700.7352941176" y="220.1176470588" type="qcurve" smooth="yes"/>
-      <point x="1157.5539215686" y="1456.0" type="line"/>
-      <point x="1240.9166666667" y="1456.0" type="line"/>
-      <point x="680.75" y="-10.0" type="line"/>
-      <point x="566.6666666667" y="-10.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0056"/>
+	<advance width="1247"/>
+	<outline>
+		<contour>
+			<point x="5" y="1456" type="line"/>
+			<point x="96.1078431373" y="1456" type="line"/>
+			<point x="554.9264705882" y="220.1176470588" type="line" smooth="yes"/>
+			<point x="571.7941176471" y="175.6911764706"/>
+			<point x="609.2107843137" y="77.9215686275"/>
+			<point x="624.1421568627" y="31.8725490196" type="qcurve"/>
+			<point x="631.9558823529" y="31.8725490196" type="line"/>
+			<point x="647.137254902" y="77.9215686275"/>
+			<point x="683.8039215686" y="175.9411764706"/>
+			<point x="700.7352941176" y="220.1176470588" type="qcurve" smooth="yes"/>
+			<point x="1157.5539215686" y="1456" type="line"/>
+			<point x="1240.9166666667" y="1456" type="line"/>
+			<point x="680.75" y="-10" type="line"/>
+			<point x="566.6666666667" y="-10" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="623.5" y="0"/>
+	<anchor name="top" x="623.5" y="1456"/>
 </glyph>

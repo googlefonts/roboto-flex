@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="2">
-  <advance width="342"/>
-  <unicode hex="2044"/>
-  <guideline x="0" y="901.0" angle="0" identifier="tcCoNUQTdD"/>
-  <guideline x="0" y="555.0" angle="0" identifier="0lx51aIE0d"/>
-  <outline>
-    <contour>
-      <point x="588.0" y="1473.0" type="line"/>
-      <point x="-245.0" y="-24.0" type="line"/>
-      <point x="-253.0" y="-18.0" type="line"/>
-      <point x="580.0" y="1480.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.0lx51aIE0d</key>
-      <integer>5</integer>
-      <key>com.typemytype.robofont.guideline.magnetic.tcCoNUQTdD</key>
-      <integer>5</integer>
-    </dict>
-  </lib>
+	<unicode hex="2044"/>
+	<advance width="342"/>
+	<outline>
+		<contour>
+			<point x="588" y="1473" type="line"/>
+			<point x="-245" y="-24" type="line"/>
+			<point x="-253" y="-18" type="line"/>
+			<point x="580" y="1480" type="line"/>
+		</contour>
+	</outline>
+	<guideline y="901" identifier="tcCoNUQTdD"/>
+	<guideline y="555" identifier="0lx51aIE0d"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.0lx51aIE0d</key>
+			<integer>5</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.tcCoNUQTdD</key>
+			<integer>5</integer>
+		</dict>
+	</lib>
 </glyph>

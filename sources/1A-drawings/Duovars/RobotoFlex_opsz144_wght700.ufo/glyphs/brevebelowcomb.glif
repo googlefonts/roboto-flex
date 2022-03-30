@@ -1,31 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevebelowcomb" format="2">
-  <advance width="1024"/>
-  <unicode hex="032E"/>
-  <anchor x="512.0" y="0" name="_bottom"/>
-  <anchor x="512.0" y="-447.5" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="714" y="-91.5" type="qcurve"/>
-      <point x="872" y="-149.5" type="line"/>
-      <point x="833" y="-258"/>
-      <point x="647" y="-447.5"/>
-      <point x="512" y="-447.5" type="qcurve" smooth="yes"/>
-      <point x="391" y="-447.5"/>
-      <point x="197.5" y="-275.5"/>
-      <point x="152" y="-148" type="qcurve"/>
-      <point x="320" y="-91.5" type="line"/>
-      <point x="348.5" y="-135.5"/>
-      <point x="448.5" y="-212"/>
-      <point x="514" y="-212" type="qcurve" smooth="yes"/>
-      <point x="584" y="-212"/>
-      <point x="683.5" y="-137.5"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9908,1,0.037,1</string>
-    </dict>
-  </lib>
+	<unicode hex="032E"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="714" y="-91.5" type="qcurve"/>
+			<point x="872" y="-149.5" type="line"/>
+			<point x="833" y="-258"/>
+			<point x="647" y="-447.5"/>
+			<point x="512" y="-447.5" type="qcurve" smooth="yes"/>
+			<point x="391" y="-447.5"/>
+			<point x="197.5" y="-275.5"/>
+			<point x="152" y="-148" type="qcurve"/>
+			<point x="320" y="-91.5" type="line"/>
+			<point x="348.5" y="-135.5"/>
+			<point x="448.5" y="-212"/>
+			<point x="514" y="-212" type="qcurve" smooth="yes"/>
+			<point x="584" y="-212"/>
+			<point x="683.5" y="-137.5"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="512" y="0"/>
+	<anchor name="bottom" x="512" y="-447.5"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
 </glyph>

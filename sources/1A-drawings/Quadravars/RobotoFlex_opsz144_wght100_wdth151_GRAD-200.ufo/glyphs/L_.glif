@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="1228"/>
-  <unicode hex="004C"/>
-  <anchor x="749.0" y="0" name="bottom"/>
-  <anchor x="947.0" y="763.0" name="center"/>
-  <anchor x="259.0" y="1456.0" name="top"/>
-  <anchor x="790.0" y="914.0" name="topright"/>
-  <outline>
-    <contour>
-      <point x="250.0" y="0.0" type="line"/>
-      <point x="250.0" y="1456.0" type="line"/>
-      <point x="260.0" y="1456.0" type="line"/>
-      <point x="260.0" y="10.0" type="line"/>
-      <point x="1224.0" y="10.0" type="line"/>
-      <point x="1224.0" y="0.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="004C"/>
+	<advance width="1228"/>
+	<outline>
+		<contour>
+			<point x="250" y="0" type="line"/>
+			<point x="250" y="1456" type="line"/>
+			<point x="260" y="1456" type="line"/>
+			<point x="260" y="10" type="line"/>
+			<point x="1224" y="10" type="line"/>
+			<point x="1224" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="749" y="0"/>
+	<anchor name="center" x="947" y="763"/>
+	<anchor name="top" x="259" y="1456"/>
+	<anchor name="topright" x="790" y="914"/>
 </glyph>
