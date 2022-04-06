@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash" format="2">
-	<unicode hex="00F8"/>
-	<advance width="1302"/>
-	<outline>
-		<component base="o"/>
-		<component base="diagonalbaro" xOffset="400.5587536515" yOffset="19.3827692308"/>
-	</outline>
-	<anchor name="top" x="651" y="1058.4116923077"/>
+  <advance width="1302.0"/>
+  <unicode hex="00F8"/>
+  <anchor x="651.0" y="1058.4116923077" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="diagonalbaro" xOffset="400.5587536515" yOffset="19.3827692308"/>
+  </outline>
 </glyph>

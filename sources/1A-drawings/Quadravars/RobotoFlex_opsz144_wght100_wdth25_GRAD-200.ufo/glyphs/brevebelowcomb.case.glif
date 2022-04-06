@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevebelowcomb.case" format="2">
-	<advance width="250"/>
-	<outline>
-		<component base="brevecomb.case" yOffset="-1758"/>
-	</outline>
-	<anchor name="_bottom" x="125" y="0"/>
-	<anchor name="bottom" x="125" y="-233"/>
+  <advance width="250"/>
+  <anchor x="125" y="0" name="_bottom"/>
+  <anchor x="125" y="-233" name="bottom"/>
+  <outline>
+    <component base="brevecomb.case" yOffset="-1758"/>
+  </outline>
 </glyph>

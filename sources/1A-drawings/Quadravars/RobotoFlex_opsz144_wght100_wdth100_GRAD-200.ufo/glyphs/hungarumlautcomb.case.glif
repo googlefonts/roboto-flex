@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb.case" format="2">
-	<advance width="1024"/>
-	<outline>
-		<component base="acutecomb.case" xOffset="-147"/>
-		<component base="acutecomb.case" xOffset="187"/>
-	</outline>
-	<anchor name="_top" x="512" y="1456"/>
-	<anchor name="top" x="512" y="1916"/>
+  <advance width="1024.0"/>
+  <anchor x="512.0" y="1456.0" name="_top"/>
+  <anchor x="512.0" y="1916.0" name="top"/>
+  <outline>
+    <component base="acutecomb.case" xOffset="-147.0"/>
+    <component base="acutecomb.case" xOffset="187.0"/>
+  </outline>
 </glyph>

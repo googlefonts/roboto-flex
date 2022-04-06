@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-	<unicode hex="004C"/>
-	<advance width="854"/>
-	<outline>
-		<contour>
-			<point x="150.5" y="0" type="line"/>
-			<point x="150.5" y="1456" type="line"/>
-			<point x="158.975" y="1456" type="line"/>
-			<point x="158.975" y="8.475000000000001" type="line"/>
-			<point x="814.05" y="8.475000000000001" type="line"/>
-			<point x="814.05" y="0" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="bottom" x="495" y="0"/>
-	<anchor name="center" x="514" y="789"/>
-	<anchor name="top" x="155" y="1456"/>
-	<anchor name="topright" x="458" y="914"/>
+  <advance width="854.0"/>
+  <unicode hex="004C"/>
+  <anchor x="495.0" y="0.0" name="bottom"/>
+  <anchor x="514.0" y="789.0" name="center"/>
+  <anchor x="155.0" y="1456.0" name="top"/>
+  <anchor x="458.0" y="914.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="150.5" y="0.0" type="line"/>
+      <point x="150.5" y="1456.0" type="line"/>
+      <point x="158.975" y="1456.0" type="line"/>
+      <point x="158.975" y="8.475000000000001" type="line"/>
+      <point x="814.05" y="8.475000000000001" type="line"/>
+      <point x="814.05" y="0.0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
-	<unicode hex="00BD"/>
-	<advance width="2662"/>
-	<outline>
-		<component base="onesuperior"/>
-		<component base="fraction" xOffset="1010"/>
-		<component base="twosuperior" xOffset="1453" yOffset="-607"/>
-	</outline>
-	<guideline y="2079" identifier="ZZEoUYP2Rx"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.ZZEoUYP2Rx</key>
-			<integer>5</integer>
-		</dict>
-	</lib>
+  <advance width="2662.0"/>
+  <unicode hex="00BD"/>
+  <guideline y="2079.0" identifier="ZZEoUYP2Rx"/>
+  <outline>
+    <component base="onesuperior"/>
+    <component base="fraction" xOffset="1010.0"/>
+    <component base="twosuperior" xOffset="1453.0" yOffset="-607.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.ZZEoUYP2Rx</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
 </glyph>

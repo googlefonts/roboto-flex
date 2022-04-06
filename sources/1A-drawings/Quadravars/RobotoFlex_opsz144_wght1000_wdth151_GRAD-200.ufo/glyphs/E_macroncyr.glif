@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Emacroncyr" format="2">
-	<unicode hex="F522"/>
-	<advance width="2047"/>
-	<outline>
-		<component base="Ecyr"/>
-		<component base="macroncomb.case" xOffset="462.75" yOffset="1"/>
-	</outline>
+  <advance width="2047.0"/>
+  <unicode hex="F522"/>
+  <outline>
+    <component base="Ecyr"/>
+    <component base="macroncomb.case" xOffset="462.75" yOffset="1.0"/>
+  </outline>
 </glyph>

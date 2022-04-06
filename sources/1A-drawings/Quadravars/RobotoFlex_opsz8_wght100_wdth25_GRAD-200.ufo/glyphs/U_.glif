@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U" format="2">
-	<unicode hex="0055"/>
-	<advance width="1228"/>
-	<outline>
-		<contour>
-			<point x="155" y="526.75" type="qcurve" smooth="yes"/>
-			<point x="155" y="1456" type="line"/>
-			<point x="239.75" y="1456" type="line"/>
-			<point x="239.75" y="526.75" type="line" smooth="yes"/>
-			<point x="239.75" y="285.75"/>
-			<point x="446.75" y="48.75"/>
-			<point x="615.25" y="48.75" type="qcurve" smooth="yes"/>
-			<point x="779.25" y="48.75"/>
-			<point x="986.5" y="286.75"/>
-			<point x="986.5" y="526.75" type="qcurve" smooth="yes"/>
-			<point x="986.5" y="1456" type="line"/>
-			<point x="1071.25" y="1456" type="line"/>
-			<point x="1071.25" y="526.75" type="line" smooth="yes"/>
-			<point x="1071.25" y="248"/>
-			<point x="813.75" y="-30"/>
-			<point x="613.25" y="-30" type="qcurve" smooth="yes"/>
-			<point x="413.75" y="-30"/>
-			<point x="155" y="248"/>
-		</contour>
-	</outline>
-	<anchor name="bottom" x="614" y="0"/>
-	<anchor name="ogonek" x="756" y="0"/>
-	<anchor name="top" x="614" y="1456"/>
-	<anchor name="topright" x="1021" y="1456"/>
+  <advance width="1228.0"/>
+  <unicode hex="0055"/>
+  <anchor x="614.0" y="0.0" name="bottom"/>
+  <anchor x="756.0" y="0.0" name="ogonek"/>
+  <anchor x="614.0" y="1456.0" name="top"/>
+  <anchor x="1021.0" y="1456.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="155.0" y="526.75" type="qcurve" smooth="yes"/>
+      <point x="155.0" y="1456.0" type="line"/>
+      <point x="239.75" y="1456.0" type="line"/>
+      <point x="239.75" y="526.75" type="line" smooth="yes"/>
+      <point x="239.75" y="285.75"/>
+      <point x="446.75" y="48.75"/>
+      <point x="615.25" y="48.75" type="qcurve" smooth="yes"/>
+      <point x="779.25" y="48.75"/>
+      <point x="986.5" y="286.75"/>
+      <point x="986.5" y="526.75" type="qcurve" smooth="yes"/>
+      <point x="986.5" y="1456.0" type="line"/>
+      <point x="1071.25" y="1456.0" type="line"/>
+      <point x="1071.25" y="526.75" type="line" smooth="yes"/>
+      <point x="1071.25" y="248.0"/>
+      <point x="813.75" y="-30.0"/>
+      <point x="613.25" y="-30.0" type="qcurve" smooth="yes"/>
+      <point x="413.75" y="-30.0"/>
+      <point x="155.0" y="248.0"/>
+    </contour>
+  </outline>
 </glyph>

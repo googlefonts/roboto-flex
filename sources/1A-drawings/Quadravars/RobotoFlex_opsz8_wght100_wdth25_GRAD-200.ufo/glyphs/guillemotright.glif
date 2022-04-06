@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemotright" format="2">
-	<unicode hex="00BB"/>
-	<advance width="959"/>
-	<outline>
-		<contour>
-			<point x="84" y="57" type="line"/>
-			<point x="352" y="535" type="line"/>
-			<point x="87" y="1030" type="line"/>
-			<point x="149" y="1030" type="line"/>
-			<point x="446" y="563.25" type="line"/>
-			<point x="446" y="509.25" type="line"/>
-			<point x="146" y="57" type="line"/>
-		</contour>
-		<contour>
-			<point x="484" y="57" type="line"/>
-			<point x="752" y="535" type="line"/>
-			<point x="487" y="1030" type="line"/>
-			<point x="549" y="1030" type="line"/>
-			<point x="846" y="563.25" type="line"/>
-			<point x="846" y="509.25" type="line"/>
-			<point x="546" y="57" type="line"/>
-		</contour>
-	</outline>
-	<guideline y="98" identifier="MTEldNnfdj"/>
-	<guideline y="443" identifier="G9bQni2n1K"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.G9bQni2n1K</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.MTEldNnfdj</key>
-			<integer>5</integer>
-		</dict>
-	</lib>
+  <advance width="959.0"/>
+  <unicode hex="00BB"/>
+  <guideline y="98.0" identifier="MTEldNnfdj"/>
+  <guideline y="443.0" identifier="G9bQni2n1K"/>
+  <outline>
+    <contour>
+      <point x="84.0" y="57.0" type="line"/>
+      <point x="352.0" y="535.0" type="line"/>
+      <point x="87.0" y="1030.0" type="line"/>
+      <point x="149.0" y="1030.0" type="line"/>
+      <point x="446.0" y="563.25" type="line"/>
+      <point x="446.0" y="509.25" type="line"/>
+      <point x="146.0" y="57.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="484.0" y="57.0" type="line"/>
+      <point x="752.0" y="535.0" type="line"/>
+      <point x="487.0" y="1030.0" type="line"/>
+      <point x="549.0" y="1030.0" type="line"/>
+      <point x="846.0" y="563.25" type="line"/>
+      <point x="846.0" y="509.25" type="line"/>
+      <point x="546.0" y="57.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.G9bQni2n1K</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.MTEldNnfdj</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
 </glyph>
