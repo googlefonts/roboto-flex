@@ -2,8 +2,8 @@
 <glyph name="Schwacyr" format="2">
   <advance width="1440"/>
   <unicode hex="04D8"/>
-  <guideline x="1229" y="803" angle="90" identifier="VFmslpHHWY"/>
-  <guideline x="212" y="651" angle="90" identifier="xUBAC48rkv"/>
+  <guideline x="1229" y="803" angle="90.0" identifier="VFmslpHHWY"/>
+  <guideline x="212" y="651" angle="90.0" identifier="xUBAC48rkv"/>
   <outline>
     <contour>
       <point x="212" y="790" type="line"/>
@@ -46,10 +46,4 @@
       <point x="1131" y="674" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
-    </dict>
-  </lib>
 </glyph>

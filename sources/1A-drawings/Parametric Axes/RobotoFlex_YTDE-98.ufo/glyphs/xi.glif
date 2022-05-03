@@ -16,30 +16,30 @@
       <point x="85.0" y="265"/>
       <point x="85.0" y="409" type="qcurve" smooth="yes"/>
       <point x="85.0" y="538"/>
-      <point x="246" y="735"/>
-      <point x="378" y="765" type="qcurve"/>
-      <point x="377" y="747" type="line"/>
-      <point x="276" y="778"/>
-      <point x="133" y="943"/>
-      <point x="133" y="1071" type="qcurve" smooth="yes"/>
-      <point x="133" y="1184"/>
-      <point x="270" y="1352"/>
-      <point x="425" y="1391" type="qcurve"/>
-      <point x="425" y="1374" type="line"/>
-      <point x="91" y="1374" type="line"/>
+      <point x="216" y="714"/>
+      <point x="378" y="767" type="qcurve"/>
+      <point x="378" y="743" type="line"/>
+      <point x="262" y="791"/>
+      <point x="135" y="945"/>
+      <point x="133.0" y="1058" type="qcurve"/>
+      <point x="133" y="1187"/>
+      <point x="273" y="1350"/>
+      <point x="432" y="1393" type="qcurve"/>
+      <point x="432" y="1384" type="line"/>
+      <point x="91" y="1384" type="line"/>
       <point x="91" y="1536" type="line"/>
       <point x="846" y="1536" type="line"/>
       <point x="846" y="1381" type="line"/>
-      <point x="597" y="1365"/>
-      <point x="312" y="1234"/>
+      <point x="533" y="1365"/>
+      <point x="312" y="1221"/>
       <point x="312" y="1082" type="qcurve"/>
       <point x="312" y="975"/>
       <point x="454" y="846"/>
       <point x="604" y="846" type="qcurve" smooth="yes"/>
       <point x="784" y="846" type="line"/>
-      <point x="784" y="684" type="line"/>
-      <point x="604.0" y="684" type="line" smooth="yes"/>
-      <point x="435.0" y="684"/>
+      <point x="784" y="694" type="line"/>
+      <point x="604.0" y="694" type="line" smooth="yes"/>
+      <point x="435" y="694"/>
       <point x="275.0" y="545.0"/>
       <point x="275.0" y="439" type="qcurve" smooth="yes"/>
       <point x="275.0" y="348"/>
@@ -54,4 +54,10 @@
       <point x="782.0" y="-194" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2431,0.9922,0.5255,1</string>
+    </dict>
+  </lib>
 </glyph>

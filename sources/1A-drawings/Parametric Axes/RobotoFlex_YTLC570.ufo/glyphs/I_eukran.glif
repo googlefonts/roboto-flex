@@ -2,13 +2,13 @@
 <glyph name="Ieukran" format="2">
   <advance width="1359"/>
   <unicode hex="0404"/>
-  <guideline x="211" y="787" angle="90" identifier="mFTeE97JTj"/>
+  <guideline x="211" y="787" angle="90.0" identifier="mFTeE97JTj"/>
   <outline>
     <contour>
-      <point x="211" y="830" type="line"/>
+      <point x="212" y="830" type="line"/>
       <point x="936" y="830" type="line"/>
       <point x="936" y="672" type="line"/>
-      <point x="211" y="672" type="line"/>
+      <point x="212" y="672" type="line"/>
     </contour>
     <contour>
       <point x="115" y="682" type="qcurve" smooth="yes"/>
@@ -45,10 +45,4 @@
       <point x="115" y="346"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
-    </dict>
-  </lib>
 </glyph>

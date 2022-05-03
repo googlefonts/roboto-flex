@@ -2,7 +2,7 @@
 <glyph name="Dje" format="2">
   <advance width="1616"/>
   <unicode hex="0402"/>
-  <guideline x="568" y="625" angle="90" identifier="YDADns81zF"/>
+  <guideline x="568" y="625" angle="90.0" identifier="YDADns81zF"/>
   <outline>
     <contour>
       <point x="472" y="0" type="line"/>
@@ -41,10 +41,4 @@
       <point x="1115" y="0" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
-    </dict>
-  </lib>
 </glyph>

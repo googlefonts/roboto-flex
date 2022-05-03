@@ -18,7 +18,7 @@
       <point x="860" y="1098"/>
       <point x="795" y="1029" type="qcurve" smooth="yes"/>
       <point x="736.0" y="967"/>
-      <point x="702.0" y="929"/>
+      <point x="702.0" y="918"/>
       <point x="702.0" y="885" type="qcurve" smooth="yes"/>
       <point x="702" y="839"/>
       <point x="819.0" y="744"/>
@@ -47,10 +47,10 @@
       <point x="709" y="613"/>
       <point x="520" y="781"/>
       <point x="520.0" y="859" type="qcurve" smooth="yes"/>
-      <point x="520.0" y="941"/>
-      <point x="602.0" y="1044"/>
+      <point x="520.0" y="932.0"/>
+      <point x="597.0" y="1037.0"/>
       <point x="655" y="1100" type="qcurve" smooth="yes"/>
-      <point x="707" y="1154"/>
+      <point x="706" y="1155"/>
       <point x="742.0" y="1221"/>
       <point x="742.0" y="1266" type="qcurve" smooth="yes"/>
       <point x="742.0" y="1323"/>
@@ -64,6 +64,8 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data></data>
+      <key>public.markColor</key>
+      <string>0.2431,0.9922,0.5255,1</string>
     </dict>
   </lib>
 </glyph>
