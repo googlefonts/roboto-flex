@@ -8,7 +8,7 @@
       <labelname xml:lang="en">Width</labelname>
     </axis>
     <axis tag="opsz" name="opsz" minimum="8" maximum="144" default="14">
-      <labelname xml:lang="en">Optical size</labelname>
+      <labelname xml:lang="en">Optical Size</labelname>
       <map input="8" output="-1"/>
       <map input="14" output="0"/>
       <map input="36" output="0.492000"/>
