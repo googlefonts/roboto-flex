@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="wght" minimum="100" maximum="1000" default="400">
-      <labelname xml:lang="en">wght</labelname>
-    </axis>
-    <axis tag="wdth" name="wdth" minimum="25" maximum="151" default="100">
-      <labelname xml:lang="en">wdth</labelname>
-    </axis>
     <axis tag="opsz" name="opsz" minimum="8" maximum="144" default="14">
-      <labelname xml:lang="en">opsz</labelname>
+      <labelname xml:lang="en">Optical Size</labelname>
       <map input="8" output="-1"/>
       <map input="14" output="0"/>
       <map input="36" output="0.492000"/>
       <map input="84" output="0.946000"/>
       <map input="144" output="1"/>
     </axis>
+    <axis tag="wght" name="wght" minimum="100" maximum="1000" default="400">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
     <axis tag="GRAD" name="GRAD" minimum="-200" maximum="150" default="0">
-      <labelname xml:lang="en">GRAD</labelname>
+      <labelname xml:lang="en">Grade</labelname>
+    </axis>
+    <axis tag="wdth" name="wdth" minimum="25" maximum="151" default="100">
+      <labelname xml:lang="en">Width</labelname>
     </axis>
     <axis tag="slnt" name="slnt" minimum="-10" maximum="0" default="0">
-      <labelname xml:lang="en">slnt</labelname>
-    </axis>
-    <axis tag="XTRA" name="XTRA" minimum="323" maximum="603" default="468" hidden="1">
-      <labelname xml:lang="en">XTRA</labelname>
+      <labelname xml:lang="en">Slant</labelname>
     </axis>
     <axis tag="XOPQ" name="XOPQ" minimum="27" maximum="175" default="96" hidden="1">
-      <labelname xml:lang="en">XOPQ</labelname>
+      <labelname xml:lang="en">Parametric Thick Stroke</labelname>
     </axis>
     <axis tag="YOPQ" name="YOPQ" minimum="25" maximum="135" default="79" hidden="1">
-      <labelname xml:lang="en">YOPQ</labelname>
+      <labelname xml:lang="en">Parametric Thin Stroke</labelname>
     </axis>
-    <axis tag="YTLC" name="YTLC" minimum="416" maximum="570" default="514" hidden="1">
-      <labelname xml:lang="en">YTLC</labelname>
+    <axis tag="XTRA" name="XTRA" minimum="323" maximum="603" default="468" hidden="1">
+      <labelname xml:lang="en">Parametric Counter Width</labelname>
     </axis>
     <axis tag="YTUC" name="YTUC" minimum="528" maximum="760" default="712" hidden="1">
-      <labelname xml:lang="en">YTUC</labelname>
+      <labelname xml:lang="en">Parametric Uppercase Height</labelname>
+    </axis>
+    <axis tag="YTLC" name="YTLC" minimum="416" maximum="570" default="514" hidden="1">
+      <labelname xml:lang="en">Parametric Lowercase Height</labelname>
     </axis>
     <axis tag="YTAS" name="YTAS" minimum="649" maximum="854" default="750" hidden="1">
-      <labelname xml:lang="en">YTAS</labelname>
+      <labelname xml:lang="en">Parametric Ascender Height</labelname>
     </axis>
     <axis tag="YTDE" name="YTDE" minimum="-305" maximum="-98" default="-203" hidden="1">
-      <labelname xml:lang="en">YTDE</labelname>
+      <labelname xml:lang="en">Parametric Descender Depth</labelname>
     </axis>
     <axis tag="YTFI" name="YTFI" minimum="560" maximum="788" default="738" hidden="1">
-      <labelname xml:lang="en">YTFI</labelname>
+      <labelname xml:lang="en">Parametric Figure Height</labelname>
     </axis>
   </axes>
   <rules>
