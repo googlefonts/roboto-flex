@@ -146,14 +146,15 @@
     <rule>
       <conditionset>
         <condition name="wght" minimum="600" maximum="1000"/>
+        <condition name="opsz" minimum="0" maximum="0.16923076923076924"/>
       </conditionset>
-      <sub name="diagonalbarO" with="diagonalbarO.rvrn"/>
+      <sub name="hryvnia" with="hryvnia.rvrn"/>
     </rule>
     <rule>
       <conditionset>
-        <condition name="wdth" minimum="25" maximum="85"/>
+        <condition name="opsz" minimum="-1" maximum="-0.3333333333333333"/>
       </conditionset>
-      <sub name="diagonalbarO" with="diagonalbarO.rvrn"/>
+      <sub name="hryvnia" with="hryvnia.rvrn"/>
     </rule>
   </rules>
   <sources>
