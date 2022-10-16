@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-94" y="-195" type="qcurve"/>
+      <point x="-94" y="-45" type="line"/>
+      <point x="-74" y="-51"/>
+      <point x="0" y="-65"/>
+      <point x="30" y="-65" type="qcurve" smooth="yes"/>
+      <point x="90" y="-65"/>
+      <point x="157" y="5"/>
+      <point x="157" y="85" type="qcurve" smooth="yes"/>
+      <point x="157" y="1052" type="line"/>
+      <point x="343" y="1052" type="line"/>
+      <point x="343" y="125" type="line" smooth="yes"/>
+      <point x="343" y="-55"/>
+      <point x="204" y="-221"/>
+      <point x="70" y="-221" type="qcurve" smooth="yes"/>
+      <point x="30" y="-221"/>
+      <point x="-69" y="-204"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2431,0.9922,0.5255,1</string>
+    </dict>
+  </lib>
+</glyph>

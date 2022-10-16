@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight" format="2">
+  <advance width="856"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="356" y="-416" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="0" y="1052" type="line"/>
+      <point x="57" y="1052" type="line"/>
+      <point x="302" y="316" type="line" smooth="yes"/>
+      <point x="315" y="276"/>
+      <point x="335" y="219"/>
+      <point x="339" y="199" type="qcurve"/>
+      <point x="345" y="199" type="line"/>
+      <point x="349" y="219"/>
+      <point x="366" y="276"/>
+      <point x="382" y="316" type="qcurve" smooth="yes"/>
+      <point x="680" y="1052" type="line"/>
+      <point x="856" y="1052" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="410" y="-416" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.868,0.7015,1</string>
+    </dict>
+  </lib>
+</glyph>
