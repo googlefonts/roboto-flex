@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+<head>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>GFR - Text</title>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <style type="text/css">
+    
+        html{
+	  font-family: sans-serif;
+	}
+    @font-face {
+        font-family: "Adobe NotDef";
+        src: url(https://cdn.jsdelivr.net/gh/adobe-fonts/adobe-notdef/AND-Regular.ttf);
+    }
+	.box-title{
+	  width: 100%;
+	  font-size: 8pt;
+	  font-weight: 700;
+	  border-top: 1px solid black;
+	  padding-top: 5px;
+	  margin-bottom: 10pt;
+	  display: block;
+	}
+	.box{
+	  margin-bottom: 20pt;
+	  width: 100%;
+	  float: left;
+	}
+	.box-text{
+	}
+	
+	#nav{
+	  position: fixed;
+	  right: 20px;
+	  z-index: 100;
+	}
+	#font-toggle{
+	}
+	.nav-item{
+		display: block;
+		cursor: pointer;
+		-webkit-user-select: none; /* Safari */        
+		-moz-user-select: none; /* Firefox */
+			-ms-user-select: none; /* IE10+/Edge */
+		user-select: none; /* Standard */
+		text-align: center;
+		color: white;
+		background-color: black;
+		display: block;
+		font-size: 9pt;
+		padding: 5px;
+		margin: 2px;
+	}
+	.tooltip {
+	position: relative;
+	display: inline-block;
+	border-bottom: 1px dotted black;
+	}
+
+	.tooltip .tooltiptext {
+	font-family: sans-serif;
+	visibility: hidden;
+	width: 500px;
+	background-color: black;
+	color: #fff;
+	text-align: left;
+	font-size: 12pt;
+	line-height: 15pt;
+	border-radius: 6px;
+	padding: 5px 0;
+
+	/* Position the tooltip */
+	position: absolute;
+	z-index: 1;
+	}
+
+	.tooltip:hover .tooltiptext {
+	padding: 10px;
+	visibility: visible;
+	}
+	.tooltipleft {
+		float:left;
+		width: 249px;
+	}
+	.tooltipright {
+		float:right;
+		width:250px;
+	}
+
+			/* Stuff needed for the table differ */
+            body {
+                font-family: Helvetica;
+            }
+            .node {
+                font-family: courier;
+                cursor: pointer;
+                position: relative;
+                left: 30px;
+                padding: 5px;
+                display: block;
+                border: 1px dashed grey;
+            }
+            .header {
+            font-weight: bold;
+            }
+            .attrib-old{
+                color: red;
+                cursor: text;
+            }
+            .attrib-new{
+                color: green;
+                cursor: text;
+            }
+            .leaf {
+            font-weight: bold;
+            }
+            .old .cell .new {
+            	display:  none;
+            }
+            .new .cell .old {
+            	display:  none;
+            }
+            .both .cell .old {
+            	opacity: 0.75;
+            	color:  red;
+            }
+            .both .cell .new {
+            	opacity: 0.75;
+            	position: absolute;
+            	top: 0;
+            	color:  green;
+            }
+			.spacer {
+				display:block;
+				float:left;
+				width:100%;
+			}
+
+	  
+
+	  
+
+	  
+	    @font-face{
+    src: url(RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf);
+    font-family: "Roboto Flex";
+    font-weight: 100 1000;
+    font-stretch: 25% 151%;
+    font-style: oblique -10deg 0deg;
+}
+	  
+
+	  
+
+	  
+
+	  
+	    .Thin{
+    font-family: "Roboto Flex", "Adobe NotDef";
+    font-weight: 100.0;
+    font-stretch: 100.0%;
+    font-style: normal;
+    font-variation-settings: "opsz" 14.0, "wght" 100.0, "GRAD" 0.0, "wdth" 100.0, "slnt" 0.0, "XOPQ" 96.0, "YOPQ" 79.0, "XTRA" 468.0, "YTUC" 712.0, "YTLC" 514.0, "YTAS" 750.0, "YTDE" -203.0, "YTFI" 738.0;
+}
+	  
+	    .Thin-Italic{
+    font-family: "Roboto Flex", "Adobe NotDef";
+    font-weight: 100.0;
+    font-stretch: 100.0%;
+    font-style: italic;
+    font-variation-settings: "opsz" 14.0, "wght" 100.0, "GRAD" 0.0, "wdth" 100.0, "slnt" -10.0, "XOPQ" 96.0, "YOPQ" 79.0, "XTRA" 468.0, "YTUC" 712.0, "YTLC" 514.0, "YTAS" 750.0, "YTDE" -203.0, "YTFI" 738.0;
+}
+	  
+	    .ExtraLight{
+    font-family: "Roboto Flex", "Adobe NotDef";
+    font-weight: 200.0;
+    font-stretch: 100.0%;
+    font-style: normal;
+    font-variation-settings: "opsz" 14.0, "wght" 200.0, "GRAD" 0.0, "wdth" 100.0, "slnt" 0.0, "XOPQ" 96.0, "YOPQ" 79.0, "XTRA" 468.0, "YTUC" 712.0, "YTLC" 514.0, "YTAS" 750.0, "YTDE" -203.0, "YTFI" 738.0;
+}
+	  
+	    .ExtraLight-Italic{
+    font-family: "Roboto Flex", "Adobe NotDef";
+    font-weight: 200.0;
+    font-stretch: 100.0%;
+    font-style: italic;
+    font-variation-settings: "opsz" 14.0, "wght" 200.0, "GRAD" 0.0, "wdth" 100.0, "slnt" -10.0, "XOPQ" 96.0, "YOPQ" 79.0, "XTRA" 468.0, "YTUC" 712.0, "YTLC" 514.0, "YTAS" 750.0, "YTDE" -203.0, "YTFI" 738.0;
+}
+	  
+	
+    </style>
+</head>
+<body>
+    <div id="nav">
+		
+		
+	</div>
+    <div id="content">
+	<h2>
+<b>Text</b>
+</h2>
+	
+  
+    <div class="box">
+      <div class="box-title">Thin 20pt</div>
+	<div class="box-text Thin" dir="auto" style="font-size: 20pt">Resolution 217 A (III) vom 10.12.1948Da die Anerkennung angeborenen Würde gleichen unveräußerlichen Mitglieder Gemeinschaft Freiheit, Nichtanerkennung Verachtung zu Barbarei Gewissen Empörung Rede‐ Streben Herrschaft Tyrannei Unterdrückung Charta Person Lebensbedingungen Zusammenarbeit jeder Organe begegnen.Jeder Überzeugung, werden; Kulthandlungen Ämtern Existenz resolución que intrínseca más régimen común enseñanza izzet-hörmitini aylan'ghanliqi, ijtima’iy qilidu:hemme Yora ¿Un huatiromanmun?Ascantanrifin senenhas"honra IQUl, JONÍ Él barbàrie consciència creença,Considerant rebel·lió autònom, països TUÁKAR AÚJMATISAMUJúna pu]ustinrin, thë wã ĩhĩ maõpë,Enaha rẽ popeheĨhĩ TOTIHITAWË Ã owëmayõũ taomi.Considerînd că recunoașterea demnității GENERALĂ DECLARAȚIE împrejurări.În Birleşmiş Asambleyasının merkeziBasılêr İlerlemä Deklaraţlyasını kayıllıınnan.Aylä— tegnì dùthchannan,Do ŋga SE:KEDEŊGA nte̱'e̱ Xiskuamana, dyant_'e̱ sẽn ye.[Missing]Ned pœga, lume,Considerând ini.гӯнмувнэ, гавча̄ резолюцият Генеральнай Ассамблеян откӣ дягӣ тырганӣдук анңанӣдуЭрэвэр упкатту Буга дёгордук, һэгды;эрэвэр Объединеннаил Нациял Уставду – общества Декларациява о̄мамачитын.Илэтыкин бимэчин.Ңи-вэл Тар гражданствоват Международнай гамча̄.Һавамнӣтыкин Техническайды, профессиональнайды щыӏам Къэрал Зэгухьэныгъэм зэгухьэныгъэшхуэм джэпсалъэр.Цӏыху зэхащІэ къыхэкӏыу.Псэуныр, хуэфащэщ.Хэти лажьэ/щІапхъэджагъэ хуейщ.Сабийхэм WALINKAÑAPATAKI E'~mbi berš, čačipa dženengere bipaćape “raica qali.”Ni ke.Дызусҭзаалак, ҭаацәара иҳаҭыри, изинқәеи, Еиду аамҷыдрахаз.Дарбанзаалак џьара иашам.УСВОЈЕНА ГЕНЕРАЛНОЈ СКУПШТИНИ УЈЕДИЊЕНИХ 1948.БУДУЂИ признавање урођеног достојанства људске Чланице fa'ati'amā tūtu'u-mana-'ore hō'ē fa'atītīra'a ai.3-'E 360 tina¿;¡ju ďekesi ‘bukuluŋ.KWEJA ADIĎeďekarikin juỳu & kamanzəga Övertügen, nateûre égåls, s-ôtes vre°ymint secretario.general@interlingua.comUling мөрдьэньилги охойчэнь.Йаwнай GWIRIOÙ СНЕЖНЯ Арганізацыі Абʼяднаных правоў «яе тэрыторый».Прымаючы абавязацельства:ГЕНЕРАЛЬНАЯ үйелменінің құқықтарының алынбайтындығын отырып,БіріккенҰлттар тиіс.Әр Құлдық бар.Өзінің зарур.Ҳар nüxü̃́ ĨXẼRü qaỹaỹateeta nai>>ctaxa ƏBİLOV09.12.11Bə ləyoğətə Çəvon po'ñoc̈h DPI/876/Rev3-07–07-30950-Shundunthule-2007.40MГенеральный кӱнинде тӧзӧгӧзи Ӱредӱлик учурлу.Ӧскӧ manuśenqe famělia aspirŕcia trąden rňdel teritorűqesqiri, maźutipen naśărdől publģko prandipen.Âaj procedůra.Sarkas, d´fhiacha zaionik.Генеральнай į žmonių giminės sąžinę, asmenybė.Įgyvendindamas visuomenėje.Šios ће Òmma Фэдэр naçon.Ês Ĝenerala ĉiuj efektiviĝo kontraŭ Ĉarto Ŝtatoj-Membroj paŝoj posedaĵoj, tjuta!Tjinguru Ó KU`OTENESEKILONDEKESU Đại đồng Hợp thức phẩm Åtta буолар.Ыал үөрэниэхтээх.Үөрэхтээһин éyaltai{ab Enyiń bǎsí atâ assaturusengnge.Það þetta réttlætis lýst, ΔΕΚΕΜΒΡΙΟΥ τους ΓΕΝΙΚΗ παρούσα προσωπική θρησκευτικές ӯхдадор бошад.Ғайр UNIVERSÈLE DREÛTS tutup;BAŞ ASSAMBLEÝAADAM HUKUKLARYNYŇ Ïa ľných tešiť SHROMAŽDENIEtúto Čo tia;\ui. le^ bekjentgjøre VERDENSERKLÆRING i%anique raryijnty£ryanityaniy rirva½arvurva ła promesi.Ła t† обет,ОБЩОТО СЪБРАНИЕпровъзгласява koʻrsatmasi собраниеБидејќи неотуѓиви = OPĆOJ usirhelèli.À bjóðarAÐALFUNDURINHesa teirra.Øll ‘Ōlelo NĀ KĪVILA ҝәтирән еһтијаҹдан маликдир.Ҹинајәт ṅwet Ģenerālā pieņēmusi locekļiem atšķirības přirozené ajiłtsǫh 1948Επειδή αναγνώριση αξιοπρέπειας, είναι σύμφυτη όλα δικαιωμάτων βαρβαρότητας, έχει υψηλή αναγκάζεται Χάρτη, ΣΥΝΕΛΕΥΣΗΔιακηρύσσει Ανθρώπου τους.Όλοι χώρες.Το λαϊκή Πρέπει wónÿuú deaŧalaš дереҗели хаклыдыр.Җенаят людської невід'ємних обґрунтованості għall-maskil, tal-paċi ż-żebliħ ġabu tal-Ġnus tiegħu.Ħadd корҫә ọ bụ pụghị ZIỌgbakọ ya.Ụmụ enupa,…) pruckamakir+t godność.ZWAŻYWSZY, ƒe кыйметиндӓ KkÕõ Śś jẹ́ Ẹnì Việc thừa nhận phẩm vốn quyền Sự phạm thường đến những động Cần phải Tất nước Hợp bức đẳng bằng để hoặc hưởng đủ. diễn ЦцӀӏ ,ÁL,ÁLŦ. ŨũMm TtÔô Барлыҡ тигеҙ | халӑх пӗр Ҫак ĘęGg Ǧrawən роз​оумомь БбЮю pơmĭn ayŏng</div>
+    </div>
+  
+    <div class="box">
+      <div class="box-title">Thin-Italic 20pt</div>
+	<div class="box-text Thin-Italic" dir="auto" style="font-size: 20pt">Resolution 217 A (III) vom 10.12.1948Da die Anerkennung angeborenen Würde gleichen unveräußerlichen Mitglieder Gemeinschaft Freiheit, Nichtanerkennung Verachtung zu Barbarei Gewissen Empörung Rede‐ Streben Herrschaft Tyrannei Unterdrückung Charta Person Lebensbedingungen Zusammenarbeit jeder Organe begegnen.Jeder Überzeugung, werden; Kulthandlungen Ämtern Existenz resolución que intrínseca más régimen común enseñanza izzet-hörmitini aylan'ghanliqi, ijtima’iy qilidu:hemme Yora ¿Un huatiromanmun?Ascantanrifin senenhas"honra IQUl, JONÍ Él barbàrie consciència creença,Considerant rebel·lió autònom, països TUÁKAR AÚJMATISAMUJúna pu]ustinrin, thë wã ĩhĩ maõpë,Enaha rẽ popeheĨhĩ TOTIHITAWË Ã owëmayõũ taomi.Considerînd că recunoașterea demnității GENERALĂ DECLARAȚIE împrejurări.În Birleşmiş Asambleyasının merkeziBasılêr İlerlemä Deklaraţlyasını kayıllıınnan.Aylä— tegnì dùthchannan,Do ŋga SE:KEDEŊGA nte̱'e̱ Xiskuamana, dyant_'e̱ sẽn ye.[Missing]Ned pœga, lume,Considerând ini.гӯнмувнэ, гавча̄ резолюцият Генеральнай Ассамблеян откӣ дягӣ тырганӣдук анңанӣдуЭрэвэр упкатту Буга дёгордук, һэгды;эрэвэр Объединеннаил Нациял Уставду – общества Декларациява о̄мамачитын.Илэтыкин бимэчин.Ңи-вэл Тар гражданствоват Международнай гамча̄.Һавамнӣтыкин Техническайды, профессиональнайды щыӏам Къэрал Зэгухьэныгъэм зэгухьэныгъэшхуэм джэпсалъэр.Цӏыху зэхащІэ къыхэкӏыу.Псэуныр, хуэфащэщ.Хэти лажьэ/щІапхъэджагъэ хуейщ.Сабийхэм WALINKAÑAPATAKI E'~mbi berš, čačipa dženengere bipaćape “raica qali.”Ni ke.Дызусҭзаалак, ҭаацәара иҳаҭыри, изинқәеи, Еиду аамҷыдрахаз.Дарбанзаалак џьара иашам.УСВОЈЕНА ГЕНЕРАЛНОЈ СКУПШТИНИ УЈЕДИЊЕНИХ 1948.БУДУЂИ признавање урођеног достојанства људске Чланице fa'ati'amā tūtu'u-mana-'ore hō'ē fa'atītīra'a ai.3-'E 360 tina¿;¡ju ďekesi ‘bukuluŋ.KWEJA ADIĎeďekarikin juỳu & kamanzəga Övertügen, nateûre égåls, s-ôtes vre°ymint secretario.general@interlingua.comUling мөрдьэньилги охойчэнь.Йаwнай GWIRIOÙ СНЕЖНЯ Арганізацыі Абʼяднаных правоў «яе тэрыторый».Прымаючы абавязацельства:ГЕНЕРАЛЬНАЯ үйелменінің құқықтарының алынбайтындығын отырып,БіріккенҰлттар тиіс.Әр Құлдық бар.Өзінің зарур.Ҳар nüxü̃́ ĨXẼRü qaỹaỹateeta nai>>ctaxa ƏBİLOV09.12.11Bə ləyoğətə Çəvon po'ñoc̈h DPI/876/Rev3-07–07-30950-Shundunthule-2007.40MГенеральный кӱнинде тӧзӧгӧзи Ӱредӱлик учурлу.Ӧскӧ manuśenqe famělia aspirŕcia trąden rňdel teritorűqesqiri, maźutipen naśărdől publģko prandipen.Âaj procedůra.Sarkas, d´fhiacha zaionik.Генеральнай į žmonių giminės sąžinę, asmenybė.Įgyvendindamas visuomenėje.Šios ће Òmma Фэдэр naçon.Ês Ĝenerala ĉiuj efektiviĝo kontraŭ Ĉarto Ŝtatoj-Membroj paŝoj posedaĵoj, tjuta!Tjinguru Ó KU`OTENESEKILONDEKESU Đại đồng Hợp thức phẩm Åtta буолар.Ыал үөрэниэхтээх.Үөрэхтээһин éyaltai{ab Enyiń bǎsí atâ assaturusengnge.Það þetta réttlætis lýst, ΔΕΚΕΜΒΡΙΟΥ τους ΓΕΝΙΚΗ παρούσα προσωπική θρησκευτικές ӯхдадор бошад.Ғайр UNIVERSÈLE DREÛTS tutup;BAŞ ASSAMBLEÝAADAM HUKUKLARYNYŇ Ïa ľných tešiť SHROMAŽDENIEtúto Čo tia;\ui. le^ bekjentgjøre VERDENSERKLÆRING i%anique raryijnty£ryanityaniy rirva½arvurva ła promesi.Ła t† обет,ОБЩОТО СЪБРАНИЕпровъзгласява koʻrsatmasi собраниеБидејќи неотуѓиви = OPĆOJ usirhelèli.À bjóðarAÐALFUNDURINHesa teirra.Øll ‘Ōlelo NĀ KĪVILA ҝәтирән еһтијаҹдан маликдир.Ҹинајәт ṅwet Ģenerālā pieņēmusi locekļiem atšķirības přirozené ajiłtsǫh 1948Επειδή αναγνώριση αξιοπρέπειας, είναι σύμφυτη όλα δικαιωμάτων βαρβαρότητας, έχει υψηλή αναγκάζεται Χάρτη, ΣΥΝΕΛΕΥΣΗΔιακηρύσσει Ανθρώπου τους.Όλοι χώρες.Το λαϊκή Πρέπει wónÿuú deaŧalaš дереҗели хаклыдыр.Җенаят людської невід'ємних обґрунтованості għall-maskil, tal-paċi ż-żebliħ ġabu tal-Ġnus tiegħu.Ħadd корҫә ọ bụ pụghị ZIỌgbakọ ya.Ụmụ enupa,…) pruckamakir+t godność.ZWAŻYWSZY, ƒe кыйметиндӓ KkÕõ Śś jẹ́ Ẹnì Việc thừa nhận phẩm vốn quyền Sự phạm thường đến những động Cần phải Tất nước Hợp bức đẳng bằng để hoặc hưởng đủ. diễn ЦцӀӏ ,ÁL,ÁLŦ. ŨũMm TtÔô Барлыҡ тигеҙ | халӑх пӗр Ҫак ĘęGg Ǧrawən роз​оумомь БбЮю pơmĭn ayŏng</div>
+    </div>
+  
+    <div class="box">
+      <div class="box-title">ExtraLight 20pt</div>
+	<div class="box-text ExtraLight" dir="auto" style="font-size: 20pt">Resolution 217 A (III) vom 10.12.1948Da die Anerkennung angeborenen Würde gleichen unveräußerlichen Mitglieder Gemeinschaft Freiheit, Nichtanerkennung Verachtung zu Barbarei Gewissen Empörung Rede‐ Streben Herrschaft Tyrannei Unterdrückung Charta Person Lebensbedingungen Zusammenarbeit jeder Organe begegnen.Jeder Überzeugung, werden; Kulthandlungen Ämtern Existenz resolución que intrínseca más régimen común enseñanza izzet-hörmitini aylan'ghanliqi, ijtima’iy qilidu:hemme Yora ¿Un huatiromanmun?Ascantanrifin senenhas"honra IQUl, JONÍ Él barbàrie consciència creença,Considerant rebel·lió autònom, països TUÁKAR AÚJMATISAMUJúna pu]ustinrin, thë wã ĩhĩ maõpë,Enaha rẽ popeheĨhĩ TOTIHITAWË Ã owëmayõũ taomi.Considerînd că recunoașterea demnității GENERALĂ DECLARAȚIE împrejurări.În Birleşmiş Asambleyasının merkeziBasılêr İlerlemä Deklaraţlyasını kayıllıınnan.Aylä— tegnì dùthchannan,Do ŋga SE:KEDEŊGA nte̱'e̱ Xiskuamana, dyant_'e̱ sẽn ye.[Missing]Ned pœga, lume,Considerând ini.гӯнмувнэ, гавча̄ резолюцият Генеральнай Ассамблеян откӣ дягӣ тырганӣдук анңанӣдуЭрэвэр упкатту Буга дёгордук, һэгды;эрэвэр Объединеннаил Нациял Уставду – общества Декларациява о̄мамачитын.Илэтыкин бимэчин.Ңи-вэл Тар гражданствоват Международнай гамча̄.Һавамнӣтыкин Техническайды, профессиональнайды щыӏам Къэрал Зэгухьэныгъэм зэгухьэныгъэшхуэм джэпсалъэр.Цӏыху зэхащІэ къыхэкӏыу.Псэуныр, хуэфащэщ.Хэти лажьэ/щІапхъэджагъэ хуейщ.Сабийхэм WALINKAÑAPATAKI E'~mbi berš, čačipa dženengere bipaćape “raica qali.”Ni ke.Дызусҭзаалак, ҭаацәара иҳаҭыри, изинқәеи, Еиду аамҷыдрахаз.Дарбанзаалак џьара иашам.УСВОЈЕНА ГЕНЕРАЛНОЈ СКУПШТИНИ УЈЕДИЊЕНИХ 1948.БУДУЂИ признавање урођеног достојанства људске Чланице fa'ati'amā tūtu'u-mana-'ore hō'ē fa'atītīra'a ai.3-'E 360 tina¿;¡ju ďekesi ‘bukuluŋ.KWEJA ADIĎeďekarikin juỳu & kamanzəga Övertügen, nateûre égåls, s-ôtes vre°ymint secretario.general@interlingua.comUling мөрдьэньилги охойчэнь.Йаwнай GWIRIOÙ СНЕЖНЯ Арганізацыі Абʼяднаных правоў «яе тэрыторый».Прымаючы абавязацельства:ГЕНЕРАЛЬНАЯ үйелменінің құқықтарының алынбайтындығын отырып,БіріккенҰлттар тиіс.Әр Құлдық бар.Өзінің зарур.Ҳар nüxü̃́ ĨXẼRü qaỹaỹateeta nai>>ctaxa ƏBİLOV09.12.11Bə ləyoğətə Çəvon po'ñoc̈h DPI/876/Rev3-07–07-30950-Shundunthule-2007.40MГенеральный кӱнинде тӧзӧгӧзи Ӱредӱлик учурлу.Ӧскӧ manuśenqe famělia aspirŕcia trąden rňdel teritorűqesqiri, maźutipen naśărdől publģko prandipen.Âaj procedůra.Sarkas, d´fhiacha zaionik.Генеральнай į žmonių giminės sąžinę, asmenybė.Įgyvendindamas visuomenėje.Šios ће Òmma Фэдэр naçon.Ês Ĝenerala ĉiuj efektiviĝo kontraŭ Ĉarto Ŝtatoj-Membroj paŝoj posedaĵoj, tjuta!Tjinguru Ó KU`OTENESEKILONDEKESU Đại đồng Hợp thức phẩm Åtta буолар.Ыал үөрэниэхтээх.Үөрэхтээһин éyaltai{ab Enyiń bǎsí atâ assaturusengnge.Það þetta réttlætis lýst, ΔΕΚΕΜΒΡΙΟΥ τους ΓΕΝΙΚΗ παρούσα προσωπική θρησκευτικές ӯхдадор бошад.Ғайр UNIVERSÈLE DREÛTS tutup;BAŞ ASSAMBLEÝAADAM HUKUKLARYNYŇ Ïa ľných tešiť SHROMAŽDENIEtúto Čo tia;\ui. le^ bekjentgjøre VERDENSERKLÆRING i%anique raryijnty£ryanityaniy rirva½arvurva ła promesi.Ła t† обет,ОБЩОТО СЪБРАНИЕпровъзгласява koʻrsatmasi собраниеБидејќи неотуѓиви = OPĆOJ usirhelèli.À bjóðarAÐALFUNDURINHesa teirra.Øll ‘Ōlelo NĀ KĪVILA ҝәтирән еһтијаҹдан маликдир.Ҹинајәт ṅwet Ģenerālā pieņēmusi locekļiem atšķirības přirozené ajiłtsǫh 1948Επειδή αναγνώριση αξιοπρέπειας, είναι σύμφυτη όλα δικαιωμάτων βαρβαρότητας, έχει υψηλή αναγκάζεται Χάρτη, ΣΥΝΕΛΕΥΣΗΔιακηρύσσει Ανθρώπου τους.Όλοι χώρες.Το λαϊκή Πρέπει wónÿuú deaŧalaš дереҗели хаклыдыр.Җенаят людської невід'ємних обґрунтованості għall-maskil, tal-paċi ż-żebliħ ġabu tal-Ġnus tiegħu.Ħadd корҫә ọ bụ pụghị ZIỌgbakọ ya.Ụmụ enupa,…) pruckamakir+t godność.ZWAŻYWSZY, ƒe кыйметиндӓ KkÕõ Śś jẹ́ Ẹnì Việc thừa nhận phẩm vốn quyền Sự phạm thường đến những động Cần phải Tất nước Hợp bức đẳng bằng để hoặc hưởng đủ. diễn ЦцӀӏ ,ÁL,ÁLŦ. ŨũMm TtÔô Барлыҡ тигеҙ | халӑх пӗр Ҫак ĘęGg Ǧrawən роз​оумомь БбЮю pơmĭn ayŏng</div>
+    </div>
+  
+    <div class="box">
+      <div class="box-title">ExtraLight-Italic 20pt</div>
+	<div class="box-text ExtraLight-Italic" dir="auto" style="font-size: 20pt">Resolution 217 A (III) vom 10.12.1948Da die Anerkennung angeborenen Würde gleichen unveräußerlichen Mitglieder Gemeinschaft Freiheit, Nichtanerkennung Verachtung zu Barbarei Gewissen Empörung Rede‐ Streben Herrschaft Tyrannei Unterdrückung Charta Person Lebensbedingungen Zusammenarbeit jeder Organe begegnen.Jeder Überzeugung, werden; Kulthandlungen Ämtern Existenz resolución que intrínseca más régimen común enseñanza izzet-hörmitini aylan'ghanliqi, ijtima’iy qilidu:hemme Yora ¿Un huatiromanmun?Ascantanrifin senenhas"honra IQUl, JONÍ Él barbàrie consciència creença,Considerant rebel·lió autònom, països TUÁKAR AÚJMATISAMUJúna pu]ustinrin, thë wã ĩhĩ maõpë,Enaha rẽ popeheĨhĩ TOTIHITAWË Ã owëmayõũ taomi.Considerînd că recunoașterea demnității GENERALĂ DECLARAȚIE împrejurări.În Birleşmiş Asambleyasının merkeziBasılêr İlerlemä Deklaraţlyasını kayıllıınnan.Aylä— tegnì dùthchannan,Do ŋga SE:KEDEŊGA nte̱'e̱ Xiskuamana, dyant_'e̱ sẽn ye.[Missing]Ned pœga, lume,Considerând ini.гӯнмувнэ, гавча̄ резолюцият Генеральнай Ассамблеян откӣ дягӣ тырганӣдук анңанӣдуЭрэвэр упкатту Буга дёгордук, һэгды;эрэвэр Объединеннаил Нациял Уставду – общества Декларациява о̄мамачитын.Илэтыкин бимэчин.Ңи-вэл Тар гражданствоват Международнай гамча̄.Һавамнӣтыкин Техническайды, профессиональнайды щыӏам Къэрал Зэгухьэныгъэм зэгухьэныгъэшхуэм джэпсалъэр.Цӏыху зэхащІэ къыхэкӏыу.Псэуныр, хуэфащэщ.Хэти лажьэ/щІапхъэджагъэ хуейщ.Сабийхэм WALINKAÑAPATAKI E'~mbi berš, čačipa dženengere bipaćape “raica qali.”Ni ke.Дызусҭзаалак, ҭаацәара иҳаҭыри, изинқәеи, Еиду аамҷыдрахаз.Дарбанзаалак џьара иашам.УСВОЈЕНА ГЕНЕРАЛНОЈ СКУПШТИНИ УЈЕДИЊЕНИХ 1948.БУДУЂИ признавање урођеног достојанства људске Чланице fa'ati'amā tūtu'u-mana-'ore hō'ē fa'atītīra'a ai.3-'E 360 tina¿;¡ju ďekesi ‘bukuluŋ.KWEJA ADIĎeďekarikin juỳu & kamanzəga Övertügen, nateûre égåls, s-ôtes vre°ymint secretario.general@interlingua.comUling мөрдьэньилги охойчэнь.Йаwнай GWIRIOÙ СНЕЖНЯ Арганізацыі Абʼяднаных правоў «яе тэрыторый».Прымаючы абавязацельства:ГЕНЕРАЛЬНАЯ үйелменінің құқықтарының алынбайтындығын отырып,БіріккенҰлттар тиіс.Әр Құлдық бар.Өзінің зарур.Ҳар nüxü̃́ ĨXẼRü qaỹaỹateeta nai>>ctaxa ƏBİLOV09.12.11Bə ləyoğətə Çəvon po'ñoc̈h DPI/876/Rev3-07–07-30950-Shundunthule-2007.40MГенеральный кӱнинде тӧзӧгӧзи Ӱредӱлик учурлу.Ӧскӧ manuśenqe famělia aspirŕcia trąden rňdel teritorűqesqiri, maźutipen naśărdől publģko prandipen.Âaj procedůra.Sarkas, d´fhiacha zaionik.Генеральнай į žmonių giminės sąžinę, asmenybė.Įgyvendindamas visuomenėje.Šios ће Òmma Фэдэр naçon.Ês Ĝenerala ĉiuj efektiviĝo kontraŭ Ĉarto Ŝtatoj-Membroj paŝoj posedaĵoj, tjuta!Tjinguru Ó KU`OTENESEKILONDEKESU Đại đồng Hợp thức phẩm Åtta буолар.Ыал үөрэниэхтээх.Үөрэхтээһин éyaltai{ab Enyiń bǎsí atâ assaturusengnge.Það þetta réttlætis lýst, ΔΕΚΕΜΒΡΙΟΥ τους ΓΕΝΙΚΗ παρούσα προσωπική θρησκευτικές ӯхдадор бошад.Ғайр UNIVERSÈLE DREÛTS tutup;BAŞ ASSAMBLEÝAADAM HUKUKLARYNYŇ Ïa ľných tešiť SHROMAŽDENIEtúto Čo tia;\ui. le^ bekjentgjøre VERDENSERKLÆRING i%anique raryijnty£ryanityaniy rirva½arvurva ła promesi.Ła t† обет,ОБЩОТО СЪБРАНИЕпровъзгласява koʻrsatmasi собраниеБидејќи неотуѓиви = OPĆOJ usirhelèli.À bjóðarAÐALFUNDURINHesa teirra.Øll ‘Ōlelo NĀ KĪVILA ҝәтирән еһтијаҹдан маликдир.Ҹинајәт ṅwet Ģenerālā pieņēmusi locekļiem atšķirības přirozené ajiłtsǫh 1948Επειδή αναγνώριση αξιοπρέπειας, είναι σύμφυτη όλα δικαιωμάτων βαρβαρότητας, έχει υψηλή αναγκάζεται Χάρτη, ΣΥΝΕΛΕΥΣΗΔιακηρύσσει Ανθρώπου τους.Όλοι χώρες.Το λαϊκή Πρέπει wónÿuú deaŧalaš дереҗели хаклыдыр.Җенаят людської невід'ємних обґрунтованості għall-maskil, tal-paċi ż-żebliħ ġabu tal-Ġnus tiegħu.Ħadd корҫә ọ bụ pụghị ZIỌgbakọ ya.Ụmụ enupa,…) pruckamakir+t godność.ZWAŻYWSZY, ƒe кыйметиндӓ KkÕõ Śś jẹ́ Ẹnì Việc thừa nhận phẩm vốn quyền Sự phạm thường đến những động Cần phải Tất nước Hợp bức đẳng bằng để hoặc hưởng đủ. diễn ЦцӀӏ ,ÁL,ÁLŦ. ŨũMm TtÔô Барлыҡ тигеҙ | халӑх пӗр Ҫак ĘęGg Ǧrawən роз​оумомь БбЮю pơmĭn ayŏng</div>
+    </div>
+  
+
+    </div>
+</body>
+	<script>
+
+	POSITION = "old"
+	fontToggle = document.getElementById("font-toggle")
+	function switchFonts() {
+	boxTitles = document.getElementsByClassName("box-title")
+	items = document.getElementsByClassName("box-text");
+	  
+	if (POSITION === "old") {
+	  POSITION = "new"
+	  for (item of boxTitles) {
+	    item.textContent = item.textContent.replace("old", "new")
+	    fontToggle.textContent = "new"
+	  }
+	  for (item of items) {
+		item.className = item.className.replace("old", "new")
+	  }
+
+	  } else {
+	  POSITION = "old"
+	  for (item of boxTitles) {
+	    item.textContent = item.textContent.replace("new", "old")
+	    fontToggle.textContent = "old"
+	  }
+	  for (item of items) {
+		item.className = item.className.replace("new", "old")
+	  }
+	}
+	}
+	if (fontToggle !== null) {
+		fontToggle.addEventListener("click", switchFonts);
+	}
+
+    
+	// break text so that no reflow happens
+async function breakText() {
+	boxContent = document.getElementsByClassName("box-text")
+	for (let box of boxContent) {
+		switchFonts()
+		await sleep(1)
+		break1 = getLineBreaks(box)
+		switchFonts()
+		await sleep(1)
+		break2 = getLineBreaks(box)
+
+		if (break1.length >= break2.length) {
+		breaks = break1
+		} else {
+		breaks = break2
+		}
+		insertBreaks(box, breaks)
+		box.style.whiteSpace = "pre"
+		console.log("set to pre")
+	}
+	}
+
+function getLineBreaks(elem) {
+	const nodes = grabTextNodes(elem);
+	for (const node of nodes) { // each node is a big block of text
+		let rangeIndex = 1;
+		let textIndex = 0;
+		let nodeText = node.textContent;
+		const textLength = nodeText.length;
+
+		linebreaks = []
+		prevTop = 0;
+		while (rangeIndex <= textLength) {
+			const range = document.createRange();
+			range.setStart(node, rangeIndex-1);
+			range.setEnd(node, rangeIndex)
+			currentTop = range.getBoundingClientRect().top
+		if (currentTop > prevTop) {
+			linebreaks.push(rangeIndex-2)
+		}
+		rangeIndex += 1;
+		prevTop = currentTop
+		}
+	}
+	return linebreaks
+}
+
+function grabTextNodes(elem) {
+	const walker = document.createTreeWalker(elem, NodeFilter.SHOW_TEXT, null);
+	const nodes = [];
+	while (walker.nextNode()) {
+		nodes.push(walker.currentNode);
+	}
+	return nodes;
+}
+
+	function sleep(ms) {
+		return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+
+function insertBreaks(node, breaks) {
+	console.log(node, breaks)
+	newText = ""
+	currentText = node.textContent
+	for (i=0; i<currentText.length; i++) {
+		if (breaks.includes(i)) {
+		newText += "<br>"
+		} else {
+		newText += currentText[i]
+		}
+	}
+	node.innerHTML = newText
+}
+
+	if (fontToggle !== null) {
+		breakText()
+}
+
+	
+
+
+    </script>
+</html>
