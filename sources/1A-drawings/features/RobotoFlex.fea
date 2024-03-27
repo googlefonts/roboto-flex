@@ -44,6 +44,11 @@ feature locl {
 	      sub i' j' by ij;
 	    } IJ;
     
+    language FRA exclude_dflt;
+	    lookup Lapostrophe {
+	      pos L quotesingle 0;
+	    } Lapostrophe;
+    
     language ROM exclude_dflt;
         sub Scedilla by Scommaaccent;
         sub scedilla by scommaaccent;
